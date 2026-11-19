@@ -1,0 +1,29 @@
+{
+  "dataset": "t16",
+  "source_name": "t16.2024.03.04_imagined1stMotor_raw.mat",
+  "source_sha256": "e7bce57a7e496db6305afc5902cd1903441cd0b70ff9c91535da583781cc6bc6",
+  "array_names": [
+    "PEF",
+    "ventral6v",
+    "6d"
+  ],
+  "bin_ms": 10,
+  "trial_n": 112,
+  "calibration_blocks": [
+    9
+  ],
+  "evaluation_blocks": [
+    17
+  ],
+  "calibration_n": 49,
+  "evaluation_n": 49,
+  "calibration_counts": {
+    "6": 7,
+    "2": 7,
+    "5": 7,
+    "3": 7,
+    "4": 7,
+    "0": 7,
+    "1": 7
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "unseen_word_phonetics_t12",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "returncode": 0,
+  "wall_seconds": 1730.5455589294434,
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/discovery_probes/unseen_word_phonetics_t12",
+    "-s",
+    "workspace-write",
+    "-c",
+    "approval_policy=\"never\"",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/unseen_word_phonetics_t12.json",
+    "-"
+  ],
+  "prompt_sha256": "2d245efd22f5d365385044f3e4fc0e09ca6e9fa4829ee6c8738ecb06351d4065"
+}

@@ -1,0 +1,786 @@
+[
+  {
+    "id": "q5ed2673f",
+    "trial_index_zero_based": 112,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 141,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q0ad72336",
+    "trial_index_zero_based": 164,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 144,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qec8d9a8e",
+    "trial_index_zero_based": 183,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 194,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "qb669c857",
+    "trial_index_zero_based": 124,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 118,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q81decc1a",
+    "trial_index_zero_based": 116,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 114,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "qe19a2085",
+    "trial_index_zero_based": 156,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 122,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qe33d6453",
+    "trial_index_zero_based": 193,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 173,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q9ec14374",
+    "trial_index_zero_based": 207,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 181,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "qd8fe4404",
+    "trial_index_zero_based": 140,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 151,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q5794b403",
+    "trial_index_zero_based": 214,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 169,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q0d3cdf6f",
+    "trial_index_zero_based": 218,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 215,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q5916796a",
+    "trial_index_zero_based": 147,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 129,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q8d8234f9",
+    "trial_index_zero_based": 174,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 178,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q789f5f6a",
+    "trial_index_zero_based": 204,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 212,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q7982e79f",
+    "trial_index_zero_based": 205,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 205,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q0f091710",
+    "trial_index_zero_based": 213,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 180,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "qef41a9b1",
+    "trial_index_zero_based": 167,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 137,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q7ebee4fb",
+    "trial_index_zero_based": 208,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 204,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "qbb21919e",
+    "trial_index_zero_based": 203,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 217,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q03bf57fe",
+    "trial_index_zero_based": 215,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 219,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q7a8959bb",
+    "trial_index_zero_based": 120,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 117,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "qe6aa7418",
+    "trial_index_zero_based": 185,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 209,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qd6ff3603",
+    "trial_index_zero_based": 146,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 132,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "qbb9fe14c",
+    "trial_index_zero_based": 125,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 115,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "qe0bb004b",
+    "trial_index_zero_based": 170,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 176,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "qe150ab6a",
+    "trial_index_zero_based": 129,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 130,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q40e6a649",
+    "trial_index_zero_based": 135,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 154,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q05532ee5",
+    "trial_index_zero_based": 201,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 210,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "qdeb87577",
+    "trial_index_zero_based": 190,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 214,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q839086e8",
+    "trial_index_zero_based": 168,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 206,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q514aa37f",
+    "trial_index_zero_based": 198,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 183,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q0085af62",
+    "trial_index_zero_based": 182,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 218,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "qdf517a2a",
+    "trial_index_zero_based": 186,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 222,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "qff3260f2",
+    "trial_index_zero_based": 169,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 220,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q111a19c1",
+    "trial_index_zero_based": 187,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 185,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qea9f6c13",
+    "trial_index_zero_based": 212,
+    "block": 25,
+    "word": "though",
+    "shuffled_donor_trial": 187,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q30b4d8bb",
+    "trial_index_zero_based": 118,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 167,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q48bc77aa",
+    "trial_index_zero_based": 177,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 177,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "qde620922",
+    "trial_index_zero_based": 132,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 166,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "qdb9243f3",
+    "trial_index_zero_based": 126,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 164,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q97d099e6",
+    "trial_index_zero_based": 162,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 123,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "qe008d007",
+    "trial_index_zero_based": 144,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 163,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q35173d73",
+    "trial_index_zero_based": 197,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 189,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q2d876c44",
+    "trial_index_zero_based": 122,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 155,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q8b7e5b95",
+    "trial_index_zero_based": 211,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 172,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q20235dd4",
+    "trial_index_zero_based": 117,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 127,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "qf501adbb",
+    "trial_index_zero_based": 130,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 159,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q1e23987a",
+    "trial_index_zero_based": 123,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 126,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q6385bf6e",
+    "trial_index_zero_based": 142,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 140,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qa9385b55",
+    "trial_index_zero_based": 131,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 149,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q9a76a8e1",
+    "trial_index_zero_based": 178,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 186,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "qc599faf0",
+    "trial_index_zero_based": 166,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 143,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "qcc41b385",
+    "trial_index_zero_based": 136,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 146,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qcbb478f4",
+    "trial_index_zero_based": 202,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 171,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q8ae8953a",
+    "trial_index_zero_based": 151,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 152,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q382d497b",
+    "trial_index_zero_based": 139,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 133,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q7e286ba3",
+    "trial_index_zero_based": 133,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 156,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q80e73193",
+    "trial_index_zero_based": 137,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 139,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q1782930f",
+    "trial_index_zero_based": 154,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 112,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q8470ef8d",
+    "trial_index_zero_based": 180,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 203,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qc8617909",
+    "trial_index_zero_based": 210,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 192,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q4506be17",
+    "trial_index_zero_based": 163,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 150,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q92b8cfaf",
+    "trial_index_zero_based": 175,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 184,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "qa4cec37a",
+    "trial_index_zero_based": 176,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 168,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q90ad4ad3",
+    "trial_index_zero_based": 220,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 197,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q740f9c05",
+    "trial_index_zero_based": 141,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 128,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q111e1c80",
+    "trial_index_zero_based": 188,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 207,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q3e017f70",
+    "trial_index_zero_based": 134,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 158,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qae23c01f",
+    "trial_index_zero_based": 200,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 200,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q300811eb",
+    "trial_index_zero_based": 158,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 116,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q6fd0214e",
+    "trial_index_zero_based": 152,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 147,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "qb1e2cac2",
+    "trial_index_zero_based": 173,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 190,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q210e2331",
+    "trial_index_zero_based": 153,
+    "block": 17,
+    "word": "choice",
+    "shuffled_donor_trial": 142,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qb802d77e",
+    "trial_index_zero_based": 155,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 153,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "qd1036eb6",
+    "trial_index_zero_based": 115,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 125,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "qe9be317e",
+    "trial_index_zero_based": 128,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 136,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q7eee3944",
+    "trial_index_zero_based": 219,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 202,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qd9116acc",
+    "trial_index_zero_based": 222,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 174,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q50c6c4f2",
+    "trial_index_zero_based": 179,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 198,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q08fb12ad",
+    "trial_index_zero_based": 161,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 162,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q2a0819dd",
+    "trial_index_zero_based": 113,
+    "block": 17,
+    "word": "ban",
+    "shuffled_donor_trial": 161,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q329f659c",
+    "trial_index_zero_based": 184,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 182,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q1cf1452d",
+    "trial_index_zero_based": 114,
+    "block": 17,
+    "word": "were",
+    "shuffled_donor_trial": 134,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "q7b53fb45",
+    "trial_index_zero_based": 149,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 135,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q425eb352",
+    "trial_index_zero_based": 150,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 120,
+    "shuffled_donor_word": "feel"
+  },
+  {
+    "id": "q3ed85040",
+    "trial_index_zero_based": 206,
+    "block": 25,
+    "word": "feel",
+    "shuffled_donor_trial": 188,
+    "shuffled_donor_word": "choice"
+  },
+  {
+    "id": "q2d9bb267",
+    "trial_index_zero_based": 192,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 208,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qcc9ed153",
+    "trial_index_zero_based": 119,
+    "block": 17,
+    "word": "though",
+    "shuffled_donor_trial": 124,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "qc73ad4e6",
+    "trial_index_zero_based": 217,
+    "block": 25,
+    "word": "were",
+    "shuffled_donor_trial": 170,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qe29363ee",
+    "trial_index_zero_based": 143,
+    "block": 17,
+    "word": "feel",
+    "shuffled_donor_trial": 113,
+    "shuffled_donor_word": "ban"
+  },
+  {
+    "id": "qf31a2a97",
+    "trial_index_zero_based": 194,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 175,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q596b7de9",
+    "trial_index_zero_based": 172,
+    "block": 25,
+    "word": "kite",
+    "shuffled_donor_trial": 179,
+    "shuffled_donor_word": "day"
+  },
+  {
+    "id": "q1a404b5d",
+    "trial_index_zero_based": 159,
+    "block": 17,
+    "word": "day",
+    "shuffled_donor_trial": 119,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q36f657c4",
+    "trial_index_zero_based": 171,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 193,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "qb206b93e",
+    "trial_index_zero_based": 189,
+    "block": 25,
+    "word": "choice",
+    "shuffled_donor_trial": 211,
+    "shuffled_donor_word": "were"
+  },
+  {
+    "id": "q77e8d749",
+    "trial_index_zero_based": 181,
+    "block": 25,
+    "word": "day",
+    "shuffled_donor_trial": 213,
+    "shuffled_donor_word": "kite"
+  },
+  {
+    "id": "q076d0322",
+    "trial_index_zero_based": 127,
+    "block": 17,
+    "word": "kite",
+    "shuffled_donor_trial": 131,
+    "shuffled_donor_word": "though"
+  },
+  {
+    "id": "q0ea6c789",
+    "trial_index_zero_based": 209,
+    "block": 25,
+    "word": "ban",
+    "shuffled_donor_trial": 201,
+    "shuffled_donor_word": "kite"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "homogeneous_pc12_dev",
+  "scheme": "homogeneous",
+  "split": "development",
+  "components": 12,
+  "control": null,
+  "query_ids": [
+    "q7f7e185a",
+    "q57189db5",
+    "qa8e6f8c3",
+    "q373614f2",
+    "q47abf3c3",
+    "q8f56167f",
+    "q4dc79270",
+    "q81a486ea",
+    "q0403bdaa",
+    "qb61f23ce",
+    "qbeb7f469",
+    "qd9f06f78"
+  ],
+  "calibration_n": 12,
+  "query_n": 12,
+  "pca_variance_retained": 0.49826542478108,
+  "prompt_sha256": "2a5ce14d80e0476bf6a08a2c666c47c4803543e6eb0ef2481d0f393c7d6ec26c"
+}

@@ -1,0 +1,161 @@
+{
+  "name": "sentences_pc32_dev",
+  "n": 8,
+  "exact_sentences": 0,
+  "word_error_rate": 0.9743589743589743,
+  "rows": [
+    {
+      "id": "sd133fe66",
+      "trial": 123,
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "good"
+      ],
+      "truth": [
+        "what",
+        "good",
+        "is",
+        "that"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "s91b28a91",
+      "trial": 120,
+      "prediction": [
+        "tell",
+        "my",
+        "nurse",
+        "they",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "truth": [
+        "please",
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ],
+      "edit_distance": 7
+    },
+    {
+      "id": "sa8a65773",
+      "trial": 124,
+      "prediction": [
+        "you",
+        "are",
+        "very",
+        "thirsty"
+      ],
+      "truth": [
+        "how",
+        "is",
+        "it",
+        "right"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "scd92c110",
+      "trial": 125,
+      "prediction": [
+        "do",
+        "you",
+        "need",
+        "music"
+      ],
+      "truth": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "s7d52b265",
+      "trial": 122,
+      "prediction": [
+        "they",
+        "do",
+        "not",
+        "feel",
+        "very",
+        "comfortable"
+      ],
+      "truth": [
+        "yes",
+        "my",
+        "nurse",
+        "is",
+        "coming",
+        "here"
+      ],
+      "edit_distance": 6
+    },
+    {
+      "id": "s50600ea0",
+      "trial": 126,
+      "prediction": [
+        "they",
+        "are",
+        "tired"
+      ],
+      "truth": [
+        "music",
+        "is",
+        "here"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "s53cbb8ea",
+      "trial": 127,
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "like",
+        "my",
+        "music"
+      ],
+      "truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "nurse"
+      ],
+      "edit_distance": 6
+    },
+    {
+      "id": "sf75891fc",
+      "trial": 121,
+      "prediction": [
+        "you",
+        "need",
+        "my",
+        "music",
+        "right",
+        "here"
+      ],
+      "truth": [
+        "i",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "edit_distance": 6
+    }
+  ],
+  "method_self_report": "Unvalidated guesses from manual comparison with the supplied calibration trajectories only. No decoder was fitted; word identities, ordering, and sentence lengths are highly uncertain."
+}

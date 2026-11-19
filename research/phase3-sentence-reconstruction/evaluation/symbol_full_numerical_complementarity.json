@@ -1,0 +1,1495 @@
+{
+  "other": "full_numerical",
+  "same_predictions": 2,
+  "symbol_lower_error": 12,
+  "other_lower_error": 11,
+  "symbol_only_exact": 7,
+  "other_only_exact": 2,
+  "exact_union": 11,
+  "oracle_utterance_edits": 38,
+  "oracle_word_lattice_edits": 30,
+  "oracle_word_lattice_exact": 13,
+  "reference_words": 143,
+  "oracle_saved_edits_vs_other": 13,
+  "rows": [
+    {
+      "id": "tb0b19ec8",
+      "truth": [
+        "is",
+        "it"
+      ],
+      "symbol": [
+        "it",
+        "is",
+        "good"
+      ],
+      "other": [
+        "it"
+      ],
+      "symbol_edits": 2,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          null
+        ],
+        [
+          "good",
+          null
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "t59dcd856",
+      "truth": [
+        "do",
+        "you",
+        "like",
+        "music"
+      ],
+      "symbol": [
+        "do",
+        "you",
+        "like",
+        "faith"
+      ],
+      "other": [
+        "you",
+        "like",
+        "music"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "do",
+          null
+        ],
+        [
+          "you",
+          "you"
+        ],
+        [
+          "like",
+          "like"
+        ],
+        [
+          "faith",
+          "music"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "tcd92c113",
+      "truth": [
+        "where",
+        "is",
+        "that"
+      ],
+      "symbol": [
+        "where",
+        "is",
+        "it",
+        "not"
+      ],
+      "other": [
+        "where",
+        "is",
+        "that"
+      ],
+      "symbol_edits": 2,
+      "other_edits": 0,
+      "prediction_alignment": [
+        [
+          "where",
+          "where"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "it",
+          null
+        ],
+        [
+          "not",
+          "that"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t1fe83bc3",
+      "truth": [
+        "i",
+        "have",
+        "it",
+        "good"
+      ],
+      "symbol": [
+        "i",
+        "am",
+        "that",
+        "good"
+      ],
+      "other": [
+        "i",
+        "need",
+        "that",
+        "good"
+      ],
+      "symbol_edits": 2,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "am",
+          "need"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "good",
+          "good"
+        ]
+      ],
+      "lattice_oracle_edits": 2
+    },
+    {
+      "id": "td28e3558",
+      "truth": [
+        "you",
+        "coming"
+      ],
+      "symbol": [
+        "you",
+        "okay"
+      ],
+      "other": [
+        "you",
+        "going"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "you",
+          "you"
+        ],
+        [
+          "okay",
+          "going"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "t6f0fdfe0",
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "symbol": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "music"
+      ],
+      "other": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "my",
+        "music"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "do",
+          "do"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "need",
+          "my"
+        ],
+        [
+          "music",
+          "music"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "t4539ffbe",
+      "truth": [
+        "i",
+        "like",
+        "that",
+        "here"
+      ],
+      "symbol": [
+        "i",
+        "hope",
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "other": [
+        "i",
+        "my",
+        "here"
+      ],
+      "symbol_edits": 4,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "hope",
+          null
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "nurse",
+          null
+        ],
+        [
+          "is",
+          null
+        ],
+        [
+          "here",
+          "here"
+        ]
+      ],
+      "lattice_oracle_edits": 2
+    },
+    {
+      "id": "ta2aa0fcb",
+      "truth": [
+        "they",
+        "like",
+        "it"
+      ],
+      "symbol": [
+        "they",
+        "like",
+        "it",
+        "up"
+      ],
+      "other": [
+        "they",
+        "like",
+        "it"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 0,
+      "prediction_alignment": [
+        [
+          "they",
+          "they"
+        ],
+        [
+          "like",
+          "like"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "up",
+          null
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "tf75891ff",
+      "truth": [
+        "my",
+        "family",
+        "is",
+        "not",
+        "very",
+        "tired"
+      ],
+      "symbol": [
+        "my",
+        "family",
+        "is",
+        "not",
+        "very",
+        "tired"
+      ],
+      "other": [
+        "my",
+        "family",
+        "is",
+        "very",
+        "here"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "my",
+          "my"
+        ],
+        [
+          "family",
+          "family"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "not",
+          null
+        ],
+        [
+          "very",
+          "very"
+        ],
+        [
+          "tired",
+          "here"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t514a6795",
+      "truth": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ],
+      "symbol": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ],
+      "other": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 0,
+      "prediction_alignment": [
+        [
+          "my",
+          "my"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "success",
+          "success"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t9ce92bac",
+      "truth": [
+        "bring",
+        "it"
+      ],
+      "symbol": [
+        "my",
+        "music"
+      ],
+      "other": [
+        "you",
+        "hungry",
+        "it"
+      ],
+      "symbol_edits": 2,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          null,
+          "you"
+        ],
+        [
+          "my",
+          "hungry"
+        ],
+        [
+          "music",
+          "it"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "t3afd73b4",
+      "truth": [
+        "how",
+        "thirsty",
+        "are",
+        "you"
+      ],
+      "symbol": [
+        "i",
+        "feel",
+        "thirsty",
+        "are",
+        "you"
+      ],
+      "other": [
+        "yes",
+        "nurse",
+        "are",
+        "hungry"
+      ],
+      "symbol_edits": 2,
+      "other_edits": 3,
+      "prediction_alignment": [
+        [
+          "i",
+          null
+        ],
+        [
+          "feel",
+          "yes"
+        ],
+        [
+          "thirsty",
+          "nurse"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "you",
+          "hungry"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "tef9d94a6",
+      "truth": [
+        "do",
+        "they",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "symbol": [
+        "do",
+        "they",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "other": [
+        "do",
+        "they",
+        "my",
+        "glasses"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "do",
+          "do"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "have",
+          null
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "glasses",
+          "glasses"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t52b24bf6",
+      "truth": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "symbol": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "other": [
+        "you",
+        "hope",
+        "family",
+        "is",
+        "good"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "you",
+          "you"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "my",
+          null
+        ],
+        [
+          "family",
+          "family"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "good",
+          "good"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t5f2d20a0",
+      "truth": [
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "tired"
+      ],
+      "symbol": [
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "tired"
+      ],
+      "other": [
+        "my",
+        "nurse",
+        "very",
+        "tired"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "my",
+          "my"
+        ],
+        [
+          "nurse",
+          "nurse"
+        ],
+        [
+          "is",
+          null
+        ],
+        [
+          "very",
+          "very"
+        ],
+        [
+          "tired",
+          "tired"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t44bb2095",
+      "truth": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ],
+      "symbol": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ],
+      "other": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 0,
+      "prediction_alignment": [
+        [
+          "where",
+          "where"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "music",
+          "music"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "te366b91c",
+      "truth": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "family"
+      ],
+      "symbol": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "family"
+      ],
+      "other": [
+        "i",
+        "hope",
+        "you",
+        "family"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "you",
+          "you"
+        ],
+        [
+          "have",
+          null
+        ],
+        [
+          "family",
+          "family"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "ta8a65775",
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "nurse"
+      ],
+      "symbol": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "computer"
+      ],
+      "other": [
+        "i",
+        "hope",
+        "need",
+        "my",
+        "are"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "they",
+          null
+        ],
+        [
+          "need",
+          "need"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "computer",
+          "are"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "t8485b6b9",
+      "truth": [
+        "hope",
+        "they",
+        "feel",
+        "thirsty"
+      ],
+      "symbol": [
+        "they",
+        "feel",
+        "thirsty"
+      ],
+      "other": [
+        "they",
+        "need",
+        "feel",
+        "thirsty"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "they",
+          "they"
+        ],
+        [
+          null,
+          "need"
+        ],
+        [
+          "feel",
+          "feel"
+        ],
+        [
+          "thirsty",
+          "thirsty"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "t41450074",
+      "truth": [
+        "am",
+        "i"
+      ],
+      "symbol": [
+        "it",
+        "is",
+        "my"
+      ],
+      "other": [
+        "i",
+        "my"
+      ],
+      "symbol_edits": 3,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "it",
+          null
+        ],
+        [
+          "is",
+          "i"
+        ],
+        [
+          "my",
+          "my"
+        ]
+      ],
+      "lattice_oracle_edits": 2
+    },
+    {
+      "id": "t53cbb8eb",
+      "truth": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ],
+      "symbol": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ],
+      "other": [
+        "i",
+        "do",
+        "not",
+        "up"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "do",
+          "do"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "have",
+          "up"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "tbfeb0ff2",
+      "truth": [
+        "i",
+        "have",
+        "no",
+        "family"
+      ],
+      "symbol": [
+        "i",
+        "am",
+        "no",
+        "good"
+      ],
+      "other": [
+        "i",
+        "hope",
+        "family"
+      ],
+      "symbol_edits": 2,
+      "other_edits": 2,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "am",
+          null
+        ],
+        [
+          "no",
+          "hope"
+        ],
+        [
+          "good",
+          "family"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "te3243945",
+      "truth": [
+        "how",
+        "tired",
+        "are",
+        "they"
+      ],
+      "symbol": [
+        "how",
+        "are",
+        "you",
+        "very",
+        "thirsty"
+      ],
+      "other": [
+        "how",
+        "are",
+        "they"
+      ],
+      "symbol_edits": 4,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "how",
+          "how"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "you",
+          null
+        ],
+        [
+          "very",
+          null
+        ],
+        [
+          "thirsty",
+          "they"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "tca769afd",
+      "truth": [
+        "is",
+        "that",
+        "it",
+        "you"
+      ],
+      "symbol": [
+        "it",
+        "is",
+        "what",
+        "i",
+        "do"
+      ],
+      "other": [
+        "you",
+        "it",
+        "is",
+        "you"
+      ],
+      "symbol_edits": 4,
+      "other_edits": 3,
+      "prediction_alignment": [
+        [
+          null,
+          "you"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "what",
+          null
+        ],
+        [
+          "i",
+          null
+        ],
+        [
+          "do",
+          "you"
+        ]
+      ],
+      "lattice_oracle_edits": 3
+    },
+    {
+      "id": "td133fe68",
+      "truth": [
+        "i",
+        "like",
+        "how",
+        "comfortable",
+        "i",
+        "am"
+      ],
+      "symbol": [
+        "i",
+        "am",
+        "comfortable",
+        "tell",
+        "my",
+        "family"
+      ],
+      "other": [
+        "i",
+        "like",
+        "nurse",
+        "comfortable"
+      ],
+      "symbol_edits": 5,
+      "other_edits": 3,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "am",
+          null
+        ],
+        [
+          "comfortable",
+          null
+        ],
+        [
+          "tell",
+          "like"
+        ],
+        [
+          "my",
+          "nurse"
+        ],
+        [
+          "family",
+          "comfortable"
+        ]
+      ],
+      "lattice_oracle_edits": 3
+    },
+    {
+      "id": "t588781f6",
+      "truth": [
+        "yes",
+        "i",
+        "am",
+        "very",
+        "hungry"
+      ],
+      "symbol": [
+        "what",
+        "is",
+        "very",
+        "hungry"
+      ],
+      "other": [
+        "yes",
+        "i",
+        "very",
+        "hungry"
+      ],
+      "symbol_edits": 3,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "what",
+          "yes"
+        ],
+        [
+          "is",
+          "i"
+        ],
+        [
+          "very",
+          "very"
+        ],
+        [
+          "hungry",
+          "hungry"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "tced8ecfc",
+      "truth": [
+        "how",
+        "do",
+        "they",
+        "do",
+        "it",
+        "right"
+      ],
+      "symbol": [
+        "how",
+        "do",
+        "they",
+        "not",
+        "like"
+      ],
+      "other": [
+        "you",
+        "do",
+        "right"
+      ],
+      "symbol_edits": 3,
+      "other_edits": 4,
+      "prediction_alignment": [
+        [
+          "how",
+          "you"
+        ],
+        [
+          "do",
+          "do"
+        ],
+        [
+          "they",
+          null
+        ],
+        [
+          "not",
+          null
+        ],
+        [
+          "like",
+          "right"
+        ]
+      ],
+      "lattice_oracle_edits": 2
+    },
+    {
+      "id": "t848cf4da",
+      "truth": [
+        "that",
+        "is",
+        "okay"
+      ],
+      "symbol": [
+        "they",
+        "hope",
+        "i",
+        "do"
+      ],
+      "other": [
+        "they",
+        "is",
+        "okay"
+      ],
+      "symbol_edits": 4,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "they",
+          "they"
+        ],
+        [
+          "hope",
+          null
+        ],
+        [
+          "i",
+          "is"
+        ],
+        [
+          "do",
+          "okay"
+        ]
+      ],
+      "lattice_oracle_edits": 1
+    },
+    {
+      "id": "td6e48564",
+      "truth": [
+        "it",
+        "is",
+        "bad"
+      ],
+      "symbol": [
+        "it",
+        "is",
+        "that",
+        "bad"
+      ],
+      "other": [
+        "is",
+        "bad"
+      ],
+      "symbol_edits": 1,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "it",
+          null
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "that",
+          null
+        ],
+        [
+          "bad",
+          "bad"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t0575fbc6",
+      "truth": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "very",
+        "good",
+        "family"
+      ],
+      "symbol": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "very",
+        "good",
+        "family"
+      ],
+      "other": [
+        "i",
+        "hope",
+        "i",
+        "am",
+        "very",
+        "good",
+        "family"
+      ],
+      "symbol_edits": 0,
+      "other_edits": 1,
+      "prediction_alignment": [
+        [
+          "i",
+          "i"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "i",
+          "i"
+        ],
+        [
+          "have",
+          "am"
+        ],
+        [
+          "very",
+          "very"
+        ],
+        [
+          "good",
+          "good"
+        ],
+        [
+          "family",
+          "family"
+        ]
+      ],
+      "lattice_oracle_edits": 0
+    },
+    {
+      "id": "t6453e6ae",
+      "truth": [
+        "how",
+        "do",
+        "you",
+        "do",
+        "it",
+        "please"
+      ],
+      "symbol": [
+        "how",
+        "they",
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "other": [
+        "how",
+        "do",
+        "it"
+      ],
+      "symbol_edits": 4,
+      "other_edits": 3,
+      "prediction_alignment": [
+        [
+          "how",
+          "how"
+        ],
+        [
+          "they",
+          null
+        ],
+        [
+          "do",
+          "do"
+        ],
+        [
+          "not",
+          null
+        ],
+        [
+          "need",
+          null
+        ],
+        [
+          "it",
+          "it"
+        ]
+      ],
+      "lattice_oracle_edits": 3
+    },
+    {
+      "id": "t4d2d7415",
+      "truth": [
+        "it",
+        "is",
+        "my",
+        "hope",
+        "that",
+        "you",
+        "are",
+        "comfortable"
+      ],
+      "symbol": [
+        "they",
+        "hope",
+        "you",
+        "are",
+        "comfortable"
+      ],
+      "other": [
+        "you",
+        "it",
+        "is",
+        "hope",
+        "you",
+        "are",
+        "feel",
+        "comfortable"
+      ],
+      "symbol_edits": 4,
+      "other_edits": 4,
+      "prediction_alignment": [
+        [
+          null,
+          "you"
+        ],
+        [
+          null,
+          "it"
+        ],
+        [
+          "they",
+          "is"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "you",
+          "you"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          null,
+          "feel"
+        ],
+        [
+          "comfortable",
+          "comfortable"
+        ]
+      ],
+      "lattice_oracle_edits": 2
+    }
+  ],
+  "scope": "Truth-informed complementarity diagnostic only. Oracles are unattainable upper bounds, not decoding results. Word lattice uses deterministic prediction-only Levenshtein alignment and may combine words within a sentence; no new words can be generated."
+}

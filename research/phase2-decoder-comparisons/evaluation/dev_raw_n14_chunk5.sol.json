@@ -1,0 +1,51 @@
+{
+  "name": "dev_raw_n14_chunk5",
+  "correct": 10,
+  "n": 14,
+  "accuracy": 0.7142857142857143,
+  "ci95_trial_descriptive": [
+    0.4189647428163385,
+    0.9161106816928725
+  ],
+  "prediction": [
+    1,
+    3,
+    1,
+    0,
+    1,
+    2,
+    2,
+    1,
+    2,
+    5,
+    0,
+    2,
+    6,
+    5
+  ],
+  "method_self_report": "Manually compared recurring participant-specific channel patterns across both feature blocks with calibration examples, without imposing label counts. Noise and apparent calibration-to-query shifts make several assignments uncertain.",
+  "block_accuracy": {
+    "17": 0.6666666666666666,
+    "25": 0.8
+  },
+  "per_word_accuracy": {
+    "ban": 0.6666666666666666,
+    "choice": 1.0,
+    "day": 1.0,
+    "feel": 0.3333333333333333,
+    "kite": 0.0,
+    "though": 1.0,
+    "were": 1.0
+  },
+  "donor_word_accuracy": 0.7142857142857143,
+  "tool_calls": 0,
+  "usage": [
+    {
+      "input_tokens": 74131,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 10581,
+      "reasoning_output_tokens": 10358
+    }
+  ]
+}

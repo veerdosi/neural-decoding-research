@@ -1,0 +1,1228 @@
+{
+  "bin_ms_nominal": 100,
+  "features": "64 TX and 64 log1p spike-power channels. Label-free full-block mean correction; calibration-only standardization; no supervised encoder.",
+  "calibration": [
+    {
+      "id": "c000",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "they",
+        "feel",
+        "thirsty"
+      ],
+      "duration_seconds": 7.4,
+      "shape": [
+        74,
+        128
+      ]
+    },
+    {
+      "id": "c001",
+      "tokens": [
+        "i",
+        "am",
+        "clean"
+      ],
+      "duration_seconds": 3.34,
+      "shape": [
+        33,
+        128
+      ]
+    },
+    {
+      "id": "c002",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "like",
+        "music"
+      ],
+      "duration_seconds": 6.68,
+      "shape": [
+        67,
+        128
+      ]
+    },
+    {
+      "id": "c003",
+      "tokens": [
+        "is",
+        "it",
+        "that",
+        "good"
+      ],
+      "duration_seconds": 5.82,
+      "shape": [
+        58,
+        128
+      ]
+    },
+    {
+      "id": "c004",
+      "tokens": [
+        "do",
+        "what",
+        "please"
+      ],
+      "duration_seconds": 3.92,
+      "shape": [
+        39,
+        128
+      ]
+    },
+    {
+      "id": "c005",
+      "tokens": [
+        "you",
+        "hope",
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "duration_seconds": 6.96,
+      "shape": [
+        70,
+        128
+      ]
+    },
+    {
+      "id": "c006",
+      "tokens": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "hope"
+      ],
+      "duration_seconds": 6.18,
+      "shape": [
+        62,
+        128
+      ]
+    },
+    {
+      "id": "c007",
+      "tokens": [
+        "you",
+        "clean",
+        "it",
+        "up"
+      ],
+      "duration_seconds": 4.68,
+      "shape": [
+        47,
+        128
+      ]
+    },
+    {
+      "id": "c008",
+      "tokens": [
+        "you",
+        "hope",
+        "my",
+        "nurse",
+        "is",
+        "going"
+      ],
+      "duration_seconds": 5.74,
+      "shape": [
+        57,
+        128
+      ]
+    },
+    {
+      "id": "c009",
+      "tokens": [
+        "coming",
+        "outside",
+        "is",
+        "very",
+        "good"
+      ],
+      "duration_seconds": 6.42,
+      "shape": [
+        64,
+        128
+      ]
+    },
+    {
+      "id": "c010",
+      "tokens": [
+        "you",
+        "feel",
+        "comfortable"
+      ],
+      "duration_seconds": 4.68,
+      "shape": [
+        47,
+        128
+      ]
+    },
+    {
+      "id": "c011",
+      "tokens": [
+        "what",
+        "do",
+        "they",
+        "do"
+      ],
+      "duration_seconds": 5.78,
+      "shape": [
+        58,
+        128
+      ]
+    },
+    {
+      "id": "c012",
+      "tokens": [
+        "i",
+        "tell",
+        "you",
+        "i",
+        "am",
+        "thirsty"
+      ],
+      "duration_seconds": 6.9,
+      "shape": [
+        69,
+        128
+      ]
+    },
+    {
+      "id": "c013",
+      "tokens": [
+        "is",
+        "my",
+        "nurse",
+        "comfortable"
+      ],
+      "duration_seconds": 5.78,
+      "shape": [
+        58,
+        128
+      ]
+    },
+    {
+      "id": "c014",
+      "tokens": [
+        "how",
+        "they",
+        "do",
+        "it"
+      ],
+      "duration_seconds": 4.32,
+      "shape": [
+        43,
+        128
+      ]
+    },
+    {
+      "id": "c015",
+      "tokens": [
+        "they",
+        "need",
+        "it",
+        "going",
+        "up"
+      ],
+      "duration_seconds": 6.22,
+      "shape": [
+        62,
+        128
+      ]
+    },
+    {
+      "id": "c016",
+      "tokens": [
+        "i",
+        "am",
+        "hungry"
+      ],
+      "duration_seconds": 5.0,
+      "shape": [
+        50,
+        128
+      ]
+    },
+    {
+      "id": "c017",
+      "tokens": [
+        "you",
+        "feel",
+        "it"
+      ],
+      "duration_seconds": 3.64,
+      "shape": [
+        36,
+        128
+      ]
+    },
+    {
+      "id": "c018",
+      "tokens": [
+        "that",
+        "is",
+        "bad"
+      ],
+      "duration_seconds": 3.7,
+      "shape": [
+        37,
+        128
+      ]
+    },
+    {
+      "id": "c019",
+      "tokens": [
+        "my",
+        "family",
+        "is",
+        "that",
+        "good"
+      ],
+      "duration_seconds": 5.14,
+      "shape": [
+        51,
+        128
+      ]
+    },
+    {
+      "id": "c020",
+      "tokens": [
+        "yes",
+        "i",
+        "am",
+        "hungry"
+      ],
+      "duration_seconds": 8.36,
+      "shape": [
+        84,
+        128
+      ]
+    },
+    {
+      "id": "c021",
+      "tokens": [
+        "do",
+        "that",
+        "right"
+      ],
+      "duration_seconds": 5.32,
+      "shape": [
+        53,
+        128
+      ]
+    },
+    {
+      "id": "c022",
+      "tokens": [
+        "what",
+        "do",
+        "you",
+        "clean"
+      ],
+      "duration_seconds": 5.96,
+      "shape": [
+        60,
+        128
+      ]
+    },
+    {
+      "id": "c023",
+      "tokens": [
+        "they",
+        "are",
+        "that",
+        "good"
+      ],
+      "duration_seconds": 4.78,
+      "shape": [
+        48,
+        128
+      ]
+    },
+    {
+      "id": "c024",
+      "tokens": [
+        "they",
+        "hope",
+        "you",
+        "are",
+        "right",
+        "here"
+      ],
+      "duration_seconds": 6.04,
+      "shape": [
+        60,
+        128
+      ]
+    },
+    {
+      "id": "c025",
+      "tokens": [
+        "bring",
+        "here"
+      ],
+      "duration_seconds": 4.56,
+      "shape": [
+        46,
+        128
+      ]
+    },
+    {
+      "id": "c026",
+      "tokens": [
+        "it",
+        "is"
+      ],
+      "duration_seconds": 3.52,
+      "shape": [
+        35,
+        128
+      ]
+    },
+    {
+      "id": "c027",
+      "tokens": [
+        "it",
+        "is",
+        "what",
+        "they",
+        "have"
+      ],
+      "duration_seconds": 5.82,
+      "shape": [
+        58,
+        128
+      ]
+    },
+    {
+      "id": "c028",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "like",
+        "my",
+        "help"
+      ],
+      "duration_seconds": 5.98,
+      "shape": [
+        60,
+        128
+      ]
+    },
+    {
+      "id": "c029",
+      "tokens": [
+        "tell",
+        "my",
+        "nurse",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "comfortable"
+      ],
+      "duration_seconds": 8.56,
+      "shape": [
+        86,
+        128
+      ]
+    },
+    {
+      "id": "c030",
+      "tokens": [
+        "what",
+        "do",
+        "they",
+        "have"
+      ],
+      "duration_seconds": 5.18,
+      "shape": [
+        52,
+        128
+      ]
+    },
+    {
+      "id": "c031",
+      "tokens": [
+        "how",
+        "do",
+        "you",
+        "like"
+      ],
+      "duration_seconds": 4.0,
+      "shape": [
+        40,
+        128
+      ]
+    },
+    {
+      "id": "c032",
+      "tokens": [
+        "i",
+        "do",
+        "good"
+      ],
+      "duration_seconds": 4.88,
+      "shape": [
+        49,
+        128
+      ]
+    },
+    {
+      "id": "c033",
+      "tokens": [
+        "where",
+        "is",
+        "it",
+        "going"
+      ],
+      "duration_seconds": 5.16,
+      "shape": [
+        52,
+        128
+      ]
+    },
+    {
+      "id": "c034",
+      "tokens": [
+        "you",
+        "are",
+        "that",
+        "bad"
+      ],
+      "duration_seconds": 4.56,
+      "shape": [
+        46,
+        128
+      ]
+    },
+    {
+      "id": "c035",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "music"
+      ],
+      "duration_seconds": 8.1,
+      "shape": [
+        81,
+        128
+      ]
+    },
+    {
+      "id": "c036",
+      "tokens": [
+        "is",
+        "it",
+        "that",
+        "bad"
+      ],
+      "duration_seconds": 5.38,
+      "shape": [
+        54,
+        128
+      ]
+    },
+    {
+      "id": "c037",
+      "tokens": [
+        "how",
+        "do",
+        "you",
+        "like",
+        "that"
+      ],
+      "duration_seconds": 11.4,
+      "shape": [
+        114,
+        128
+      ]
+    },
+    {
+      "id": "c038",
+      "tokens": [
+        "how",
+        "do",
+        "you",
+        "clean"
+      ],
+      "duration_seconds": 5.1,
+      "shape": [
+        51,
+        128
+      ]
+    },
+    {
+      "id": "c039",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "like",
+        "my",
+        "music"
+      ],
+      "duration_seconds": 6.8,
+      "shape": [
+        68,
+        128
+      ]
+    },
+    {
+      "id": "c040",
+      "tokens": [
+        "they",
+        "like",
+        "my",
+        "nurse"
+      ],
+      "duration_seconds": 5.06,
+      "shape": [
+        51,
+        128
+      ]
+    },
+    {
+      "id": "c041",
+      "tokens": [
+        "hope",
+        "you",
+        "do",
+        "it"
+      ],
+      "duration_seconds": 4.4,
+      "shape": [
+        44,
+        128
+      ]
+    },
+    {
+      "id": "c042",
+      "tokens": [
+        "they",
+        "are",
+        "tired"
+      ],
+      "duration_seconds": 3.62,
+      "shape": [
+        36,
+        128
+      ]
+    },
+    {
+      "id": "c043",
+      "tokens": [
+        "no",
+        "my",
+        "family",
+        "is",
+        "not",
+        "going",
+        "here"
+      ],
+      "duration_seconds": 6.48,
+      "shape": [
+        65,
+        128
+      ]
+    },
+    {
+      "id": "c044",
+      "tokens": [
+        "you",
+        "hope",
+        "they",
+        "are",
+        "right",
+        "here"
+      ],
+      "duration_seconds": 7.4,
+      "shape": [
+        74,
+        128
+      ]
+    },
+    {
+      "id": "c045",
+      "tokens": [
+        "you",
+        "like",
+        "it",
+        "here"
+      ],
+      "duration_seconds": 3.9,
+      "shape": [
+        39,
+        128
+      ]
+    },
+    {
+      "id": "c046",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "right",
+        "here"
+      ],
+      "duration_seconds": 5.74,
+      "shape": [
+        57,
+        128
+      ]
+    },
+    {
+      "id": "c047",
+      "tokens": [
+        "family",
+        "is",
+        "not",
+        "okay"
+      ],
+      "duration_seconds": 5.72,
+      "shape": [
+        57,
+        128
+      ]
+    },
+    {
+      "id": "c048",
+      "tokens": [
+        "you",
+        "hope",
+        "i",
+        "am",
+        "right",
+        "here"
+      ],
+      "duration_seconds": 6.12,
+      "shape": [
+        61,
+        128
+      ]
+    },
+    {
+      "id": "c049",
+      "tokens": [
+        "hello",
+        "you"
+      ],
+      "duration_seconds": 4.22,
+      "shape": [
+        42,
+        128
+      ]
+    },
+    {
+      "id": "c050",
+      "tokens": [
+        "tell",
+        "my",
+        "nurse",
+        "they",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "duration_seconds": 8.8,
+      "shape": [
+        88,
+        128
+      ]
+    },
+    {
+      "id": "c051",
+      "tokens": [
+        "i",
+        "need",
+        "that"
+      ],
+      "duration_seconds": 3.62,
+      "shape": [
+        36,
+        128
+      ]
+    },
+    {
+      "id": "c052",
+      "tokens": [
+        "where",
+        "are",
+        "they",
+        "not"
+      ],
+      "duration_seconds": 5.46,
+      "shape": [
+        55,
+        128
+      ]
+    },
+    {
+      "id": "c053",
+      "tokens": [
+        "how",
+        "are",
+        "they"
+      ],
+      "duration_seconds": 4.76,
+      "shape": [
+        48,
+        128
+      ]
+    },
+    {
+      "id": "c054",
+      "tokens": [
+        "what",
+        "do",
+        "i",
+        "tell",
+        "my",
+        "nurse"
+      ],
+      "duration_seconds": 6.88,
+      "shape": [
+        69,
+        128
+      ]
+    },
+    {
+      "id": "c055",
+      "tokens": [
+        "do",
+        "i",
+        "tell",
+        "my",
+        "nurse"
+      ],
+      "duration_seconds": 5.94,
+      "shape": [
+        59,
+        128
+      ]
+    },
+    {
+      "id": "c056",
+      "tokens": [
+        "you",
+        "do",
+        "not",
+        "need",
+        "faith"
+      ],
+      "duration_seconds": 6.42,
+      "shape": [
+        64,
+        128
+      ]
+    },
+    {
+      "id": "c057",
+      "tokens": [
+        "how",
+        "are",
+        "you",
+        "here"
+      ],
+      "duration_seconds": 4.02,
+      "shape": [
+        40,
+        128
+      ]
+    },
+    {
+      "id": "c058",
+      "tokens": [
+        "i",
+        "do",
+        "not",
+        "have",
+        "my",
+        "computer"
+      ],
+      "duration_seconds": 6.56,
+      "shape": [
+        66,
+        128
+      ]
+    },
+    {
+      "id": "c059",
+      "tokens": [
+        "you",
+        "are",
+        "up"
+      ],
+      "duration_seconds": 4.4,
+      "shape": [
+        44,
+        128
+      ]
+    },
+    {
+      "id": "c060",
+      "tokens": [
+        "yes",
+        "i",
+        "am",
+        "very",
+        "good"
+      ],
+      "duration_seconds": 4.58,
+      "shape": [
+        46,
+        128
+      ]
+    },
+    {
+      "id": "c061",
+      "tokens": [
+        "do",
+        "i",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "duration_seconds": 6.58,
+      "shape": [
+        66,
+        128
+      ]
+    },
+    {
+      "id": "c062",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "closer"
+      ],
+      "duration_seconds": 5.02,
+      "shape": [
+        50,
+        128
+      ]
+    },
+    {
+      "id": "c063",
+      "tokens": [
+        "do",
+        "you",
+        "need",
+        "help",
+        "here"
+      ],
+      "duration_seconds": 7.34,
+      "shape": [
+        73,
+        128
+      ]
+    },
+    {
+      "id": "c064",
+      "tokens": [
+        "they",
+        "need",
+        "help"
+      ],
+      "duration_seconds": 4.3,
+      "shape": [
+        43,
+        128
+      ]
+    },
+    {
+      "id": "c065",
+      "tokens": [
+        "family",
+        "is",
+        "okay"
+      ],
+      "duration_seconds": 4.98,
+      "shape": [
+        50,
+        128
+      ]
+    },
+    {
+      "id": "c066",
+      "tokens": [
+        "are",
+        "they",
+        "very",
+        "thirsty"
+      ],
+      "duration_seconds": 4.6,
+      "shape": [
+        46,
+        128
+      ]
+    },
+    {
+      "id": "c067",
+      "tokens": [
+        "my",
+        "faith",
+        "is",
+        "my",
+        "success"
+      ],
+      "duration_seconds": 6.1,
+      "shape": [
+        61,
+        128
+      ]
+    },
+    {
+      "id": "c068",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "not",
+        "going"
+      ],
+      "duration_seconds": 6.46,
+      "shape": [
+        65,
+        128
+      ]
+    },
+    {
+      "id": "c069",
+      "tokens": [
+        "what",
+        "is",
+        "hungry"
+      ],
+      "duration_seconds": 5.68,
+      "shape": [
+        57,
+        128
+      ]
+    },
+    {
+      "id": "c070",
+      "tokens": [
+        "you",
+        "do"
+      ],
+      "duration_seconds": 3.04,
+      "shape": [
+        30,
+        128
+      ]
+    },
+    {
+      "id": "c071",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "very",
+        "good",
+        "family"
+      ],
+      "duration_seconds": 7.9,
+      "shape": [
+        79,
+        128
+      ]
+    },
+    {
+      "id": "c072",
+      "tokens": [
+        "you",
+        "are",
+        "okay"
+      ],
+      "duration_seconds": 5.12,
+      "shape": [
+        51,
+        128
+      ]
+    },
+    {
+      "id": "c073",
+      "tokens": [
+        "my",
+        "glasses"
+      ],
+      "duration_seconds": 3.38,
+      "shape": [
+        34,
+        128
+      ]
+    },
+    {
+      "id": "c074",
+      "tokens": [
+        "you",
+        "are",
+        "no",
+        "good"
+      ],
+      "duration_seconds": 4.6,
+      "shape": [
+        46,
+        128
+      ]
+    },
+    {
+      "id": "c075",
+      "tokens": [
+        "they",
+        "need",
+        "not"
+      ],
+      "duration_seconds": 4.2,
+      "shape": [
+        42,
+        128
+      ]
+    },
+    {
+      "id": "c076",
+      "tokens": [
+        "no",
+        "you",
+        "are",
+        "not",
+        "going",
+        "outside"
+      ],
+      "duration_seconds": 7.74,
+      "shape": [
+        77,
+        128
+      ]
+    },
+    {
+      "id": "c077",
+      "tokens": [
+        "i",
+        "need",
+        "it",
+        "right",
+        "here"
+      ],
+      "duration_seconds": 6.58,
+      "shape": [
+        66,
+        128
+      ]
+    },
+    {
+      "id": "c078",
+      "tokens": [
+        "i",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "right",
+        "here"
+      ],
+      "duration_seconds": 8.38,
+      "shape": [
+        84,
+        128
+      ]
+    },
+    {
+      "id": "c079",
+      "tokens": [
+        "where",
+        "is",
+        "my",
+        "faith"
+      ],
+      "duration_seconds": 4.96,
+      "shape": [
+        50,
+        128
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "id": "te7fda903",
+      "duration_seconds": 3.88,
+      "shape": [
+        39,
+        128
+      ]
+    },
+    {
+      "id": "t196443a7",
+      "duration_seconds": 4.14,
+      "shape": [
+        41,
+        128
+      ]
+    },
+    {
+      "id": "t0ba95c98",
+      "duration_seconds": 3.18,
+      "shape": [
+        32,
+        128
+      ]
+    },
+    {
+      "id": "te1c6177b",
+      "duration_seconds": 4.56,
+      "shape": [
+        46,
+        128
+      ]
+    },
+    {
+      "id": "td4202301",
+      "duration_seconds": 4.18,
+      "shape": [
+        42,
+        128
+      ]
+    },
+    {
+      "id": "ta84f22ff",
+      "duration_seconds": 3.72,
+      "shape": [
+        37,
+        128
+      ]
+    },
+    {
+      "id": "tc14fc0db",
+      "duration_seconds": 4.66,
+      "shape": [
+        47,
+        128
+      ]
+    },
+    {
+      "id": "t49dd1ce6",
+      "duration_seconds": 5.94,
+      "shape": [
+        59,
+        128
+      ]
+    }
+  ]
+}

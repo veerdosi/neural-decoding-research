@@ -1,0 +1,25 @@
+{
+  "series": [
+    {
+      "method": "Sol: numerical tools",
+      "development_WER_percent": 8.108108108108109,
+      "reserved_WER_percent": 16.783216783216783
+    },
+    {
+      "method": "Sol: symbols, no tools",
+      "development_WER_percent": 24.324324324324326,
+      "reserved_WER_percent": 39.86013986013986
+    },
+    {
+      "method": "HMM: identical symbols",
+      "development_WER_percent": 54.054054054054056,
+      "reserved_WER_percent": 63.63636363636363
+    },
+    {
+      "method": "Numerical pipeline: full features",
+      "development_WER_percent": 35.13513513513514,
+      "reserved_WER_percent": 35.66433566433567
+    }
+  ],
+  "scope": "Single participant/session; development8 and reserved32 are distinct recordings in one block."
+}

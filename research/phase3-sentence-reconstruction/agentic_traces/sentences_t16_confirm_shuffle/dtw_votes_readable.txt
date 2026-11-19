@@ -1,0 +1,488 @@
+
+tb0b19ec8 [('you', 2, 17), ('going', 17, 25)]
+4 you:0.25, it:0.07, coming:0.03, like:0.00
+7 you:0.27, it:0.07, coming:0.04, music:0.01
+10 you:0.27, it:0.07, coming:0.04, music:0.03
+13 you:0.19, going:0.08, it:0.05, clean:0.05
+16 you:0.10, going:0.09, okay:0.07, music:0.05
+19 going:0.10, okay:0.07, music:0.04, it:0.04
+22 going:0.09, it:0.04, music:0.04, they:0.03
+
+t59dcd856 [('i', 2, 18), ('hope', 18, 27), ('okay', 27, 28), ('you', 28, 31), ('family', 31, 51)]
+4 i:0.22, they:0.04, tell:0.03, family:0.00
+7 i:0.30, they:0.06, tell:0.03, family:0.00
+10 i:0.35, they:0.06, tell:0.01, family:0.00
+13 i:0.35, they:0.01, are:0.01, my:0.01
+16 i:0.30, hope:0.09, are:0.03, my:0.02
+19 hope:0.27, i:0.13, are:0.05, okay:0.03
+22 hope:0.26, okay:0.17, do:0.03, faith:0.01
+25 hope:0.21, okay:0.18, you:0.11, they:0.06
+28 you:0.13, okay:0.12, they:0.08, hope:0.07
+31 family:0.08, okay:0.08, you:0.08, have:0.08
+34 family:0.16, have:0.07, good:0.06, hope:0.02
+37 family:0.25, have:0.04, i:0.03, going:0.02
+40 family:0.31, going:0.03, am:0.03, thirsty:0.01
+43 family:0.31, going:0.05, thirsty:0.04, please:0.02
+46 family:0.29, going:0.05, thirsty:0.04, is:0.03
+49 family:0.25, is:0.03, going:0.03, thirsty:0.01
+
+tcd92c113 [('my', 2, 6), ('they', 6, 13), ('is', 13, 17), ('okay', 17, 33)]
+4 my:0.11, they:0.10, that:0.07, you:0.06
+7 they:0.12, my:0.11, i:0.09, that:0.08
+10 they:0.12, my:0.11, i:0.09, that:0.08
+13 is:0.12, they:0.07, not:0.07, that:0.06
+16 is:0.17, are:0.09, okay:0.08, hope:0.08
+19 okay:0.24, hope:0.10, is:0.09, they:0.07
+22 okay:0.26, hope:0.10, they:0.09, hungry:0.05
+25 okay:0.25, hungry:0.11, they:0.10, you:0.08
+28 okay:0.25, hungry:0.11, you:0.07, they:0.06
+31 okay:0.20, hungry:0.04, you:0.04, they:0.02
+
+t1fe83bc3 [('how', 2, 11), ('do', 11, 24), ('not', 24, 26), ('clean', 26, 36), ('please', 36, 38)]
+4 how:0.11, hello:0.03, outside:0.01, do:0.01
+7 how:0.11, hello:0.03, do:0.02, outside:0.01
+10 how:0.05, do:0.03, hello:0.02, you:0.02
+13 do:0.06, you:0.03, how:0.02, need:0.02
+16 do:0.07, you:0.05, no:0.04, need:0.03
+19 do:0.12, not:0.06, no:0.05, good:0.04
+22 do:0.12, not:0.07, no:0.05, good:0.04
+25 not:0.10, clean:0.08, good:0.06, family:0.06
+28 clean:0.14, family:0.08, need:0.07, please:0.06
+31 clean:0.14, family:0.08, need:0.07, please:0.07
+34 clean:0.11, family:0.07, please:0.07, going:0.06
+
+td28e3558 [('you', 2, 5), ('where', 5, 12), ('hungry', 12, 16), ('it', 16, 26)]
+4 you:0.09, where:0.06, they:0.05, my:0.05
+7 where:0.10, you:0.09, hungry:0.06, they:0.05
+10 where:0.10, hungry:0.09, my:0.06, they:0.05
+13 hungry:0.09, where:0.06, it:0.05, my:0.04
+16 it:0.08, hungry:0.07, do:0.05, need:0.04
+19 it:0.08, hope:0.06, hungry:0.04, glasses:0.04
+22 it:0.06, glasses:0.04, hope:0.03, up:0.03
+
+t6f0fdfe0 [('where', 2, 20), ('is', 20, 24), ('my', 24, 32), ('music', 32, 49)]
+4 where:0.17, here:0.13, are:0.11, very:0.05
+7 where:0.21, here:0.14, are:0.12, very:0.10
+10 where:0.24, here:0.17, very:0.14, are:0.12
+13 where:0.26, here:0.19, very:0.14, are:0.12
+16 where:0.25, here:0.19, are:0.15, very:0.13
+19 where:0.16, here:0.14, is:0.14, are:0.11
+22 is:0.19, my:0.11, tell:0.10, here:0.07
+25 my:0.23, is:0.15, tell:0.08, like:0.07
+28 my:0.27, not:0.08, i:0.05, like:0.04
+31 my:0.24, music:0.11, you:0.07, i:0.05
+34 music:0.26, you:0.17, need:0.12, my:0.12
+37 music:0.27, clean:0.13, need:0.13, you:0.12
+40 music:0.27, going:0.12, clean:0.11, need:0.09
+43 music:0.24, going:0.09, it:0.07, glasses:0.07
+46 music:0.18, going:0.07, it:0.04, glasses:0.04
+
+t4539ffbe [('hope', 2, 10), ('they', 10, 14), ('feel', 14, 23), ('thirsty', 23, 37), ('hungry', 37, 38)]
+4 hope:0.12, they:0.08, hello:0.03, is:0.02
+7 hope:0.12, they:0.09, hello:0.03, need:0.03
+10 they:0.09, hope:0.07, you:0.05, need:0.04
+13 they:0.09, you:0.07, need:0.05, feel:0.05
+16 feel:0.14, tell:0.07, they:0.06, need:0.05
+19 feel:0.21, here:0.13, tell:0.07, very:0.05
+22 feel:0.19, here:0.14, thirsty:0.11, are:0.08
+25 thirsty:0.29, here:0.10, family:0.09, nurse:0.07
+28 thirsty:0.27, family:0.15, need:0.10, hungry:0.08
+31 thirsty:0.25, family:0.16, hungry:0.11, need:0.10
+34 thirsty:0.20, family:0.11, hungry:0.11, is:0.03
+
+ta2aa0fcb [('is', 2, 16), ('it', 16, 17), ('is', 17, 20), ('it', 20, 24)]
+4 is:0.26, it:0.20, you:0.10, how:0.08
+7 is:0.29, it:0.21, you:0.13, how:0.13
+10 is:0.29, it:0.21, you:0.13, how:0.08
+13 is:0.23, it:0.17, you:0.09, music:0.09
+16 it:0.17, is:0.17, music:0.09, you:0.06
+19 is:0.12, it:0.12, music:0.08, my:0.03
+22 it:0.07, is:0.05, music:0.05, my:0.01
+
+tf75891ff [('i', 2, 16), ('hope', 16, 23), ('you', 23, 25), ('need', 25, 31), ('my', 31, 37), ('music', 37, 44), ('are', 44, 53)]
+4 i:0.21, you:0.00, how:0.00, hope:0.00
+7 i:0.27, you:0.00, how:0.00, hope:0.00
+10 i:0.31, my:0.01, hope:0.00, they:0.00
+13 i:0.30, hope:0.05, my:0.04, they:0.01
+16 hope:0.29, i:0.19, okay:0.07, faith:0.04
+19 hope:0.27, okay:0.10, i:0.07, faith:0.06
+22 hope:0.21, you:0.12, they:0.09, faith:0.08
+25 need:0.15, you:0.14, they:0.09, faith:0.08
+28 need:0.17, you:0.08, it:0.06, like:0.05
+31 my:0.18, need:0.08, like:0.06, it:0.05
+34 my:0.22, not:0.04, right:0.04, like:0.04
+37 music:0.16, my:0.16, please:0.04, you:0.04
+40 music:0.19, you:0.08, do:0.05, please:0.04
+43 music:0.15, are:0.13, you:0.09, how:0.05
+46 are:0.24, not:0.05, am:0.04, music:0.03
+49 are:0.24, not:0.05, hungry:0.03, right:0.02
+
+t514a6795 [('you', 2, 9), ('i', 9, 11), ('it', 11, 14), ('is', 14, 38), ('it', 38, 42), ('what', 42, 44), ('it', 44, 49), ('hope', 49, 51), ('you', 51, 57), ('do', 57, 58), ('you', 58, 66)]
+4 you:0.05, bad:0.03, here:0.02, i:0.02
+7 you:0.05, i:0.03, here:0.02, tell:0.01
+10 i:0.04, it:0.04, you:0.04, tell:0.02
+13 it:0.07, is:0.06, i:0.04, you:0.02
+16 is:0.13, it:0.11, nurse:0.03, going:0.02
+19 is:0.19, it:0.14, going:0.04, how:0.04
+22 is:0.25, it:0.19, how:0.11, do:0.06
+25 is:0.29, it:0.22, how:0.16, do:0.07
+28 is:0.29, it:0.22, how:0.16, do:0.07
+31 is:0.28, it:0.19, how:0.11, they:0.07
+34 is:0.25, it:0.18, how:0.06, they:0.05
+37 is:0.16, it:0.15, my:0.11, not:0.04
+40 it:0.10, is:0.08, my:0.08, what:0.07
+43 what:0.09, it:0.07, not:0.06, right:0.04
+46 it:0.12, is:0.10, what:0.10, do:0.07
+49 hope:0.11, is:0.11, it:0.10, do:0.10
+52 you:0.16, do:0.10, it:0.09, hope:0.08
+55 you:0.22, do:0.19, no:0.07, going:0.06
+58 you:0.27, do:0.26, clean:0.07, that:0.03
+61 you:0.26, do:0.23, need:0.08, clean:0.08
+64 you:0.16, do:0.13, need:0.07, hope:0.04
+
+t9ce92bac [('is', 2, 19), ('bad', 19, 30)]
+4 is:0.20, it:0.15, need:0.04, that:0.03
+7 is:0.20, it:0.15, need:0.05, that:0.04
+10 is:0.18, it:0.14, that:0.06, need:0.05
+13 is:0.20, it:0.17, that:0.09, have:0.04
+16 is:0.19, that:0.14, it:0.14, have:0.04
+19 bad:0.20, my:0.12, is:0.12, that:0.11
+22 bad:0.31, family:0.12, my:0.11, that:0.10
+25 bad:0.30, family:0.12, that:0.08, my:0.06
+28 bad:0.23, family:0.08, that:0.04, tell:0.02
+
+t3afd73b4 [('you', 2, 11), ('how', 11, 13), ('is', 13, 18), ('i', 18, 20), ('am', 20, 21), ('very', 21, 33), ('hungry', 33, 45)]
+4 you:0.16, how:0.07, tell:0.06, yes:0.05
+7 you:0.16, how:0.08, tell:0.07, yes:0.06
+10 you:0.10, how:0.09, yes:0.06, tell:0.05
+13 is:0.08, how:0.07, yes:0.06, are:0.04
+16 is:0.09, are:0.07, i:0.07, yes:0.03
+19 i:0.08, am:0.07, is:0.06, are:0.05
+22 very:0.16, here:0.07, am:0.04, are:0.03
+25 very:0.23, here:0.08, where:0.03, am:0.03
+28 very:0.23, here:0.07, family:0.05, is:0.03
+31 very:0.19, hungry:0.10, good:0.08, thirsty:0.07
+34 hungry:0.15, good:0.11, thirsty:0.08, family:0.06
+37 hungry:0.17, going:0.08, thirsty:0.08, family:0.07
+40 hungry:0.17, going:0.08, thirsty:0.08, family:0.06
+43 hungry:0.13, thirsty:0.06, family:0.03, glasses:0.02
+
+tef9d94a6 [('you', 2, 19), ('do', 19, 22), ('you', 22, 25), ('like', 25, 34), ('music', 34, 47)]
+4 you:0.15, they:0.12, do:0.11, that:0.06
+7 you:0.20, do:0.17, they:0.16, i:0.11
+10 you:0.22, do:0.19, they:0.17, how:0.14
+13 you:0.22, do:0.21, they:0.17, how:0.12
+16 you:0.22, do:0.20, hope:0.12, they:0.12
+19 do:0.23, you:0.22, hope:0.07, feel:0.05
+22 you:0.23, do:0.22, like:0.04, not:0.03
+25 like:0.21, not:0.17, you:0.16, my:0.08
+28 like:0.23, not:0.16, my:0.13, clean:0.10
+31 like:0.20, my:0.17, not:0.13, music:0.05
+34 music:0.19, my:0.14, like:0.12, need:0.09
+37 music:0.23, do:0.10, you:0.07, clean:0.07
+40 music:0.23, clean:0.08, it:0.08, do:0.06
+43 music:0.19, it:0.08, clean:0.07, success:0.04
+
+t52b24bf6 [('do', 2, 19), ('they', 19, 23), ('have', 23, 26), ('my', 26, 32), ('glasses', 32, 49)]
+4 do:0.09, tell:0.05, is:0.03, hope:0.03
+7 do:0.12, tell:0.06, no:0.05, you:0.04
+10 do:0.16, you:0.08, tell:0.06, no:0.05
+13 do:0.21, you:0.11, i:0.05, no:0.04
+16 do:0.21, you:0.11, they:0.06, i:0.05
+19 they:0.14, do:0.13, not:0.07, like:0.07
+22 they:0.10, have:0.09, not:0.09, like:0.07
+25 have:0.11, my:0.10, not:0.08, tell:0.06
+28 my:0.14, not:0.10, have:0.04, bad:0.03
+31 my:0.16, glasses:0.08, not:0.06, faith:0.04
+34 glasses:0.18, music:0.07, going:0.05, my:0.04
+37 glasses:0.21, music:0.09, going:0.06, clean:0.03
+40 glasses:0.22, music:0.10, you:0.06, going:0.05
+43 glasses:0.22, music:0.09, you:0.06, going:0.04
+46 glasses:0.17, music:0.06, going:0.03, thirsty:0.03
+
+t5f2d20a0 [('you', 2, 15), ('hope', 15, 23), ('family', 23, 37), ('good', 37, 51)]
+4 you:0.15, do:0.01, is:0.00, are:0.00
+7 you:0.17, do:0.03, i:0.01, are:0.01
+10 you:0.18, do:0.08, i:0.06, need:0.02
+13 you:0.18, hope:0.10, do:0.08, i:0.04
+16 hope:0.20, you:0.09, no:0.06, do:0.05
+19 hope:0.20, my:0.11, okay:0.05, no:0.05
+22 hope:0.16, my:0.14, family:0.10, okay:0.05
+25 family:0.20, my:0.11, not:0.04, you:0.02
+28 family:0.22, my:0.06, very:0.03, they:0.03
+31 family:0.21, very:0.07, where:0.03, they:0.03
+34 family:0.18, is:0.08, that:0.07, very:0.06
+37 good:0.14, is:0.14, family:0.14, that:0.13
+40 good:0.27, is:0.14, that:0.05, what:0.02
+43 good:0.30, is:0.06, bad:0.04, what:0.02
+46 good:0.30, bad:0.04, what:0.02, is:0.01
+49 good:0.21, bad:0.02, what:0.01, is:0.00
+
+t44bb2095 [('i', 2, 7), ('my', 7, 15), ('nurse', 15, 23), ('is', 23, 27), ('very', 27, 39), ('here', 39, 49)]
+4 i:0.18, my:0.16, hope:0.07, do:0.06
+7 my:0.21, i:0.20, hope:0.07, do:0.06
+10 my:0.23, i:0.19, that:0.03, nurse:0.03
+13 my:0.22, nurse:0.15, i:0.10, faith:0.04
+16 nurse:0.23, my:0.09, faith:0.05, i:0.04
+19 nurse:0.26, is:0.11, are:0.03, need:0.02
+22 nurse:0.24, is:0.19, it:0.11, they:0.10
+25 is:0.25, they:0.11, nurse:0.10, it:0.10
+28 very:0.24, is:0.16, it:0.07, are:0.07
+31 very:0.26, going:0.07, is:0.06, right:0.06
+34 very:0.22, right:0.11, are:0.10, going:0.08
+37 very:0.15, good:0.13, here:0.11, tired:0.10
+40 here:0.16, very:0.15, tired:0.12, where:0.07
+43 here:0.16, tired:0.12, very:0.09, where:0.07
+46 here:0.09, tired:0.07, are:0.02, they:0.02
+
+te366b91c [('i', 2, 11), ('hope', 11, 28), ('family', 28, 46)]
+4 i:0.22, you:0.00, how:0.00, hope:0.00
+7 i:0.28, am:0.01, my:0.00, very:0.00
+10 i:0.25, hope:0.15, tell:0.10, am:0.04
+13 hope:0.22, tell:0.10, my:0.07, i:0.07
+16 hope:0.18, are:0.10, tell:0.08, have:0.08
+19 hope:0.16, no:0.10, is:0.07, okay:0.07
+22 hope:0.20, okay:0.13, no:0.10, they:0.08
+25 hope:0.20, okay:0.16, family:0.10, they:0.09
+28 family:0.17, hope:0.14, okay:0.13, they:0.08
+31 family:0.22, okay:0.08, am:0.04, you:0.03
+34 family:0.22, clean:0.04, they:0.03, am:0.02
+37 family:0.21, clean:0.04, they:0.03, thirsty:0.03
+40 family:0.19, clean:0.04, they:0.03, thirsty:0.03
+43 family:0.15, okay:0.03, clean:0.03, please:0.02
+
+ta8a65775 [('i', 2, 13), ('hope', 13, 23), ('you', 23, 26), ('my', 26, 29), ('are', 29, 37), ('very', 37, 51), ('good', 51, 60), ('family', 60, 80)]
+4 i:0.22, they:0.10, my:0.07, feel:0.00
+7 i:0.27, they:0.14, my:0.07, tell:0.02
+10 i:0.28, they:0.08, tell:0.06, my:0.05
+13 hope:0.25, i:0.22, tell:0.06, you:0.05
+16 hope:0.28, tell:0.06, i:0.04, like:0.02
+19 hope:0.27, my:0.03, tell:0.02, like:0.01
+22 hope:0.24, you:0.20, my:0.06, they:0.06
+25 you:0.16, my:0.13, they:0.11, hope:0.10
+28 my:0.09, i:0.08, family:0.07, have:0.06
+31 are:0.10, family:0.08, am:0.08, have:0.07
+34 are:0.11, am:0.08, is:0.08, have:0.07
+37 very:0.14, where:0.10, are:0.09, have:0.07
+40 very:0.24, where:0.19, is:0.04, here:0.04
+43 very:0.30, where:0.23, here:0.12, tired:0.04
+46 very:0.31, where:0.23, here:0.10, tired:0.03
+49 very:0.30, where:0.17, that:0.06, good:0.04
+52 good:0.28, is:0.08, thirsty:0.05, tell:0.05
+55 good:0.28, tell:0.08, is:0.06, my:0.05
+58 good:0.26, family:0.13, tell:0.07, my:0.07
+61 family:0.24, good:0.14, my:0.07, you:0.02
+64 family:0.28, good:0.05, my:0.05, you:0.01
+67 family:0.28, my:0.04, where:0.02, going:0.02
+70 family:0.27, thirsty:0.03, music:0.03, is:0.03
+73 family:0.26, you:0.05, thirsty:0.04, is:0.04
+76 family:0.21, you:0.06, is:0.05, thirsty:0.04
+
+t8485b6b9 [('how', 2, 9), ('are', 9, 18), ('where', 18, 22), ('are', 22, 30), ('they', 30, 38)]
+4 how:0.12, outside:0.06, tell:0.04, i:0.03
+7 how:0.15, are:0.07, outside:0.06, tell:0.05
+10 are:0.16, how:0.11, you:0.08, outside:0.04
+13 are:0.17, where:0.07, how:0.06, tired:0.05
+16 are:0.16, where:0.13, tired:0.07, they:0.04
+19 where:0.17, are:0.15, tired:0.07, very:0.07
+22 are:0.19, where:0.18, tired:0.07, my:0.07
+25 are:0.23, where:0.08, nurse:0.08, tired:0.07
+28 are:0.23, nurse:0.07, family:0.05, where:0.04
+31 they:0.21, thirsty:0.12, family:0.11, are:0.06
+34 they:0.20, thirsty:0.12, family:0.11, no:0.05
+
+t41450074 [('they', 2, 13), ('like', 13, 20), ('it', 20, 29), ('music', 29, 30)]
+4 they:0.11, my:0.05, hope:0.03, what:0.02
+7 they:0.15, you:0.07, my:0.05, i:0.04
+10 they:0.14, you:0.10, my:0.04, i:0.04
+13 like:0.13, they:0.11, need:0.06, do:0.05
+16 like:0.13, need:0.05, hope:0.05, right:0.04
+19 like:0.13, it:0.09, hope:0.05, my:0.03
+22 it:0.14, up:0.10, hope:0.05, my:0.05
+25 it:0.13, up:0.10, hope:0.05, music:0.04
+28 it:0.04, up:0.03, music:0.03, faith:0.01
+
+t53cbb8eb [('i', 2, 10), ('nurse', 10, 19), ('are', 19, 27), ('you', 27, 39), ('hope', 39, 41)]
+4 i:0.12, how:0.05, hello:0.04, you:0.04
+7 i:0.12, outside:0.05, how:0.05, hello:0.04
+10 nurse:0.06, outside:0.05, how:0.05, i:0.05
+13 nurse:0.12, thirsty:0.06, outside:0.03, you:0.02
+16 nurse:0.12, thirsty:0.08, you:0.05, they:0.03
+19 are:0.11, nurse:0.10, you:0.09, thirsty:0.06
+22 are:0.21, is:0.06, tell:0.05, they:0.04
+25 are:0.22, you:0.14, here:0.06, hope:0.04
+28 you:0.23, are:0.11, no:0.10, here:0.06
+31 you:0.24, do:0.09, they:0.08, no:0.07
+34 you:0.19, hope:0.13, do:0.09, closer:0.05
+37 you:0.09, hope:0.08, do:0.07, good:0.03
+
+tbfeb0ff2 [('i', 2, 9), ('hope', 9, 17), ('you', 17, 18), ('they', 18, 20), ('do', 20, 27), ('not', 27, 32), ('need', 32, 40), ('music', 40, 47)]
+4 i:0.23, you:0.00, how:0.00, hope:0.00
+7 i:0.25, hope:0.06, hello:0.01, no:0.01
+10 hope:0.26, hello:0.04, no:0.04, i:0.03
+13 hope:0.24, they:0.07, hello:0.04, you:0.04
+16 hope:0.20, they:0.16, you:0.16, do:0.09
+19 they:0.15, you:0.15, do:0.14, faith:0.08
+22 do:0.19, you:0.11, they:0.05, not:0.05
+25 do:0.18, not:0.10, you:0.06, my:0.05
+28 not:0.18, my:0.09, do:0.08, clean:0.04
+31 not:0.15, music:0.09, family:0.07, clean:0.06
+34 need:0.18, music:0.14, clean:0.09, feel:0.07
+37 need:0.18, music:0.14, going:0.11, clean:0.10
+40 music:0.14, going:0.11, need:0.11, clean:0.07
+43 music:0.12, going:0.05, please:0.04, thirsty:0.04
+
+te3243945 [('i', 2, 12), ('hope', 12, 18), ('that', 18, 22), ('good', 22, 27), ('here', 27, 35)]
+4 i:0.23, my:0.06, how:0.03, have:0.00
+7 i:0.23, my:0.07, how:0.03, have:0.02
+10 i:0.21, my:0.09, am:0.07, hope:0.05
+13 hope:0.16, i:0.12, my:0.09, am:0.06
+16 hope:0.12, i:0.05, tell:0.05, am:0.05
+19 that:0.08, it:0.06, you:0.05, need:0.05
+22 good:0.10, is:0.07, that:0.06, clean:0.05
+25 good:0.13, here:0.07, is:0.04, clean:0.04
+28 here:0.13, good:0.12, it:0.04, not:0.03
+31 here:0.13, good:0.08, it:0.03, not:0.03
+
+tca769afd [('you', 2, 4), ('i', 4, 13), ('you', 13, 17), ('it', 17, 20), ('is', 20, 25), ('hope', 25, 38), ('you', 38, 39), ('they', 39, 40), ('you', 40, 42), ('are', 42, 48), ('comfortable', 48, 66), ('good', 66, 67), ('here', 67, 69)]
+4 i:0.13, you:0.12, how:0.10, it:0.09
+7 i:0.22, it:0.17, you:0.14, is:0.13
+10 i:0.25, it:0.19, you:0.19, they:0.15
+13 you:0.24, i:0.24, it:0.19, they:0.17
+16 you:0.20, it:0.19, they:0.15, i:0.15
+19 it:0.18, is:0.16, need:0.10, they:0.09
+22 is:0.19, they:0.10, need:0.10, it:0.10
+25 hope:0.13, is:0.12, have:0.07, i:0.05
+28 hope:0.22, going:0.10, hello:0.06, faith:0.03
+31 hope:0.23, going:0.09, you:0.06, hello:0.06
+34 hope:0.22, going:0.07, you:0.06, hello:0.04
+37 hope:0.16, you:0.15, they:0.13, my:0.04
+40 you:0.14, they:0.12, are:0.08, hope:0.05
+43 are:0.15, you:0.12, feel:0.07, hope:0.05
+46 are:0.17, feel:0.09, nurse:0.08, comfortable:0.06
+49 comfortable:0.29, are:0.15, not:0.03, no:0.03
+52 comfortable:0.36, not:0.06, good:0.05, tired:0.04
+55 comfortable:0.36, good:0.07, closer:0.03, tired:0.03
+58 comfortable:0.35, good:0.09, you:0.03, thirsty:0.02
+61 comfortable:0.31, good:0.08, here:0.03, you:0.03
+64 comfortable:0.21, good:0.06, here:0.03, you:0.02
+67 here:0.02, good:0.01, you:0.00, comfortable:0.00
+
+td133fe68 [('my', 2, 16), ('family', 16, 27), ('is', 27, 33), ('not', 33, 37), ('very', 37, 46), ('good', 46, 50), ('here', 50, 60), ('are', 60, 61)]
+4 my:0.12, i:0.06, they:0.06, how:0.05
+7 my:0.18, how:0.08, i:0.07, they:0.06
+10 my:0.21, how:0.07, i:0.07, they:0.05
+13 my:0.21, i:0.06, how:0.05, they:0.04
+16 family:0.17, my:0.14, nurse:0.06, faith:0.04
+19 family:0.18, glasses:0.05, nurse:0.04, faith:0.03
+22 family:0.18, glasses:0.03, very:0.02, tell:0.02
+25 family:0.15, need:0.07, faith:0.03, glasses:0.03
+28 is:0.13, family:0.10, they:0.04, it:0.04
+31 is:0.13, not:0.07, i:0.06, my:0.06
+34 not:0.11, very:0.06, right:0.05, my:0.05
+37 very:0.14, here:0.09, not:0.09, right:0.04
+40 very:0.25, here:0.12, not:0.06, are:0.05
+43 very:0.26, here:0.09, right:0.07, are:0.06
+46 good:0.16, very:0.16, right:0.09, tired:0.06
+49 good:0.15, here:0.13, tired:0.10, very:0.10
+52 here:0.14, tired:0.10, very:0.10, good:0.06
+55 here:0.14, tired:0.09, are:0.05, where:0.03
+58 here:0.07, tired:0.06, are:0.04, how:0.01
+
+t588781f6 [('i', 2, 14), ('my', 14, 16), ('like', 16, 17), ('right', 17, 24), ('here', 24, 35)]
+4 i:0.16, my:0.08, that:0.03, tell:0.03
+7 i:0.20, my:0.09, that:0.03, they:0.03
+10 i:0.20, my:0.09, they:0.08, do:0.03
+13 i:0.13, my:0.10, they:0.09, hope:0.09
+16 like:0.11, my:0.10, right:0.08, hope:0.07
+19 right:0.16, like:0.08, not:0.08, hope:0.06
+22 right:0.22, here:0.18, it:0.09, not:0.09
+25 here:0.34, it:0.11, right:0.06, feel:0.06
+28 here:0.42, feel:0.06, computer:0.03, tired:0.01
+31 here:0.42, computer:0.03, feel:0.03, thirsty:0.01
+
+tced8ecfc [('i', 2, 13), ('hope', 13, 19), ('my', 19, 20), ('feel', 20, 23), ('comfortable', 23, 44), ('am', 44, 45), ('family', 45, 51), ('have', 51, 52)]
+4 i:0.26, my:0.10, hello:0.06, that:0.05
+7 i:0.27, my:0.14, that:0.08, hello:0.06
+10 i:0.27, my:0.14, like:0.08, that:0.08
+13 hope:0.20, i:0.16, like:0.15, my:0.09
+16 hope:0.17, like:0.15, my:0.09, not:0.08
+19 my:0.13, hope:0.11, feel:0.10, have:0.07
+22 feel:0.17, are:0.08, my:0.08, nurse:0.08
+25 comfortable:0.31, are:0.09, help:0.06, have:0.05
+28 comfortable:0.38, family:0.08, are:0.06, no:0.04
+31 comfortable:0.38, family:0.08, are:0.05, good:0.03
+34 comfortable:0.35, family:0.08, tell:0.06, are:0.04
+37 comfortable:0.32, family:0.06, tell:0.03, my:0.03
+40 comfortable:0.24, family:0.06, my:0.06, i:0.05
+43 comfortable:0.12, am:0.07, family:0.07, my:0.03
+46 family:0.07, am:0.06, here:0.05, have:0.03
+49 family:0.04, here:0.03, have:0.03, help:0.02
+
+t848cf4da [('i', 2, 17), ('my', 17, 23)]
+4 i:0.18, it:0.12, hello:0.08, you:0.07
+7 i:0.23, it:0.14, you:0.14, hello:0.10
+10 i:0.23, you:0.14, my:0.13, it:0.10
+13 i:0.22, my:0.16, hello:0.08, it:0.06
+16 i:0.19, my:0.18, hello:0.06, am:0.05
+19 my:0.17, i:0.09, am:0.07, music:0.05
+
+td6e48564 [('where', 2, 15), ('is', 15, 21), ('that', 21, 31)]
+4 where:0.23, you:0.15, they:0.09, what:0.05
+7 where:0.25, you:0.15, they:0.09, what:0.05
+10 where:0.25, you:0.10, very:0.09, they:0.07
+13 where:0.22, very:0.08, you:0.07, need:0.06
+16 is:0.16, need:0.06, are:0.04, where:0.04
+19 is:0.12, need:0.05, my:0.05, it:0.04
+22 that:0.12, it:0.09, my:0.03, bad:0.03
+25 that:0.10, it:0.08, bad:0.04, right:0.03
+28 that:0.09, it:0.06, bad:0.04, right:0.03
+
+t0575fbc6 [('i', 2, 5), ('my', 5, 11), ('hope', 11, 20), ('you', 20, 22), ('is', 22, 25), ('my', 25, 32), ('success', 32, 44), ('is', 44, 45), ('it', 45, 47), ('success', 47, 48), ('it', 48, 51)]
+4 i:0.15, my:0.14, they:0.05, hope:0.02
+7 my:0.19, i:0.17, they:0.07, not:0.01
+10 my:0.19, hope:0.14, i:0.14, they:0.05
+13 hope:0.20, my:0.08, faith:0.05, okay:0.03
+16 hope:0.21, faith:0.05, family:0.04, okay:0.04
+19 hope:0.18, you:0.14, is:0.14, they:0.06
+22 is:0.15, you:0.13, hope:0.08, they:0.06
+25 my:0.15, is:0.10, like:0.05, not:0.04
+28 my:0.17, like:0.04, right:0.04, have:0.04
+31 my:0.10, success:0.07, right:0.04, have:0.04
+34 success:0.10, music:0.06, have:0.04, is:0.04
+37 success:0.10, is:0.07, music:0.06, do:0.04
+40 success:0.10, is:0.08, it:0.06, music:0.04
+43 success:0.09, is:0.09, it:0.07, family:0.03
+46 it:0.07, success:0.06, is:0.03, what:0.02
+49 it:0.02, what:0.01, okay:0.01, success:0.01
+
+t6453e6ae [('i', 2, 10), ('do', 10, 16), ('not', 16, 24), ('have', 24, 32), ('up', 32, 35), ('hungry', 35, 36)]
+4 i:0.23, do:0.05, they:0.03, tell:0.01
+7 i:0.23, they:0.11, do:0.09, tell:0.03
+10 do:0.21, hope:0.20, they:0.09, i:0.09
+13 do:0.28, hope:0.18, need:0.06, not:0.05
+16 not:0.24, do:0.24, hope:0.16, they:0.04
+19 not:0.24, do:0.10, are:0.09, i:0.08
+22 not:0.18, i:0.09, need:0.09, have:0.08
+25 have:0.13, is:0.11, up:0.07, not:0.06
+28 have:0.12, is:0.09, up:0.08, am:0.02
+31 have:0.08, up:0.08, is:0.07, thirsty:0.01
+34 up:0.04, is:0.04, hungry:0.04, have:0.01
+
+t4d2d7415 [('you', 2, 5), ('what', 5, 16), ('how', 16, 21), ('do', 21, 23), ('they', 23, 30), ('do', 30, 39), ('not', 39, 41), ('right', 41, 52)]
+4 you:0.11, what:0.11, how:0.08, i:0.05
+7 what:0.17, you:0.15, how:0.10, i:0.09
+10 what:0.21, you:0.18, i:0.13, how:0.12
+13 what:0.21, you:0.18, how:0.15, i:0.12
+16 how:0.18, you:0.15, what:0.12, i:0.08
+19 how:0.14, you:0.11, do:0.07, they:0.06
+22 do:0.10, they:0.09, how:0.06, you:0.06
+25 they:0.13, do:0.09, you:0.07, need:0.05
+28 they:0.15, do:0.10, you:0.08, need:0.07
+31 do:0.19, they:0.07, need:0.07, you:0.05
+34 do:0.20, you:0.09, need:0.07, clean:0.06
+37 do:0.16, not:0.09, you:0.07, clean:0.05
+40 not:0.11, right:0.11, my:0.09, it:0.08
+43 right:0.16, like:0.11, not:0.10, nurse:0.07
+46 right:0.17, like:0.09, nurse:0.09, my:0.06
+49 right:0.09, nurse:0.07, it:0.06, here:0.03

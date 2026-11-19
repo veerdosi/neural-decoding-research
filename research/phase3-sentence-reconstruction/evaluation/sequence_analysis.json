@@ -1,0 +1,149 @@
+{
+  "n_unique_confirmation_recordings": 62,
+  "n_independent_correct_signal_calls": 2,
+  "same_recordings_not_124_independent_trials": true,
+  "sequence_agreement": 0.9516129032258065,
+  "correctness_agreement": 0.967741935483871,
+  "descriptive_trial_wilson_interval": [
+    0.6040746035801138,
+    0.8211893638579774
+  ],
+  "interval_scope": "Within this session only; Wilson ignores serial dependence and is descriptive. No participant-population estimate.",
+  "bag_oracle_uniform_order_accuracy": 0.3333333333333333,
+  "conditional_permutation": {
+    "n": 20000,
+    "groups": "Word counts (bag) crossed with chronological thirds; same label permutation across both Sol calls",
+    "observed_mean_correct": 45.0,
+    "null_mean_correct": 17.786125,
+    "p_one_sided": 4.999750012499375e-05
+  },
+  "paired_raw_development_timed_lda": {
+    "sol_correct": 45,
+    "baseline_correct": 41,
+    "sol_only_correct": 11,
+    "baseline_only_correct": 7,
+    "mcnemar_two_sided_descriptive_p": 0.480682373046875,
+    "moving_block_bootstrap_sensitivity": [
+      {
+        "block_length_trials": 5,
+        "paired_accuracy_difference_interval": [
+          -0.04838709677419355,
+          0.16129032258064516
+        ]
+      },
+      {
+        "block_length_trials": 10,
+        "paired_accuracy_difference_interval": [
+          -0.016129032258064516,
+          0.14516129032258066
+        ]
+      },
+      {
+        "block_length_trials": 20,
+        "paired_accuracy_difference_interval": [
+          -0.016129032258064516,
+          0.14516129032258066
+        ]
+      }
+    ],
+    "qualification": "Baseline gets extra mixed-order development labels for timing; 62 correlated same-session trials, no superiority claim."
+  },
+  "by_sequence": [
+    {
+      "tokens": [
+        "right",
+        "right",
+        "up"
+      ],
+      "n": 10,
+      "correct": 7,
+      "repeat_correct": 7
+    },
+    {
+      "tokens": [
+        "right",
+        "up",
+        "right"
+      ],
+      "n": 11,
+      "correct": 6,
+      "repeat_correct": 7
+    },
+    {
+      "tokens": [
+        "right",
+        "up",
+        "up"
+      ],
+      "n": 10,
+      "correct": 7,
+      "repeat_correct": 7
+    },
+    {
+      "tokens": [
+        "up",
+        "right",
+        "right"
+      ],
+      "n": 11,
+      "correct": 11,
+      "repeat_correct": 11
+    },
+    {
+      "tokens": [
+        "up",
+        "right",
+        "up"
+      ],
+      "n": 10,
+      "correct": 6,
+      "repeat_correct": 6
+    },
+    {
+      "tokens": [
+        "up",
+        "up",
+        "right"
+      ],
+      "n": 10,
+      "correct": 8,
+      "repeat_correct": 7
+    }
+  ],
+  "controls": {
+    "homogeneous_pc12_confirm": {
+      "exact_correct": 45,
+      "word_correct": 166,
+      "n": 62,
+      "donor_exact_correct": 45
+    },
+    "homogeneous_pc12_confirm_repeat": {
+      "exact_correct": 45,
+      "word_correct": 168,
+      "n": 62,
+      "donor_exact_correct": 45
+    },
+    "homogeneous_pc12_confirm_shuffle": {
+      "exact_correct": 13,
+      "word_correct": 95,
+      "n": 62,
+      "donor_exact_correct": 41
+    },
+    "homogeneous_pc12_confirm_nosignal": {
+      "exact_correct": 0,
+      "word_correct": 92,
+      "n": 62,
+      "donor_exact_correct": 0
+    },
+    "homogeneous_pc12_confirm_reversed": {
+      "exact_correct": 14,
+      "word_correct": 96,
+      "n": 62,
+      "donor_exact_correct": 14,
+      "reversed_truth_exact_correct": 49,
+      "reversed_truth_word_correct": 172,
+      "nonpalindrome_n": 41,
+      "nonpalindrome_reversed_correct": 36
+    }
+  }
+}

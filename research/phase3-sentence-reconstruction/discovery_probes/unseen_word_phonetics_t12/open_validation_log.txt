@@ -1,0 +1,12 @@
+{'kind': 'rel', 'n': 5, 'art': 0.9, 'alpha': 1, 'median_rank': 64.0, 'mean_log_rank': 4.137280479232549, 'top10': 8}
+{'kind': 'rel', 'n': 3, 'art': 1, 'alpha': 1, 'median_rank': 38.5, 'mean_log_rank': 3.7947349180313164, 'top10': 10}
+{'kind': 'abs', 'n': 5, 'art': 0.5, 'alpha': 0.3, 'median_rank': 1210.0, 'mean_log_rank': 6.872050241639649, 'top10': 2}
+{'kind': 'abs', 'n': 3, 'art': 0.5, 'alpha': 1, 'median_rank': 1413.5, 'mean_log_rank': 6.7504774384337, 'top10': 3}
+{'kind': 'mix', 'n': 5, 'art': 0.5, 'alpha': 0.3, 'median_rank': 354.0, 'mean_log_rank': 5.782113097567602, 'top10': 3}
+{'kind': 'rel', 'n': 5, 'art': 0.5, 'alpha': 1, 'median_rank': 163.0, 'mean_log_rank': 5.047637302266413, 'top10': 6}
+{'kind': 'rel', 'n': 5, 'art': 0.9, 'alpha': 3, 'median_rank': 274.0, 'mean_log_rank': 5.434271267394406, 'top10': 2}
+{'kind': 'rel', 'n': 5, 'art': 0.9, 'alpha': 0.3, 'median_rank': 40.5, 'mean_log_rank': 3.838183835339999, 'top10': 10}
+{'kind': 'rel', 'n': 5, 'art': 0.9, 'alpha': 10, 'median_rank': 1380.5, 'mean_log_rank': 6.954119358088521, 'top10': 1}
+{'kind': 'abs', 'n': 5, 'art': 0.5, 'alpha': 3, 'median_rank': 503.0, 'mean_log_rank': 6.157614873184062, 'top10': 4}
+{'kind': 'abs', 'n': 5, 'art': 0.5, 'alpha': 10, 'median_rank': 932.5, 'mean_log_rank': 6.557286139492665, 'top10': 2}
+{'kind': 'bag', 'n': 1, 'art': 0.9, 'alpha': 3, 'median_rank': 240.5, 'mean_log_rank': 5.3056762565256195, 'top10': 5}

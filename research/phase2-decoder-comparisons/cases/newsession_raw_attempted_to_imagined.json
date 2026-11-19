@@ -1,0 +1,11 @@
+{
+  "name": "newsession_raw_attempted_to_imagined",
+  "dataset": "t12_newsession",
+  "representation": "raw",
+  "n_per_word": 10,
+  "draw": 0,
+  "query_n": 70,
+  "evaluation_status": "new_session_exploratory_after_baseline_scoring",
+  "calibration_behavior": "attempted",
+  "evaluation_behavior": "imagined"
+}

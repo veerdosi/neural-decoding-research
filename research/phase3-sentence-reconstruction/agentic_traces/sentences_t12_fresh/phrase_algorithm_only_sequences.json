@@ -1,0 +1,8001 @@
+{
+  "method": "Deterministic observed-phrase retrieval and semi-Markov assembly.\nExtract every contiguous 1..5-token calibration interval under the saved\ntranscript-constrained alignment. Compare cosine trajectories resampled to\n10 temporal points. Duration ratio penalizes extreme stretches. A beam DP\ncovers all query frames without a language model or given word counts.\n",
+  "queries": {
+    "tda989373": [
+      {
+        "score": 1.4930408194447415,
+        "tokens": [
+          "they",
+          "need",
+          "what"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 17,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they",
+                "need"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.21363664135383836
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "what"
+              ],
+              "start": 27,
+              "end": 35
+            },
+            "similarity": 0.18407017130530942
+          }
+        ]
+      },
+      {
+        "score": 1.474448037128254,
+        "tokens": [
+          "please",
+          "they",
+          "need",
+          "what"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c112",
+              "tokens": [
+                "please"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.24529894025125426
+          },
+          {
+            "start": 5,
+            "end": 16,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they",
+                "need"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.2402607573419235
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "what"
+              ],
+              "start": 27,
+              "end": 35
+            },
+            "similarity": 0.17946036070166657
+          }
+        ]
+      },
+      {
+        "score": 1.4152542401399455,
+        "tokens": [
+          "they",
+          "need",
+          "that"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 17,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they",
+                "need"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.21363664135383836
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "that"
+              ],
+              "start": 26,
+              "end": 33
+            },
+            "similarity": 0.17295780283319573
+          }
+        ]
+      },
+      {
+        "score": 1.412312050031653,
+        "tokens": [
+          "they",
+          "they",
+          "need",
+          "what"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 6
+            },
+            "similarity": 0.22458694455238737
+          },
+          {
+            "start": 5,
+            "end": 16,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they",
+                "need"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.2402607573419235
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "what"
+              ],
+              "start": 27,
+              "end": 35
+            },
+            "similarity": 0.17946036070166657
+          }
+        ]
+      },
+      {
+        "score": 1.3654010259670475,
+        "tokens": [
+          "family",
+          "they",
+          "what"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.21868246729100324
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "exemplar": {
+              "id": "c018",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 18
+            },
+            "similarity": 0.2205350025648736
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "what"
+              ],
+              "start": 27,
+              "end": 35
+            },
+            "similarity": 0.18407017130530942
+          }
+        ]
+      },
+      {
+        "score": 1.3404115049554388,
+        "tokens": [
+          "family",
+          "they",
+          "that"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.20099407760885904
+          },
+          {
+            "start": 9,
+            "end": 18,
+            "exemplar": {
+              "id": "c018",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 18
+            },
+            "similarity": 0.22618059003247803
+          },
+          {
+            "start": 18,
+            "end": 24,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "that"
+              ],
+              "start": 26,
+              "end": 33
+            },
+            "similarity": 0.18630460856685394
+          }
+        ]
+      },
+      {
+        "score": 1.3402827025205473,
+        "tokens": [
+          "please",
+          "they",
+          "need",
+          "that"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c112",
+              "tokens": [
+                "please"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.24529894025125426
+          },
+          {
+            "start": 5,
+            "end": 17,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they",
+                "need"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.22780677182786788
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "that"
+              ],
+              "start": 26,
+              "end": 33
+            },
+            "similarity": 0.17295780283319573
+          }
+        ]
+      },
+      {
+        "score": 1.330417411902057,
+        "tokens": [
+          "family",
+          "do",
+          "need",
+          "what"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.22711576131384337
+          },
+          {
+            "start": 7,
+            "end": 12,
+            "exemplar": {
+              "id": "c023",
+              "tokens": [
+                "do"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.2321156022716529
+          },
+          {
+            "start": 12,
+            "end": 17,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "need"
+              ],
+              "start": 9,
+              "end": 12
+            },
+            "similarity": 0.261153878967482
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "what"
+              ],
+              "start": 27,
+              "end": 35
+            },
+            "similarity": 0.18407017130530942
+          }
+        ]
+      }
+    ],
+    "tdd25032b": [
+      {
+        "score": 7.7623223994098245,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "they",
+          "they",
+          "nurse",
+          "clean"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 38,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do"
+              ],
+              "start": 7,
+              "end": 22
+            },
+            "similarity": 0.32166069679784987
+          },
+          {
+            "start": 38,
+            "end": 44,
+            "exemplar": {
+              "id": "c025",
+              "tokens": [
+                "they"
+              ],
+              "start": 12,
+              "end": 20
+            },
+            "similarity": 0.18885938067324576
+          },
+          {
+            "start": 44,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.22896408984552616
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.22084180013167573
+          },
+          {
+            "start": 61,
+            "end": 68,
+            "exemplar": {
+              "id": "c030",
+              "tokens": [
+                "clean"
+              ],
+              "start": 25,
+              "end": 31
+            },
+            "similarity": 0.1794882047025695
+          }
+        ]
+      },
+      {
+        "score": 7.741236121490126,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "they",
+          "they",
+          "nurse",
+          "thirsty"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 38,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do"
+              ],
+              "start": 7,
+              "end": 22
+            },
+            "similarity": 0.32166069679784987
+          },
+          {
+            "start": 38,
+            "end": 44,
+            "exemplar": {
+              "id": "c025",
+              "tokens": [
+                "they"
+              ],
+              "start": 12,
+              "end": 20
+            },
+            "similarity": 0.18885938067324576
+          },
+          {
+            "start": 44,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.22896408984552616
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.22084180013167573
+          },
+          {
+            "start": 61,
+            "end": 68,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "thirsty"
+              ],
+              "start": 27,
+              "end": 34
+            },
+            "similarity": 0.17647587928546976
+          }
+        ]
+      },
+      {
+        "score": 7.7296688466557555,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "not",
+          "they",
+          "nurse",
+          "clean"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 45,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.26600779504373645
+          },
+          {
+            "start": 45,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2392398126125859
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.22084180013167573
+          },
+          {
+            "start": 61,
+            "end": 68,
+            "exemplar": {
+              "id": "c030",
+              "tokens": [
+                "clean"
+              ],
+              "start": 25,
+              "end": 31
+            },
+            "similarity": 0.1794882047025695
+          }
+        ]
+      },
+      {
+        "score": 7.708582568736057,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "not",
+          "they",
+          "nurse",
+          "thirsty"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 45,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.26600779504373645
+          },
+          {
+            "start": 45,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2392398126125859
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.22084180013167573
+          },
+          {
+            "start": 61,
+            "end": 68,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "thirsty"
+              ],
+              "start": 27,
+              "end": 34
+            },
+            "similarity": 0.17647587928546976
+          }
+        ]
+      },
+      {
+        "score": 7.603480930136726,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "they",
+          "they",
+          "nurse",
+          "they"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 38,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do"
+              ],
+              "start": 7,
+              "end": 22
+            },
+            "similarity": 0.32166069679784987
+          },
+          {
+            "start": 38,
+            "end": 44,
+            "exemplar": {
+              "id": "c025",
+              "tokens": [
+                "they"
+              ],
+              "start": 12,
+              "end": 20
+            },
+            "similarity": 0.18885938067324576
+          },
+          {
+            "start": 44,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.22896408984552616
+          },
+          {
+            "start": 53,
+            "end": 60,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.2271054611090929
+          },
+          {
+            "start": 60,
+            "end": 68,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "they"
+              ],
+              "start": 4,
+              "end": 14
+            },
+            "similarity": 0.15932151711683046
+          }
+        ]
+      },
+      {
+        "score": 7.5767087575585235,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "they",
+          "they",
+          "nurse",
+          "coming"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 38,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do"
+              ],
+              "start": 7,
+              "end": 22
+            },
+            "similarity": 0.32166069679784987
+          },
+          {
+            "start": 38,
+            "end": 44,
+            "exemplar": {
+              "id": "c025",
+              "tokens": [
+                "they"
+              ],
+              "start": 12,
+              "end": 20
+            },
+            "similarity": 0.18885938067324576
+          },
+          {
+            "start": 44,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.22896408984552616
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.22084180013167573
+          },
+          {
+            "start": 61,
+            "end": 68,
+            "exemplar": {
+              "id": "c012",
+              "tokens": [
+                "coming"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.15297197015238373
+          }
+        ]
+      },
+      {
+        "score": 7.570827377382657,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "not",
+          "they",
+          "nurse",
+          "they"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.27314584798302727
+          },
+          {
+            "start": 10,
+            "end": 23,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my",
+                "family"
+              ],
+              "start": 10,
+              "end": 23
+            },
+            "similarity": 0.28886617207363513
+          },
+          {
+            "start": 23,
+            "end": 45,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.26600779504373645
+          },
+          {
+            "start": 45,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2392398126125859
+          },
+          {
+            "start": 53,
+            "end": 60,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.2271054611090929
+          },
+          {
+            "start": 60,
+            "end": 68,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "they"
+              ],
+              "start": 4,
+              "end": 14
+            },
+            "similarity": 0.15932151711683046
+          }
+        ]
+      },
+      {
+        "score": 7.567464991984218,
+        "tokens": [
+          "tell",
+          "my",
+          "i",
+          "do",
+          "not",
+          "they",
+          "nurse",
+          "clean"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.289651464410172
+          },
+          {
+            "start": 9,
+            "end": 20,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "my"
+              ],
+              "start": 10,
+              "end": 18
+            },
+            "similarity": 0.2742813065465655
+          },
+          {
+            "start": 20,
+            "end": 29,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "i"
+              ],
+              "start": 13,
+              "end": 20
+            },
+            "similarity": 0.33640570114133256
+          },
+          {
+            "start": 29,
+            "end": 45,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "do",
+                "not"
+              ],
+              "start": 14,
+              "end": 30
+            },
+            "similarity": 0.22863054524729504
+          },
+          {
+            "start": 45,
+            "end": 53,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2392398126125859
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "nurse"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.22084180013167573
+          },
+          {
+            "start": 61,
+            "end": 68,
+            "exemplar": {
+              "id": "c030",
+              "tokens": [
+                "clean"
+              ],
+              "start": 25,
+              "end": 31
+            },
+            "similarity": 0.1794882047025695
+          }
+        ]
+      }
+    ],
+    "t5ee44a7f": [
+      {
+        "score": 2.5962335042062232,
+        "tokens": [
+          "my",
+          "music",
+          "is",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 14,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my",
+                "music"
+              ],
+              "start": 2,
+              "end": 14
+            },
+            "similarity": 0.23250257140788327
+          },
+          {
+            "start": 14,
+            "end": 24,
+            "exemplar": {
+              "id": "c100",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.2137634540865977
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.426552612097387,
+        "tokens": [
+          "my",
+          "music",
+          "they",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my",
+                "music"
+              ],
+              "start": 2,
+              "end": 14
+            },
+            "similarity": 0.22771284784835774
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "they"
+              ],
+              "start": 23,
+              "end": 32
+            },
+            "similarity": 0.19974638706923217
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.391836546731277,
+        "tokens": [
+          "my",
+          "like",
+          "they",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.24665328149837007
+          },
+          {
+            "start": 9,
+            "end": 17,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "like"
+              ],
+              "start": 21,
+              "end": 29
+            },
+            "similarity": 0.2189221280436397
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "they"
+              ],
+              "start": 23,
+              "end": 32
+            },
+            "similarity": 0.20933120649256032
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.303551730471384,
+        "tokens": [
+          "need",
+          "bring",
+          "is",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c081",
+              "tokens": [
+                "need"
+              ],
+              "start": 10,
+              "end": 14
+            },
+            "similarity": 0.2685948545455113
+          },
+          {
+            "start": 6,
+            "end": 14,
+            "exemplar": {
+              "id": "c105",
+              "tokens": [
+                "bring"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.20537120812221435
+          },
+          {
+            "start": 14,
+            "end": 24,
+            "exemplar": {
+              "id": "c100",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.2137634540865977
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.2963386396814998,
+        "tokens": [
+          "my",
+          "music",
+          "it",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my",
+                "music"
+              ],
+              "start": 2,
+              "end": 14
+            },
+            "similarity": 0.22771284784835774
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "exemplar": {
+              "id": "c075",
+              "tokens": [
+                "it"
+              ],
+              "start": 8,
+              "end": 18
+            },
+            "similarity": 0.18527816791191135
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.2560827942705357,
+        "tokens": [
+          "my",
+          "bring",
+          "is",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.24665328149837007
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c105",
+              "tokens": [
+                "bring"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.18866143529406426
+          },
+          {
+            "start": 14,
+            "end": 24,
+            "exemplar": {
+              "id": "c100",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.2137634540865977
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.2493358137051316,
+        "tokens": [
+          "my",
+          "like",
+          "is",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.24665328149837007
+          },
+          {
+            "start": 9,
+            "end": 15,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "like"
+              ],
+              "start": 21,
+              "end": 29
+            },
+            "similarity": 0.19926325068236905
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "exemplar": {
+              "id": "c100",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.20873502585296444
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.26809468440760786
+          }
+        ]
+      },
+      {
+        "score": 2.240147869221703,
+        "tokens": [
+          "my",
+          "like",
+          "do",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c016",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.24665328149837007
+          },
+          {
+            "start": 9,
+            "end": 17,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "like"
+              ],
+              "start": 21,
+              "end": 29
+            },
+            "similarity": 0.2189221280436397
+          },
+          {
+            "start": 17,
+            "end": 23,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "do"
+              ],
+              "start": 9,
+              "end": 14
+            },
+            "similarity": 0.18793366074287285
+          },
+          {
+            "start": 23,
+            "end": 30,
+            "exemplar": {
+              "id": "c076",
+              "tokens": [
+                "here"
+              ],
+              "start": 29,
+              "end": 35
+            },
+            "similarity": 0.25637084427525114
+          }
+        ]
+      }
+    ],
+    "tdf8f9fae": [
+      {
+        "score": 2.1678942268396737,
+        "tokens": [
+          "i",
+          "hope",
+          "is",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.25028635783985165
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c107",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 12
+            },
+            "similarity": 0.1973725873892118
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 2.1592614116780404,
+        "tokens": [
+          "i",
+          "hope",
+          "you",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.25028635783985165
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "you"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.19593378486227295
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 1.9302478741624367,
+        "tokens": [
+          "i",
+          "hope",
+          "my",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 16,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.23676378160546369
+          },
+          {
+            "start": 16,
+            "end": 21,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "my"
+              ],
+              "start": 26,
+              "end": 31
+            },
+            "similarity": 0.17712377621992276
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 1.8921777091681928,
+        "tokens": [
+          "i",
+          "hope",
+          "i",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.25028635783985165
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.151419834443965
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 1.7883541532032903,
+        "tokens": [
+          "i",
+          "hope",
+          "is",
+          "you",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.25028635783985165
+          },
+          {
+            "start": 15,
+            "end": 18,
+            "exemplar": {
+              "id": "c107",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 12
+            },
+            "similarity": 0.17117117392421138
+          },
+          {
+            "start": 18,
+            "end": 21,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "you"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.2103939763087511
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 1.7713521453573087,
+        "tokens": [
+          "i",
+          "hope",
+          "do",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.25028635783985165
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c068",
+              "tokens": [
+                "do"
+              ],
+              "start": 24,
+              "end": 30
+            },
+            "similarity": 0.1312822404754843
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 1.7677393487835362,
+        "tokens": [
+          "i",
+          "hope",
+          "they",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 16,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.23676378160546369
+          },
+          {
+            "start": 16,
+            "end": 21,
+            "exemplar": {
+              "id": "c051",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.14462207114414263
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.29248401264658286
+          }
+        ]
+      },
+      {
+        "score": 1.7547978300391684,
+        "tokens": [
+          "i",
+          "hope",
+          "what",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c001",
+              "tokens": [
+                "i",
+                "hope"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.25028635783985165
+          },
+          {
+            "start": 15,
+            "end": 20,
+            "exemplar": {
+              "id": "c067",
+              "tokens": [
+                "what"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.13551335843039883
+          },
+          {
+            "start": 20,
+            "end": 25,
+            "exemplar": {
+              "id": "c066",
+              "tokens": [
+                "have"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.25270167719382064
+          }
+        ]
+      }
+    ],
+    "t4f16b000": [
+      {
+        "score": 0.8703205315370602,
+        "tokens": [
+          "are",
+          "very",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "are"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.27010497241821213
+          },
+          {
+            "start": 5,
+            "end": 12,
+            "exemplar": {
+              "id": "c086",
+              "tokens": [
+                "very"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.20062800101479775
+          },
+          {
+            "start": 12,
+            "end": 21,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "have"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.17506773413098217
+          }
+        ]
+      },
+      {
+        "score": 0.861246508144681,
+        "tokens": [
+          "is",
+          "are",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "is"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.22178673637736282
+          },
+          {
+            "start": 9,
+            "end": 12,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "are"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.21770991544143387
+          },
+          {
+            "start": 12,
+            "end": 21,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "have"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.17506773413098217
+          }
+        ]
+      },
+      {
+        "score": 0.8319081073098219,
+        "tokens": [
+          "is",
+          "are",
+          "coming"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "is"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.22178673637736282
+          },
+          {
+            "start": 9,
+            "end": 13,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "are"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.2024530478261863
+          },
+          {
+            "start": 13,
+            "end": 21,
+            "exemplar": {
+              "id": "c047",
+              "tokens": [
+                "coming"
+              ],
+              "start": 16,
+              "end": 25
+            },
+            "similarity": 0.17369859517044212
+          }
+        ]
+      },
+      {
+        "score": 0.8226907906300702,
+        "tokens": [
+          "hungry",
+          "are",
+          "coming"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "hungry"
+              ],
+              "start": 55,
+              "end": 63
+            },
+            "similarity": 0.21177512436944745
+          },
+          {
+            "start": 10,
+            "end": 13,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "are"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.21963367810365123
+          },
+          {
+            "start": 13,
+            "end": 21,
+            "exemplar": {
+              "id": "c047",
+              "tokens": [
+                "coming"
+              ],
+              "start": 16,
+              "end": 25
+            },
+            "similarity": 0.17369859517044212
+          }
+        ]
+      },
+      {
+        "score": 0.8175848165783364,
+        "tokens": [
+          "is",
+          "need",
+          "coming"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "is"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.22178673637736282
+          },
+          {
+            "start": 9,
+            "end": 13,
+            "exemplar": {
+              "id": "c081",
+              "tokens": [
+                "need"
+              ],
+              "start": 10,
+              "end": 14
+            },
+            "similarity": 0.19887222514331493
+          },
+          {
+            "start": 13,
+            "end": 21,
+            "exemplar": {
+              "id": "c047",
+              "tokens": [
+                "coming"
+              ],
+              "start": 16,
+              "end": 25
+            },
+            "similarity": 0.17369859517044212
+          }
+        ]
+      },
+      {
+        "score": 0.8156648806965914,
+        "tokens": [
+          "am",
+          "very",
+          "have"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c012",
+              "tokens": [
+                "am"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.25188642213805584
+          },
+          {
+            "start": 5,
+            "end": 12,
+            "exemplar": {
+              "id": "c086",
+              "tokens": [
+                "very"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.20062800101479775
+          },
+          {
+            "start": 12,
+            "end": 21,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "have"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.17506773413098217
+          }
+        ]
+      },
+      {
+        "score": 0.8115518833492648,
+        "tokens": [
+          "are",
+          "very",
+          "how"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "are"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.27010497241821213
+          },
+          {
+            "start": 5,
+            "end": 12,
+            "exemplar": {
+              "id": "c086",
+              "tokens": [
+                "very"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.20062800101479775
+          },
+          {
+            "start": 12,
+            "end": 21,
+            "exemplar": {
+              "id": "c071",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.16853788433233824
+          }
+        ]
+      },
+      {
+        "score": 0.8097512452380571,
+        "tokens": [
+          "hungry",
+          "are",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "hungry"
+              ],
+              "start": 55,
+              "end": 63
+            },
+            "similarity": 0.21177512436944745
+          },
+          {
+            "start": 10,
+            "end": 14,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "are"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.19209298974208344
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c112",
+              "tokens": [
+                "faith"
+              ],
+              "start": 18,
+              "end": 25
+            },
+            "similarity": 0.18102547018773482
+          }
+        ]
+      }
+    ],
+    "t40a0a424": [
+      {
+        "score": 5.940544008797874,
+        "tokens": [
+          "hope",
+          "i",
+          "do",
+          "they",
+          "you",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "hope"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2350696200456719
+          },
+          {
+            "start": 6,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.34220944185560137
+          },
+          {
+            "start": 13,
+            "end": 19,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "do"
+              ],
+              "start": 20,
+              "end": 25
+            },
+            "similarity": 0.27123733420874757
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2305650891345718
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "exemplar": {
+              "id": "c046",
+              "tokens": [
+                "you"
+              ],
+              "start": 13,
+              "end": 16
+            },
+            "similarity": 0.23584343341900157
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.912550288928804,
+        "tokens": [
+          "no",
+          "i",
+          "do",
+          "they",
+          "you",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "no",
+                "i"
+              ],
+              "start": 2,
+              "end": 14
+            },
+            "similarity": 0.28070462302752974
+          },
+          {
+            "start": 13,
+            "end": 19,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "do"
+              ],
+              "start": 20,
+              "end": 25
+            },
+            "similarity": 0.27123733420874757
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2305650891345718
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "exemplar": {
+              "id": "c046",
+              "tokens": [
+                "you"
+              ],
+              "start": 13,
+              "end": 16
+            },
+            "similarity": 0.23584343341900157
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.846363476609287,
+        "tokens": [
+          "how",
+          "i",
+          "do",
+          "they",
+          "you",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.21152448699852547
+          },
+          {
+            "start": 6,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.34220944185560137
+          },
+          {
+            "start": 13,
+            "end": 19,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "do"
+              ],
+              "start": 20,
+              "end": 25
+            },
+            "similarity": 0.27123733420874757
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2305650891345718
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "exemplar": {
+              "id": "c046",
+              "tokens": [
+                "you"
+              ],
+              "start": 13,
+              "end": 16
+            },
+            "similarity": 0.23584343341900157
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.830267669164908,
+        "tokens": [
+          "hope",
+          "i",
+          "do",
+          "they",
+          "they",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "hope"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2350696200456719
+          },
+          {
+            "start": 6,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.34220944185560137
+          },
+          {
+            "start": 13,
+            "end": 20,
+            "exemplar": {
+              "id": "c080",
+              "tokens": [
+                "do"
+              ],
+              "start": 10,
+              "end": 17
+            },
+            "similarity": 0.25434628960027694
+          },
+          {
+            "start": 20,
+            "end": 27,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2596241557483785
+          },
+          {
+            "start": 27,
+            "end": 32,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "they"
+              ],
+              "start": 15,
+              "end": 19
+            },
+            "similarity": 0.18756281681321674
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.802273949295838,
+        "tokens": [
+          "no",
+          "i",
+          "do",
+          "they",
+          "they",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "no",
+                "i"
+              ],
+              "start": 2,
+              "end": 14
+            },
+            "similarity": 0.28070462302752974
+          },
+          {
+            "start": 13,
+            "end": 20,
+            "exemplar": {
+              "id": "c080",
+              "tokens": [
+                "do"
+              ],
+              "start": 10,
+              "end": 17
+            },
+            "similarity": 0.25434628960027694
+          },
+          {
+            "start": 20,
+            "end": 27,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2596241557483785
+          },
+          {
+            "start": 27,
+            "end": 32,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "they"
+              ],
+              "start": 15,
+              "end": 19
+            },
+            "similarity": 0.18756281681321674
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.788521860931681,
+        "tokens": [
+          "hope",
+          "i",
+          "do",
+          "have",
+          "you",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "hope"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2350696200456719
+          },
+          {
+            "start": 6,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.34220944185560137
+          },
+          {
+            "start": 13,
+            "end": 21,
+            "exemplar": {
+              "id": "c080",
+              "tokens": [
+                "do"
+              ],
+              "start": 10,
+              "end": 17
+            },
+            "similarity": 0.2476824008419524
+          },
+          {
+            "start": 21,
+            "end": 29,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "have"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.2149963392263082
+          },
+          {
+            "start": 29,
+            "end": 32,
+            "exemplar": {
+              "id": "c046",
+              "tokens": [
+                "you"
+              ],
+              "start": 13,
+              "end": 16
+            },
+            "similarity": 0.26414382424245364
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.760528141062611,
+        "tokens": [
+          "no",
+          "i",
+          "do",
+          "have",
+          "you",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "no",
+                "i"
+              ],
+              "start": 2,
+              "end": 14
+            },
+            "similarity": 0.28070462302752974
+          },
+          {
+            "start": 13,
+            "end": 21,
+            "exemplar": {
+              "id": "c080",
+              "tokens": [
+                "do"
+              ],
+              "start": 10,
+              "end": 17
+            },
+            "similarity": 0.2476824008419524
+          },
+          {
+            "start": 21,
+            "end": 29,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "have"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.2149963392263082
+          },
+          {
+            "start": 29,
+            "end": 32,
+            "exemplar": {
+              "id": "c046",
+              "tokens": [
+                "you"
+              ],
+              "start": 13,
+              "end": 16
+            },
+            "similarity": 0.26414382424245364
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      },
+      {
+        "score": 5.7556746070387295,
+        "tokens": [
+          "here",
+          "i",
+          "do",
+          "they",
+          "you",
+          "am",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c098",
+              "tokens": [
+                "here"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.1639457791880303
+          },
+          {
+            "start": 5,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.33237972923108283
+          },
+          {
+            "start": 13,
+            "end": 19,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "do"
+              ],
+              "start": 20,
+              "end": 25
+            },
+            "similarity": 0.27123733420874757
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.2305650891345718
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "exemplar": {
+              "id": "c046",
+              "tokens": [
+                "you"
+              ],
+              "start": 13,
+              "end": 16
+            },
+            "similarity": 0.23584343341900157
+          },
+          {
+            "start": 32,
+            "end": 47,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am",
+                "comfortable"
+              ],
+              "start": 30,
+              "end": 44
+            },
+            "similarity": 0.30792772629908927
+          }
+        ]
+      }
+    ],
+    "tf256b8ed": [
+      {
+        "score": 4.1650143317166,
+        "tokens": [
+          "tell",
+          "my",
+          "need",
+          "very",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "tell",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.24950673304787999
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.2282528463296945
+          },
+          {
+            "start": 23,
+            "end": 32,
+            "exemplar": {
+              "id": "c008",
+              "tokens": [
+                "very"
+              ],
+              "start": 15,
+              "end": 24
+            },
+            "similarity": 0.20198440492126418
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.35107776959503245
+          }
+        ]
+      },
+      {
+        "score": 4.074931787698258,
+        "tokens": [
+          "tell",
+          "my",
+          "need",
+          "you",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 16,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "tell",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.24670777427396637
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.21879485441459126
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c050",
+              "tokens": [
+                "you"
+              ],
+              "start": 21,
+              "end": 27
+            },
+            "similarity": 0.20365394297345715
+          },
+          {
+            "start": 30,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.31430449496725066
+          }
+        ]
+      },
+      {
+        "score": 3.9476860608401765,
+        "tokens": [
+          "how",
+          "my",
+          "need",
+          "very",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.2300757756651222
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "my"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2619850475525506
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.2282528463296945
+          },
+          {
+            "start": 23,
+            "end": 32,
+            "exemplar": {
+              "id": "c008",
+              "tokens": [
+                "very"
+              ],
+              "start": 15,
+              "end": 24
+            },
+            "similarity": 0.20198440492126418
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.35107776959503245
+          }
+        ]
+      },
+      {
+        "score": 3.924771763227726,
+        "tokens": [
+          "tell",
+          "my",
+          "tell",
+          "very",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 16,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "tell",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.24670777427396637
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.19649412741937033
+          },
+          {
+            "start": 23,
+            "end": 32,
+            "exemplar": {
+              "id": "c008",
+              "tokens": [
+                "very"
+              ],
+              "start": 15,
+              "end": 24
+            },
+            "similarity": 0.20198440492126418
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.35107776959503245
+          }
+        ]
+      },
+      {
+        "score": 3.905502191160218,
+        "tokens": [
+          "no",
+          "my",
+          "need",
+          "very",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c093",
+              "tokens": [
+                "no"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.2216390017291305
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "my"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2619850475525506
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.2282528463296945
+          },
+          {
+            "start": 23,
+            "end": 32,
+            "exemplar": {
+              "id": "c008",
+              "tokens": [
+                "very"
+              ],
+              "start": 15,
+              "end": 24
+            },
+            "similarity": 0.20198440492126418
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.35107776959503245
+          }
+        ]
+      },
+      {
+        "score": 3.9003010628628307,
+        "tokens": [
+          "tell",
+          "my",
+          "need",
+          "you",
+          "they",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "tell",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.24950673304787999
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.2282528463296945
+          },
+          {
+            "start": 23,
+            "end": 28,
+            "exemplar": {
+              "id": "c050",
+              "tokens": [
+                "you"
+              ],
+              "start": 21,
+              "end": 27
+            },
+            "similarity": 0.19120250765102656
+          },
+          {
+            "start": 28,
+            "end": 31,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "they"
+              ],
+              "start": 15,
+              "end": 19
+            },
+            "similarity": 0.23697584708450703
+          },
+          {
+            "start": 31,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.3354688353867727
+          }
+        ]
+      },
+      {
+        "score": 3.868988445794022,
+        "tokens": [
+          "tell",
+          "my",
+          "need",
+          "thirsty",
+          "they",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "tell",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.24950673304787999
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.2282528463296945
+          },
+          {
+            "start": 23,
+            "end": 27,
+            "exemplar": {
+              "id": "c071",
+              "tokens": [
+                "thirsty"
+              ],
+              "start": 11,
+              "end": 16
+            },
+            "similarity": 0.1688188511083808
+          },
+          {
+            "start": 27,
+            "end": 31,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "they"
+              ],
+              "start": 15,
+              "end": 19
+            },
+            "similarity": 0.24008801450158057
+          },
+          {
+            "start": 31,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.3354688353867727
+          }
+        ]
+      },
+      {
+        "score": 3.845149395347557,
+        "tokens": [
+          "how",
+          "my",
+          "need",
+          "you",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c082",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.2300757756651222
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "my"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2619850475525506
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "exemplar": {
+              "id": "c059",
+              "tokens": [
+                "need"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.21646955822839364
+          },
+          {
+            "start": 24,
+            "end": 30,
+            "exemplar": {
+              "id": "c050",
+              "tokens": [
+                "you"
+              ],
+              "start": 21,
+              "end": 27
+            },
+            "similarity": 0.20365394297345715
+          },
+          {
+            "start": 30,
+            "end": 39,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "good"
+              ],
+              "start": 25,
+              "end": 34
+            },
+            "similarity": 0.31430449496725066
+          }
+        ]
+      }
+    ],
+    "t12be1627": [
+      {
+        "score": 0.8056850434709311,
+        "tokens": [
+          "they",
+          "bring",
+          "tired"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.21639157846270815
+          },
+          {
+            "start": 9,
+            "end": 15,
+            "exemplar": {
+              "id": "c105",
+              "tokens": [
+                "bring"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.17817297436793764
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c070",
+              "tokens": [
+                "tired"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.19031769133739135
+          }
+        ]
+      },
+      {
+        "score": 0.7649031852371356,
+        "tokens": [
+          "they",
+          "family",
+          "tired"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.21639157846270815
+          },
+          {
+            "start": 9,
+            "end": 15,
+            "exemplar": {
+              "id": "c115",
+              "tokens": [
+                "family"
+              ],
+              "start": 11,
+              "end": 17
+            },
+            "similarity": 0.1713759979956384
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c070",
+              "tokens": [
+                "tired"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.19031769133739135
+          }
+        ]
+      },
+      {
+        "score": 0.7629864720761779,
+        "tokens": [
+          "they",
+          "bring",
+          "it"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.21639157846270815
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c105",
+              "tokens": [
+                "bring"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.20116480997331965
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "it"
+              ],
+              "start": 35,
+              "end": 42
+            },
+            "similarity": 0.16606019613866035
+          }
+        ]
+      },
+      {
+        "score": 0.7181121416451075,
+        "tokens": [
+          "they",
+          "going",
+          "tired"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.21639157846270815
+          },
+          {
+            "start": 9,
+            "end": 16,
+            "exemplar": {
+              "id": "c019",
+              "tokens": [
+                "going"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.16035855263362048
+          },
+          {
+            "start": 16,
+            "end": 21,
+            "exemplar": {
+              "id": "c070",
+              "tokens": [
+                "tired"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.2001722447941614
+          }
+        ]
+      },
+      {
+        "score": 0.7077385751295356,
+        "tokens": [
+          "they",
+          "like",
+          "tired"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.20310143408069356
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c036",
+              "tokens": [
+                "like"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.18379065708771497
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c070",
+              "tokens": [
+                "tired"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.19031769133739135
+          }
+        ]
+      },
+      {
+        "score": 0.7014989773530954,
+        "tokens": [
+          "family",
+          "like",
+          "tired"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c032",
+              "tokens": [
+                "family"
+              ],
+              "start": 10,
+              "end": 15
+            },
+            "similarity": 0.2005877240490118
+          },
+          {
+            "start": 6,
+            "end": 15,
+            "exemplar": {
+              "id": "c036",
+              "tokens": [
+                "like"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.18636021479252224
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c070",
+              "tokens": [
+                "tired"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.19031769133739135
+          }
+        ]
+      },
+      {
+        "score": 0.6812690271585878,
+        "tokens": [
+          "they",
+          "bring",
+          "you"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.21639157846270815
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c105",
+              "tokens": [
+                "bring"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.20116480997331965
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c050",
+              "tokens": [
+                "you"
+              ],
+              "start": 21,
+              "end": 27
+            },
+            "similarity": 0.1543862754361475
+          }
+        ]
+      },
+      {
+        "score": 0.6802714762083926,
+        "tokens": [
+          "they",
+          "bring",
+          "need"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.21639157846270815
+          },
+          {
+            "start": 9,
+            "end": 15,
+            "exemplar": {
+              "id": "c105",
+              "tokens": [
+                "bring"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.17817297436793764
+          },
+          {
+            "start": 15,
+            "end": 21,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need"
+              ],
+              "start": 32,
+              "end": 35
+            },
+            "similarity": 0.16941543012696827
+          }
+        ]
+      }
+    ],
+    "t42cfafec": [
+      {
+        "score": 3.161090611401622,
+        "tokens": [
+          "i",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c040",
+              "tokens": [
+                "i"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.2334176776020101
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2605800368875291
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.1946956915634419
+          },
+          {
+            "start": 23,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "faith"
+              ],
+              "start": 13,
+              "end": 21
+            },
+            "similarity": 0.32647454947297544
+          }
+        ]
+      },
+      {
+        "score": 3.157293865647112,
+        "tokens": [
+          "is",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c106",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 12
+            },
+            "similarity": 0.23265832845110807
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2605800368875291
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.1946956915634419
+          },
+          {
+            "start": 23,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "faith"
+              ],
+              "start": 13,
+              "end": 21
+            },
+            "similarity": 0.32647454947297544
+          }
+        ]
+      },
+      {
+        "score": 3.1456813830256465,
+        "tokens": [
+          "they",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c074",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.23033583192681495
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2605800368875291
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.1946956915634419
+          },
+          {
+            "start": 23,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "faith"
+              ],
+              "start": 13,
+              "end": 21
+            },
+            "similarity": 0.32647454947297544
+          }
+        ]
+      },
+      {
+        "score": 3.0401801543925,
+        "tokens": [
+          "you",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "you"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.20923558620018567
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2605800368875291
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.1946956915634419
+          },
+          {
+            "start": 23,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "faith"
+              ],
+              "start": 13,
+              "end": 21
+            },
+            "similarity": 0.32647454947297544
+          }
+        ]
+      },
+      {
+        "score": 3.0243134453759812,
+        "tokens": [
+          "need",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c009",
+              "tokens": [
+                "need"
+              ],
+              "start": 9,
+              "end": 12
+            },
+            "similarity": 0.20606224439688198
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2605800368875291
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.1946956915634419
+          },
+          {
+            "start": 23,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "faith"
+              ],
+              "start": 13,
+              "end": 21
+            },
+            "similarity": 0.32647454947297544
+          }
+        ]
+      },
+      {
+        "score": 2.9551618654917253,
+        "tokens": [
+          "how",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.19223192842003073
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.2605800368875291
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i"
+              ],
+              "start": 16,
+              "end": 22
+            },
+            "similarity": 0.1946956915634419
+          },
+          {
+            "start": 23,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "faith"
+              ],
+              "start": 13,
+              "end": 21
+            },
+            "similarity": 0.32647454947297544
+          }
+        ]
+      },
+      {
+        "score": 2.9222505333149,
+        "tokens": [
+          "i",
+          "hope",
+          "have",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c040",
+              "tokens": [
+                "i"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.24023869022013777
+          },
+          {
+            "start": 8,
+            "end": 16,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.23630063220227915
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "have",
+                "faith"
+              ],
+              "start": 7,
+              "end": 21
+            },
+            "similarity": 0.242027555625056
+          }
+        ]
+      },
+      {
+        "score": 2.90882129708856,
+        "tokens": [
+          "is",
+          "hope",
+          "have",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c106",
+              "tokens": [
+                "is"
+              ],
+              "start": 7,
+              "end": 12
+            },
+            "similarity": 0.23265832845110807
+          },
+          {
+            "start": 7,
+            "end": 16,
+            "exemplar": {
+              "id": "c097",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.23945736893968664
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "exemplar": {
+              "id": "c002",
+              "tokens": [
+                "have",
+                "faith"
+              ],
+              "start": 7,
+              "end": 21
+            },
+            "similarity": 0.242027555625056
+          }
+        ]
+      }
+    ],
+    "te3715f88": [
+      {
+        "score": 3.216686459718816,
+        "tokens": [
+          "tell",
+          "tell",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.25194603802917015
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c061",
+              "tokens": [
+                "tell"
+              ],
+              "start": 19,
+              "end": 26
+            },
+            "similarity": 0.2237671700171966
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      },
+      {
+        "score": 3.189784148762877,
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 14,
+            "exemplar": {
+              "id": "c061",
+              "tokens": [
+                "tell"
+              ],
+              "start": 19,
+              "end": 26
+            },
+            "similarity": 0.20962965044451956
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      },
+      {
+        "score": 3.0949012086601386,
+        "tokens": [
+          "tell",
+          "need",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.25194603802917015
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c110",
+              "tokens": [
+                "need"
+              ],
+              "start": 8,
+              "end": 13
+            },
+            "similarity": 0.19941011980546108
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      },
+      {
+        "score": 3.0441106272718925,
+        "tokens": [
+          "tell",
+          "is",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.25194603802917015
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c039",
+              "tokens": [
+                "is"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.18925200352781185
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      },
+      {
+        "score": 2.9762490829230313,
+        "tokens": [
+          "goodbye",
+          "tell",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c062",
+              "tokens": [
+                "goodbye"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.19697136519946468
+          },
+          {
+            "start": 5,
+            "end": 14,
+            "exemplar": {
+              "id": "c061",
+              "tokens": [
+                "tell"
+              ],
+              "start": 19,
+              "end": 26
+            },
+            "similarity": 0.22790073821066614
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      },
+      {
+        "score": 2.9759918649729613,
+        "tokens": [
+          "you",
+          "tell",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c063",
+              "tokens": [
+                "you"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.19687651520824226
+          },
+          {
+            "start": 7,
+            "end": 14,
+            "exemplar": {
+              "id": "c061",
+              "tokens": [
+                "tell"
+              ],
+              "start": 19,
+              "end": 26
+            },
+            "similarity": 0.23676870650044402
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      },
+      {
+        "score": 2.956773586872023,
+        "tokens": [
+          "tell",
+          "tell",
+          "my",
+          "family",
+          "going"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "tell"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.25194603802917015
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "exemplar": {
+              "id": "c061",
+              "tokens": [
+                "tell"
+              ],
+              "start": 19,
+              "end": 26
+            },
+            "similarity": 0.2237671700171966
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family"
+              ],
+              "start": 19,
+              "end": 25
+            },
+            "similarity": 0.24487485247670987
+          },
+          {
+            "start": 27,
+            "end": 34,
+            "exemplar": {
+              "id": "c056",
+              "tokens": [
+                "going"
+              ],
+              "start": 25,
+              "end": 33
+            },
+            "similarity": 0.23445708348517635
+          }
+        ]
+      },
+      {
+        "score": 2.9397618764426308,
+        "tokens": [
+          "goodbye",
+          "need",
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c062",
+              "tokens": [
+                "goodbye"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.19697136519946468
+          },
+          {
+            "start": 5,
+            "end": 14,
+            "exemplar": {
+              "id": "c110",
+              "tokens": [
+                "need"
+              ],
+              "start": 8,
+              "end": 13
+            },
+            "similarity": 0.22384660415728827
+          },
+          {
+            "start": 14,
+            "end": 21,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "my"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.26626668161790795
+          },
+          {
+            "start": 21,
+            "end": 34,
+            "exemplar": {
+              "id": "c091",
+              "tokens": [
+                "family",
+                "good"
+              ],
+              "start": 19,
+              "end": 34
+            },
+            "similarity": 0.24233550554640665
+          }
+        ]
+      }
+    ],
+    "tb8083852": [
+      {
+        "score": 2.8516377298463844,
+        "tokens": [
+          "hope",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 9,
+            "exemplar": {
+              "id": "c099",
+              "tokens": [
+                "hope"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.18647603910819854
+          },
+          {
+            "start": 9,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2715173239796614
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.777366468657402,
+        "tokens": [
+          "how",
+          "family",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c071",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.17442029827301986
+          },
+          {
+            "start": 6,
+            "end": 11,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.2779142435541571
+          },
+          {
+            "start": 11,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2744999072757575
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.7323719964846815,
+        "tokens": [
+          "how",
+          "here",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c071",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.17442029827301986
+          },
+          {
+            "start": 6,
+            "end": 9,
+            "exemplar": {
+              "id": "c098",
+              "tokens": [
+                "here"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.27612844910120243
+          },
+          {
+            "start": 9,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2715173239796614
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.721686574280813,
+        "tokens": [
+          "do",
+          "family",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c045",
+              "tokens": [
+                "do"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.16050032467887262
+          },
+          {
+            "start": 6,
+            "end": 11,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.2779142435541571
+          },
+          {
+            "start": 11,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2744999072757575
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.695858896013322,
+        "tokens": [
+          "hungry",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 10,
+            "exemplar": {
+              "id": "c115",
+              "tokens": [
+                "hungry"
+              ],
+              "start": 40,
+              "end": 48
+            },
+            "similarity": 0.17292384179246578
+          },
+          {
+            "start": 10,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.27528532693608765
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.6802726209413357,
+        "tokens": [
+          "have",
+          "family",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "have"
+              ],
+              "start": 2,
+              "end": 11
+            },
+            "similarity": 0.15014683634400325
+          },
+          {
+            "start": 6,
+            "end": 11,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.2779142435541571
+          },
+          {
+            "start": 11,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2744999072757575
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.6766921021080927,
+        "tokens": [
+          "do",
+          "here",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c045",
+              "tokens": [
+                "do"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.16050032467887262
+          },
+          {
+            "start": 6,
+            "end": 9,
+            "exemplar": {
+              "id": "c098",
+              "tokens": [
+                "here"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.27612844910120243
+          },
+          {
+            "start": 9,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2715173239796614
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      },
+      {
+        "score": 2.6675933838475383,
+        "tokens": [
+          "they",
+          "family",
+          "is",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c020",
+              "tokens": [
+                "they"
+              ],
+              "start": 9,
+              "end": 16
+            },
+            "similarity": 0.14697702707055388
+          },
+          {
+            "start": 6,
+            "end": 11,
+            "exemplar": {
+              "id": "c101",
+              "tokens": [
+                "family"
+              ],
+              "start": 16,
+              "end": 21
+            },
+            "similarity": 0.2779142435541571
+          },
+          {
+            "start": 11,
+            "end": 20,
+            "exemplar": {
+              "id": "c090",
+              "tokens": [
+                "is"
+              ],
+              "start": 16,
+              "end": 24
+            },
+            "similarity": 0.2744999072757575
+          },
+          {
+            "start": 20,
+            "end": 30,
+            "exemplar": {
+              "id": "c048",
+              "tokens": [
+                "good"
+              ],
+              "start": 12,
+              "end": 22
+            },
+            "similarity": 0.23796148923127194
+          }
+        ]
+      }
+    ],
+    "t9024802d": [
+      {
+        "score": 2.9174392462252916,
+        "tokens": [
+          "do",
+          "is",
+          "need",
+          "it"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 11,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.29329023110635283
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.26981501933735313
+          },
+          {
+            "start": 18,
+            "end": 29,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need",
+                "it"
+              ],
+              "start": 32,
+              "end": 42
+            },
+            "similarity": 0.20264745735514947
+          }
+        ]
+      },
+      {
+        "score": 2.775986142580958,
+        "tokens": [
+          "do",
+          "is",
+          "it"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 12,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.29181194676665473
+          },
+          {
+            "start": 12,
+            "end": 19,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.2555134113810175
+          },
+          {
+            "start": 19,
+            "end": 29,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "it"
+              ],
+              "start": 35,
+              "end": 42
+            },
+            "similarity": 0.17892727952472884
+          }
+        ]
+      },
+      {
+        "score": 2.624316258941689,
+        "tokens": [
+          "do",
+          "are",
+          "need",
+          "it"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 14,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.28633436243476135
+          },
+          {
+            "start": 14,
+            "end": 19,
+            "exemplar": {
+              "id": "c026",
+              "tokens": [
+                "are"
+              ],
+              "start": 12,
+              "end": 19
+            },
+            "similarity": 0.20817618103236962
+          },
+          {
+            "start": 19,
+            "end": 29,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need",
+                "it"
+              ],
+              "start": 32,
+              "end": 42
+            },
+            "similarity": 0.19874230045627048
+          }
+        ]
+      },
+      {
+        "score": 2.581366449772849,
+        "tokens": [
+          "they",
+          "do",
+          "is",
+          "need",
+          "it"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 11,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "they",
+                "do"
+              ],
+              "start": 2,
+              "end": 15
+            },
+            "similarity": 0.26928214261163697
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.26981501933735313
+          },
+          {
+            "start": 18,
+            "end": 29,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need",
+                "it"
+              ],
+              "start": 32,
+              "end": 42
+            },
+            "similarity": 0.20264745735514947
+          }
+        ]
+      },
+      {
+        "score": 2.5802664247448126,
+        "tokens": [
+          "do",
+          "is",
+          "need",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 11,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.29329023110635283
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.26981501933735313
+          },
+          {
+            "start": 18,
+            "end": 23,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need"
+              ],
+              "start": 32,
+              "end": 35
+            },
+            "similarity": 0.24281016214410311
+          },
+          {
+            "start": 23,
+            "end": 29,
+            "exemplar": {
+              "id": "c031",
+              "tokens": [
+                "here"
+              ],
+              "start": 24,
+              "end": 33
+            },
+            "similarity": 0.14964973311760824
+          }
+        ]
+      },
+      {
+        "score": 2.5761559688970617,
+        "tokens": [
+          "do",
+          "is",
+          "need",
+          "not"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 11,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.29329023110635283
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.26981501933735313
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need"
+              ],
+              "start": 32,
+              "end": 35
+            },
+            "similarity": 0.28435474237435676
+          },
+          {
+            "start": 22,
+            "end": 29,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "not"
+              ],
+              "start": 25,
+              "end": 32
+            },
+            "similarity": 0.1386313977258553
+          }
+        ]
+      },
+      {
+        "score": 2.5744809886206586,
+        "tokens": [
+          "do",
+          "is",
+          "need",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 11,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.29329023110635283
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.26981501933735313
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need"
+              ],
+              "start": 32,
+              "end": 35
+            },
+            "similarity": 0.28435474237435676
+          },
+          {
+            "start": 22,
+            "end": 29,
+            "exemplar": {
+              "id": "c085",
+              "tokens": [
+                "good"
+              ],
+              "start": 18,
+              "end": 27
+            },
+            "similarity": 0.13839211482922628
+          }
+        ]
+      },
+      {
+        "score": 2.5683335957789,
+        "tokens": [
+          "do",
+          "is",
+          "need",
+          "they",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 11,
+            "exemplar": {
+              "id": "c111",
+              "tokens": [
+                "do"
+              ],
+              "start": 6,
+              "end": 15
+            },
+            "similarity": 0.29329023110635283
+          },
+          {
+            "start": 11,
+            "end": 18,
+            "exemplar": {
+              "id": "c010",
+              "tokens": [
+                "is"
+              ],
+              "start": 8,
+              "end": 15
+            },
+            "similarity": 0.26981501933735313
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "exemplar": {
+              "id": "c083",
+              "tokens": [
+                "need"
+              ],
+              "start": 32,
+              "end": 35
+            },
+            "similarity": 0.28435474237435676
+          },
+          {
+            "start": 22,
+            "end": 25,
+            "exemplar": {
+              "id": "c000",
+              "tokens": [
+                "they"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.1817778435954739
+          },
+          {
+            "start": 25,
+            "end": 29,
+            "exemplar": {
+              "id": "c031",
+              "tokens": [
+                "here"
+              ],
+              "start": 24,
+              "end": 33
+            },
+            "similarity": 0.1893159700441009
+          }
+        ]
+      }
+    ],
+    "t2b08e042": [
+      {
+        "score": 2.4059034654410745,
+        "tokens": [
+          "my",
+          "they",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.256752981077606
+          },
+          {
+            "start": 13,
+            "end": 19,
+            "exemplar": {
+              "id": "c056",
+              "tokens": [
+                "they"
+              ],
+              "start": 14,
+              "end": 20
+            },
+            "similarity": 0.23666292919512066
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "good"
+              ],
+              "start": 31,
+              "end": 42
+            },
+            "similarity": 0.1979603442685205
+          }
+        ]
+      },
+      {
+        "score": 2.1862111603254872,
+        "tokens": [
+          "my",
+          "good",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.256752981077606
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "exemplar": {
+              "id": "c050",
+              "tokens": [
+                "good"
+              ],
+              "start": 9,
+              "end": 13
+            },
+            "similarity": 0.21733343550226536
+          },
+          {
+            "start": 18,
+            "end": 28,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "good"
+              ],
+              "start": 31,
+              "end": 42
+            },
+            "similarity": 0.18952611909604938
+          }
+        ]
+      },
+      {
+        "score": 2.185799792464454,
+        "tokens": [
+          "my",
+          "they",
+          "are",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.256752981077606
+          },
+          {
+            "start": 13,
+            "end": 22,
+            "exemplar": {
+              "id": "c056",
+              "tokens": [
+                "they",
+                "are"
+              ],
+              "start": 14,
+              "end": 25
+            },
+            "similarity": 0.2000306244769246
+          },
+          {
+            "start": 22,
+            "end": 28,
+            "exemplar": {
+              "id": "c008",
+              "tokens": [
+                "good"
+              ],
+              "start": 24,
+              "end": 30
+            },
+            "similarity": 0.216873563386411
+          }
+        ]
+      },
+      {
+        "score": 2.140592479108066,
+        "tokens": [
+          "my",
+          "faith",
+          "they",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 14,
+            "exemplar": {
+              "id": "c031",
+              "tokens": [
+                "my",
+                "faith"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.24554343341019483
+          },
+          {
+            "start": 14,
+            "end": 19,
+            "exemplar": {
+              "id": "c056",
+              "tokens": [
+                "they"
+              ],
+              "start": 14,
+              "end": 20
+            },
+            "similarity": 0.23048563595380878
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "good"
+              ],
+              "start": 31,
+              "end": 42
+            },
+            "similarity": 0.1979603442685205
+          }
+        ]
+      },
+      {
+        "score": 2.092176067617304,
+        "tokens": [
+          "no",
+          "my",
+          "they",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 5,
+            "exemplar": {
+              "id": "c093",
+              "tokens": [
+                "no"
+              ],
+              "start": 2,
+              "end": 7
+            },
+            "similarity": 0.1829449652584621
+          },
+          {
+            "start": 5,
+            "end": 13,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.28771506228181365
+          },
+          {
+            "start": 13,
+            "end": 19,
+            "exemplar": {
+              "id": "c056",
+              "tokens": [
+                "they"
+              ],
+              "start": 14,
+              "end": 20
+            },
+            "similarity": 0.23666292919512066
+          },
+          {
+            "start": 19,
+            "end": 28,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "good"
+              ],
+              "start": 31,
+              "end": 42
+            },
+            "similarity": 0.1979603442685205
+          }
+        ]
+      },
+      {
+        "score": 2.0849948199932906,
+        "tokens": [
+          "my",
+          "they",
+          "right"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.256752981077606
+          },
+          {
+            "start": 13,
+            "end": 20,
+            "exemplar": {
+              "id": "c056",
+              "tokens": [
+                "they"
+              ],
+              "start": 14,
+              "end": 20
+            },
+            "similarity": 0.21552154562610926
+          },
+          {
+            "start": 20,
+            "end": 28,
+            "exemplar": {
+              "id": "c043",
+              "tokens": [
+                "right"
+              ],
+              "start": 14,
+              "end": 21
+            },
+            "similarity": 0.17150765109460744
+          }
+        ]
+      },
+      {
+        "score": 2.068180999805938,
+        "tokens": [
+          "my",
+          "faith",
+          "good",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 14,
+            "exemplar": {
+              "id": "c031",
+              "tokens": [
+                "my",
+                "faith"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.24554343341019483
+          },
+          {
+            "start": 14,
+            "end": 18,
+            "exemplar": {
+              "id": "c050",
+              "tokens": [
+                "good"
+              ],
+              "start": 9,
+              "end": 13
+            },
+            "similarity": 0.2415996519807766
+          },
+          {
+            "start": 18,
+            "end": 28,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "good"
+              ],
+              "start": 31,
+              "end": 42
+            },
+            "similarity": 0.18952611909604938
+          }
+        ]
+      },
+      {
+        "score": 2.0677035223163314,
+        "tokens": [
+          "my",
+          "family",
+          "good"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 13,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "my"
+              ],
+              "start": 2,
+              "end": 12
+            },
+            "similarity": 0.256752981077606
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "exemplar": {
+              "id": "c078",
+              "tokens": [
+                "family"
+              ],
+              "start": 17,
+              "end": 23
+            },
+            "similarity": 0.19363190790043425
+          },
+          {
+            "start": 18,
+            "end": 28,
+            "exemplar": {
+              "id": "c049",
+              "tokens": [
+                "good"
+              ],
+              "start": 31,
+              "end": 42
+            },
+            "similarity": 0.18952611909604938
+          }
+        ]
+      }
+    ],
+    "t62254eda": [
+      {
+        "score": 3.6072033807045005,
+        "tokens": [
+          "that",
+          "they",
+          "feel",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c103",
+              "tokens": [
+                "that"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.2638233660039003
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c025",
+              "tokens": [
+                "they"
+              ],
+              "start": 12,
+              "end": 20
+            },
+            "similarity": 0.24187380422029536
+          },
+          {
+            "start": 15,
+            "end": 22,
+            "exemplar": {
+              "id": "c015",
+              "tokens": [
+                "feel"
+              ],
+              "start": 13,
+              "end": 20
+            },
+            "similarity": 0.24073959191400837
+          },
+          {
+            "start": 22,
+            "end": 31,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "comfortable"
+              ],
+              "start": 43,
+              "end": 53
+            },
+            "similarity": 0.32532433039161973
+          }
+        ]
+      },
+      {
+        "score": 3.577014454100831,
+        "tokens": [
+          "that",
+          "feel",
+          "very",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c103",
+              "tokens": [
+                "that"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.24364128974782487
+          },
+          {
+            "start": 8,
+            "end": 24,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "feel",
+                "very"
+              ],
+              "start": 30,
+              "end": 48
+            },
+            "similarity": 0.24143653950223742
+          },
+          {
+            "start": 24,
+            "end": 31,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "comfortable"
+              ],
+              "start": 48,
+              "end": 56
+            },
+            "similarity": 0.3274545833682976
+          }
+        ]
+      },
+      {
+        "score": 3.5588389833196015,
+        "tokens": [
+          "that",
+          "not",
+          "very",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c103",
+              "tokens": [
+                "that"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.24364128974782487
+          },
+          {
+            "start": 8,
+            "end": 16,
+            "exemplar": {
+              "id": "c115",
+              "tokens": [
+                "not"
+              ],
+              "start": 23,
+              "end": 30
+            },
+            "similarity": 0.22677289328581768
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "very",
+                "comfortable"
+              ],
+              "start": 40,
+              "end": 56
+            },
+            "similarity": 0.28818720656974073
+          }
+        ]
+      },
+      {
+        "score": 3.548340703675577,
+        "tokens": [
+          "that",
+          "my",
+          "very",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c103",
+              "tokens": [
+                "that"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.2638233660039003
+          },
+          {
+            "start": 7,
+            "end": 16,
+            "exemplar": {
+              "id": "c011",
+              "tokens": [
+                "my"
+              ],
+              "start": 8,
+              "end": 16
+            },
+            "similarity": 0.21626841945666275
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "very",
+                "comfortable"
+              ],
+              "start": 40,
+              "end": 56
+            },
+            "similarity": 0.28818720656974073
+          }
+        ]
+      },
+      {
+        "score": 3.526733326834278,
+        "tokens": [
+          "what",
+          "feel",
+          "very",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c087",
+              "tokens": [
+                "what"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.2352611018700661
+          },
+          {
+            "start": 8,
+            "end": 24,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "feel",
+                "very"
+              ],
+              "start": 30,
+              "end": 48
+            },
+            "similarity": 0.24143653950223742
+          },
+          {
+            "start": 24,
+            "end": 31,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "comfortable"
+              ],
+              "start": 48,
+              "end": 56
+            },
+            "similarity": 0.3274545833682976
+          }
+        ]
+      },
+      {
+        "score": 3.508557856053049,
+        "tokens": [
+          "what",
+          "not",
+          "very",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c087",
+              "tokens": [
+                "what"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.2352611018700661
+          },
+          {
+            "start": 8,
+            "end": 16,
+            "exemplar": {
+              "id": "c115",
+              "tokens": [
+                "not"
+              ],
+              "start": 23,
+              "end": 30
+            },
+            "similarity": 0.22677289328581768
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "very",
+                "comfortable"
+              ],
+              "start": 40,
+              "end": 56
+            },
+            "similarity": 0.28818720656974073
+          }
+        ]
+      },
+      {
+        "score": 3.5032242320124096,
+        "tokens": [
+          "they",
+          "feel",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 22,
+            "exemplar": {
+              "id": "c015",
+              "tokens": [
+                "they",
+                "feel"
+              ],
+              "start": 2,
+              "end": 20
+            },
+            "similarity": 0.21376526292439163
+          },
+          {
+            "start": 22,
+            "end": 31,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "comfortable"
+              ],
+              "start": 43,
+              "end": 53
+            },
+            "similarity": 0.32532433039161973
+          }
+        ]
+      },
+      {
+        "score": 3.4979546614456534,
+        "tokens": [
+          "what",
+          "they",
+          "feel",
+          "comfortable"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 7,
+            "exemplar": {
+              "id": "c087",
+              "tokens": [
+                "what"
+              ],
+              "start": 2,
+              "end": 9
+            },
+            "similarity": 0.24197362215213086
+          },
+          {
+            "start": 7,
+            "end": 15,
+            "exemplar": {
+              "id": "c025",
+              "tokens": [
+                "they"
+              ],
+              "start": 12,
+              "end": 20
+            },
+            "similarity": 0.24187380422029536
+          },
+          {
+            "start": 15,
+            "end": 22,
+            "exemplar": {
+              "id": "c015",
+              "tokens": [
+                "feel"
+              ],
+              "start": 13,
+              "end": 20
+            },
+            "similarity": 0.24073959191400837
+          },
+          {
+            "start": 22,
+            "end": 31,
+            "exemplar": {
+              "id": "c114",
+              "tokens": [
+                "comfortable"
+              ],
+              "start": 43,
+              "end": 53
+            },
+            "similarity": 0.32532433039161973
+          }
+        ]
+      }
+    ],
+    "t9db27598": [
+      {
+        "score": 3.0834099928148992,
+        "tokens": [
+          "is",
+          "my",
+          "family",
+          "am",
+          "you"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "exemplar": {
+              "id": "c108",
+              "tokens": [
+                "family"
+              ],
+              "start": 25,
+              "end": 29
+            },
+            "similarity": 0.22452017403403363
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.266388143154438
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c045",
+              "tokens": [
+                "you"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.17193736857758982
+          }
+        ]
+      },
+      {
+        "score": 2.999180981976602,
+        "tokens": [
+          "is",
+          "my",
+          "glasses",
+          "am",
+          "you"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 18,
+            "exemplar": {
+              "id": "c063",
+              "tokens": [
+                "glasses"
+              ],
+              "start": 20,
+              "end": 23
+            },
+            "similarity": 0.2216220375807762
+          },
+          {
+            "start": 18,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.2517128218295718
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c045",
+              "tokens": [
+                "you"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.17193736857758982
+          }
+        ]
+      },
+      {
+        "score": 2.941694740923956,
+        "tokens": [
+          "is",
+          "my",
+          "family",
+          "am",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "exemplar": {
+              "id": "c108",
+              "tokens": [
+                "family"
+              ],
+              "start": 25,
+              "end": 29
+            },
+            "similarity": 0.22452017403403363
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.266388143154438
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c110",
+              "tokens": [
+                "faith"
+              ],
+              "start": 20,
+              "end": 28
+            },
+            "similarity": 0.1542229620912219
+          }
+        ]
+      },
+      {
+        "score": 2.929511594935608,
+        "tokens": [
+          "is",
+          "my",
+          "family",
+          "am",
+          "outside"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "exemplar": {
+              "id": "c108",
+              "tokens": [
+                "family"
+              ],
+              "start": 25,
+              "end": 29
+            },
+            "similarity": 0.22452017403403363
+          },
+          {
+            "start": 19,
+            "end": 27,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.24598045097932392
+          },
+          {
+            "start": 27,
+            "end": 34,
+            "exemplar": {
+              "id": "c026",
+              "tokens": [
+                "outside"
+              ],
+              "start": 19,
+              "end": 26
+            },
+            "similarity": 0.15978199214112887
+          }
+        ]
+      },
+      {
+        "score": 2.896347459798956,
+        "tokens": [
+          "is",
+          "my",
+          "am",
+          "you"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 16,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.26641423637787265
+          },
+          {
+            "start": 16,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.21310492018880206
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c045",
+              "tokens": [
+                "you"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.17193736857758982
+          }
+        ]
+      },
+      {
+        "score": 2.8786964212955866,
+        "tokens": [
+          "is",
+          "my",
+          "family",
+          "am",
+          "that"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "exemplar": {
+              "id": "c108",
+              "tokens": [
+                "family"
+              ],
+              "start": 25,
+              "end": 29
+            },
+            "similarity": 0.22452017403403363
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.266388143154438
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c113",
+              "tokens": [
+                "that"
+              ],
+              "start": 15,
+              "end": 23
+            },
+            "similarity": 0.14634817213767576
+          }
+        ]
+      },
+      {
+        "score": 2.878562363182711,
+        "tokens": [
+          "is",
+          "my",
+          "family",
+          "am",
+          "here"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "exemplar": {
+              "id": "c108",
+              "tokens": [
+                "family"
+              ],
+              "start": 25,
+              "end": 29
+            },
+            "similarity": 0.22452017403403363
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.266388143154438
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c075",
+              "tokens": [
+                "here"
+              ],
+              "start": 18,
+              "end": 26
+            },
+            "similarity": 0.1463314148735663
+          }
+        ]
+      },
+      {
+        "score": 2.8611641647777053,
+        "tokens": [
+          "is",
+          "my",
+          "coming",
+          "am",
+          "you"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 15,
+            "exemplar": {
+              "id": "c072",
+              "tokens": [
+                "is",
+                "my"
+              ],
+              "start": 2,
+              "end": 16
+            },
+            "similarity": 0.27885487276746007
+          },
+          {
+            "start": 15,
+            "end": 19,
+            "exemplar": {
+              "id": "c012",
+              "tokens": [
+                "coming"
+              ],
+              "start": 16,
+              "end": 23
+            },
+            "similarity": 0.16895871702473503
+          },
+          {
+            "start": 19,
+            "end": 26,
+            "exemplar": {
+              "id": "c017",
+              "tokens": [
+                "am"
+              ],
+              "start": 30,
+              "end": 36
+            },
+            "similarity": 0.266388143154438
+          },
+          {
+            "start": 26,
+            "end": 34,
+            "exemplar": {
+              "id": "c045",
+              "tokens": [
+                "you"
+              ],
+              "start": 7,
+              "end": 17
+            },
+            "similarity": 0.17193736857758982
+          }
+        ]
+      }
+    ],
+    "tef25d0d3": [
+      {
+        "score": 2.6757868625522696,
+        "tokens": [
+          "i",
+          "do",
+          "not",
+          "you",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 23,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.2109611907516751
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "exemplar": {
+              "id": "c075",
+              "tokens": [
+                "you"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.19215895284040913
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2476805553606517
+          }
+        ]
+      },
+      {
+        "score": 2.6406285143616386,
+        "tokens": [
+          "how",
+          "i",
+          "not",
+          "you",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.2528517710322789
+          },
+          {
+            "start": 6,
+            "end": 15,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.24235479697186094
+          },
+          {
+            "start": 15,
+            "end": 23,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "not"
+              ],
+              "start": 22,
+              "end": 30
+            },
+            "similarity": 0.20530330008983522
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "exemplar": {
+              "id": "c075",
+              "tokens": [
+                "you"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.19215895284040913
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2476805553606517
+          }
+        ]
+      },
+      {
+        "score": 2.624538139916571,
+        "tokens": [
+          "i",
+          "do",
+          "not",
+          "goodbye",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 24,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.20642060329443332
+          },
+          {
+            "start": 24,
+            "end": 27,
+            "exemplar": {
+              "id": "c062",
+              "tokens": [
+                "goodbye"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.2027650321678556
+          },
+          {
+            "start": 27,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2543737213669339
+          }
+        ]
+      },
+      {
+        "score": 2.617288974184813,
+        "tokens": [
+          "how",
+          "i",
+          "not",
+          "goodbye",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.2528517710322789
+          },
+          {
+            "start": 6,
+            "end": 15,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.24235479697186094
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "not"
+              ],
+              "start": 22,
+              "end": 30
+            },
+            "similarity": 0.19793376109665672
+          },
+          {
+            "start": 24,
+            "end": 27,
+            "exemplar": {
+              "id": "c062",
+              "tokens": [
+                "goodbye"
+              ],
+              "start": 2,
+              "end": 4
+            },
+            "similarity": 0.2027650321678556
+          },
+          {
+            "start": 27,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2543737213669339
+          }
+        ]
+      },
+      {
+        "score": 2.6115408290003734,
+        "tokens": [
+          "how",
+          "need",
+          "it",
+          "have",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 8,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.2275903147036565
+          },
+          {
+            "start": 8,
+            "end": 20,
+            "exemplar": {
+              "id": "c075",
+              "tokens": [
+                "need",
+                "it"
+              ],
+              "start": 5,
+              "end": 18
+            },
+            "similarity": 0.22742652255421675
+          },
+          {
+            "start": 20,
+            "end": 26,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "have"
+              ],
+              "start": 22,
+              "end": 28
+            },
+            "similarity": 0.1779592786469947
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2476805553606517
+          }
+        ]
+      },
+      {
+        "score": 2.606975602865238,
+        "tokens": [
+          "how",
+          "i",
+          "i",
+          "have",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 6,
+            "exemplar": {
+              "id": "c007",
+              "tokens": [
+                "how"
+              ],
+              "start": 2,
+              "end": 8
+            },
+            "similarity": 0.2528517710322789
+          },
+          {
+            "start": 6,
+            "end": 13,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i"
+              ],
+              "start": 7,
+              "end": 14
+            },
+            "similarity": 0.28048014727945225
+          },
+          {
+            "start": 13,
+            "end": 26,
+            "exemplar": {
+              "id": "c117",
+              "tokens": [
+                "i",
+                "have"
+              ],
+              "start": 16,
+              "end": 28
+            },
+            "similarity": 0.16792942227185317
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2476805553606517
+          }
+        ]
+      },
+      {
+        "score": 2.601434181251829,
+        "tokens": [
+          "i",
+          "do",
+          "not",
+          "you",
+          "hungry"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 23,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.2109611907516751
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "exemplar": {
+              "id": "c075",
+              "tokens": [
+                "you"
+              ],
+              "start": 2,
+              "end": 5
+            },
+            "similarity": 0.19215895284040913
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "exemplar": {
+              "id": "c027",
+              "tokens": [
+                "hungry"
+              ],
+              "start": 36,
+              "end": 45
+            },
+            "similarity": 0.2394191463272694
+          }
+        ]
+      },
+      {
+        "score": 2.594946936120251,
+        "tokens": [
+          "i",
+          "do",
+          "not",
+          "need",
+          "faith"
+        ],
+        "segments": [
+          {
+            "start": 2,
+            "end": 23,
+            "exemplar": {
+              "id": "c079",
+              "tokens": [
+                "i",
+                "do",
+                "not"
+              ],
+              "start": 7,
+              "end": 30
+            },
+            "similarity": 0.2109611907516751
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "exemplar": {
+              "id": "c110",
+              "tokens": [
+                "need"
+              ],
+              "start": 8,
+              "end": 13
+            },
+            "similarity": 0.16521231069640285
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "exemplar": {
+              "id": "c003",
+              "tokens": [
+                "faith"
+              ],
+              "start": 11,
+              "end": 21
+            },
+            "similarity": 0.2476805553606517
+          }
+        ]
+      }
+    ]
+  }
+}

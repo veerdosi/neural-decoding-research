@@ -1,0 +1,17 @@
+{
+  "evidence_files_checked": 1393,
+  "predictions_prompts_cases_and_locks_unchanged": true,
+  "regenerated_files": [
+    {
+      "path": "research/phase3-sentence-reconstruction/evaluation/t16_confirmation_method_audit.json",
+      "original_sha256": "ecc5b0884b8caa29d81e85438680aebefacc4a2df334ac70af6d7ffdc5c302e9",
+      "current_sha256": "82f1be61318a2714c939dd30d8789ee2d04b8db14df1da8525dd1ee88c5d40d7"
+    },
+    {
+      "path": "research/phase3-sentence-reconstruction/evaluation/essay_build.json",
+      "original_sha256": "2fef494e7e61bc34df6f44363a6764b202b3178269bb45d6c9881bac9ed77569",
+      "current_sha256": "2ae2255be8674bf5d521e173d2426b5022bf3c0f434592bd1acdfc10bce39084"
+    }
+  ],
+  "note": "Essay build reflects relocated image links. Method audit rerun reconstructed all112 arrays exactly; PCA eigenvalue roundoff can vary at machine precision."
+}

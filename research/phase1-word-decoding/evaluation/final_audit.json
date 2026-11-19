@@ -1,0 +1,8 @@
+{
+  "prediction_conditions": 8,
+  "total_valid_predictions": 784,
+  "model_tool_calls": 0,
+  "copied_bundle_rescoring_matches": true,
+  "source_label_reconstruction_checked": true,
+  "initial_frozen_inputs_unchanged": true
+}

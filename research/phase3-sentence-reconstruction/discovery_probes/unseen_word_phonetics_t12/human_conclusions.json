@@ -1,0 +1,440 @@
+{
+  "status": "Human best guesses, not algorithm argmax or ground truth",
+  "word_choices": [
+    {
+      "id": "qd5000c63",
+      "word": "coupler",
+      "phonemes": [
+        "K",
+        "AH",
+        "P",
+        "L",
+        "ER"
+      ],
+      "ensemble_pronunciation_rank": 23,
+      "gesture_model_pronunciation_rank": 181,
+      "algorithm_top1": {
+        "word": "casbah",
+        "phonemes": [
+          "K",
+          "AE",
+          "S",
+          "B",
+          "AH"
+        ],
+        "score": -283.37490951797326
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "K-initial hypotheses with a medial labial and a final liquid/central vowel recur across models. Coupler is supported by both relative-position and shared-gesture models. The two relevant queries are unusually close neurally (2924 squared distance). Casbah, culpa, cowboy, and several names remain serious alternatives."
+    },
+    {
+      "id": "qdb657327",
+      "word": "guided",
+      "phonemes": [
+        "G",
+        "AY",
+        "D",
+        "AH",
+        "D"
+      ],
+      "ensemble_pronunciation_rank": 279,
+      "gesture_model_pronunciation_rank": 1002,
+      "algorithm_top1": {
+        "word": "akita",
+        "phonemes": [
+          "AH",
+          "K",
+          "IY",
+          "T",
+          "AH"
+        ],
+        "score": -83.62370792345682
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "The G/weak-onset, diphthong, and final voiced coronal hypotheses recur in both queries. Guided reconciles their rankings and is favored over proper-name aliases. Aided, outed, guider, and aside remain plausible; their query distance is 3299."
+    },
+    {
+      "id": "q3a6a7b9d",
+      "word": "guided",
+      "phonemes": [
+        "G",
+        "AY",
+        "D",
+        "AH",
+        "D"
+      ],
+      "ensemble_pronunciation_rank": 6,
+      "gesture_model_pronunciation_rank": 77,
+      "algorithm_top1": {
+        "word": "gaulden",
+        "phonemes": [
+          "G",
+          "AW",
+          "D",
+          "AH",
+          "N"
+        ],
+        "score": -170.99268546314315
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "The G/weak-onset, diphthong, and final voiced coronal hypotheses recur in both queries. Guided reconciles their rankings and is favored over proper-name aliases. Aided, outed, guider, and aside remain plausible; their query distance is 3299."
+    },
+    {
+      "id": "q9d4f6db6",
+      "word": "shady",
+      "phonemes": [
+        "SH",
+        "EY",
+        "D",
+        "IY"
+      ],
+      "ensemble_pronunciation_rank": 42,
+      "gesture_model_pronunciation_rank": 4022,
+      "algorithm_top1": {
+        "word": "oshita",
+        "phonemes": [
+          "OW",
+          "SH",
+          "IY",
+          "T",
+          "AH"
+        ],
+        "score": -111.12831911384762
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "The pair supports a fricative/affricate-like onset, front/diphthong vowel, coronal, and final high vowel. Shady is a lexical interpretation of this family. Cheetah, thirty, chitty, and other hypotheses remain plausible. Query distance 2959 supports, but does not prove, repetition."
+    },
+    {
+      "id": "qd6dfa4d3",
+      "word": "excite",
+      "phonemes": [
+        "IH",
+        "K",
+        "S",
+        "AY",
+        "T"
+      ],
+      "ensemble_pronunciation_rank": 11,
+      "gesture_model_pronunciation_rank": 282,
+      "algorithm_top1": {
+        "word": "earth-like",
+        "phonemes": [
+          "ER",
+          "TH",
+          "L",
+          "AY",
+          "K"
+        ],
+        "score": -127.86419675073148
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "A weak-vowel/velar-sibilant/diphthong/coronal hypothesis appears across the relative-position variants. Excite provides a joint interpretation of two similar queries; their distance 3893 is less convincing evidence of repetition. Outfit, iceskate, thinker, outside, and whiskey remain plausible."
+    },
+    {
+      "id": "qc3b19e62",
+      "word": "coupler",
+      "phonemes": [
+        "K",
+        "AH",
+        "P",
+        "L",
+        "ER"
+      ],
+      "ensemble_pronunciation_rank": 72,
+      "gesture_model_pronunciation_rank": 332,
+      "algorithm_top1": {
+        "word": "kuzma",
+        "phonemes": [
+          "K",
+          "AH",
+          "Z",
+          "M",
+          "AH"
+        ],
+        "score": -261.57900616468856
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "K-initial hypotheses with a medial labial and a final liquid/central vowel recur across models. Coupler is supported by both relative-position and shared-gesture models. The two relevant queries are unusually close neurally (2924 squared distance). Casbah, culpa, cowboy, and several names remain serious alternatives."
+    },
+    {
+      "id": "q8adf658a",
+      "word": "cowbell",
+      "phonemes": [
+        "K",
+        "AW",
+        "B",
+        "EH",
+        "L"
+      ],
+      "ensemble_pronunciation_rank": 1,
+      "gesture_model_pronunciation_rank": 16744,
+      "algorithm_top1": {
+        "word": "cowbell",
+        "phonemes": [
+          "K",
+          "AW",
+          "B",
+          "EH",
+          "L"
+        ],
+        "score": -130.58293385177697
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "The ensemble itself ranks cowbell first for this query. Its nearest possible repeat is substantially farther away (4812), so I do not impose the supine interpretation from that other recording."
+    },
+    {
+      "id": "q6f863fa0",
+      "word": "cases",
+      "phonemes": [
+        "K",
+        "EY",
+        "S",
+        "AH",
+        "Z"
+      ],
+      "ensemble_pronunciation_rank": 5,
+      "gesture_model_pronunciation_rank": 27,
+      "algorithm_top1": {
+        "word": "kassis",
+        "phonemes": [
+          "K",
+          "AE",
+          "S",
+          "IH",
+          "S"
+        ],
+        "score": -127.54185650856175
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Cases and kisses are close alternatives in both relative-position and shared-gesture models. The /EY/ versus /IH/ vowel and final /S/ versus /Z/ are uncertain. I selected cases as the lexical interpretation, without assigning the addition query the same word."
+    },
+    {
+      "id": "q94a15367",
+      "word": "excite",
+      "phonemes": [
+        "IH",
+        "K",
+        "S",
+        "AY",
+        "T"
+      ],
+      "ensemble_pronunciation_rank": 94,
+      "gesture_model_pronunciation_rank": 742,
+      "algorithm_top1": {
+        "word": "scheidecker",
+        "phonemes": [
+          "SH",
+          "AY",
+          "D",
+          "IH",
+          "K",
+          "ER"
+        ],
+        "score": -226.42560959955134
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "A weak-vowel/velar-sibilant/diphthong/coronal hypothesis appears across the relative-position variants. Excite provides a joint interpretation of two similar queries; their distance 3893 is less convincing evidence of repetition. Outfit, iceskate, thinker, outside, and whiskey remain plausible."
+    },
+    {
+      "id": "q6c758802",
+      "word": "dismay",
+      "phonemes": [
+        "D",
+        "IH",
+        "S",
+        "M",
+        "EY"
+      ],
+      "ensemble_pronunciation_rank": 2,
+      "gesture_model_pronunciation_rank": 4977,
+      "algorithm_top1": {
+        "word": "tevis",
+        "phonemes": [
+          "T",
+          "EH",
+          "V",
+          "IH",
+          "S"
+        ],
+        "score": -101.49054647659716
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Dismay ranks highly for both recordings and is the leading hypothesis when their ensemble scores are averaged. Their distance 3303 makes a common word plausible. Individual-model alternatives include tennis, aflame, autism, and family. The family result belongs to the weaker fixed-gesture model, not a reliable independent identification."
+    },
+    {
+      "id": "qa9e976f9",
+      "word": "dismay",
+      "phonemes": [
+        "D",
+        "IH",
+        "S",
+        "M",
+        "EY"
+      ],
+      "ensemble_pronunciation_rank": 18,
+      "gesture_model_pronunciation_rank": 16315,
+      "algorithm_top1": {
+        "word": "aflame",
+        "phonemes": [
+          "AH",
+          "F",
+          "L",
+          "EY",
+          "M"
+        ],
+        "score": -149.90467612003542
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Dismay ranks highly for both recordings and is the leading hypothesis when their ensemble scores are averaged. Their distance 3303 makes a common word plausible. Individual-model alternatives include tennis, aflame, autism, and family. The family result belongs to the weaker fixed-gesture model, not a reliable independent identification."
+    },
+    {
+      "id": "qc491a219",
+      "word": "critic",
+      "phonemes": [
+        "K",
+        "R",
+        "IH",
+        "T",
+        "IH",
+        "K"
+      ],
+      "ensemble_pronunciation_rank": 141,
+      "gesture_model_pronunciation_rank": 5,
+      "algorithm_top1": {
+        "word": "chizek",
+        "phonemes": [
+          "CH",
+          "IH",
+          "Z",
+          "EH",
+          "K"
+        ],
+        "score": -187.07521816347705
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Both query recordings have velar-final, front-vowel, coronal/liquid hypotheses. The shared-gesture model ranks critic 5 and 15, providing support beyond the relative-position models, which favor name aliases. Relic, retake, rhetoric, and several unrelated words remain plausible. Their distance is 3346."
+    },
+    {
+      "id": "q79c21683",
+      "word": "shady",
+      "phonemes": [
+        "SH",
+        "EY",
+        "D",
+        "IY"
+      ],
+      "ensemble_pronunciation_rank": 2,
+      "gesture_model_pronunciation_rank": 482,
+      "algorithm_top1": {
+        "word": "chitty",
+        "phonemes": [
+          "CH",
+          "IH",
+          "T",
+          "IY"
+        ],
+        "score": -105.58297076745323
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "The pair supports a fricative/affricate-like onset, front/diphthong vowel, coronal, and final high vowel. Shady is a lexical interpretation of this family. Cheetah, thirty, chitty, and other hypotheses remain plausible. Query distance 2959 supports, but does not prove, repetition."
+    },
+    {
+      "id": "q84a6723d",
+      "word": "addition",
+      "phonemes": [
+        "AH",
+        "D",
+        "IH",
+        "SH",
+        "AH",
+        "N"
+      ],
+      "ensemble_pronunciation_rank": 25,
+      "gesture_model_pronunciation_rank": 1833,
+      "algorithm_top1": {
+        "word": "otteson",
+        "phonemes": [
+          "AA",
+          "T",
+          "IH",
+          "S",
+          "AH",
+          "N"
+        ],
+        "score": -190.7937515371981
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Vowel-initial and medial coronal/sibilant patterns support the addition/edition pronunciation family. This is particularly uncertain: audition, dozen, shyness, courteous, and cases remain alternatives. Neural evidence cannot distinguish addition from its homophone edition."
+    },
+    {
+      "id": "qba60129d",
+      "word": "supine",
+      "phonemes": [
+        "S",
+        "AH",
+        "P",
+        "AY",
+        "N"
+      ],
+      "ensemble_pronunciation_rank": 1,
+      "gesture_model_pronunciation_rank": 18541,
+      "algorithm_top1": {
+        "word": "supine",
+        "phonemes": [
+          "S",
+          "AH",
+          "P",
+          "AY",
+          "N"
+        ],
+        "score": -166.87864047182916
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Supine is the ensemble argmax for this recording. The pronunciation with an initial central vowel scores best. Turbine, cowbell, cabbage, and name aliases are alternatives; the distant cowbell recording is not assumed to be the same word."
+    },
+    {
+      "id": "q0a47e660",
+      "word": "critic",
+      "phonemes": [
+        "K",
+        "R",
+        "IH",
+        "T",
+        "IH",
+        "K"
+      ],
+      "ensemble_pronunciation_rank": 200,
+      "gesture_model_pronunciation_rank": 15,
+      "algorithm_top1": {
+        "word": "chadick",
+        "phonemes": [
+          "CH",
+          "AE",
+          "D",
+          "IH",
+          "K"
+        ],
+        "score": -134.93512265433284
+      },
+      "confidence": "low",
+      "human_inference": true,
+      "reason": "Both query recordings have velar-final, front-vowel, coronal/liquid hypotheses. The shared-gesture model ranks critic 5 and 15, providing support beyond the relative-position models, which favor name aliases. Relic, retake, rhetoric, and several unrelated words remain plausible. Their distance is 3346."
+    }
+  ],
+  "possible_repetition_is_an_inference_not_supplied_metadata": true
+}

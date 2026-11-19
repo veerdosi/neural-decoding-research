@@ -1,0 +1,6 @@
+{
+  "training_n": 80,
+  "training_WER": 0.12921348314606743,
+  "training_exact": 45,
+  "scope": "Fit diagnostic only. No baseline settings changed; not held-out accuracy."
+}

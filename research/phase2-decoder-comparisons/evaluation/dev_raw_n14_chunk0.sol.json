@@ -1,0 +1,50 @@
+{
+  "name": "dev_raw_n14_chunk0",
+  "correct": 7,
+  "n": 14,
+  "accuracy": 0.5,
+  "ci95_trial_descriptive": [
+    0.2303605414480624,
+    0.7696394585519377
+  ],
+  "prediction": [
+    4,
+    6,
+    2,
+    0,
+    0,
+    1,
+    2,
+    2,
+    5,
+    2,
+    2,
+    6,
+    2,
+    1
+  ],
+  "method_self_report": "Qualitatively matched recurring calibration patterns across both feature blocks without imposing label counts. Noise and apparent feature shifts create uncertainty, especially between day and were.",
+  "block_accuracy": {
+    "17": 0.7142857142857143,
+    "25": 0.2857142857142857
+  },
+  "per_word_accuracy": {
+    "choice": 1.0,
+    "day": 1.0,
+    "feel": 0.0,
+    "kite": 0.25,
+    "though": 0.3333333333333333,
+    "were": 1.0
+  },
+  "donor_word_accuracy": 0.5,
+  "tool_calls": 0,
+  "usage": [
+    {
+      "input_tokens": 74132,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 12021,
+      "reasoning_output_tokens": 11798
+    }
+  ]
+}

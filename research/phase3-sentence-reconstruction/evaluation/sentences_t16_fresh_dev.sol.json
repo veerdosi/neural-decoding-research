@@ -1,0 +1,313 @@
+{
+  "predictions": [
+    {
+      "id": "te7fda903",
+      "tokens": [
+        "do",
+        "you",
+        "have",
+        "that"
+      ]
+    },
+    {
+      "id": "t196443a7",
+      "tokens": [
+        "are",
+        "you",
+        "closer"
+      ]
+    },
+    {
+      "id": "t0ba95c98",
+      "tokens": [
+        "you",
+        "are",
+        "bad"
+      ]
+    },
+    {
+      "id": "te1c6177b",
+      "tokens": [
+        "no",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ]
+    },
+    {
+      "id": "td4202301",
+      "tokens": [
+        "hope",
+        "you",
+        "like",
+        "my",
+        "music"
+      ]
+    },
+    {
+      "id": "ta84f22ff",
+      "tokens": [
+        "you",
+        "have",
+        "here"
+      ]
+    },
+    {
+      "id": "tc14fc0db",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "t49dd1ce6",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "family"
+      ]
+    }
+  ],
+  "method": {
+    "numerical": "Calibration-only PCA with the first two components removed, smoothing, cosine interval retrieval, and slope-constrained subsequence DTW.",
+    "interpretation": "Words and sentence assembly were inferred from overlapping labeled calibration matches. Numerical tools produced similarities and alignments, not novel token sequences.",
+    "evidence": "reconstruction_evidence.json",
+    "reproduction": "ANALYSIS.md",
+    "targeted_comparisons": "targeted_evidence.py and targeted_evidence.json"
+  },
+  "limitations": [
+    "Word identities, counts, and boundaries remain inferred; short words have overlapping neural matches.",
+    "ta84f22ff has the greatest count uncertainty: an additional 'it' before 'here' is plausible.",
+    "'closer' has only one labeled calibration occurrence."
+  ],
+  "name": "sentences_t16_fresh_dev",
+  "n": 8,
+  "exact_sentences": 5,
+  "word_error_rate": 0.08108108108108109,
+  "donor_word_error_rate": 0.08108108108108109,
+  "rows": [
+    {
+      "id": "te7fda903",
+      "trial": 85,
+      "donor_trial": 85,
+      "prediction": [
+        "do",
+        "you",
+        "have",
+        "that"
+      ],
+      "truth": [
+        "do",
+        "you",
+        "have",
+        "that"
+      ],
+      "donor_truth": [
+        "do",
+        "you",
+        "have",
+        "that"
+      ],
+      "edit_distance": 0,
+      "donor_edit_distance": 0
+    },
+    {
+      "id": "t196443a7",
+      "trial": 87,
+      "donor_trial": 87,
+      "prediction": [
+        "are",
+        "you",
+        "closer"
+      ],
+      "truth": [
+        "are",
+        "you",
+        "coming",
+        "closer"
+      ],
+      "donor_truth": [
+        "are",
+        "you",
+        "coming",
+        "closer"
+      ],
+      "edit_distance": 1,
+      "donor_edit_distance": 1
+    },
+    {
+      "id": "t0ba95c98",
+      "trial": 80,
+      "donor_trial": 80,
+      "prediction": [
+        "you",
+        "are",
+        "bad"
+      ],
+      "truth": [
+        "you",
+        "are",
+        "bad"
+      ],
+      "donor_truth": [
+        "you",
+        "are",
+        "bad"
+      ],
+      "edit_distance": 0,
+      "donor_edit_distance": 0
+    },
+    {
+      "id": "te1c6177b",
+      "trial": 83,
+      "donor_trial": 83,
+      "prediction": [
+        "no",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ],
+      "truth": [
+        "no",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ],
+      "donor_truth": [
+        "no",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ],
+      "edit_distance": 0,
+      "donor_edit_distance": 0
+    },
+    {
+      "id": "td4202301",
+      "trial": 82,
+      "donor_trial": 82,
+      "prediction": [
+        "hope",
+        "you",
+        "like",
+        "my",
+        "music"
+      ],
+      "truth": [
+        "hope",
+        "you",
+        "like",
+        "music"
+      ],
+      "donor_truth": [
+        "hope",
+        "you",
+        "like",
+        "music"
+      ],
+      "edit_distance": 1,
+      "donor_edit_distance": 1
+    },
+    {
+      "id": "ta84f22ff",
+      "trial": 86,
+      "donor_trial": 86,
+      "prediction": [
+        "you",
+        "have",
+        "here"
+      ],
+      "truth": [
+        "you",
+        "have",
+        "it",
+        "here"
+      ],
+      "donor_truth": [
+        "you",
+        "have",
+        "it",
+        "here"
+      ],
+      "edit_distance": 1,
+      "donor_edit_distance": 1
+    },
+    {
+      "id": "tc14fc0db",
+      "trial": 81,
+      "donor_trial": 81,
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "comfortable"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "comfortable"
+      ],
+      "donor_truth": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "comfortable"
+      ],
+      "edit_distance": 0,
+      "donor_edit_distance": 0
+    },
+    {
+      "id": "t49dd1ce6",
+      "trial": 84,
+      "donor_trial": 84,
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "family"
+      ],
+      "donor_truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "family"
+      ],
+      "edit_distance": 0,
+      "donor_edit_distance": 0
+    }
+  ]
+}

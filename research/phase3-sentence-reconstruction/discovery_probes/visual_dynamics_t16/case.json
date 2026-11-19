@@ -1,0 +1,51 @@
+{
+  "mechanism": "Direct multimodal visual pattern induction",
+  "hypothesis": "Visual temporal motifs let the frozen model infer reusable word structure without explicit neural retrieval.",
+  "competing_explanation": "The compression may discard word information or visual ICL may be too weak for continuous sentences.",
+  "images": [
+    "calibration_01.png",
+    "calibration_02.png",
+    "calibration_03.png",
+    "calibration_04.png",
+    "calibration_05.png",
+    "calibration_06.png",
+    "calibration_07.png",
+    "calibration_08.png",
+    "calibration_09.png",
+    "calibration_10.png",
+    "queries.png"
+  ],
+  "query_ids": [
+    "te7fda903",
+    "t196443a7",
+    "t0ba95c98",
+    "te1c6177b",
+    "td4202301",
+    "ta84f22ff",
+    "tc14fc0db",
+    "t49dd1ce6"
+  ],
+  "calibration_n": 80,
+  "query_n": 8,
+  "source_case": "sentences_t16_fresh_dev",
+  "evaluation_role": "Development probe, same8 recordings; no untouched-confirmation claim",
+  "feature_transform": "Calibration-only smoothing/PCA16 and per-PC scaling, 48-point relative-time rendering",
+  "image_sha256": {
+    "calibration_01.png": "6cad81cd57417f660c4b621b0fd6e1d71347e3d9ab754abc298f8f8eaeb104ab",
+    "calibration_02.png": "61e5ac0158f512587953114f9f45468cc31911ad04d5e21fee14cda5bbbd0120",
+    "calibration_03.png": "83ef6fccef2db054b32fc3d0e8dc471237e508de8a426eda39d497789e0eddeb",
+    "calibration_04.png": "503e610b537fbb4fbf2455978214caac5a7c8674503beeea1a2f96007eaff0e9",
+    "calibration_05.png": "6e229722cd8013ae307bec316b93786c9bcf5a8faaab4f8ea4ba7524b477b9ae",
+    "calibration_06.png": "77d83bc05e18850e63d79f283b49f90fa8bf0faeb5e382ca2d95ce260305435a",
+    "calibration_07.png": "857b3d0bb2a6f854d9b0c7b3ef23a61cc169dec24a6657837ad3f74f560ebb4a",
+    "calibration_08.png": "3062a3eb81c581e42d749a820ffbcf9dc0fe84ba2898117dc4715e8da32f8e12",
+    "calibration_09.png": "5ccdbc9d1743c07444d1305d0eefd5fa67a06f518b4de88726c994e343603547",
+    "calibration_10.png": "8ef5fe184927906c3a8f6530f7f46153587fa34647ad2674c832cf29cd2522a1",
+    "queries.png": "1fadf8d61a34fcf80ea68474c0b0697d959ac7c9b3183e8df153143784f81093"
+  },
+  "tool_access": false,
+  "name": "visual_dynamics_t16",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "prompt_sha256": "2534e1b67c50e763afba804681f9b1f392474ebe41e01e56c08cee6e115b91ee"
+}

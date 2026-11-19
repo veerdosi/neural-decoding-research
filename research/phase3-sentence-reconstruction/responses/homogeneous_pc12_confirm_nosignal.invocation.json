@@ -1,0 +1,27 @@
+{
+  "name": "homogeneous_pc12_confirm_nosignal",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sequence_model_sandbox",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/homogeneous_pc12_confirm_nosignal.json",
+    "-"
+  ],
+  "prompt_sha256": "ad715974c575b8bfc1815dce894e84b7e0d80dc3af5f3d5002c9733af767b406",
+  "started_utc": "2026-11-18T16:58:34Z",
+  "returncode": 0,
+  "wall_seconds": 33.28827404975891
+}

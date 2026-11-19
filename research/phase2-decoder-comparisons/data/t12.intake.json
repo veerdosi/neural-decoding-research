@@ -1,0 +1,30 @@
+{
+  "dataset": "t12",
+  "source_name": "t12.2023.08.15_imagined1stMotor_raw.mat",
+  "source_sha256": "5c7bb2df5c62e0321d771508f34861f173e6b1fef7cd86956bdef0165d474413",
+  "array_names": [
+    "i6v",
+    "s6v"
+  ],
+  "bin_ms": 20,
+  "trial_n": 224,
+  "calibration_blocks": [
+    8,
+    9
+  ],
+  "evaluation_blocks": [
+    17,
+    25
+  ],
+  "calibration_n": 98,
+  "evaluation_n": 98,
+  "calibration_counts": {
+    "3": 14,
+    "6": 14,
+    "4": 14,
+    "0": 14,
+    "1": 14,
+    "2": 14,
+    "5": 14
+  }
+}

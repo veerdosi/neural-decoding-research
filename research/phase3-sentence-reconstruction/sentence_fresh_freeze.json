@@ -1,0 +1,32 @@
+{
+  "created_utc": "2026-11-19T01:12:43.987838+00:00",
+  "query_trials_zero_based": [
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143
+  ],
+  "calibration_n": 120,
+  "rationale": "User clarified general-purpose computational freedom and contribution attribution before any completed confirmation predictions were scored. Retain successful neural retrieval/DTW scaffolding; do not import specialized neural decoders. Save algorithm-only outputs when produced.",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "held_out_recording_scope": "Same predefined16 later recordings; first completed confirmation scoring remains pending. No target-text feedback entered these prompts.",
+  "prompt_hashes": {
+    "sentences_t12_fresh": "c96baed515829de9d4e0afb4d5236126dbe084db14c252ca80f46390e2de9407",
+    "sentences_t12_fresh_repeat": "c96baed515829de9d4e0afb4d5236126dbe084db14c252ca80f46390e2de9407",
+    "sentences_t12_fresh_shuffle": "c96baed515829de9d4e0afb4d5236126dbe084db14c252ca80f46390e2de9407",
+    "sentences_t12_fresh_nosignal": "d45b7dc182833acb4d9eecea4b6f5679a15143a32a6cddfcb509738626faa30d"
+  }
+}

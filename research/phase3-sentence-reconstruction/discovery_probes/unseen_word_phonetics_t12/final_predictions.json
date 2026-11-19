@@ -1,0 +1,100 @@
+{
+  "predictions": [
+    {
+      "id": "qd5000c63",
+      "word": "coupler",
+      "phonemes": "K AH P L ER"
+    },
+    {
+      "id": "qdb657327",
+      "word": "guided",
+      "phonemes": "G AY D AH D"
+    },
+    {
+      "id": "q3a6a7b9d",
+      "word": "guided",
+      "phonemes": "G AY D AH D"
+    },
+    {
+      "id": "q9d4f6db6",
+      "word": "shady",
+      "phonemes": "SH EY D IY"
+    },
+    {
+      "id": "qd6dfa4d3",
+      "word": "excite",
+      "phonemes": "IH K S AY T"
+    },
+    {
+      "id": "qc3b19e62",
+      "word": "coupler",
+      "phonemes": "K AH P L ER"
+    },
+    {
+      "id": "q8adf658a",
+      "word": "cowbell",
+      "phonemes": "K AW B EH L"
+    },
+    {
+      "id": "q6f863fa0",
+      "word": "cases",
+      "phonemes": "K EY S AH Z"
+    },
+    {
+      "id": "q94a15367",
+      "word": "excite",
+      "phonemes": "IH K S AY T"
+    },
+    {
+      "id": "q6c758802",
+      "word": "dismay",
+      "phonemes": "D IH S M EY"
+    },
+    {
+      "id": "qa9e976f9",
+      "word": "dismay",
+      "phonemes": "D IH S M EY"
+    },
+    {
+      "id": "qc491a219",
+      "word": "critic",
+      "phonemes": "K R IH T IH K"
+    },
+    {
+      "id": "q79c21683",
+      "word": "shady",
+      "phonemes": "SH EY D IY"
+    },
+    {
+      "id": "q84a6723d",
+      "word": "addition",
+      "phonemes": "AH D IH SH AH N"
+    },
+    {
+      "id": "qba60129d",
+      "word": "supine",
+      "phonemes": "S AH P AY N"
+    },
+    {
+      "id": "q0a47e660",
+      "word": "critic",
+      "phonemes": "K R IH T IH K"
+    }
+  ],
+  "method": {
+    "summary": "Compositional phoneme/articulatory ridge models fitted only to calibration neural activity, tested with whole word types withheld, then searched across all supplied dictionary pronunciations. Final words are my linguistic interpretations of model alternatives and possible repeated recordings.",
+    "validation": "42 held-out word types: ensemble median pronunciation rank 38.5 across 134860 dictionary pronunciations; 11/42 ranked within the top 10. These are exploratory calibration results, not query accuracy.",
+    "evidence": [
+      "analysis_report.md",
+      "algorithm_only_outputs.json",
+      "human_conclusions.json",
+      "final_fitted_model.npz",
+      "final_validation.json"
+    ]
+  },
+  "limitations": [
+    "All predictions have low confidence; exact words are not uniquely determined by these recordings.",
+    "Timing, pronunciation variants, uncalibrated phonemes, and presumed query repetitions introduce uncertainty. Homophones cannot be resolved neurally.",
+    "Final choices differ from raw algorithm rankings; no query targets, external neural models, network, or delegates were used."
+  ]
+}

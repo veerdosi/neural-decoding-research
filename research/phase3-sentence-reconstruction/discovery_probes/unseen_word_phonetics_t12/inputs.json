@@ -1,0 +1,1464 @@
+{
+  "bin_ms_nominal": 100,
+  "features": "128 area6v crossing channels +128 log1p spike-power channels; generic label-free block centering and calibration-only scaling. No audio/decoder outputs.",
+  "calibration": [
+    {
+      "id": "c000",
+      "word": "no",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c001",
+      "word": "have",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c002",
+      "word": "you",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c003",
+      "word": "where",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c004",
+      "word": "bring",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c005",
+      "word": "no",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c006",
+      "word": "do",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c007",
+      "word": "closer",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c008",
+      "word": "you",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c009",
+      "word": "where",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c010",
+      "word": "bring",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c011",
+      "word": "coming",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c012",
+      "word": "feel",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c013",
+      "word": "am",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c014",
+      "word": "what",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c015",
+      "word": "good",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c016",
+      "word": "tired",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c017",
+      "word": "feel",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c018",
+      "word": "very",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c019",
+      "word": "hello",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c020",
+      "word": "my",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c021",
+      "word": "they",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c022",
+      "word": "okay",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c023",
+      "word": "tired",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c024",
+      "word": "like",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c025",
+      "word": "do",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c026",
+      "word": "tell",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c027",
+      "word": "please",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c028",
+      "word": "up",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c029",
+      "word": "they",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c030",
+      "word": "up",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c031",
+      "word": "okay",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c032",
+      "word": "hope",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c033",
+      "word": "good",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c034",
+      "word": "faith",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c035",
+      "word": "they",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c036",
+      "word": "not",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c037",
+      "word": "like",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c038",
+      "word": "up",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c039",
+      "word": "coming",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c040",
+      "word": "have",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c041",
+      "word": "hope",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c042",
+      "word": "hope",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c043",
+      "word": "have",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c044",
+      "word": "tell",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c045",
+      "word": "feel",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c046",
+      "word": "you",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c047",
+      "word": "nurse",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c048",
+      "word": "is",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c049",
+      "word": "have",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c050",
+      "word": "am",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c051",
+      "word": "do",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c052",
+      "word": "it",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c053",
+      "word": "goodbye",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c054",
+      "word": "faith",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c055",
+      "word": "thirsty",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c056",
+      "word": "right",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c057",
+      "word": "good",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c058",
+      "word": "closer",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c059",
+      "word": "here",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c060",
+      "word": "how",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c061",
+      "word": "goodbye",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c062",
+      "word": "help",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c063",
+      "word": "that",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c064",
+      "word": "tired",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c065",
+      "word": "how",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c066",
+      "word": "it",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c067",
+      "word": "no",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c068",
+      "word": "going",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c069",
+      "word": "yes",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c070",
+      "word": "here",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c071",
+      "word": "need",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c072",
+      "word": "are",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c073",
+      "word": "hope",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c074",
+      "word": "bad",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c075",
+      "word": "going",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c076",
+      "word": "coming",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c077",
+      "word": "thirsty",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c078",
+      "word": "is",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c079",
+      "word": "hello",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c080",
+      "word": "that",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c081",
+      "word": "up",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c082",
+      "word": "closer",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c083",
+      "word": "yes",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c084",
+      "word": "goodbye",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c085",
+      "word": "okay",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c086",
+      "word": "you",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c087",
+      "word": "goodbye",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c088",
+      "word": "tired",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c089",
+      "word": "my",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c090",
+      "word": "going",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c091",
+      "word": "where",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c092",
+      "word": "hello",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c093",
+      "word": "right",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c094",
+      "word": "not",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c095",
+      "word": "are",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c096",
+      "word": "i",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c097",
+      "word": "help",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c098",
+      "word": "yes",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c099",
+      "word": "are",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c100",
+      "word": "bad",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c101",
+      "word": "tell",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c102",
+      "word": "like",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c103",
+      "word": "very",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c104",
+      "word": "do",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c105",
+      "word": "nurse",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c106",
+      "word": "nurse",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c107",
+      "word": "right",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c108",
+      "word": "bring",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c109",
+      "word": "tell",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c110",
+      "word": "please",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c111",
+      "word": "here",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c112",
+      "word": "feel",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c113",
+      "word": "not",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c114",
+      "word": "clean",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c115",
+      "word": "not",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c116",
+      "word": "bring",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c117",
+      "word": "closer",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c118",
+      "word": "nurse",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c119",
+      "word": "very",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c120",
+      "word": "help",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c121",
+      "word": "right",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c122",
+      "word": "they",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c123",
+      "word": "yes",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c124",
+      "word": "i",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c125",
+      "word": "bad",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c126",
+      "word": "hello",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c127",
+      "word": "bad",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c128",
+      "word": "faith",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c129",
+      "word": "need",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c130",
+      "word": "how",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c131",
+      "word": "clean",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c132",
+      "word": "it",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c133",
+      "word": "clean",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c134",
+      "word": "my",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c135",
+      "word": "i",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c136",
+      "word": "here",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c137",
+      "word": "that",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c138",
+      "word": "thirsty",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c139",
+      "word": "am",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c140",
+      "word": "coming",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c141",
+      "word": "is",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c142",
+      "word": "going",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c143",
+      "word": "is",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c144",
+      "word": "my",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c145",
+      "word": "clean",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c146",
+      "word": "need",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c147",
+      "word": "help",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c148",
+      "word": "what",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c149",
+      "word": "no",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c150",
+      "word": "i",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c151",
+      "word": "that",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c152",
+      "word": "faith",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c153",
+      "word": "please",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c154",
+      "word": "what",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c155",
+      "word": "please",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c156",
+      "word": "like",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c157",
+      "word": "need",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c158",
+      "word": "thirsty",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c159",
+      "word": "it",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c160",
+      "word": "good",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c161",
+      "word": "are",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c162",
+      "word": "very",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c163",
+      "word": "okay",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c164",
+      "word": "where",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c165",
+      "word": "am",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c166",
+      "word": "how",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "c167",
+      "word": "what",
+      "shape": [
+        20,
+        256
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "id": "qd5000c63",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "qdb657327",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q3a6a7b9d",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q9d4f6db6",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "qd6dfa4d3",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "qc3b19e62",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q8adf658a",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q6f863fa0",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q94a15367",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q6c758802",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "qa9e976f9",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "qc491a219",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q79c21683",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q84a6723d",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "qba60129d",
+      "shape": [
+        20,
+        256
+      ]
+    },
+    {
+      "id": "q0a47e660",
+      "shape": [
+        20,
+        256
+      ]
+    }
+  ]
+}

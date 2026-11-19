@@ -1,0 +1,128 @@
+
+### tda989373 my my faith
+3.153 tell my faith [('tell', 2, 7, 0.22), ('my', 7, 12, 0.206), ('faith', 12, 20, 0.186)]
+3.113 are my faith [('are', 2, 7, 0.212), ('my', 7, 12, 0.206), ('faith', 12, 20, 0.186)]
+3.058 is my faith [('is', 2, 7, 0.202), ('my', 7, 12, 0.206), ('faith', 12, 20, 0.186)]
+2.715 have my faith [('have', 2, 8, 0.154), ('my', 8, 12, 0.197), ('faith', 12, 20, 0.186)]
+2.67 tell my family [('tell', 2, 7, 0.22), ('my', 7, 12, 0.206), ('family', 12, 20, 0.128)]
+2.598 is my music [('is', 2, 7, 0.202), ('my', 7, 12, 0.206), ('music', 12, 20, 0.128)]
+
+### tdd25032b no i do they very comfortable
+10.45 no i do not very comfortable [('no', 2, 9, 0.25), ('i', 9, 13, 0.291), ('do', 13, 19, 0.262), ('not', 19, 24, 0.177), ('very', 24, 31, 0.199), ('comfortable', 31, 46, 0.313)]
+10.279 no i do not feel comfortable [('no', 2, 9, 0.25), ('i', 9, 13, 0.291), ('do', 13, 18, 0.26), ('not', 18, 23, 0.176), ('feel', 23, 31, 0.189), ('comfortable', 31, 46, 0.313)]
+10.12 no i do not have comfortable [('no', 2, 9, 0.25), ('i', 9, 13, 0.291), ('do', 13, 18, 0.26), ('not', 18, 23, 0.176), ('have', 23, 31, 0.17), ('comfortable', 31, 46, 0.313)]
+10.117 no they do not feel comfortable [('no', 2, 9, 0.25), ('they', 9, 13, 0.258), ('do', 13, 18, 0.26), ('not', 18, 23, 0.176), ('feel', 23, 31, 0.189), ('comfortable', 31, 46, 0.313)]
+10.033 no i do not feel my comfortable [('no', 2, 9, 0.25), ('i', 9, 13, 0.291), ('do', 13, 18, 0.26), ('not', 18, 23, 0.176), ('feel', 23, 30, 0.203), ('my', 30, 33, 0.182), ('comfortable', 33, 46, 0.324)]
+9.37 no i do not feel very comfortable [('no', 2, 9, 0.25), ('i', 9, 13, 0.291), ('do', 13, 18, 0.26), ('not', 18, 23, 0.176), ('feel', 23, 29, 0.205), ('very', 29, 33, 0.074), ('comfortable', 33, 46, 0.324)]
+
+### t5ee44a7f my faith they good
+5.463 my faith they good [('my', 2, 6, 0.252), ('faith', 6, 13, 0.301), ('they', 13, 18, 0.206), ('good', 18, 27, 0.214)]
+5.254 my faith are good [('my', 2, 6, 0.252), ('faith', 6, 14, 0.282), ('are', 14, 19, 0.184), ('good', 19, 27, 0.211)]
+5.191 my faith it good [('my', 2, 6, 0.252), ('faith', 6, 13, 0.301), ('it', 13, 18, 0.154), ('good', 18, 27, 0.214)]
+5.014 my faith not good [('my', 2, 6, 0.252), ('faith', 6, 13, 0.301), ('not', 13, 18, 0.118), ('good', 18, 27, 0.214)]
+4.998 my faith is good [('my', 2, 6, 0.252), ('faith', 6, 13, 0.301), ('is', 13, 18, 0.114), ('good', 18, 27, 0.214)]
+4.504 my faith is going [('my', 2, 6, 0.252), ('faith', 6, 14, 0.282), ('is', 14, 19, 0.108), ('going', 19, 27, 0.165)]
+
+### tdf8f9fae my do do that
+3.681 my i they what [('my', 2, 6, 0.213), ('i', 6, 11, 0.204), ('they', 11, 17, 0.24), ('what', 17, 23, 0.165)]
+3.45 they do that [('they', 2, 12, 0.19), ('do', 12, 18, 0.248), ('that', 18, 23, 0.165)]
+3.433 they do what [('they', 2, 12, 0.19), ('do', 12, 18, 0.248), ('what', 18, 23, 0.162)]
+3.419 they do not [('they', 2, 12, 0.19), ('do', 12, 18, 0.248), ('not', 18, 23, 0.155)]
+3.368 they need that [('they', 2, 10, 0.201), ('need', 10, 17, 0.211), ('that', 17, 23, 0.163)]
+3.313 do they what [('do', 2, 9, 0.16), ('they', 9, 17, 0.225), ('what', 17, 23, 0.165)]
+
+### t4f16b000 i like up
+2.769 i like up [('i', 2, 6, 0.205), ('like', 6, 15, 0.171), ('up', 15, 20, 0.187)]
+2.71 i like tired [('i', 2, 6, 0.205), ('like', 6, 14, 0.176), ('tired', 14, 20, 0.165)]
+2.69 i like it [('i', 2, 6, 0.205), ('like', 6, 14, 0.176), ('it', 14, 20, 0.155)]
+2.681 i like help [('i', 2, 6, 0.205), ('like', 6, 14, 0.176), ('help', 14, 20, 0.154)]
+2.639 they like it [('they', 2, 7, 0.189), ('like', 7, 14, 0.178), ('it', 14, 20, 0.155)]
+2.629 i like you [('i', 2, 6, 0.205), ('like', 6, 14, 0.176), ('you', 14, 20, 0.146)]
+
+### t40a0a424 tell my i need very good
+7.498 tell my nurse very good [('tell', 2, 7, 0.214), ('my', 7, 12, 0.288), ('nurse', 12, 22, 0.185), ('very', 22, 29, 0.19), ('good', 29, 38, 0.298)]
+7.371 tell my i need you good [('tell', 2, 7, 0.214), ('my', 7, 12, 0.288), ('i', 12, 17, 0.189), ('need', 17, 23, 0.191), ('you', 23, 29, 0.177), ('good', 29, 38, 0.298)]
+7.349 tell my nurse is good [('tell', 2, 7, 0.214), ('my', 7, 11, 0.285), ('nurse', 11, 21, 0.195), ('is', 21, 27, 0.21), ('good', 27, 38, 0.261)]
+7.265 tell my nurse feel good [('tell', 2, 7, 0.214), ('my', 7, 12, 0.288), ('nurse', 12, 22, 0.185), ('feel', 22, 29, 0.161), ('good', 29, 38, 0.298)]
+7.086 tell my nurse is very good [('tell', 2, 7, 0.214), ('my', 7, 11, 0.285), ('nurse', 11, 20, 0.195), ('is', 20, 24, 0.214), ('very', 24, 29, 0.173), ('good', 29, 38, 0.298)]
+6.702 tell my nurse they are good [('tell', 2, 7, 0.214), ('my', 7, 11, 0.285), ('nurse', 11, 21, 0.195), ('they', 21, 25, 0.178), ('are', 25, 29, 0.067), ('good', 29, 38, 0.298)]
+
+### tf256b8ed they do not feel faith
+6.156 they do not feel faith [('they', 2, 7, 0.219), ('do', 7, 13, 0.261), ('not', 13, 18, 0.196), ('feel', 18, 26, 0.163), ('faith', 26, 34, 0.248)]
+6.099 they do not have faith [('they', 2, 7, 0.219), ('do', 7, 13, 0.261), ('not', 13, 19, 0.193), ('have', 19, 26, 0.151), ('faith', 26, 34, 0.248)]
+6.074 i need not feel faith [('i', 2, 8, 0.205), ('need', 8, 13, 0.278), ('not', 13, 18, 0.196), ('feel', 18, 26, 0.163), ('faith', 26, 34, 0.248)]
+6.055 i do not feel faith [('i', 2, 7, 0.199), ('do', 7, 13, 0.261), ('not', 13, 18, 0.196), ('feel', 18, 26, 0.163), ('faith', 26, 34, 0.248)]
+6.017 i need not have faith [('i', 2, 8, 0.205), ('need', 8, 13, 0.278), ('not', 13, 19, 0.193), ('have', 19, 26, 0.151), ('faith', 26, 34, 0.248)]
+6.011 they do not have my faith [('they', 2, 7, 0.219), ('do', 7, 13, 0.261), ('not', 13, 18, 0.196), ('have', 18, 24, 0.179), ('my', 24, 28, 0.215), ('faith', 28, 34, 0.236)]
+
+### t12be1627 i hope is up
+3.904 i hope you up [('i', 2, 7, 0.235), ('hope', 7, 15, 0.231), ('you', 15, 21, 0.168), ('up', 21, 24, 0.166)]
+3.753 i hope they up [('i', 2, 7, 0.235), ('hope', 7, 15, 0.231), ('they', 15, 20, 0.144), ('up', 20, 24, 0.155)]
+3.748 i hope they have [('i', 2, 7, 0.235), ('hope', 7, 14, 0.225), ('they', 14, 19, 0.178), ('have', 19, 24, 0.165)]
+3.702 i hope i have [('i', 2, 7, 0.235), ('hope', 7, 15, 0.231), ('i', 15, 19, 0.145), ('have', 19, 24, 0.165)]
+3.615 i hope you have [('i', 2, 7, 0.235), ('hope', 7, 15, 0.231), ('you', 15, 20, 0.161), ('have', 20, 24, 0.185)]
+3.382 i hope they are [('i', 2, 7, 0.235), ('hope', 7, 14, 0.225), ('they', 14, 19, 0.178), ('are', 19, 24, 0.071)]
+
+### t42cfafec that my very comfortable
+6.919 that my very comfortable [('that', 2, 7, 0.244), ('my', 7, 11, 0.195), ('very', 11, 17, 0.268), ('comfortable', 17, 30, 0.305)]
+6.776 that is very comfortable [('that', 2, 7, 0.244), ('is', 7, 11, 0.175), ('very', 11, 17, 0.268), ('comfortable', 17, 30, 0.305)]
+6.701 is my very comfortable [('is', 2, 7, 0.195), ('my', 7, 11, 0.195), ('very', 11, 17, 0.268), ('comfortable', 17, 30, 0.305)]
+6.687 they very comfortable [('they', 2, 10, 0.19), ('very', 10, 17, 0.255), ('comfortable', 17, 30, 0.305)]
+6.625 what is very comfortable [('what', 2, 7, 0.214), ('is', 7, 11, 0.175), ('very', 11, 17, 0.268), ('comfortable', 17, 30, 0.305)]
+6.378 they are very comfortable [('they', 2, 7, 0.2), ('are', 7, 11, 0.117), ('very', 11, 17, 0.268), ('comfortable', 17, 30, 0.305)]
+
+### te3715f88 you my thirsty comfortable
+5.872 you my nurse comfortable [('you', 2, 7, 0.263), ('my', 7, 11, 0.281), ('nurse', 11, 20, 0.207), ('comfortable', 20, 33, 0.19)]
+5.791 tell my nurse comfortable [('tell', 2, 6, 0.219), ('my', 6, 10, 0.279), ('nurse', 10, 20, 0.207), ('comfortable', 20, 33, 0.19)]
+5.767 is my nurse comfortable [('is', 2, 7, 0.231), ('my', 7, 11, 0.281), ('nurse', 11, 20, 0.207), ('comfortable', 20, 33, 0.19)]
+5.742 is my family comfortable [('is', 2, 7, 0.231), ('my', 7, 12, 0.277), ('family', 12, 20, 0.171), ('comfortable', 20, 33, 0.19)]
+5.516 is my faith comfortable [('is', 2, 7, 0.231), ('my', 7, 12, 0.277), ('faith', 12, 18, 0.126), ('comfortable', 18, 33, 0.194)]
+5.243 is my nurse comfortable you [('is', 2, 6, 0.212), ('my', 6, 10, 0.279), ('nurse', 10, 19, 0.209), ('comfortable', 19, 28, 0.221), ('you', 28, 33, 0.147)]
+
+### tb8083852 do not is it
+5.107 do not is it [('do', 2, 8, 0.261), ('not', 8, 14, 0.238), ('is', 14, 19, 0.212), ('it', 19, 28, 0.201)]
+4.942 do not need it [('do', 2, 9, 0.258), ('not', 9, 17, 0.229), ('need', 17, 21, 0.195), ('it', 21, 28, 0.182)]
+4.855 do not tell it [('do', 2, 9, 0.258), ('not', 9, 16, 0.238), ('tell', 16, 20, 0.141), ('it', 20, 28, 0.198)]
+4.85 do is that it [('do', 2, 10, 0.248), ('is', 10, 16, 0.243), ('that', 16, 21, 0.176), ('it', 21, 28, 0.182)]
+4.805 do not it [('do', 2, 9, 0.258), ('not', 9, 18, 0.216), ('it', 18, 28, 0.192)]
+4.644 do not like it [('do', 2, 8, 0.261), ('not', 8, 13, 0.233), ('like', 13, 20, 0.151), ('it', 20, 28, 0.198)]
+
+### t9024802d my music they here
+5.189 my music they here [('my', 2, 6, 0.218), ('music', 6, 16, 0.195), ('they', 16, 22, 0.213), ('here', 22, 29, 0.262)]
+5.137 my music is is here [('my', 2, 6, 0.218), ('music', 6, 14, 0.205), ('is', 14, 19, 0.181), ('is', 19, 24, 0.227), ('here', 24, 29, 0.269)]
+5.077 my music is here [('my', 2, 6, 0.218), ('music', 6, 16, 0.195), ('is', 16, 22, 0.193), ('here', 22, 29, 0.262)]
+5.069 my music it here [('my', 2, 6, 0.218), ('music', 6, 16, 0.195), ('it', 16, 23, 0.193), ('here', 23, 29, 0.267)]
+5.0 my music right here [('my', 2, 6, 0.218), ('music', 6, 16, 0.195), ('right', 16, 24, 0.186), ('here', 24, 29, 0.269)]
+4.962 my music it is here [('my', 2, 6, 0.218), ('music', 6, 14, 0.205), ('it', 14, 19, 0.148), ('is', 19, 24, 0.227), ('here', 24, 29, 0.269)]
+
+### t2b08e042 family do good
+5.572 family do good [('family', 2, 13, 0.223), ('do', 13, 19, 0.241), ('good', 19, 29, 0.219)]
+5.31 family is not good [('family', 2, 10, 0.198), ('is', 10, 15, 0.241), ('not', 15, 20, 0.232), ('good', 20, 29, 0.223)]
+5.249 my family do good [('my', 2, 5, 0.204), ('family', 5, 13, 0.219), ('do', 13, 19, 0.241), ('good', 19, 29, 0.219)]
+5.195 my family not good [('my', 2, 5, 0.204), ('family', 5, 14, 0.212), ('not', 14, 20, 0.228), ('good', 20, 29, 0.223)]
+5.075 my here is not good [('my', 2, 5, 0.204), ('here', 5, 9, 0.169), ('is', 9, 15, 0.252), ('not', 15, 20, 0.232), ('good', 20, 29, 0.223)]
+4.828 my family is good [('my', 2, 5, 0.204), ('family', 5, 13, 0.219), ('is', 13, 19, 0.171), ('good', 19, 29, 0.219)]
+
+### t62254eda tell need my very good
+6.382 tell need my very good [('tell', 2, 7, 0.22), ('need', 7, 12, 0.218), ('my', 12, 18, 0.288), ('very', 18, 25, 0.205), ('good', 25, 33, 0.231)]
+6.267 tell need my family good [('tell', 2, 6, 0.212), ('need', 6, 11, 0.238), ('my', 11, 16, 0.294), ('family', 16, 25, 0.189), ('good', 25, 33, 0.231)]
+6.19 you need my very good [('you', 2, 7, 0.193), ('need', 7, 12, 0.218), ('my', 12, 18, 0.288), ('very', 18, 25, 0.205), ('good', 25, 33, 0.231)]
+6.153 tell my family good [('tell', 2, 9, 0.213), ('my', 9, 15, 0.271), ('family', 15, 25, 0.195), ('good', 25, 33, 0.231)]
+6.056 you need my family good [('you', 2, 7, 0.193), ('need', 7, 12, 0.218), ('my', 12, 17, 0.305), ('family', 17, 25, 0.186), ('good', 25, 33, 0.231)]
+5.852 tell my family going [('tell', 2, 9, 0.213), ('my', 9, 15, 0.271), ('family', 15, 26, 0.19), ('going', 26, 33, 0.207)]
+
+### t9db27598 i hope i my faith
+6.46 i hope i my faith [('i', 2, 7, 0.229), ('hope', 7, 14, 0.249), ('i', 14, 19, 0.198), ('my', 19, 23, 0.233), ('faith', 23, 30, 0.346)]
+6.254 i hope you my faith [('i', 2, 7, 0.229), ('hope', 7, 14, 0.249), ('you', 14, 19, 0.168), ('my', 19, 23, 0.233), ('faith', 23, 30, 0.346)]
+6.161 i hope my faith [('i', 2, 7, 0.229), ('hope', 7, 16, 0.219), ('my', 16, 22, 0.176), ('faith', 22, 30, 0.334)]
+6.057 i hope i have faith [('i', 2, 7, 0.229), ('hope', 7, 14, 0.249), ('i', 14, 18, 0.189), ('have', 18, 23, 0.176), ('faith', 23, 30, 0.346)]
+6.008 they hope i have faith [('they', 2, 7, 0.22), ('hope', 7, 14, 0.249), ('i', 14, 18, 0.189), ('have', 18, 23, 0.176), ('faith', 23, 30, 0.346)]
+5.956 i hope do have faith [('i', 2, 7, 0.229), ('hope', 7, 13, 0.249), ('do', 13, 17, 0.193), ('have', 17, 22, 0.18), ('faith', 22, 30, 0.334)]
+
+### tef25d0d3 tell my family i do not need they you thirsty
+14.32 tell my family i do not they feel thirsty [('tell', 2, 7, 0.276), ('my', 7, 13, 0.304), ('family', 13, 23, 0.267), ('i', 23, 29, 0.364), ('do', 29, 36, 0.291), ('not', 36, 43, 0.163), ('they', 43, 49, 0.161), ('feel', 49, 57, 0.216), ('thirsty', 57, 67, 0.191)]
+14.211 tell my family i do not need feel thirsty [('tell', 2, 7, 0.276), ('my', 7, 13, 0.304), ('family', 13, 23, 0.267), ('i', 23, 29, 0.364), ('do', 29, 36, 0.291), ('not', 36, 42, 0.174), ('need', 42, 47, 0.132), ('feel', 47, 57, 0.203), ('thirsty', 57, 67, 0.191)]
+13.982 tell my family i do not feel very thirsty [('tell', 2, 7, 0.276), ('my', 7, 13, 0.304), ('family', 13, 23, 0.267), ('i', 23, 29, 0.364), ('do', 29, 36, 0.291), ('not', 36, 41, 0.187), ('feel', 41, 48, 0.15), ('very', 48, 57, 0.175), ('thirsty', 57, 67, 0.191)]
+13.977 tell my family i do not have feel thirsty [('tell', 2, 7, 0.276), ('my', 7, 13, 0.304), ('family', 13, 23, 0.267), ('i', 23, 29, 0.364), ('do', 29, 36, 0.291), ('not', 36, 41, 0.187), ('have', 41, 47, 0.093), ('feel', 47, 57, 0.203), ('thirsty', 57, 67, 0.191)]
+13.804 tell my family i do not feel thirsty [('tell', 2, 7, 0.276), ('my', 7, 13, 0.304), ('family', 13, 23, 0.267), ('i', 23, 29, 0.364), ('do', 29, 36, 0.291), ('not', 36, 44, 0.149), ('feel', 44, 56, 0.177), ('thirsty', 56, 67, 0.181)]
+13.459 tell my family i do not feel very hungry [('tell', 2, 7, 0.276), ('my', 7, 13, 0.304), ('family', 13, 23, 0.267), ('i', 23, 29, 0.364), ('do', 29, 36, 0.291), ('not', 36, 41, 0.187), ('feel', 41, 48, 0.15), ('very', 48, 55, 0.184), ('hungry', 55, 67, 0.136)]

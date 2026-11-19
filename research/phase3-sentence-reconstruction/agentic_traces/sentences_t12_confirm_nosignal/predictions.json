@@ -1,0 +1,154 @@
+{
+  "predictions": [
+    {
+      "id": "tda989373",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "tdd25032b",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "like",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t5ee44a7f",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "tdf8f9fae",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t4f16b000",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t40a0a424",
+      "tokens": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "my",
+        "glasses"
+      ]
+    },
+    {
+      "id": "tf256b8ed",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "feel",
+        "okay"
+      ]
+    },
+    {
+      "id": "t12be1627",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t42cfafec",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "te3715f88",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "tb8083852",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t9024802d",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t2b08e042",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t62254eda",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t9db27598",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "tef25d0d3",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    }
+  ],
+  "method": "Confirmed every query array is all zero. Made calibration-prior-only guesses: enumerated unseen whole-sentence prefix/suffix splices across identical calibration spans, counted supporting source pairs, and conditioned on recording length using the empirical calibration word-count/length distribution with a fixed four-frame Gaussian bandwidth. Ranked whole candidates deterministically; lexical ties are alphabetical. No neural-to-word model, word prototypes, or supervised projection. Reproduce with reconstruct_priors.py; evidence is in reconstruction_evidence.json.",
+  "limitations": [
+    "Actual ordered query words are unidentifiable: all query neural activity is withheld.",
+    "These are speculative prior-based complete sentences, not neural reconstructions; durations do not identify word counts, boundaries, identities, or order.",
+    "Candidate support and normalized heuristic masses are not calibrated probabilities. The splice prior favors frequent calibration patterns and restricts lengths to the observed calibration range; alphabetical tie-breaking has no evidential meaning.",
+    "Equal-length queries receive the same guess because their available evidence is identical."
+  ]
+}

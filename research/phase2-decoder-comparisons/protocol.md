@@ -1,0 +1,19 @@
+# Phase 2 decisions made before new results
+
+All Sol calls: authenticated Codex, gpt-6.1-sol, high reasoning effort. No fine-tuning, external supervised decoder, or pretrained neural encoder in the Sol path. Conventional decoders are separate comparators, never fed into Sol. Retain completed model responses and scientific results.
+
+T12's 2023-08-15 recordings are development data: Phase 1 evaluation labels were inspected. Repeated predictions or changed preprocessing on these recordings are not untouched confirmation. Primary features remain 64 i6v threshold-crossing means plus 64 log1p spike-power means, 200-1200 ms after go. No rest trials.
+
+First decisions: independently repeat the exact Phase 1 full-feature prompt twice; compare Sol, kNN and regularized LDA at 2, 4, 7 and 14 labeled examples per word. Use three prespecified calibration draws for Sol at 2/4/7, with nested, block-balanced subsets. Fourteen uses all early calibration trials; independent calls are repetitions of one calibration set. Conventional baselines use at least 20 draws at smaller sizes and the same selected subsets as Sol. Normalize on the selected calibration subset, not additional unlabeled examples. Match rounded feature values across methods.
+
+kNN tuning grid: k=1/3/5/9, uniform/distance weights; skip k larger than a fold's training sample count. LDA: shared within-class covariance shrunk toward a scaled identity, shrinkage=0.1/0.5/0.9/1.0/pooled Ledoit-Wolf. Tune with leave-one-calibration-block-out validation, fitting normalization separately inside each fold. Refit using the complete selected calibration set. Do not tune on evaluation labels. Report calibration variability separately from repeated model-call variability; reused evaluation recordings and draws are correlated.
+
+Implementation clarification before curve inspection: sklearn LDA refuses a validation-training fold with one observation per class, which occurs at two examples per word. Implement the ordinary linear discriminant formula directly. If within-class covariance is identically zero, the predefined regularized limit is identity covariance (nearest centroid); the folds cannot identify the shrinkage strength. In this tie, choose the first valid grid entry. This avoids silently dropping the two-example regime. Invalid kNN entries get a sentinel score below any possible accuracy, not NaN. 
+
+Mechanism development: use conventional baselines first to compare post-go versus delay (-1200 to -200 ms), go-minus-delay, late go (1200-2200 ms), threshold crossings alone, spike power alone, PCA12, s6v, and label-free within-block centering. These are development comparisons, not independent confirmatory discoveries. Only send informative contrasts to Sol. Batch centering is transductive and must be identified as such. Direct Sol calls will not receive conventional predictions, fitted weights, or evaluation feedback.
+
+Batch effects: compare the 98-query development batch with seven randomized 14-query chunks covering exactly the same recordings. This is a changed evaluation protocol on old data. Do not assume streaming capability from it.
+
+Untouched confirmation reserve: T16 2024-03-04 motoric imagined speech, not used in Phase 1. Inspect structure only at intake. Freeze the confirmation recipe using T12 development results before scoring T16 held-out trials. Use earliest two eligible blocks for participant-specific calibration, all later eligible blocks for evaluation, i6v named anatomically, fixed original post-go window as a primary transfer of protocol. Include fresh no-signal and shuffled controls. Distinguish replication of a learning procedure in another participant from zero-calibration cross-participant transfer. Record any secondary preprocessing selected on T12 before seeing T16 outcomes.
+
+Stop after a Phase 2 report and a ranked Phase 3 recommendation. No polished demo or new research program.

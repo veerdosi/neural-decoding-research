@@ -1,0 +1,267 @@
+{
+  "predictions": [
+    {
+      "id": "te7fda903",
+      "tokens": [
+        "do",
+        "it"
+      ]
+    },
+    {
+      "id": "t196443a7",
+      "tokens": [
+        "are",
+        "do",
+        "closer",
+        "very",
+        "here"
+      ]
+    },
+    {
+      "id": "t0ba95c98",
+      "tokens": [
+        "do",
+        "are",
+        "bad",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "te1c6177b",
+      "tokens": [
+        "hope",
+        "like",
+        "am",
+        "not",
+        "right",
+        "hungry"
+      ]
+    },
+    {
+      "id": "td4202301",
+      "tokens": [
+        "hello",
+        "you",
+        "like",
+        "music"
+      ]
+    },
+    {
+      "id": "ta84f22ff",
+      "tokens": [
+        "you",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "tc14fc0db",
+      "tokens": [
+        "hope",
+        "they",
+        "are",
+        "hope",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "t49dd1ce6",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "yes",
+        "family",
+        "thirsty"
+      ]
+    }
+  ],
+  "selected": {
+    "word_states": 3,
+    "dirichlet_prior_frames": 8.0,
+    "lm_scale": 0.5,
+    "word_transition_penalty": -2.0,
+    "calibration_cv_WER": 0.7219101123595506
+  },
+  "calibration_cv": [
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 0.7219101123595506
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 0.8286516853932584
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 0.8398876404494382
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 0.8455056179775281
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 0.9101123595505618
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 0.9382022471910112
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 0.9466292134831461
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 0.9971910112359551
+    },
+    {
+      "word_states": 3,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 1.050561797752809
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 1.0561797752808988
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 1.1067415730337078
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 1.1207865168539326
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 1.2331460674157304
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 1.247191011235955
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 1.398876404494382
+    },
+    {
+      "word_states": 2,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 1.452247191011236
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 2.4241573033707864
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 2.539325842696629
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 2.7780898876404496
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 2.794943820224719
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.0,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 2.893258426966292
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 2.949438202247191
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 1.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 3.087078651685393
+    },
+    {
+      "word_states": 1,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": 0.0,
+      "calibration_cv_WER": 3.348314606741573
+    }
+  ],
+  "calibration_blocks": [
+    1,
+    4
+  ],
+  "method": "Categorical word-state HMM, transcript-constrained Viterbi training, calibration unigram/bigram prior. No DTW or Sol at application.",
+  "representation": "Exact same64 cluster symbols and native run durations supplied to Sol. Clusters/PCA fitted on all80 calibration neural recordings; CV holds out transcript labels by block but reuses that unsupervised representation.",
+  "wall_seconds": 3.84468412399292,
+  "query_targets_used_for_selection": false,
+  "baseline_design_scope": "Designed after viewing Sol development outcome; hyperparameters and word alignment use calibration labels only. Not an independently preregistered algorithm family."
+}

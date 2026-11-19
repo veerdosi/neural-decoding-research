@@ -1,0 +1,18 @@
+{
+  "name": "sentences_pc32_dev",
+  "query_ids": [
+    "sd133fe66",
+    "s91b28a91",
+    "sa8a65773",
+    "scd92c110",
+    "s7d52b265",
+    "s50600ea0",
+    "s53cbb8ea",
+    "sf75891fc"
+  ],
+  "query_n": 8,
+  "calibration_n": 120,
+  "prompt_sha256": "f2c609a54eae44c7996f4c68c555e34e0ca889fc6d5383c09b24d4a7896ddfb4",
+  "split": "development",
+  "task": "unseen sentences"
+}

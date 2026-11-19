@@ -1,0 +1,41 @@
+# Local recordings, downloads, scratch runs and environment
+/local/
+/.venv/
+/venv/
+.env
+.env.*
+!.env.example
+*.mat
+
+# Dependencies and build products
+node_modules/
+__pycache__/
+*.py[cod]
+*.dylib
+*.so
+*.o
+.DS_Store
+.remotion/
+.cache/
+dist/
+build/
+
+# Rendered videos stay local
+*.mp4
+*.mov
+*.mkv
+*.webm
+
+# Regenerable frame samples; contact sheets and QA summaries are versioned
+/publication/film_v2/encoded-frames/
+/publication/film_v2/qa-frames/
+
+# Large deterministic retrieval caches (predictions/configuration locks are kept)
+/research/phase3-sentence-reconstruction/evaluation/algorithm_sentence_baselines/*_retrieval.json
+/research/phase3-sentence-reconstruction/evaluation/algorithm_sentence_baselines/recomputed_frozen_evidence.json
+/research/phase3-sentence-reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/*_all_evidence.json
+/research/phase3-sentence-reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_*_evidence.json
+/research/phase3-sentence-reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/*_generic_contexts.json
+
+# Intermediate scores from the completed unseen-word probe
+/research/phase3-sentence-reconstruction/discovery_probes/unseen_word_phonetics_t12/*_scores.npz

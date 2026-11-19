@@ -1,0 +1,41 @@
+{
+  "predictions": [
+    {"id":"tb0b19ec8","tokens":["is","it"]},
+    {"id":"t59dcd856","tokens":["do","you","like","music"]},
+    {"id":"tcd92c113","tokens":["where","is","that"]},
+    {"id":"t1fe83bc3","tokens":["i","am","good"]},
+    {"id":"td28e3558","tokens":["you","going"]},
+    {"id":"t6f0fdfe0","tokens":["i","hope","they","do","not","need","music"]},
+    {"id":"t4539ffbe","tokens":["i","like","it","here"]},
+    {"id":"ta2aa0fcb","tokens":["they","like","it"]},
+    {"id":"tf75891ff","tokens":["my","family","is","not","very","tired"]},
+    {"id":"t514a6795","tokens":["my","hope","is","my","success"]},
+    {"id":"t9ce92bac","tokens":["hungry"]},
+    {"id":"t3afd73b4","tokens":["how","thirsty","are","you"]},
+    {"id":"tef9d94a6","tokens":["do","they","have","my","glasses"]},
+    {"id":"t52b24bf6","tokens":["you","hope","my","family","is","good"]},
+    {"id":"t5f2d20a0","tokens":["my","nurse","is","very","tired"]},
+    {"id":"t44bb2095","tokens":["where","is","my","music"]},
+    {"id":"te366b91c","tokens":["i","hope","you","have","family"]},
+    {"id":"ta8a65775","tokens":["i","hope","they","need","my","music","are"]},
+    {"id":"t8485b6b9","tokens":["they","feel","thirsty"]},
+    {"id":"t41450074","tokens":["i","am"]},
+    {"id":"t53cbb8eb","tokens":["i","do","not","have"]},
+    {"id":"tbfeb0ff2","tokens":["i","hope","family"]},
+    {"id":"te3243945","tokens":["how","tired","are","they"]},
+    {"id":"tca769afd","tokens":["is","it","you"]},
+    {"id":"td133fe68","tokens":["i","like","comfortable","family"]},
+    {"id":"t588781f6","tokens":["yes","i","am","very","hungry"]},
+    {"id":"tced8ecfc","tokens":["how","do","they","do","right"]},
+    {"id":"t848cf4da","tokens":["that","is","okay"]},
+    {"id":"td6e48564","tokens":["it","is","bad"]},
+    {"id":"t0575fbc6","tokens":["i","hope","i","have","very","good","family"]},
+    {"id":"t6453e6ae","tokens":["how","do","please"]},
+    {"id":"t4d2d7415","tokens":["it","is","hope","you","are","comfortable"]}
+  ],
+  "method":"Calibration-only PCA, smoothing, removal of the first two components, cosine interval retrieval, and slope-constrained DTW. Final sequences are manual interpretations of overlapping calibration evidence. Reproducible scripts, numerical scores, separate algorithm-only predictions, and final_reconstruction_evidence.json are saved in the current directory.",
+  "limitations":[
+    "Word counts and boundaries are inferred. Short function words and shared onset or ending activity can cause substitutions, omissions, or extra words.",
+    "Several reconstructions have low confidence, especially ta8a65775. Awkward wording was retained where interval evidence outweighed grammatical alternatives."
+  ]
+}

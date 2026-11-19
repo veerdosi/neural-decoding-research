@@ -1,0 +1,24 @@
+{
+  "frozen_before_t16_scoring": true,
+  "primary_representation": "raw",
+  "secondary_representation": "blockcenter",
+  "reason_for_secondary": "T12 development LDA 67.3% after label-free block centering versus 40.8% raw",
+  "calibration_sizes": [
+    2,
+    7
+  ],
+  "draws": [
+    0,
+    1
+  ],
+  "primary_n7_independent_calls": 2,
+  "controls": [
+    "no_signal",
+    "shuffled"
+  ],
+  "calibration_block_rule": "first eligible block",
+  "evaluation_block_rule": "second eligible block",
+  "normalization": "selected calibration inputs only; rounded to 2 decimals",
+  "baseline_selection": "calibration-only stratified CV because only one calibration block",
+  "generalization_claim": "learning procedure replicated with participant-specific calibration, not no-calibration cross-person transfer"
+}

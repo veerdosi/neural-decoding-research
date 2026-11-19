@@ -1,0 +1,574 @@
+{
+  "predictions": [
+    {
+      "id": "tda989373",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "tdd25032b",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "like",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t5ee44a7f",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "tdf8f9fae",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t4f16b000",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t40a0a424",
+      "tokens": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "my",
+        "glasses"
+      ]
+    },
+    {
+      "id": "tf256b8ed",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "feel",
+        "okay"
+      ]
+    },
+    {
+      "id": "t12be1627",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t42cfafec",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "te3715f88",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "tb8083852",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t9024802d",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t2b08e042",
+      "tokens": [
+        "tell",
+        "my",
+        "family"
+      ]
+    },
+    {
+      "id": "t62254eda",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t9db27598",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "tef25d0d3",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ]
+    }
+  ],
+  "method": "Verified that all 16 query arrays contain only zeros. Generated 2340 unseen sentence candidates by joining calibration prefixes and suffixes at shared spans. Ranked whole candidates using supporting calibration-pair counts and the empirical calibration word-count/duration distribution, smoothed with a fixed four-frame Gaussian bandwidth. No neural-to-word model or labeled neural prototypes were trained. Reproducible script: reconstruct_priors.py. Supporting examples, alternatives, and zero-array checks: reconstruction_evidence.json. Results: predictions.json.",
+  "limitations": [
+    "Actual query words and order are unidentifiable from the withheld activity. These predictions are speculative calibration-prior guesses.",
+    "Recording duration does not establish word count, boundaries, identity, or order.",
+    "The splice heuristic favors frequent calibration patterns; its scores are not calibrated probabilities. Alphabetical ordering resolves ties.",
+    "Equal-length queries receive identical guesses because their available evidence is identical."
+  ],
+  "name": "sentences_t12_confirm_nosignal",
+  "n": 16,
+  "exact_sentences": 0,
+  "word_error_rate": 0.9859154929577465,
+  "donor_word_error_rate": 0.9859154929577465,
+  "rows": [
+    {
+      "id": "tda989373",
+      "trial": 140,
+      "donor_trial": 140,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "they",
+        "do",
+        "not"
+      ],
+      "donor_truth": [
+        "they",
+        "do",
+        "not"
+      ],
+      "edit_distance": 3,
+      "donor_edit_distance": 3
+    },
+    {
+      "id": "tdd25032b",
+      "trial": 128,
+      "donor_trial": 128,
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "like",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "donor_truth": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "edit_distance": 7,
+      "donor_edit_distance": 7
+    },
+    {
+      "id": "t5ee44a7f",
+      "trial": 133,
+      "donor_trial": 133,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "donor_truth": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "edit_distance": 4,
+      "donor_edit_distance": 4
+    },
+    {
+      "id": "tdf8f9fae",
+      "trial": 134,
+      "donor_trial": 134,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "you",
+        "have"
+      ],
+      "donor_truth": [
+        "i",
+        "hope",
+        "you",
+        "have"
+      ],
+      "edit_distance": 4,
+      "donor_edit_distance": 4
+    },
+    {
+      "id": "t4f16b000",
+      "trial": 139,
+      "donor_trial": 139,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "goodbye",
+        "please"
+      ],
+      "donor_truth": [
+        "goodbye",
+        "please"
+      ],
+      "edit_distance": 3,
+      "donor_edit_distance": 3
+    },
+    {
+      "id": "t40a0a424",
+      "trial": 136,
+      "donor_trial": 136,
+      "prediction": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "truth": [
+        "no",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "comfortable"
+      ],
+      "donor_truth": [
+        "no",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "comfortable"
+      ],
+      "edit_distance": 6,
+      "donor_edit_distance": 6
+    },
+    {
+      "id": "tf256b8ed",
+      "trial": 141,
+      "donor_trial": 141,
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "feel",
+        "okay"
+      ],
+      "truth": [
+        "are",
+        "my",
+        "glasses",
+        "very",
+        "good"
+      ],
+      "donor_truth": [
+        "are",
+        "my",
+        "glasses",
+        "very",
+        "good"
+      ],
+      "edit_distance": 5,
+      "donor_edit_distance": 5
+    },
+    {
+      "id": "t12be1627",
+      "trial": 132,
+      "donor_trial": 132,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "like",
+        "help"
+      ],
+      "donor_truth": [
+        "i",
+        "like",
+        "help"
+      ],
+      "edit_distance": 3,
+      "donor_edit_distance": 3
+    },
+    {
+      "id": "t42cfafec",
+      "trial": 130,
+      "donor_trial": 130,
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "they",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "donor_truth": [
+        "they",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "edit_distance": 5,
+      "donor_edit_distance": 5
+    },
+    {
+      "id": "te3715f88",
+      "trial": 131,
+      "donor_trial": 131,
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "where",
+        "is",
+        "my",
+        "family",
+        "going"
+      ],
+      "donor_truth": [
+        "where",
+        "is",
+        "my",
+        "family",
+        "going"
+      ],
+      "edit_distance": 5,
+      "donor_edit_distance": 5
+    },
+    {
+      "id": "tb8083852",
+      "trial": 143,
+      "donor_trial": 143,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "computer",
+        "is",
+        "no",
+        "good"
+      ],
+      "donor_truth": [
+        "computer",
+        "is",
+        "no",
+        "good"
+      ],
+      "edit_distance": 4,
+      "donor_edit_distance": 4
+    },
+    {
+      "id": "t9024802d",
+      "trial": 138,
+      "donor_trial": 138,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "do",
+        "it",
+        "like",
+        "that"
+      ],
+      "donor_truth": [
+        "i",
+        "do",
+        "it",
+        "like",
+        "that"
+      ],
+      "edit_distance": 5,
+      "donor_edit_distance": 5
+    },
+    {
+      "id": "t2b08e042",
+      "trial": 142,
+      "donor_trial": 142,
+      "prediction": [
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "my",
+        "faith",
+        "is",
+        "good"
+      ],
+      "donor_truth": [
+        "my",
+        "faith",
+        "is",
+        "good"
+      ],
+      "edit_distance": 4,
+      "donor_edit_distance": 4
+    },
+    {
+      "id": "t62254eda",
+      "trial": 135,
+      "donor_trial": 135,
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "that",
+        "is",
+        "very",
+        "comfortable"
+      ],
+      "donor_truth": [
+        "that",
+        "is",
+        "very",
+        "comfortable"
+      ],
+      "edit_distance": 4,
+      "donor_edit_distance": 4
+    },
+    {
+      "id": "t9db27598",
+      "trial": 129,
+      "donor_trial": 129,
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "tell",
+        "my",
+        "nurse",
+        "goodbye"
+      ],
+      "donor_truth": [
+        "tell",
+        "my",
+        "nurse",
+        "goodbye"
+      ],
+      "edit_distance": 3,
+      "donor_edit_distance": 3
+    },
+    {
+      "id": "tef25d0d3",
+      "trial": 137,
+      "donor_trial": 137,
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "family"
+      ],
+      "donor_truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "family"
+      ],
+      "edit_distance": 5,
+      "donor_edit_distance": 5
+    }
+  ]
+}

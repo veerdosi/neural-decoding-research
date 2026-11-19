@@ -1,0 +1,128 @@
+
+tda989373
+0.118 c104 they do it
+0.111 c018 no they are not going
+0.110 c082 how do you do what
+0.099 c007 how do you tell that
+0.090 c021 how do they help
+0.090 c065 have it
+
+tdd25032b
+0.150 c101 tell my family they do not feel hungry
+0.128 c079 no i do not feel very comfortable
+0.123 c027 tell my family they are hungry
+0.120 c114 tell my family i am not comfortable
+0.109 c032 my family is not going outside
+0.099 c083 i hope i do not need it
+
+t5ee44a7f
+0.165 c093 no music here
+0.107 c027 tell my family they are hungry
+0.105 c075 you need it here
+0.103 c089 do you have it here
+0.095 c100 nurse is here
+0.093 c031 my faith is right here
+
+tdf8f9fae
+0.117 c097 i hope you have hope
+0.116 c001 i hope they feel good
+0.101 c110 you need my faith
+0.100 c004 i have no faith
+0.097 c059 i hope they need my faith
+0.068 c005 i hope you are going
+
+t4f16b000
+0.127 c081 i need music
+0.126 c112 please have faith
+0.109 c043 are they right
+0.109 c003 have faith
+0.094 c100 nurse is here
+0.087 c093 no music here
+
+t40a0a424
+0.203 c079 no i do not feel very comfortable
+0.158 c103 that is not comfortable
+0.154 c017 they tell you i am comfortable
+0.150 c080 you do not like my computer
+0.119 c114 tell my family i am not comfortable
+0.115 c111 they do not like my family
+
+tf256b8ed
+0.114 c091 is my family good
+0.112 c008 i am very good
+0.112 c049 my nurse is very good
+0.102 c072 is my nurse thirsty
+0.095 c074 they have no need
+0.092 c116 not very bad
+
+t12be1627
+0.113 c041 i like music
+0.092 c081 i need music
+0.092 c021 how do they help
+0.091 c106 where is hope
+0.088 c009 they need it coming up
+0.080 c065 have it
+
+t42cfafec
+0.172 c002 you have faith
+0.137 c110 you need my faith
+0.136 c059 i hope they need my faith
+0.135 c099 i hope they are thirsty
+0.122 c097 i hope you have hope
+0.119 c004 i have no faith
+
+te3715f88
+0.158 c091 is my family good
+0.128 c109 tell my family hello
+0.122 c008 i am very good
+0.111 c089 do you have it here
+0.107 c058 i need my computer right here
+0.101 c032 my family is not going outside
+
+tb8083852
+0.131 c090 my music is not okay
+0.120 c018 no they are not going
+0.117 c048 you feel good
+0.115 c038 very not good
+0.110 c056 i hope they are going
+0.102 c005 i hope you are going
+
+t9024802d
+0.153 c031 my faith is right here
+0.137 c083 i hope i do not need it
+0.137 c085 it is that good
+0.134 c088 do you like that
+0.123 c026 you are outside
+0.117 c030 they are not clean
+
+t2b08e042
+0.147 c049 my nurse is very good
+0.133 c056 i hope they are going
+0.120 c043 are they right
+0.112 c005 i hope you are going
+0.109 c008 i am very good
+0.100 c004 i have no faith
+
+t62254eda
+0.200 c015 they feel hungry
+0.191 c103 that is not comfortable
+0.171 c039 is my family very comfortable
+0.141 c079 no i do not feel very comfortable
+0.140 c078 tell my family i am comfortable
+0.122 c072 is my nurse thirsty
+
+t9db27598
+0.173 c072 is my nurse thirsty
+0.136 c103 that is not comfortable
+0.110 c017 they tell you i am comfortable
+0.106 c071 how thirsty is my family
+0.090 c100 nurse is here
+0.087 c039 is my family very comfortable
+
+tef25d0d3
+0.142 c061 what do they tell my family
+0.127 c079 no i do not feel very comfortable
+0.116 c080 you do not like my computer
+0.116 c009 they need it coming up
+0.115 c017 they tell you i am comfortable
+0.105 c012 am i coming up

@@ -1,0 +1,147 @@
+{
+  "cohort": "32 reserved chronological T16 recordings, calibration80 from two earlier blocks; ROI chosen on separate development8",
+  "prediction_sha256": "a368bfdaefb2003ac27445b4da19819c97a18627868975d9202696ef1ef52dac",
+  "strictly_novel_target_ids": [
+    "t0575fbc6",
+    "t1fe83bc3",
+    "t3afd73b4",
+    "t41450074",
+    "t44bb2095",
+    "t4539ffbe",
+    "t4d2d7415",
+    "t514a6795",
+    "t52b24bf6",
+    "t588781f6",
+    "t59dcd856",
+    "t5f2d20a0",
+    "t6453e6ae",
+    "t6f0fdfe0",
+    "t8485b6b9",
+    "t848cf4da",
+    "t9ce92bac",
+    "ta2aa0fcb",
+    "ta8a65775",
+    "tbfeb0ff2",
+    "tca769afd",
+    "tcd92c113",
+    "tced8ecfc",
+    "td133fe68",
+    "td28e3558",
+    "td6e48564",
+    "te3243945",
+    "te366b91c",
+    "tef9d94a6",
+    "tf75891ff"
+  ],
+  "sol": {
+    "all": {
+      "n": 32,
+      "edits": 24,
+      "reference_words": 143,
+      "WER": 0.16783216783216784,
+      "exact": 18
+    },
+    "strict": {
+      "n": 30,
+      "edits": 24,
+      "reference_words": 137,
+      "WER": 0.17518248175182483,
+      "exact": 16
+    }
+  },
+  "comparisons": {
+    "generic": {
+      "all": {
+        "n": 32,
+        "edits": 55,
+        "reference_words": 143,
+        "WER": 0.38461538461538464,
+        "exact": 6
+      },
+      "strict": {
+        "n": 30,
+        "edits": 53,
+        "reference_words": 137,
+        "WER": 0.38686131386861317,
+        "exact": 6
+      },
+      "paired_all": {
+        "net_edit_reduction_with_sol": 31,
+        "WER_reduction_percentage_points": 21.678321678321677,
+        "descriptive_trial_bootstrap_95pct_percentage_points": [
+          14.000000000000002,
+          29.927007299270077
+        ],
+        "sol_lower_error_trials": 20,
+        "algorithm_lower_error_trials": 1,
+        "equal_error_trials": 11,
+        "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+      },
+      "paired_strict": {
+        "net_edit_reduction_with_sol": 29,
+        "WER_reduction_percentage_points": 21.16788321167883,
+        "descriptive_trial_bootstrap_95pct_percentage_points": [
+          13.076923076923078,
+          29.71014492753623
+        ],
+        "sol_lower_error_trials": 18,
+        "algorithm_lower_error_trials": 1,
+        "equal_error_trials": 11,
+        "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+      },
+      "wall_seconds_algorithm": 36.25285691700992
+    },
+    "t16cal": {
+      "all": {
+        "n": 32,
+        "edits": 51,
+        "reference_words": 143,
+        "WER": 0.35664335664335667,
+        "exact": 4
+      },
+      "strict": {
+        "n": 30,
+        "edits": 49,
+        "reference_words": 137,
+        "WER": 0.35766423357664234,
+        "exact": 4
+      },
+      "paired_all": {
+        "net_edit_reduction_with_sol": 27,
+        "WER_reduction_percentage_points": 18.88111888111888,
+        "descriptive_trial_bootstrap_95pct_percentage_points": [
+          13.043478260869565,
+          25.3335616438356
+        ],
+        "sol_lower_error_trials": 20,
+        "algorithm_lower_error_trials": 0,
+        "equal_error_trials": 12,
+        "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+      },
+      "paired_strict": {
+        "net_edit_reduction_with_sol": 25,
+        "WER_reduction_percentage_points": 18.248175182481752,
+        "descriptive_trial_bootstrap_95pct_percentage_points": [
+          12.121212121212121,
+          24.822695035460992
+        ],
+        "sol_lower_error_trials": 18,
+        "algorithm_lower_error_trials": 0,
+        "equal_error_trials": 12,
+        "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+      },
+      "wall_seconds_algorithm": 1.0316567080153618
+    }
+  },
+  "limits": "One participant/session and one evaluation block. Full-block label-free mean correction uses unlabeled recordings. This is within-session generalization, not cross-session or participant transfer. The Sol workflow and numerical inventory were developed before confirmation; no inference about arbitrary language or private thoughts.",
+  "usage": [
+    {
+      "input_tokens": 2833327,
+      "cached_input_tokens": 2715008,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 45737,
+      "reasoning_output_tokens": 30720
+    }
+  ],
+  "wall_seconds_sol": 1376.3414537906647
+}

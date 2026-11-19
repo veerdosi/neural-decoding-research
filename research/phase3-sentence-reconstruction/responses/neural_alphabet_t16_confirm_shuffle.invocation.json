@@ -1,0 +1,30 @@
+{
+  "name": "neural_alphabet_t16_confirm_shuffle",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "returncode": 0,
+  "wall_seconds": 691.9756128787994,
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/discovery_probes/neural_alphabet_t16_confirm_shuffle",
+    "-s",
+    "workspace-write",
+    "-c",
+    "approval_policy=\"never\"",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/neural_alphabet_t16_confirm_shuffle.json",
+    "-"
+  ],
+  "prompt_sha256": "a02f1fd8b80d0af9e6948c86bda3654b7b841f746f4d910dae145c0a1cc28202"
+}

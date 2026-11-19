@@ -1,0 +1,295 @@
+{
+  "source": "t15.2024.03.03_attempted_50words.mat",
+  "calibration_n": 100,
+  "development_n": 8,
+  "calibration_blocks": [
+    3,
+    6
+  ],
+  "development_block": 11,
+  "feedback_nonempty": 200,
+  "normalization": "Unlabeled per-block feature means, then calibration-only scaling inside each CV fold",
+  "role": "Independent supervised bag-of-words diagnostic; no fitted maps/predictions enter Sol input",
+  "results": {
+    "all_arrays": {
+      "calibration_only_cv_micro_F1": [
+        0.370369312991047,
+        0.370369312991047,
+        0.370369312991047,
+        0.36799401607893295,
+        0.3631577745295085
+      ],
+      "selected_alpha": 0.1,
+      "bag_of_words_micro_F1": 0.4117647058823529,
+      "prior_only_micro_F1": 0.29411764705882354,
+      "top_k_from_calibration_only": 4,
+      "rows": [
+        {
+          "trial": 100,
+          "predicted_unordered_words": [
+            "is",
+            "like",
+            "success",
+            "that"
+          ],
+          "target_words": [
+            "you",
+            "hope",
+            "you",
+            "have",
+            "my",
+            "faith"
+          ]
+        },
+        {
+          "trial": 101,
+          "predicted_unordered_words": [
+            "are",
+            "hope",
+            "not",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "hope",
+            "my",
+            "nurse",
+            "is",
+            "good"
+          ]
+        },
+        {
+          "trial": 102,
+          "predicted_unordered_words": [
+            "family",
+            "is",
+            "my",
+            "not"
+          ],
+          "target_words": [
+            "my",
+            "family",
+            "is",
+            "okay"
+          ]
+        },
+        {
+          "trial": 103,
+          "predicted_unordered_words": [
+            "do",
+            "i",
+            "not",
+            "you"
+          ],
+          "target_words": [
+            "what",
+            "do",
+            "you",
+            "need"
+          ]
+        },
+        {
+          "trial": 104,
+          "predicted_unordered_words": [
+            "here",
+            "my",
+            "nurse",
+            "they"
+          ],
+          "target_words": [
+            "please",
+            "bring",
+            "my",
+            "family",
+            "here"
+          ]
+        },
+        {
+          "trial": 105,
+          "predicted_unordered_words": [
+            "are",
+            "here",
+            "need",
+            "they"
+          ],
+          "target_words": [
+            "they",
+            "are",
+            "not",
+            "coming"
+          ]
+        },
+        {
+          "trial": 106,
+          "predicted_unordered_words": [
+            "good",
+            "is",
+            "like",
+            "success"
+          ],
+          "target_words": [
+            "i",
+            "do",
+            "not",
+            "like",
+            "music"
+          ]
+        },
+        {
+          "trial": 107,
+          "predicted_unordered_words": [
+            "glasses",
+            "i",
+            "need",
+            "not"
+          ],
+          "target_words": [
+            "you",
+            "need",
+            "glasses"
+          ]
+        }
+      ]
+    },
+    "ventral_array": {
+      "calibration_only_cv_micro_F1": [
+        0.36567581765028323,
+        0.36567581765028323,
+        0.37523410378220357,
+        0.35603188379316647,
+        0.3344829161337475
+      ],
+      "selected_alpha": 10.0,
+      "bag_of_words_micro_F1": 0.4411764705882353,
+      "prior_only_micro_F1": 0.29411764705882354,
+      "top_k_from_calibration_only": 4,
+      "rows": [
+        {
+          "trial": 100,
+          "predicted_unordered_words": [
+            "success",
+            "that",
+            "up",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "hope",
+            "you",
+            "have",
+            "my",
+            "faith"
+          ]
+        },
+        {
+          "trial": 101,
+          "predicted_unordered_words": [
+            "are",
+            "it",
+            "they",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "hope",
+            "my",
+            "nurse",
+            "is",
+            "good"
+          ]
+        },
+        {
+          "trial": 102,
+          "predicted_unordered_words": [
+            "is",
+            "it",
+            "my",
+            "that"
+          ],
+          "target_words": [
+            "my",
+            "family",
+            "is",
+            "okay"
+          ]
+        },
+        {
+          "trial": 103,
+          "predicted_unordered_words": [
+            "am",
+            "do",
+            "what",
+            "you"
+          ],
+          "target_words": [
+            "what",
+            "do",
+            "you",
+            "need"
+          ]
+        },
+        {
+          "trial": 104,
+          "predicted_unordered_words": [
+            "here",
+            "my",
+            "nurse",
+            "they"
+          ],
+          "target_words": [
+            "please",
+            "bring",
+            "my",
+            "family",
+            "here"
+          ]
+        },
+        {
+          "trial": 105,
+          "predicted_unordered_words": [
+            "are",
+            "not",
+            "they",
+            "you"
+          ],
+          "target_words": [
+            "they",
+            "are",
+            "not",
+            "coming"
+          ]
+        },
+        {
+          "trial": 106,
+          "predicted_unordered_words": [
+            "do",
+            "is",
+            "like",
+            "up"
+          ],
+          "target_words": [
+            "i",
+            "do",
+            "not",
+            "like",
+            "music"
+          ]
+        },
+        {
+          "trial": 107,
+          "predicted_unordered_words": [
+            "are",
+            "glasses",
+            "good",
+            "please"
+          ],
+          "target_words": [
+            "you",
+            "need",
+            "glasses"
+          ]
+        }
+      ]
+    }
+  }
+}

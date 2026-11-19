@@ -1,0 +1,158 @@
+{
+  "case": "sentences_t12_fresh",
+  "predictions": [
+    {
+      "id": "tda989373",
+      "tokens": [
+        "they",
+        "not"
+      ]
+    },
+    {
+      "id": "tdd25032b",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "do",
+        "they",
+        "feel",
+        "nurse",
+        "right"
+      ]
+    },
+    {
+      "id": "t5ee44a7f",
+      "tokens": [
+        "my",
+        "music",
+        "here"
+      ]
+    },
+    {
+      "id": "tdf8f9fae",
+      "tokens": [
+        "i",
+        "hope",
+        "they"
+      ]
+    },
+    {
+      "id": "t4f16b000",
+      "tokens": [
+        "is",
+        "my",
+        "faith"
+      ]
+    },
+    {
+      "id": "t40a0a424",
+      "tokens": [
+        "no",
+        "i",
+        "do",
+        "not",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "tf256b8ed",
+      "tokens": [
+        "tell",
+        "my",
+        "is",
+        "very",
+        "good"
+      ]
+    },
+    {
+      "id": "t12be1627",
+      "tokens": [
+        "i",
+        "like",
+        "it"
+      ]
+    },
+    {
+      "id": "t42cfafec",
+      "tokens": [
+        "i",
+        "hope",
+        "have",
+        "faith"
+      ]
+    },
+    {
+      "id": "te3715f88",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "good"
+      ]
+    },
+    {
+      "id": "tb8083852",
+      "tokens": [
+        "my",
+        "family",
+        "do",
+        "good"
+      ]
+    },
+    {
+      "id": "t9024802d",
+      "tokens": [
+        "they",
+        "do",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t2b08e042",
+      "tokens": [
+        "my",
+        "faith",
+        "good"
+      ]
+    },
+    {
+      "id": "t62254eda",
+      "tokens": [
+        "they",
+        "feel",
+        "very",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "t9db27598",
+      "tokens": [
+        "is",
+        "my",
+        "not",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "tef25d0d3",
+      "tokens": [
+        "they",
+        "do",
+        "not",
+        "my",
+        "hungry"
+      ]
+    }
+  ],
+  "configuration_sha256": "3e563a8107bdaa9967d79681203195ee23be7b6ef3542abcd0fcf54d134f0723",
+  "query_labels_used": false,
+  "input_sha256": {
+    "inputs.json": "f979971c62536705c2d00ae433722cab1c4b320f8bcb5ba53d0b394ae009fe20",
+    "neural_inputs.npz": "8a7e09c331c954593641811aa1443ec6bf01856e7c7ce0a7c7c537916fad190b"
+  },
+  "workflow": "Fixed generic neural evidence generation and deterministic word assembly; no Sol at application or Sol-produced artifacts consumed. Numerical algorithm inventory was derived during development.",
+  "wall_seconds_end_to_end": 12.734841333003715,
+  "frozen_utc": "2026-11-19T01:35:03Z"
+}

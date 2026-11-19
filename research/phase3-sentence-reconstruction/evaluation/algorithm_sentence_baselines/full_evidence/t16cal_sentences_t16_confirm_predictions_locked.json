@@ -1,0 +1,300 @@
+{
+  "case": "sentences_t16_confirm",
+  "predictions": [
+    {
+      "id": "tb0b19ec8",
+      "tokens": [
+        "it"
+      ]
+    },
+    {
+      "id": "t59dcd856",
+      "tokens": [
+        "you",
+        "like",
+        "music"
+      ]
+    },
+    {
+      "id": "tcd92c113",
+      "tokens": [
+        "where",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t1fe83bc3",
+      "tokens": [
+        "i",
+        "need",
+        "that",
+        "good"
+      ]
+    },
+    {
+      "id": "td28e3558",
+      "tokens": [
+        "you",
+        "going"
+      ]
+    },
+    {
+      "id": "t6f0fdfe0",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "my",
+        "music"
+      ]
+    },
+    {
+      "id": "t4539ffbe",
+      "tokens": [
+        "i",
+        "my",
+        "here"
+      ]
+    },
+    {
+      "id": "ta2aa0fcb",
+      "tokens": [
+        "they",
+        "like",
+        "it"
+      ]
+    },
+    {
+      "id": "tf75891ff",
+      "tokens": [
+        "my",
+        "family",
+        "is",
+        "very",
+        "here"
+      ]
+    },
+    {
+      "id": "t514a6795",
+      "tokens": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ]
+    },
+    {
+      "id": "t9ce92bac",
+      "tokens": [
+        "you",
+        "hungry",
+        "it"
+      ]
+    },
+    {
+      "id": "t3afd73b4",
+      "tokens": [
+        "yes",
+        "nurse",
+        "are",
+        "hungry"
+      ]
+    },
+    {
+      "id": "tef9d94a6",
+      "tokens": [
+        "do",
+        "they",
+        "my",
+        "glasses"
+      ]
+    },
+    {
+      "id": "t52b24bf6",
+      "tokens": [
+        "you",
+        "hope",
+        "family",
+        "is",
+        "good"
+      ]
+    },
+    {
+      "id": "t5f2d20a0",
+      "tokens": [
+        "my",
+        "nurse",
+        "very",
+        "tired"
+      ]
+    },
+    {
+      "id": "t44bb2095",
+      "tokens": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ]
+    },
+    {
+      "id": "te366b91c",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "family"
+      ]
+    },
+    {
+      "id": "ta8a65775",
+      "tokens": [
+        "i",
+        "hope",
+        "need",
+        "my",
+        "are"
+      ]
+    },
+    {
+      "id": "t8485b6b9",
+      "tokens": [
+        "they",
+        "need",
+        "feel",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "t41450074",
+      "tokens": [
+        "i",
+        "my"
+      ]
+    },
+    {
+      "id": "t53cbb8eb",
+      "tokens": [
+        "i",
+        "do",
+        "not",
+        "up"
+      ]
+    },
+    {
+      "id": "tbfeb0ff2",
+      "tokens": [
+        "i",
+        "hope",
+        "family"
+      ]
+    },
+    {
+      "id": "te3243945",
+      "tokens": [
+        "how",
+        "are",
+        "they"
+      ]
+    },
+    {
+      "id": "tca769afd",
+      "tokens": [
+        "you",
+        "it",
+        "is",
+        "you"
+      ]
+    },
+    {
+      "id": "td133fe68",
+      "tokens": [
+        "i",
+        "like",
+        "nurse",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "t588781f6",
+      "tokens": [
+        "yes",
+        "i",
+        "very",
+        "hungry"
+      ]
+    },
+    {
+      "id": "tced8ecfc",
+      "tokens": [
+        "you",
+        "do",
+        "right"
+      ]
+    },
+    {
+      "id": "t848cf4da",
+      "tokens": [
+        "they",
+        "is",
+        "okay"
+      ]
+    },
+    {
+      "id": "td6e48564",
+      "tokens": [
+        "is",
+        "bad"
+      ]
+    },
+    {
+      "id": "t0575fbc6",
+      "tokens": [
+        "i",
+        "hope",
+        "i",
+        "am",
+        "very",
+        "good",
+        "family"
+      ]
+    },
+    {
+      "id": "t6453e6ae",
+      "tokens": [
+        "how",
+        "do",
+        "it"
+      ]
+    },
+    {
+      "id": "t4d2d7415",
+      "tokens": [
+        "you",
+        "it",
+        "is",
+        "hope",
+        "you",
+        "are",
+        "feel",
+        "comfortable"
+      ]
+    }
+  ],
+  "configuration_sha256": "3ce9323783f3ed579b0ac4c895cdafc6c31775821ba9579346682a6bf9458650",
+  "configuration_path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_fresh_dev_configuration_lock.json",
+  "calibration_vocabulary_size": 49,
+  "decoding_parameters_retuned": true,
+  "query_labels_used": false,
+  "input_sha256": {
+    "inputs.json": "484d649f2ca47872de810d64282b3607490707a30cc3f900a854f69e1ae463d7",
+    "neural_inputs.npz": "110c4583af1aa72eaac6e8e0af4208d8299f6e7dc3724bfac840cd402fee10f3"
+  },
+  "workflow": "Fixed generic neural evidence generation and deterministic word assembly; no Sol at application or Sol-produced artifacts consumed. Numerical algorithm inventory was derived during development.",
+  "wall_seconds_end_to_end": 1.0316567080153618,
+  "frozen_utc": "2026-11-19T01:50:04Z"
+}

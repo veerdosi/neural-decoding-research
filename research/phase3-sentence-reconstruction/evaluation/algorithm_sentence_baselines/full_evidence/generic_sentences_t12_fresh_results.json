@@ -1,0 +1,276 @@
+{
+  "n": 16,
+  "exact_sentences": 0,
+  "edits": 34,
+  "reference_words": 71,
+  "wer": 0.4788732394366197,
+  "rows": [
+    {
+      "id": "tda989373",
+      "prediction": [
+        "they",
+        "not"
+      ],
+      "truth": [
+        "they",
+        "do",
+        "not"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "tdd25032b",
+      "prediction": [
+        "tell",
+        "my",
+        "family",
+        "do",
+        "they",
+        "feel",
+        "nurse",
+        "right"
+      ],
+      "truth": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "t5ee44a7f",
+      "prediction": [
+        "my",
+        "music",
+        "here"
+      ],
+      "truth": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "tdf8f9fae",
+      "prediction": [
+        "i",
+        "hope",
+        "they"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "you",
+        "have"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t4f16b000",
+      "prediction": [
+        "is",
+        "my",
+        "faith"
+      ],
+      "truth": [
+        "goodbye",
+        "please"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t40a0a424",
+      "prediction": [
+        "no",
+        "i",
+        "do",
+        "not",
+        "comfortable"
+      ],
+      "truth": [
+        "no",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "comfortable"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "tf256b8ed",
+      "prediction": [
+        "tell",
+        "my",
+        "is",
+        "very",
+        "good"
+      ],
+      "truth": [
+        "are",
+        "my",
+        "glasses",
+        "very",
+        "good"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t12be1627",
+      "prediction": [
+        "i",
+        "like",
+        "it"
+      ],
+      "truth": [
+        "i",
+        "like",
+        "help"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t42cfafec",
+      "prediction": [
+        "i",
+        "hope",
+        "have",
+        "faith"
+      ],
+      "truth": [
+        "they",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "te3715f88",
+      "prediction": [
+        "tell",
+        "my",
+        "family",
+        "good"
+      ],
+      "truth": [
+        "where",
+        "is",
+        "my",
+        "family",
+        "going"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "tb8083852",
+      "prediction": [
+        "my",
+        "family",
+        "do",
+        "good"
+      ],
+      "truth": [
+        "computer",
+        "is",
+        "no",
+        "good"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t9024802d",
+      "prediction": [
+        "they",
+        "do",
+        "is",
+        "that"
+      ],
+      "truth": [
+        "i",
+        "do",
+        "it",
+        "like",
+        "that"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t2b08e042",
+      "prediction": [
+        "my",
+        "faith",
+        "good"
+      ],
+      "truth": [
+        "my",
+        "faith",
+        "is",
+        "good"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t62254eda",
+      "prediction": [
+        "they",
+        "feel",
+        "very",
+        "comfortable"
+      ],
+      "truth": [
+        "that",
+        "is",
+        "very",
+        "comfortable"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t9db27598",
+      "prediction": [
+        "is",
+        "my",
+        "not",
+        "comfortable"
+      ],
+      "truth": [
+        "tell",
+        "my",
+        "nurse",
+        "goodbye"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "tef25d0d3",
+      "prediction": [
+        "they",
+        "do",
+        "not",
+        "my",
+        "hungry"
+      ],
+      "truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "family"
+      ],
+      "edit_distance": 2
+    }
+  ],
+  "workflow": "Fixed generic neural evidence generation and deterministic word assembly; no Sol at application or Sol-produced artifacts consumed. Numerical algorithm inventory was derived during development.",
+  "runtime_end_to_end_seconds": 12.734841333003715,
+  "configuration_sha256": "3e563a8107bdaa9967d79681203195ee23be7b6ef3542abcd0fcf54d134f0723",
+  "prediction_sha256": "a08c85389600952dcecaefd6791ea4c0b67073c63e17e412c4168b5858dbe141"
+}

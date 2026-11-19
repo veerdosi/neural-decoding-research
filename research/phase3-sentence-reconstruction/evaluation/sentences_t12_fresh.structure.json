@@ -1,0 +1,1240 @@
+{
+  "name": "sentences_t12_fresh",
+  "n": 16,
+  "exact_sentences": 4,
+  "word_error_rate": 0.4084507042253521,
+  "strict_novel_sequence_n": 14,
+  "strict_novel_sequence_exact": 3,
+  "strict_novel_sequence_WER": 0.421875,
+  "whole_calibration_copy_oracle_edits": 27,
+  "whole_calibration_copy_oracle_WER": 0.38028169014084506,
+  "oracle_scope": "Oracle uses true query text only after prediction for descriptive attribution; never a usable decoder or a model input. It cannot be used to tune the method.",
+  "rows": [
+    {
+      "id": "tda989373",
+      "trial": 140,
+      "truth": [
+        "they",
+        "do",
+        "not"
+      ],
+      "prediction": [
+        "they",
+        "need",
+        "what"
+      ],
+      "edits": 2,
+      "exact": false,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": true,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 1,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "they",
+            "do",
+            "not"
+          ],
+          "calibration_index": 101
+        }
+      ]
+    },
+    {
+      "id": "tdd25032b",
+      "trial": 128,
+      "truth": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "prediction": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "edits": 0,
+      "exact": true,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 4,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "tell",
+            "my",
+            "family"
+          ],
+          "calibration_index": 27
+        },
+        {
+          "tokens": [
+            "i",
+            "do",
+            "not",
+            "feel"
+          ],
+          "calibration_index": 79
+        },
+        {
+          "tokens": [
+            "thirsty"
+          ],
+          "calibration_index": 40
+        }
+      ]
+    },
+    {
+      "id": "t5ee44a7f",
+      "trial": 133,
+      "truth": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "prediction": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "edits": 0,
+      "exact": true,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "my",
+            "music"
+          ],
+          "calibration_index": 16
+        },
+        {
+          "tokens": [
+            "is",
+            "here"
+          ],
+          "calibration_index": 100
+        }
+      ]
+    },
+    {
+      "id": "tdf8f9fae",
+      "trial": 134,
+      "truth": [
+        "i",
+        "hope",
+        "you",
+        "have"
+      ],
+      "prediction": [
+        "i",
+        "hope",
+        "you",
+        "have"
+      ],
+      "edits": 0,
+      "exact": true,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": true,
+      "longest_seen_span_words": 4,
+      "minimum_calibration_fragments": 1,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "i",
+            "hope",
+            "you",
+            "have"
+          ],
+          "calibration_index": 97
+        }
+      ]
+    },
+    {
+      "id": "t4f16b000",
+      "trial": 139,
+      "truth": [
+        "goodbye",
+        "please"
+      ],
+      "prediction": [
+        "is",
+        "my",
+        "faith"
+      ],
+      "edits": 3,
+      "exact": false,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 1,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "goodbye"
+          ],
+          "calibration_index": 62
+        },
+        {
+          "tokens": [
+            "please"
+          ],
+          "calibration_index": 28
+        }
+      ]
+    },
+    {
+      "id": "t40a0a424",
+      "trial": 136,
+      "truth": [
+        "no",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "comfortable"
+      ],
+      "prediction": [
+        "no",
+        "they",
+        "do",
+        "not",
+        "feel",
+        "very",
+        "comfortable"
+      ],
+      "edits": 2,
+      "exact": false,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 5,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "no",
+            "i",
+            "do",
+            "not",
+            "feel"
+          ],
+          "calibration_index": 79
+        },
+        {
+          "tokens": [
+            "comfortable"
+          ],
+          "calibration_index": 17
+        }
+      ]
+    },
+    {
+      "id": "tf256b8ed",
+      "trial": 141,
+      "truth": [
+        "are",
+        "my",
+        "glasses",
+        "very",
+        "good"
+      ],
+      "prediction": [
+        "tell",
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "good"
+      ],
+      "edits": 3,
+      "exact": false,
+      "calibration_copy_oracle_edits": 3,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "are"
+          ],
+          "calibration_index": 5
+        },
+        {
+          "tokens": [
+            "my",
+            "glasses"
+          ],
+          "calibration_index": 63
+        },
+        {
+          "tokens": [
+            "very",
+            "good"
+          ],
+          "calibration_index": 8
+        }
+      ]
+    },
+    {
+      "id": "t12be1627",
+      "trial": 132,
+      "truth": [
+        "i",
+        "like",
+        "help"
+      ],
+      "prediction": [
+        "i",
+        "like",
+        "it"
+      ],
+      "edits": 1,
+      "exact": false,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "i",
+            "like"
+          ],
+          "calibration_index": 41
+        },
+        {
+          "tokens": [
+            "help"
+          ],
+          "calibration_index": 21
+        }
+      ]
+    },
+    {
+      "id": "t42cfafec",
+      "trial": 130,
+      "truth": [
+        "they",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "prediction": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "edits": 1,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "they",
+            "hope"
+          ],
+          "calibration_index": 117
+        },
+        {
+          "tokens": [
+            "you",
+            "have",
+            "faith"
+          ],
+          "calibration_index": 2
+        }
+      ]
+    },
+    {
+      "id": "te3715f88",
+      "trial": 131,
+      "truth": [
+        "where",
+        "is",
+        "my",
+        "family",
+        "going"
+      ],
+      "prediction": [
+        "tell",
+        "my",
+        "family",
+        "good"
+      ],
+      "edits": 3,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "where"
+          ],
+          "calibration_index": 53
+        },
+        {
+          "tokens": [
+            "is",
+            "my",
+            "family"
+          ],
+          "calibration_index": 39
+        },
+        {
+          "tokens": [
+            "going"
+          ],
+          "calibration_index": 5
+        }
+      ]
+    },
+    {
+      "id": "tb8083852",
+      "trial": 143,
+      "truth": [
+        "computer",
+        "is",
+        "no",
+        "good"
+      ],
+      "prediction": [
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "edits": 3,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 1,
+      "minimum_calibration_fragments": 4,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "computer"
+          ],
+          "calibration_index": 54
+        },
+        {
+          "tokens": [
+            "is"
+          ],
+          "calibration_index": 10
+        },
+        {
+          "tokens": [
+            "no"
+          ],
+          "calibration_index": 4
+        },
+        {
+          "tokens": [
+            "good"
+          ],
+          "calibration_index": 1
+        }
+      ]
+    },
+    {
+      "id": "t9024802d",
+      "trial": 138,
+      "truth": [
+        "i",
+        "do",
+        "it",
+        "like",
+        "that"
+      ],
+      "prediction": [
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "edits": 4,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "i"
+          ],
+          "calibration_index": 1
+        },
+        {
+          "tokens": [
+            "do",
+            "it"
+          ],
+          "calibration_index": 60
+        },
+        {
+          "tokens": [
+            "like",
+            "that"
+          ],
+          "calibration_index": 69
+        }
+      ]
+    },
+    {
+      "id": "t2b08e042",
+      "trial": 142,
+      "truth": [
+        "my",
+        "faith",
+        "is",
+        "good"
+      ],
+      "prediction": [
+        "my",
+        "faith",
+        "is",
+        "good"
+      ],
+      "edits": 0,
+      "exact": true,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "my",
+            "faith",
+            "is"
+          ],
+          "calibration_index": 31
+        },
+        {
+          "tokens": [
+            "good"
+          ],
+          "calibration_index": 1
+        }
+      ]
+    },
+    {
+      "id": "t62254eda",
+      "trial": 135,
+      "truth": [
+        "that",
+        "is",
+        "very",
+        "comfortable"
+      ],
+      "prediction": [
+        "they",
+        "feel",
+        "very",
+        "comfortable"
+      ],
+      "edits": 2,
+      "exact": false,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "that",
+            "is"
+          ],
+          "calibration_index": 103
+        },
+        {
+          "tokens": [
+            "very",
+            "comfortable"
+          ],
+          "calibration_index": 39
+        }
+      ]
+    },
+    {
+      "id": "t9db27598",
+      "trial": 129,
+      "truth": [
+        "tell",
+        "my",
+        "nurse",
+        "goodbye"
+      ],
+      "prediction": [
+        "is",
+        "my",
+        "nurse",
+        "comfortable"
+      ],
+      "edits": 2,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "tell",
+            "my",
+            "nurse"
+          ],
+          "calibration_index": 11
+        },
+        {
+          "tokens": [
+            "goodbye"
+          ],
+          "calibration_index": 62
+        }
+      ]
+    },
+    {
+      "id": "tef25d0d3",
+      "trial": 137,
+      "truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "family"
+      ],
+      "prediction": [
+        "how",
+        "do",
+        "i",
+        "have",
+        "faith"
+      ],
+      "edits": 3,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "they",
+            "do",
+            "not"
+          ],
+          "calibration_index": 101
+        },
+        {
+          "tokens": [
+            "have"
+          ],
+          "calibration_index": 2
+        },
+        {
+          "tokens": [
+            "family"
+          ],
+          "calibration_index": 27
+        }
+      ]
+    }
+  ],
+  "conditional_algorithm_outputs": {
+    "algorithm_only_sequences.json": {
+      "n": 16,
+      "edits": 38,
+      "WER": 0.5352112676056338,
+      "exact": 1,
+      "net_word_edits_reduced_by_Sol": 9,
+      "scope": "Top numerical path from the algorithm authored/selected by Sol during this call. This already includes Sol method construction and calibration interpretation; it isolates only the remaining final interpretation, not all frontier-model contribution.",
+      "method_original": "Auditable, grammar-free interval-exemplar retrieval and sequence assembly.\nUses observed calibration word intervals from calibration_alignment.json.\nScores resampled cosine trajectory matches. Top two distinct recordings vote\nper word; a weak log duration ratio penalty limits extreme time stretching.\nSemi-Markov DP maximizes duration-weighted similarity minus fixed costs.\nThis automatic output is distinct from the final interpreted reconstruction.\n",
+      "rows": [
+        {
+          "id": "tda989373",
+          "prediction": [
+            "they",
+            "do"
+          ],
+          "edits": 1,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tdd25032b",
+          "prediction": [
+            "tell",
+            "my",
+            "family",
+            "do",
+            "they",
+            "they",
+            "feel",
+            "thirsty"
+          ],
+          "edits": 3,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t5ee44a7f",
+          "prediction": [
+            "bring",
+            "here"
+          ],
+          "edits": 3,
+          "Sol_edits": 0
+        },
+        {
+          "id": "tdf8f9fae",
+          "prediction": [
+            "i",
+            "hope",
+            "you",
+            "have"
+          ],
+          "edits": 0,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t4f16b000",
+          "prediction": [
+            "goodbye",
+            "coming"
+          ],
+          "edits": 1,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t40a0a424",
+          "prediction": [
+            "no",
+            "they",
+            "do",
+            "they",
+            "i",
+            "comfortable"
+          ],
+          "edits": 3,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tf256b8ed",
+          "prediction": [
+            "tell",
+            "my",
+            "tell",
+            "you",
+            "good"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t12be1627",
+          "prediction": [
+            "they",
+            "like",
+            "tired"
+          ],
+          "edits": 2,
+          "Sol_edits": 1
+        },
+        {
+          "id": "t42cfafec",
+          "prediction": [
+            "i",
+            "hope",
+            "i",
+            "faith"
+          ],
+          "edits": 3,
+          "Sol_edits": 1
+        },
+        {
+          "id": "te3715f88",
+          "prediction": [
+            "tell",
+            "my",
+            "family",
+            "good"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "tb8083852",
+          "prediction": [
+            "very",
+            "family",
+            "do",
+            "good"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t9024802d",
+          "prediction": [
+            "do",
+            "is",
+            "it"
+          ],
+          "edits": 4,
+          "Sol_edits": 4
+        },
+        {
+          "id": "t2b08e042",
+          "prediction": [
+            "my",
+            "they",
+            "good"
+          ],
+          "edits": 2,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t62254eda",
+          "prediction": [
+            "is",
+            "feel",
+            "comfortable"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "t9db27598",
+          "prediction": [
+            "you",
+            "my",
+            "is",
+            "comfortable"
+          ],
+          "edits": 3,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tef25d0d3",
+          "prediction": [
+            "they",
+            "do",
+            "not",
+            "faith"
+          ],
+          "edits": 2,
+          "Sol_edits": 3
+        }
+      ]
+    },
+    "phrase_algorithm_only_sequences.json": {
+      "n": 16,
+      "edits": 42,
+      "WER": 0.5915492957746479,
+      "exact": 1,
+      "net_word_edits_reduced_by_Sol": 13,
+      "scope": "Top numerical path from the algorithm authored/selected by Sol during this call. This already includes Sol method construction and calibration interpretation; it isolates only the remaining final interpretation, not all frontier-model contribution.",
+      "method_original": "Deterministic observed-phrase retrieval and semi-Markov assembly.\nExtract every contiguous 1..5-token calibration interval under the saved\ntranscript-constrained alignment. Compare cosine trajectories resampled to\n10 temporal points. Duration ratio penalizes extreme stretches. A beam DP\ncovers all query frames without a language model or given word counts.\n",
+      "rows": [
+        {
+          "id": "tda989373",
+          "prediction": [
+            "they",
+            "need",
+            "what"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tdd25032b",
+          "prediction": [
+            "tell",
+            "my",
+            "family",
+            "i",
+            "do",
+            "they",
+            "they",
+            "nurse",
+            "clean"
+          ],
+          "edits": 4,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t5ee44a7f",
+          "prediction": [
+            "my",
+            "music",
+            "is",
+            "here"
+          ],
+          "edits": 0,
+          "Sol_edits": 0
+        },
+        {
+          "id": "tdf8f9fae",
+          "prediction": [
+            "i",
+            "hope",
+            "is",
+            "have"
+          ],
+          "edits": 1,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t4f16b000",
+          "prediction": [
+            "are",
+            "very",
+            "have"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t40a0a424",
+          "prediction": [
+            "hope",
+            "i",
+            "do",
+            "they",
+            "you",
+            "am",
+            "comfortable"
+          ],
+          "edits": 4,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tf256b8ed",
+          "prediction": [
+            "tell",
+            "my",
+            "need",
+            "very",
+            "good"
+          ],
+          "edits": 2,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t12be1627",
+          "prediction": [
+            "they",
+            "bring",
+            "tired"
+          ],
+          "edits": 3,
+          "Sol_edits": 1
+        },
+        {
+          "id": "t42cfafec",
+          "prediction": [
+            "i",
+            "hope",
+            "i",
+            "faith"
+          ],
+          "edits": 3,
+          "Sol_edits": 1
+        },
+        {
+          "id": "te3715f88",
+          "prediction": [
+            "tell",
+            "tell",
+            "my",
+            "family",
+            "good"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "tb8083852",
+          "prediction": [
+            "hope",
+            "is",
+            "good"
+          ],
+          "edits": 2,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t9024802d",
+          "prediction": [
+            "do",
+            "is",
+            "need",
+            "it"
+          ],
+          "edits": 4,
+          "Sol_edits": 4
+        },
+        {
+          "id": "t2b08e042",
+          "prediction": [
+            "my",
+            "they",
+            "good"
+          ],
+          "edits": 2,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t62254eda",
+          "prediction": [
+            "that",
+            "they",
+            "feel",
+            "comfortable"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "t9db27598",
+          "prediction": [
+            "is",
+            "my",
+            "family",
+            "am",
+            "you"
+          ],
+          "edits": 4,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tef25d0d3",
+          "prediction": [
+            "i",
+            "do",
+            "not",
+            "you",
+            "faith"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        }
+      ]
+    },
+    "temporal_algorithm_only_sequences.json": {
+      "n": 16,
+      "edits": 38,
+      "WER": 0.5352112676056338,
+      "exact": 1,
+      "net_word_edits_reduced_by_Sol": 9,
+      "scope": "Top numerical path from the algorithm authored/selected by Sol during this call. This already includes Sol method construction and calibration interpretation; it isolates only the remaining final interpretation, not all frontier-model contribution.",
+      "method_original": "Auditable, grammar-free interval-exemplar retrieval and sequence assembly.\nUses observed calibration word intervals from calibration_alignment.json.\nScores resampled cosine trajectory matches. Top two distinct recordings vote\nper word; a weak log duration ratio penalty limits extreme time stretching.\nSemi-Markov DP maximizes duration-weighted similarity minus fixed costs.\nThis automatic output is distinct from the final interpreted reconstruction.\n",
+      "rows": [
+        {
+          "id": "tda989373",
+          "prediction": [
+            "they",
+            "need",
+            "that"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tdd25032b",
+          "prediction": [
+            "tell",
+            "my",
+            "i",
+            "do",
+            "not",
+            "they",
+            "nurse",
+            "thirsty"
+          ],
+          "edits": 3,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t5ee44a7f",
+          "prediction": [
+            "bring",
+            "is",
+            "here"
+          ],
+          "edits": 2,
+          "Sol_edits": 0
+        },
+        {
+          "id": "tdf8f9fae",
+          "prediction": [
+            "i",
+            "hope",
+            "you",
+            "have"
+          ],
+          "edits": 0,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t4f16b000",
+          "prediction": [
+            "tell",
+            "have"
+          ],
+          "edits": 2,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t40a0a424",
+          "prediction": [
+            "no",
+            "i",
+            "do",
+            "they",
+            "not",
+            "comfortable"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tf256b8ed",
+          "prediction": [
+            "tell",
+            "my",
+            "tell",
+            "very",
+            "good"
+          ],
+          "edits": 2,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t12be1627",
+          "prediction": [
+            "i",
+            "bring",
+            "it"
+          ],
+          "edits": 2,
+          "Sol_edits": 1
+        },
+        {
+          "id": "t42cfafec",
+          "prediction": [
+            "i",
+            "hope",
+            "i",
+            "faith"
+          ],
+          "edits": 3,
+          "Sol_edits": 1
+        },
+        {
+          "id": "te3715f88",
+          "prediction": [
+            "tell",
+            "my",
+            "family",
+            "good"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "tb8083852",
+          "prediction": [
+            "hope",
+            "family",
+            "do",
+            "good"
+          ],
+          "edits": 3,
+          "Sol_edits": 3
+        },
+        {
+          "id": "t9024802d",
+          "prediction": [
+            "do",
+            "is",
+            "it"
+          ],
+          "edits": 4,
+          "Sol_edits": 4
+        },
+        {
+          "id": "t2b08e042",
+          "prediction": [
+            "my",
+            "they",
+            "good"
+          ],
+          "edits": 2,
+          "Sol_edits": 0
+        },
+        {
+          "id": "t62254eda",
+          "prediction": [
+            "they",
+            "very",
+            "comfortable"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "t9db27598",
+          "prediction": [
+            "tell",
+            "my",
+            "not",
+            "comfortable"
+          ],
+          "edits": 2,
+          "Sol_edits": 2
+        },
+        {
+          "id": "tef25d0d3",
+          "prediction": [
+            "how",
+            "do",
+            "have",
+            "goodbye",
+            "hungry"
+          ],
+          "edits": 4,
+          "Sol_edits": 3
+        }
+      ]
+    }
+  },
+  "provenance_wording": {
+    "calibration_word_boundaries": "Inferred by procedures, not independently observed ground truth.",
+    "human_interpretation": "Where model-authored files call the final choices human interpretation, that is inaccurate wording: the Codex event trace records Sol writing those choices; no human supplied the predictions."
+  }
+}

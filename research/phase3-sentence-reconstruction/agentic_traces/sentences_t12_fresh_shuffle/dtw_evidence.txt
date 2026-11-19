@@ -1,0 +1,155 @@
+
+### tda989373
+ 2-12 0.222 c091:3-11 is my family good | 0.206 c062:2-8 goodbye what | 0.197 c011:2-9 tell my nurse i am not hungry | 0.195 c079:44-53 no i do not feel very comfortable | 0.185 c101:54-63 tell my family they do not feel hungry
+ 5-15 0.213 c091:6-14 is my family good | 0.181 c046:20-28 what do you tell my nurse | 0.174 c039:4-12 is my family very comfortable | 0.171 c071:5-12 how thirsty is my family | 0.169 c114:4-12 tell my family i am not comfortable
+ 8-18 0.177 c028:4-14 music please | 0.176 c091:8-20 is my family good | 0.172 c013:3-9 my nurse is not good | 0.163 c017:26-37 they tell you i am comfortable | 0.162 c014:3-12 my success is closer
+11-21 0.212 c112:15-24 please have faith | 0.201 c028:9-18 music please | 0.196 c047:15-23 it is coming here | 0.178 c017:31-40 they tell you i am comfortable | 0.167 c003:2-10 have faith
+
+### tdd25032b
+ 2-12 0.307 c018:2-13 no they are not going | 0.298 c079:2-12 no i do not feel very comfortable | 0.247 c069:38-47 my nurse is like that | 0.239 c101:18-24 tell my family they do not feel hungry | 0.227 c083:12-20 i hope i do not need it
+ 5-15 0.302 c079:8-15 no i do not feel very comfortable | 0.293 c018:7-14 no they are not going | 0.286 c083:14-22 i hope i do not need it | 0.271 c101:18-26 tell my family they do not feel hungry | 0.248 c092:8-15 my nurse is not very tired
+ 8-18 0.291 c083:16-25 i hope i do not need it | 0.267 c080:6-14 you do not like my computer | 0.260 c079:9-19 no i do not feel very comfortable | 0.241 c018:9-21 no they are not going | 0.237 c101:20-32 tell my family they do not feel hungry
+11-21 0.262 c080:8-17 you do not like my computer | 0.258 c083:18-26 i hope i do not need it | 0.238 c079:11-20 no i do not feel very comfortable | 0.210 c075:4-13 you need it here | 0.207 c111:4-11 they do not like my family
+14-24 0.210 c079:15-25 no i do not feel very comfortable | 0.195 c080:10-21 you do not like my computer | 0.190 c083:21-31 i hope i do not need it | 0.179 c075:6-15 you need it here | 0.170 c013:34-40 my nurse is not good
+17-27 0.226 c079:17-26 no i do not feel very comfortable | 0.216 c020:8-17 hope they feel okay | 0.181 c109:11-18 tell my family hello | 0.173 c108:14-23 you hope my family is here | 0.168 c001:13-22 i hope they feel good
+20-30 0.228 c020:10-19 hope they feel okay | 0.218 c003:2-9 have faith | 0.217 c079:31-40 no i do not feel very comfortable | 0.199 c091:11-22 is my family good | 0.183 c001:15-25 i hope they feel good
+23-33 0.219 c079:32-43 no i do not feel very comfortable | 0.185 c001:18-26 i hope they feel good | 0.183 c101:41-52 tell my family they do not feel hungry | 0.182 c039:21-29 is my family very comfortable | 0.180 c003:4-10 have faith
+26-36 0.205 c103:14-22 that is not comfortable | 0.204 c079:35-46 no i do not feel very comfortable | 0.189 c054:18-25 you clean my computer | 0.188 c046:11-18 what do you tell my nurse | 0.182 c017:25-34 they tell you i am comfortable
+29-39 0.243 c103:17-23 that is not comfortable | 0.243 c017:28-37 they tell you i am comfortable | 0.235 c080:30-36 you do not like my computer | 0.206 c054:18-30 you clean my computer | 0.203 c079:40-50 no i do not feel very comfortable
+32-42 0.336 c017:29-39 they tell you i am comfortable | 0.287 c114:37-46 tell my family i am not comfortable | 0.275 c103:18-27 that is not comfortable | 0.269 c079:42-50 no i do not feel very comfortable | 0.267 c054:22-33 you clean my computer
+35-45 0.372 c017:32-41 they tell you i am comfortable | 0.348 c114:40-47 tell my family i am not comfortable | 0.326 c079:45-51 no i do not feel very comfortable | 0.326 c103:20-30 that is not comfortable | 0.304 c039:29-38 is my family very comfortable
+
+### t5ee44a7f
+ 2-12 0.281 c031:2-10 my faith is right here | 0.272 c049:2-10 my nurse is very good | 0.251 c003:3-15 have faith | 0.228 c013:2-10 my nurse is not good | 0.214 c071:2-13 how thirsty is my family
+ 5-15 0.288 c049:4-15 my nurse is very good | 0.278 c031:5-12 my faith is right here | 0.253 c003:9-18 have faith | 0.215 c112:15-21 please have faith | 0.212 c071:9-18 how thirsty is my family
+ 8-18 0.207 c031:6-14 my faith is right here | 0.186 c049:7-16 my nurse is very good | 0.179 c112:17-23 please have faith | 0.173 c078:12-22 tell my family i am comfortable | 0.171 c056:9-18 i hope they are going
+11-21 0.191 c056:12-23 i hope they are going | 0.151 c005:11-17 i hope you are going | 0.149 c075:8-17 you need it here | 0.145 c073:10-20 what do they do | 0.138 c020:4-14 hope they feel okay
+14-24 0.190 c056:15-28 i hope they are going | 0.176 c049:26-37 my nurse is very good | 0.156 c043:8-18 are they right | 0.154 c008:20-27 i am very good | 0.149 c005:18-30 i hope you are going
+17-27 0.220 c008:20-29 i am very good | 0.212 c049:28-39 my nurse is very good | 0.208 c013:64-73 my nurse is not good | 0.187 c056:19-33 i hope they are going | 0.181 c048:12-20 you feel good
+
+### tdf8f9fae
+ 2-12 0.212 c009:2-10 they need it coming up | 0.211 c104:2-9 they do it | 0.200 c101:18-25 tell my family they do not feel hungry | 0.199 c053:11-18 where are they going here | 0.196 c018:8-14 no they are not going
+ 5-15 0.240 c009:2-11 they need it coming up | 0.229 c101:18-28 tell my family they do not feel hungry | 0.221 c018:9-15 no they are not going | 0.219 c055:3-10 where you need it | 0.214 c023:2-9 do you need help
+ 8-18 0.230 c018:10-16 no they are not going | 0.224 c009:5-13 they need it coming up | 0.217 c101:20-30 tell my family they do not feel hungry | 0.216 c080:3-12 you do not like my computer | 0.206 c050:6-12 how good are you
+11-21 0.214 c101:24-34 tell my family they do not feel hungry | 0.214 c080:7-19 you do not like my computer | 0.200 c018:11-26 no they are not going | 0.192 c026:3-14 you are outside | 0.188 c046:27-33 what do you tell my nurse
+14-24 0.189 c098:7-16 here is that | 0.186 c062:10-18 goodbye what | 0.171 c101:26-35 tell my family they do not feel hungry | 0.165 c082:26-33 how do you do what | 0.161 c092:35-45 my nurse is not very tired
+
+### t4f16b000
+ 2-12 0.186 c041:2-12 i like music | 0.184 c009:3-9 they need it coming up | 0.162 c111:6-18 they do not like my family | 0.157 c040:18-25 i hope i am thirsty | 0.157 c090:10-16 my music is not okay
+ 5-15 0.181 c041:5-13 i like music | 0.177 c036:3-12 like it please | 0.156 c111:11-24 they do not like my family | 0.150 c088:13-28 do you like that | 0.148 c118:11-16 it is that bad
+ 8-18 0.183 c088:18-31 do you like that | 0.176 c105:2-15 bring up | 0.174 c041:7-14 i like music | 0.170 c036:5-16 like it please | 0.166 c019:15-28 you are going outside
+11-21 0.165 c019:17-30 you are going outside | 0.160 c119:5-14 they are you | 0.159 c009:24-34 they need it coming up | 0.159 c088:24-31 do you like that | 0.149 c040:18-29 i hope i am thirsty
+
+### t40a0a424
+ 2-12 0.260 c101:2-11 tell my family they do not feel hungry | 0.255 c011:3-13 tell my nurse i am not hungry | 0.232 c117:23-32 they hope i have my glasses | 0.214 c027:4-12 tell my family they are hungry | 0.210 c078:5-11 tell my family i am comfortable
+ 5-15 0.285 c011:5-17 tell my nurse i am not hungry | 0.237 c117:24-35 they hope i have my glasses | 0.213 c101:4-13 tell my family they do not feel hungry | 0.201 c049:3-9 my nurse is very good | 0.200 c072:4-16 is my nurse thirsty
+ 8-18 0.241 c011:8-18 tell my nurse i am not hungry | 0.216 c049:3-12 my nurse is very good | 0.215 c072:7-18 is my nurse thirsty | 0.197 c013:3-11 my nurse is not good | 0.196 c069:2-13 my nurse is like that
+11-21 0.224 c049:6-15 my nurse is very good | 0.199 c011:12-21 tell my nurse i am not hungry | 0.173 c013:5-13 my nurse is not good | 0.168 c069:4-14 my nurse is like that | 0.168 c071:3-11 how thirsty is my family
+14-24 0.206 c059:18-26 i hope they need my faith | 0.184 c071:6-12 how thirsty is my family | 0.176 c100:4-18 nurse is here | 0.169 c041:8-15 i like music | 0.167 c049:8-20 my nurse is very good
+17-27 0.203 c100:7-19 nurse is here | 0.190 c071:7-15 how thirsty is my family | 0.184 c059:20-29 i hope they need my faith | 0.182 c041:9-17 i like music | 0.180 c039:15-24 is my family very comfortable
+20-30 0.204 c100:14-21 nurse is here | 0.193 c050:15-26 how good are you | 0.183 c008:12-23 i am very good | 0.182 c001:16-25 i hope they feel good | 0.181 c058:19-27 i need my computer right here
+23-33 0.228 c008:15-26 i am very good | 0.184 c049:23-34 my nurse is very good | 0.183 c082:12-22 how do you do what | 0.181 c016:19-28 my music is my hope | 0.178 c058:20-31 i need my computer right here
+26-36 0.251 c008:17-28 i am very good | 0.234 c049:25-37 my nurse is very good | 0.216 c091:19-31 is my family good | 0.198 c092:37-43 my nurse is not very tired | 0.175 c001:21-33 i hope they feel good
+29-39 0.304 c008:22-29 i am very good | 0.296 c091:24-33 is my family good | 0.273 c049:30-37 my nurse is very good | 0.252 c092:37-43 my nurse is not very tired | 0.235 c038:13-20 very not good
+
+### tf256b8ed
+ 2-12 0.242 c101:18-31 tell my family they do not feel hungry | 0.239 c079:8-14 no i do not feel very comfortable | 0.230 c075:2-10 you need it here | 0.226 c018:9-19 no they are not going | 0.221 c007:4-12 how do you tell that
+ 5-15 0.271 c075:4-12 you need it here | 0.252 c079:7-14 no i do not feel very comfortable | 0.238 c101:24-32 tell my family they do not feel hungry | 0.233 c083:18-26 i hope i do not need it | 0.211 c080:8-15 you do not like my computer
+ 8-18 0.259 c075:4-17 you need it here | 0.238 c079:11-24 no i do not feel very comfortable | 0.195 c080:10-20 you do not like my computer | 0.193 c101:27-36 tell my family they do not feel hungry | 0.193 c055:13-20 where you need it
+11-21 0.225 c079:17-27 no i do not feel very comfortable | 0.192 c047:10-18 it is coming here | 0.191 c075:8-19 you need it here | 0.187 c117:15-23 they hope i have my glasses | 0.181 c032:20-27 my family is not going outside
+14-24 0.208 c117:18-25 they hope i have my glasses | 0.207 c079:21-31 no i do not feel very comfortable | 0.165 c011:28-36 tell my nurse i am not hungry | 0.158 c009:17-26 they need it coming up | 0.158 c004:8-14 i have no faith
+17-27 0.191 c079:24-34 no i do not feel very comfortable | 0.171 c117:19-26 they hope i have my glasses | 0.163 c080:30-37 you do not like my computer | 0.157 c109:4-16 tell my family hello | 0.150 c039:11-21 is my family very comfortable
+20-30 0.212 c080:32-39 you do not like my computer | 0.204 c003:6-14 have faith | 0.163 c039:6-14 is my family very comfortable | 0.158 c004:25-31 i have no faith | 0.156 c072:16-27 is my nurse thirsty
+23-33 0.258 c003:7-15 have faith | 0.227 c061:26-37 what do they tell my family | 0.204 c016:4-10 my music is my hope | 0.202 c080:33-40 you do not like my computer | 0.200 c027:34-42 tell my family they are hungry
+
+### t12be1627
+ 2-12 0.233 c001:2-12 i hope they feel good | 0.205 c005:2-12 i hope you are going | 0.205 c083:2-8 i hope i do not need it | 0.197 c097:2-12 i hope you have hope | 0.185 c040:2-13 i hope i am thirsty
+ 5-15 0.247 c001:5-15 i hope they feel good | 0.200 c025:2-14 hope they feel right | 0.191 c005:4-14 i hope you are going | 0.175 c097:4-14 i hope you have hope | 0.173 c020:3-10 hope they feel okay
+ 8-18 0.242 c025:6-15 hope they feel right | 0.223 c001:8-16 i hope they feel good | 0.164 c097:8-18 i hope you have hope | 0.162 c020:3-11 hope they feel okay | 0.157 c117:9-20 they hope i have my glasses
+11-21 0.216 c025:10-18 hope they feel right | 0.204 c097:10-21 i hope you have hope | 0.176 c070:4-13 you are tired | 0.168 c001:11-20 i hope they feel good | 0.154 c100:8-17 nurse is here
+14-24 0.175 c025:12-22 hope they feel right | 0.155 c047:10-19 it is coming here | 0.154 c107:6-17 that is here | 0.152 c116:7-18 not very bad | 0.151 c040:28-34 i hope i am thirsty
+
+### t42cfafec
+ 2-12 0.226 c025:11-18 hope they feel right | 0.201 c087:5-15 what is where | 0.198 c015:2-11 they feel hungry | 0.192 c013:2-7 my nurse is not good | 0.191 c072:2-9 is my nurse thirsty
+ 5-15 0.238 c025:11-21 hope they feel right | 0.218 c015:5-14 they feel hungry | 0.202 c011:7-14 tell my nurse i am not hungry | 0.192 c072:8-17 is my nurse thirsty | 0.187 c101:40-47 tell my family they do not feel hungry
+ 8-18 0.230 c015:7-16 they feel hungry | 0.229 c115:23-33 my family is not very hungry | 0.219 c101:40-50 tell my family they do not feel hungry | 0.216 c079:31-41 no i do not feel very comfortable | 0.200 c025:14-27 hope they feel right
+11-21 0.251 c079:33-45 no i do not feel very comfortable | 0.239 c115:26-34 my family is not very hungry | 0.232 c015:10-19 they feel hungry | 0.207 c039:21-31 is my family very comfortable | 0.176 c001:20-27 i hope they feel good
+14-24 0.265 c079:37-48 no i do not feel very comfortable | 0.245 c039:24-33 is my family very comfortable | 0.244 c015:13-22 they feel hungry | 0.189 c115:29-41 my family is not very hungry | 0.188 c011:25-33 tell my nurse i am not hungry
+17-27 0.326 c079:41-51 no i do not feel very comfortable | 0.299 c103:17-27 that is not comfortable | 0.291 c039:26-36 is my family very comfortable | 0.247 c015:15-24 they feel hungry | 0.240 c114:35-47 tell my family i am not comfortable
+20-30 0.346 c103:20-29 that is not comfortable | 0.339 c079:44-55 no i do not feel very comfortable | 0.323 c039:29-38 is my family very comfortable | 0.300 c114:41-51 tell my family i am not comfortable | 0.278 c078:33-42 tell my family i am comfortable
+
+### te3715f88
+ 2-12 0.282 c072:2-13 is my nurse thirsty | 0.230 c061:20-28 what do they tell my family | 0.226 c011:3-14 tell my nurse i am not hungry | 0.202 c117:24-32 they hope i have my glasses | 0.196 c034:4-12 you are right here
+ 5-15 0.298 c072:6-16 is my nurse thirsty | 0.253 c011:5-17 tell my nurse i am not hungry | 0.227 c049:3-10 my nurse is very good | 0.202 c117:25-38 they hope i have my glasses | 0.196 c012:9-17 am i coming up
+ 8-18 0.253 c072:8-19 is my nurse thirsty | 0.251 c049:3-13 my nurse is very good | 0.228 c011:11-20 tell my nurse i am not hungry | 0.207 c103:8-17 that is not comfortable | 0.199 c069:3-13 my nurse is like that
+11-21 0.237 c071:11-21 how thirsty is my family | 0.232 c103:10-19 that is not comfortable | 0.216 c049:6-16 my nurse is very good | 0.193 c108:20-30 you hope my family is here | 0.185 c072:12-21 is my nurse thirsty
+14-24 0.250 c103:13-21 that is not comfortable | 0.194 c071:14-24 how thirsty is my family | 0.180 c012:16-25 am i coming up | 0.179 c017:24-36 they tell you i am comfortable | 0.176 c040:25-34 i hope i am thirsty
+17-27 0.269 c017:29-38 they tell you i am comfortable | 0.212 c103:16-24 that is not comfortable | 0.208 c114:37-47 tell my family i am not comfortable | 0.193 c071:7-14 how thirsty is my family | 0.185 c079:40-50 no i do not feel very comfortable
+20-30 0.243 c017:33-41 they tell you i am comfortable | 0.212 c114:40-52 tell my family i am not comfortable | 0.190 c109:2-12 tell my family hello | 0.183 c080:32-42 you do not like my computer | 0.181 c062:2-8 goodbye what
+23-33 0.206 c114:43-53 tell my family i am not comfortable | 0.204 c017:34-42 they tell you i am comfortable | 0.171 c045:5-15 do you | 0.166 c052:5-11 how tired are you | 0.165 c024:2-14 you what
+
+### tb8083852
+ 2-12 0.293 c111:5-15 they do not like my family | 0.258 c009:6-13 they need it coming up | 0.227 c075:3-12 you need it here | 0.224 c018:9-16 no they are not going | 0.210 c079:9-17 no i do not feel very comfortable
+ 5-15 0.297 c111:10-16 they do not like my family | 0.232 c010:3-12 what is that like | 0.214 c009:7-16 they need it coming up | 0.213 c075:5-15 you need it here | 0.211 c103:3-9 that is not comfortable
+ 8-18 0.262 c111:10-18 they do not like my family | 0.247 c010:3-15 what is that like | 0.218 c113:9-17 yes like that | 0.210 c085:3-13 it is that good | 0.207 c098:6-13 here is that
+11-21 0.231 c010:7-17 what is that like | 0.222 c113:11-19 yes like that | 0.212 c098:6-16 here is that | 0.199 c111:13-21 they do not like my family | 0.182 c083:34-41 i hope i do not need it
+14-24 0.198 c083:27-38 i hope i do not need it | 0.188 c032:23-34 my family is not going outside | 0.186 c098:9-19 here is that | 0.175 c010:10-20 what is that like | 0.174 c113:13-20 yes like that
+17-27 0.210 c088:18-29 do you like that | 0.206 c031:19-28 my faith is right here | 0.205 c083:31-41 i hope i do not need it | 0.184 c091:29-34 is my family good | 0.181 c032:26-36 my family is not going outside
+
+### t9024802d
+ 2-12 0.243 c016:2-11 my music is my hope | 0.201 c109:17-25 tell my family hello | 0.184 c105:2-8 bring up | 0.183 c052:10-17 how tired are you | 0.182 c093:2-10 no music here
+ 5-15 0.230 c016:5-14 my music is my hope | 0.208 c105:2-8 bring up | 0.179 c093:4-12 no music here | 0.175 c109:20-27 tell my family hello | 0.173 c041:12-21 i like music
+ 8-18 0.212 c010:22-28 what is that like | 0.197 c016:8-15 my music is my hope | 0.191 c047:16-25 it is coming here | 0.190 c105:3-10 bring up | 0.174 c093:5-14 no music here
+11-21 0.215 c047:18-26 it is coming here | 0.199 c100:5-15 nurse is here | 0.178 c093:9-17 no music here | 0.169 c010:22-29 what is that like | 0.163 c027:18-29 tell my family they are hungry
+14-24 0.249 c093:10-18 no music here | 0.233 c047:20-27 it is coming here | 0.221 c100:6-18 nurse is here | 0.199 c108:26-36 you hope my family is here | 0.190 c075:11-20 you need it here
+17-27 0.269 c058:29-38 i need my computer right here | 0.267 c047:22-28 it is coming here | 0.255 c093:14-21 no music here | 0.245 c108:29-37 you hope my family is here | 0.237 c100:11-21 nurse is here
+20-30 0.245 c058:32-39 i need my computer right here | 0.243 c047:23-31 it is coming here | 0.228 c100:14-23 nurse is here | 0.226 c063:30-39 you need my glasses right here | 0.219 c076:27-34 my glasses are right here
+
+### t2b08e042
+ 2-12 0.226 c027:13-22 tell my family they are hungry | 0.220 c101:13-23 tell my family they do not feel hungry | 0.213 c108:19-29 you hope my family is here | 0.212 c032:5-14 my family is not going outside | 0.199 c013:6-13 my nurse is not good
+ 5-15 0.254 c101:15-25 tell my family they do not feel hungry | 0.253 c027:16-24 tell my family they are hungry | 0.242 c090:10-21 my music is not okay | 0.220 c079:2-14 no i do not feel very comfortable | 0.214 c007:3-12 how do you tell that
+ 8-18 0.297 c090:14-23 my music is not okay | 0.257 c101:18-28 tell my family they do not feel hungry | 0.256 c027:18-27 tell my family they are hungry | 0.255 c079:8-19 no i do not feel very comfortable | 0.251 c007:4-13 how do you tell that
+11-21 0.256 c090:16-25 my music is not okay | 0.243 c007:7-16 how do you tell that | 0.219 c111:8-14 they do not like my family | 0.217 c101:21-32 tell my family they do not feel hungry | 0.212 c079:11-19 no i do not feel very comfortable
+14-24 0.211 c007:9-21 how do you tell that | 0.202 c102:4-12 you do it | 0.197 c074:10-20 they have no need | 0.190 c038:8-16 very not good | 0.189 c119:13-19 they are you
+17-27 0.208 c091:22-32 is my family good | 0.207 c048:12-19 you feel good | 0.202 c049:28-37 my nurse is very good | 0.195 c082:20-32 how do you do what | 0.193 c038:9-19 very not good
+20-30 0.238 c048:12-22 you feel good | 0.195 c091:24-34 is my family good | 0.178 c008:22-30 i am very good | 0.177 c085:19-27 it is that good | 0.175 c026:16-25 you are outside
+
+### t62254eda
+ 2-12 0.233 c110:6-13 you need my faith | 0.224 c114:2-10 tell my family i am not comfortable | 0.208 c063:2-10 you need my glasses right here | 0.203 c061:19-26 what do they tell my family | 0.198 c089:2-11 do you have it here
+ 5-15 0.238 c061:19-27 what do they tell my family | 0.223 c109:7-14 tell my family hello | 0.219 c110:7-15 you need my faith | 0.215 c063:3-10 you need my glasses right here | 0.210 c078:4-10 tell my family i am comfortable
+ 8-18 0.253 c061:22-30 what do they tell my family | 0.242 c039:4-12 is my family very comfortable | 0.239 c109:8-15 tell my family hello | 0.229 c027:6-14 tell my family they are hungry | 0.227 c101:4-12 tell my family they do not feel hungry
+11-21 0.262 c101:5-15 tell my family they do not feel hungry | 0.250 c039:6-15 is my family very comfortable | 0.219 c109:10-24 tell my family hello | 0.213 c108:15-22 you hope my family is here | 0.210 c061:24-32 what do they tell my family
+14-24 0.241 c101:8-18 tell my family they do not feel hungry | 0.225 c108:17-26 you hope my family is here | 0.207 c039:9-18 is my family very comfortable | 0.201 c114:8-18 tell my family i am not comfortable | 0.201 c109:14-26 tell my family hello
+17-27 0.214 c109:20-28 tell my family hello | 0.200 c091:13-25 is my family good | 0.195 c108:18-28 you hope my family is here | 0.193 c039:19-28 is my family very comfortable | 0.183 c058:19-28 i need my computer right here
+20-30 0.249 c091:18-28 is my family good | 0.202 c049:23-36 my nurse is very good | 0.189 c109:22-32 tell my family hello | 0.185 c008:15-26 i am very good | 0.177 c058:21-32 i need my computer right here
+23-33 0.252 c091:21-31 is my family good | 0.201 c008:18-28 i am very good | 0.200 c049:27-38 my nurse is very good | 0.190 c056:16-31 i hope they are going | 0.179 c035:33-41 how bad is it going
+
+### t9db27598
+ 2-12 0.235 c001:2-12 i hope they feel good | 0.215 c097:2-13 i hope you have hope | 0.212 c117:4-15 they hope i have my glasses | 0.208 c040:2-17 i hope i am thirsty | 0.196 c056:3-13 i hope they are going
+ 5-15 0.220 c097:6-15 i hope you have hope | 0.208 c001:5-14 i hope they feel good | 0.205 c099:3-15 i hope they are thirsty | 0.202 c117:6-18 they hope i have my glasses | 0.200 c056:6-14 i hope they are going
+ 8-18 0.249 c097:10-20 i hope you have hope | 0.203 c117:11-18 they hope i have my glasses | 0.201 c017:7-15 they tell you i am comfortable | 0.182 c061:4-14 what do they tell my family | 0.178 c001:9-20 i hope they feel good
+11-21 0.191 c117:13-21 they hope i have my glasses | 0.189 c097:12-22 i hope you have hope | 0.167 c061:6-16 what do they tell my family | 0.154 c034:6-13 you are right here | 0.150 c046:7-15 what do you tell my nurse
+14-24 0.190 c114:5-13 tell my family i am not comfortable | 0.187 c117:14-23 they hope i have my glasses | 0.179 c002:5-14 you have faith | 0.162 c112:10-17 please have faith | 0.161 c099:13-24 i hope they are thirsty
+17-27 0.242 c002:6-16 you have faith | 0.238 c003:2-14 have faith | 0.208 c112:11-20 please have faith | 0.208 c114:7-16 tell my family i am not comfortable | 0.191 c059:27-35 i hope they need my faith
+20-30 0.329 c003:6-15 have faith | 0.297 c002:11-19 you have faith | 0.250 c059:30-36 i hope they need my faith | 0.244 c112:13-23 please have faith | 0.232 c004:20-28 i have no faith
+
+### tef25d0d3
+ 2-12 0.301 c114:2-10 tell my family i am not comfortable | 0.258 c072:2-12 is my nurse thirsty | 0.241 c011:2-13 tell my nurse i am not hungry | 0.233 c012:4-13 am i coming up | 0.227 c109:4-14 tell my family hello
+ 5-15 0.291 c027:5-15 tell my family they are hungry | 0.289 c114:5-15 tell my family i am not comfortable | 0.237 c072:4-13 is my nurse thirsty | 0.234 c078:5-15 tell my family i am comfortable | 0.226 c101:5-14 tell my family they do not feel hungry
+ 8-18 0.311 c027:8-18 tell my family they are hungry | 0.285 c114:8-17 tell my family i am not comfortable | 0.264 c078:8-16 tell my family i am comfortable | 0.218 c101:7-16 tell my family they do not feel hungry | 0.206 c012:10-18 am i coming up
+11-21 0.293 c027:11-21 tell my family they are hungry | 0.226 c078:11-18 tell my family i am comfortable | 0.213 c114:9-19 tell my family i am not comfortable | 0.210 c115:7-15 my family is not very hungry | 0.209 c001:5-13 i hope they feel good
+14-24 0.285 c027:14-22 tell my family they are hungry | 0.259 c117:9-17 they hope i have my glasses | 0.232 c115:9-16 my family is not very hungry | 0.231 c078:13-20 tell my family i am comfortable | 0.227 c114:13-20 tell my family i am not comfortable
+17-27 0.270 c083:6-18 i hope i do not need it | 0.268 c101:14-23 tell my family they do not feel hungry | 0.252 c117:10-19 they hope i have my glasses | 0.244 c115:10-17 my family is not very hungry | 0.231 c032:8-17 my family is not going outside
+20-30 0.340 c083:12-22 i hope i do not need it | 0.317 c079:8-15 no i do not feel very comfortable | 0.315 c101:17-26 tell my family they do not feel hungry | 0.243 c032:11-18 my family is not going outside | 0.234 c115:13-19 my family is not very hungry
+23-33 0.357 c079:9-19 no i do not feel very comfortable | 0.353 c083:14-25 i hope i do not need it | 0.319 c101:18-29 tell my family they do not feel hungry | 0.248 c032:13-19 my family is not going outside | 0.237 c111:5-12 they do not like my family
+26-36 0.313 c079:9-20 no i do not feel very comfortable | 0.303 c101:22-30 tell my family they do not feel hungry | 0.300 c083:18-25 i hope i do not need it | 0.243 c080:6-14 you do not like my computer | 0.240 c111:5-13 they do not like my family
+29-39 0.287 c079:15-23 no i do not feel very comfortable | 0.262 c101:25-32 tell my family they do not feel hungry | 0.245 c075:2-11 you need it here | 0.210 c090:15-24 my music is not okay | 0.208 c083:21-27 i hope i do not need it
+32-42 0.262 c079:17-27 no i do not feel very comfortable | 0.210 c101:27-36 tell my family they do not feel hungry | 0.210 c075:4-11 you need it here | 0.174 c090:19-26 my music is not okay | 0.174 c092:9-21 my nurse is not very tired
+35-45 0.205 c079:19-29 no i do not feel very comfortable | 0.175 c101:37-46 tell my family they do not feel hungry | 0.173 c025:11-21 hope they feel right | 0.160 c032:20-26 my family is not going outside | 0.155 c035:27-36 how bad is it going
+38-48 0.183 c015:6-12 they feel hungry | 0.171 c032:20-26 my family is not going outside | 0.159 c020:10-18 hope they feel okay | 0.159 c025:13-23 hope they feel right | 0.156 c082:16-22 how do you do what
+41-51 0.192 c020:9-15 hope they feel okay | 0.175 c015:7-13 they feel hungry | 0.170 c045:2-8 do you | 0.150 c032:22-27 my family is not going outside | 0.143 c068:31-38 i hope you do okay
+44-54 0.249 c020:11-17 hope they feel okay | 0.200 c114:41-51 tell my family i am not comfortable | 0.197 c045:2-13 do you | 0.192 c015:8-14 they feel hungry | 0.177 c036:15-22 like it please
+47-57 0.226 c015:7-16 they feel hungry | 0.224 c020:12-20 hope they feel okay | 0.222 c045:6-14 do you | 0.217 c001:17-25 i hope they feel good | 0.184 c049:19-30 my nurse is very good
+50-60 0.223 c072:13-24 is my nurse thirsty | 0.185 c015:8-21 they feel hungry | 0.172 c049:22-31 my nurse is very good | 0.165 c119:8-14 they are you | 0.163 c079:35-45 no i do not feel very comfortable
+53-63 0.261 c072:16-27 is my nurse thirsty | 0.181 c015:13-24 they feel hungry | 0.167 c079:37-47 no i do not feel very comfortable | 0.154 c004:17-29 i have no faith | 0.152 c059:8-16 i hope they need my faith
+56-66 0.251 c072:21-29 is my nurse thirsty | 0.213 c034:33-41 you are right here | 0.179 c043:5-12 are they right | 0.170 c015:17-25 they feel hungry | 0.162 c103:20-27 that is not comfortable

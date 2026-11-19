@@ -1,0 +1,1023 @@
+{
+  "audit_version": 1,
+  "audited_utc": "2026-11-19T01:54:52.833425+00:00",
+  "experiment": "sentences_t16_fresh_dev",
+  "status": "Exploratory development; not untouched confirmation",
+  "scope": "Completed Sol call and already-scored development8 only. No confirmation32 target text or MAT sentenceText field was read by this audit or the associated baseline development. Raw model artifacts were not edited.",
+  "verdict": {
+    "target_or_evaluation_read": "not_observed",
+    "network_or_external_model_call": "not_observed",
+    "pretrained_or_externally_fitted_specialized_neural_encoder": "not_observed",
+    "fine_tuning_or_gradient_updates": "not_observed",
+    "within_call_word_labeled_neural_exemplars": "present_and_must_be_disclosed",
+    "complete_algorithm_only_sentence_output": "none_observed",
+    "absolute_os_level_isolation": "not_proven_by_action_trace"
+  },
+  "compliance_interpretation": "The current broad prompt permits data-derived numerical scoring and within-inference associations from calibration. Under that boundary the observed call uses generic retrieval/alignment and Sol-created labeled exemplars, without an external pretrained decoder. It should not be described as exclusively unsupervised retrieval or as numerical tools producing no word information: targeted_evidence.py already ranks word labels. The original stricter ban on class-labeled prototypes is not the wording of this T16 prompt; do not silently conflate these protocols.",
+  "input_and_representation_checks": {
+    "calibration_n": 80,
+    "queries_n": 8,
+    "calibration_vocabulary_size": 49,
+    "calibration_missing_relative_to_T12": [
+      "goodbye"
+    ],
+    "frozen_input_hash_matches": {
+      "inputs.json": true,
+      "neural_inputs.npz": true
+    },
+    "supplied_helper_hash_matches": {
+      "retrieval.py": true,
+      "local_retrieval.py": true,
+      "local_dtw.py": true,
+      "show_local.py": true,
+      "edge_retrieval.py": true,
+      "inspect_intervals.py": true
+    },
+    "npz_expected_keys_only": true,
+    "query_metadata_keys": [
+      "duration_seconds",
+      "id",
+      "shape"
+    ],
+    "query_text_or_word_counts_present": false,
+    "query_duration_and_array_shape_present": true,
+    "feature_dimension": 128,
+    "features": "64 i6v threshold-crossing channels +64 log1p spike-power channels; source20-ms bins averaged to nominal100-ms frames",
+    "independently_reconstructed_neural_inputs_max_abs_error": 0.0,
+    "independent_reconstruction_loaded_source_fields": [
+      "binnedTX",
+      "spikePow",
+      "goTrialEpochs",
+      "blockNum",
+      "binSize"
+    ],
+    "source_sentenceText_loaded_by_auditor": false,
+    "saved_pca_mean_error": 0.0,
+    "saved_pca_eigenvalue_error": 8.43769498715119e-15,
+    "calibration_blocks": [
+      1,
+      4
+    ],
+    "development_block": 6,
+    "source_roi_channels_zero_based": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ]
+  },
+  "logged_actions": {
+    "unique_commands": 24,
+    "unique_file_change_actions": 3,
+    "item_types": {
+      "None": 3,
+      "agent_message": 5,
+      "command_execution": 48,
+      "file_change": 6
+    },
+    "first_directory_listing": "inputs.json/neural_inputs.npz plus the seven supplied generic helpers; no prediction or word-exemplar bank was present",
+    "file_changes": {
+      "item_23": [
+        {
+          "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/targeted_evidence.py",
+          "kind": "add"
+        }
+      ],
+      "item_26": [
+        {
+          "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/targeted_evidence.py",
+          "kind": "update"
+        }
+      ],
+      "item_29": [
+        {
+          "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/ANALYSIS.md",
+          "kind": "add"
+        },
+        {
+          "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/record_evidence.py",
+          "kind": "add"
+        }
+      ]
+    },
+    "command_index": [
+      {
+        "id": "item_1",
+        "first_event_index": 3,
+        "last_event_index": 4,
+        "command_sha256": "35ca876275afaecae1f81511d91b68ab75699e7947293d93c34dfecae6dedf63"
+      },
+      {
+        "id": "item_2",
+        "first_event_index": 5,
+        "last_event_index": 6,
+        "command_sha256": "8a586278c0cb0c9f13d919a416c254eec7158d6d7ff59ec6f77ac48e4e257224"
+      },
+      {
+        "id": "item_3",
+        "first_event_index": 7,
+        "last_event_index": 8,
+        "command_sha256": "e0deb376234e4339fc26ae8c5b478793b1ee583ec9acdadeb28e62cd9428856b"
+      },
+      {
+        "id": "item_4",
+        "first_event_index": 9,
+        "last_event_index": 10,
+        "command_sha256": "31bb4bd1f26cb4cef63313500326f3415fba588d93e3ccd90361c6c9275af4f6"
+      },
+      {
+        "id": "item_5",
+        "first_event_index": 11,
+        "last_event_index": 14,
+        "command_sha256": "d7b05db7891a3605f66f392c15e5c83d171560bc8dadf54a4aace0f00e02d69c"
+      },
+      {
+        "id": "item_6",
+        "first_event_index": 12,
+        "last_event_index": 15,
+        "command_sha256": "318a39e78ffae2f5fa84f9fd3282b71970dd804777d15ed432a682cffc5ea0ae"
+      },
+      {
+        "id": "item_7",
+        "first_event_index": 13,
+        "last_event_index": 22,
+        "command_sha256": "8116344cbc24e15bbaf01c9bfcc1512ef314918e6c05fd5675fe98a3f26814d3"
+      },
+      {
+        "id": "item_8",
+        "first_event_index": 16,
+        "last_event_index": 17,
+        "command_sha256": "e0064156c51001f95dee375eaa6a5b869ecf26456177fd6d7d86ab9cb720d17a"
+      },
+      {
+        "id": "item_9",
+        "first_event_index": 18,
+        "last_event_index": 19,
+        "command_sha256": "c29d776220700bf6b5a71463a75440436a26a9c54e96a1dffcf4756e1683ada7"
+      },
+      {
+        "id": "item_10",
+        "first_event_index": 20,
+        "last_event_index": 21,
+        "command_sha256": "bb249a9e26768dce332ca67154386d62536d52debec784a1405486402b651115"
+      },
+      {
+        "id": "item_12",
+        "first_event_index": 24,
+        "last_event_index": 25,
+        "command_sha256": "d8bfc6a37d3756bb9d5a6c92078ad8cf54d9f14d9526b08dedc27f29b34f1aa8"
+      },
+      {
+        "id": "item_13",
+        "first_event_index": 26,
+        "last_event_index": 29,
+        "command_sha256": "672a5eab27507533e67b89ba0cd992fbc0d441cc57f0df73b6a522286c4c904f"
+      },
+      {
+        "id": "item_14",
+        "first_event_index": 27,
+        "last_event_index": 28,
+        "command_sha256": "f6dd4fcf09518d1ec81a0fbf84d631af20d148b3e6ff110f558b16606c355245"
+      },
+      {
+        "id": "item_15",
+        "first_event_index": 30,
+        "last_event_index": 31,
+        "command_sha256": "3eb7d16f868fd444f0f6fe6ca1059d93979e601f4df857b1f28b15c617b7598f"
+      },
+      {
+        "id": "item_16",
+        "first_event_index": 32,
+        "last_event_index": 33,
+        "command_sha256": "e520317da4f77f0cf20db590772c4e37428ed8de8b487996753c1a183d547c0c"
+      },
+      {
+        "id": "item_17",
+        "first_event_index": 34,
+        "last_event_index": 35,
+        "command_sha256": "28907449d11e25b13819941ad5b2fd0eb6210925bf2ef1932ee047f2051bc116"
+      },
+      {
+        "id": "item_18",
+        "first_event_index": 36,
+        "last_event_index": 37,
+        "command_sha256": "206228bba7097808fb784d523f95240e48b2e309ea51fe401d9dd4a32f8b219a"
+      },
+      {
+        "id": "item_19",
+        "first_event_index": 38,
+        "last_event_index": 39,
+        "command_sha256": "6899bcb684593db98384252cc41b50698539a26e43b55a79f0a0bc2e60ea11f8"
+      },
+      {
+        "id": "item_21",
+        "first_event_index": 41,
+        "last_event_index": 42,
+        "command_sha256": "ffe71a94127066aa005b7a475878905876f536e9925c11fbbbf74ffb7d85ccff"
+      },
+      {
+        "id": "item_22",
+        "first_event_index": 43,
+        "last_event_index": 44,
+        "command_sha256": "9c4fbb96a99944e951c3d3f01b920c0bcd7469e3815b91097650d1d5974ae907"
+      },
+      {
+        "id": "item_24",
+        "first_event_index": 47,
+        "last_event_index": 48,
+        "command_sha256": "e695f42643eb307cc1399580d42e80c60f5d52b629dee4d83ae8cd9073df2d4e"
+      },
+      {
+        "id": "item_25",
+        "first_event_index": 49,
+        "last_event_index": 50,
+        "command_sha256": "fae03141b932fcf228d97b835b3913e051149b8c9736ebf5ca7b3b509cb5d6f7"
+      },
+      {
+        "id": "item_27",
+        "first_event_index": 53,
+        "last_event_index": 54,
+        "command_sha256": "e695f42643eb307cc1399580d42e80c60f5d52b629dee4d83ae8cd9073df2d4e"
+      },
+      {
+        "id": "item_30",
+        "first_event_index": 58,
+        "last_event_index": 59,
+        "command_sha256": "d428e53df9b3c4de6a51bfa477ec280d0b52fbec1ee6bf3f713955ad5cdfd657"
+      }
+    ],
+    "intentional_external_data_reads_observed": false,
+    "additional_browsing_network_delegation_or_model_tools_observed": false
+  },
+  "numerical_vs_Sol_contribution": {
+    "generic_numerical_stages": [
+      "Calibration-only PCA",
+      "Remove first two PCs",
+      "Gaussian smoothing sigma1.2 and framewise normalization",
+      "Cosine interval matching and slope-constrained subsequence/prefix DTW",
+      "Calibration-to-calibration overlap retrieval"
+    ],
+    "Sol_orchestration_and_association": [
+      "Selects which calibration recordings/intervals to inspect",
+      "Infers approximate word associations/boundaries from overlapping calibration transcripts",
+      "Selects ambiguous query windows and constructs a word-labeled exemplar dictionary",
+      "Interprets/composes a complete variable-length sentence from evidence and uncertainty"
+    ],
+    "word_exemplar_stage": {
+      "file": "targeted_evidence.py",
+      "word_classes": 17,
+      "calibration_interval_exemplars": 69,
+      "word_labels": [
+        "do",
+        "you",
+        "like",
+        "have",
+        "it",
+        "right",
+        "are",
+        "my",
+        "need",
+        "feel",
+        "here",
+        "that",
+        "not",
+        "no",
+        "i",
+        "am",
+        "hungry"
+      ],
+      "query_count_scored": 4,
+      "query_windows_scored": 20,
+      "score_rule": "Complete interval DTW with fixed .035 slope penalty; per word, best and top-two mean over labeled calibration exemplars; word candidates ranked by top-two mean.",
+      "word_boundaries": "Sol-inferred approximate intervals, not observed word timing or supplied target labels.",
+      "not_present": [
+        "No class-mean neural vectors are averaged",
+        "No neural encoder/linear word weights are fitted",
+        "No gradients or external trained network",
+        "No automatic final sentence sequence assembled by the numeric scripts"
+      ],
+      "attribution_limit": "The word-label scores already perform part of decoding. They are conditional on Sol-created calibration labels, exemplar boundaries, and chosen query spans. Comparing only final prose to raw unlabeled retrieval would omit this contribution."
+    },
+    "targeted_word_score_outputs": [
+      {
+        "query_id": "te7fda903",
+        "query_window": [
+          2,
+          14
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "do",
+            "top2_mean": 0.3636271464128257
+          },
+          {
+            "word": "you",
+            "top2_mean": 0.24632828153986897
+          },
+          {
+            "word": "no",
+            "top2_mean": 0.2213890331728948
+          }
+        ]
+      },
+      {
+        "query_id": "te7fda903",
+        "query_window": [
+          10,
+          19
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "do",
+            "top2_mean": 0.3678798859130866
+          },
+          {
+            "word": "you",
+            "top2_mean": 0.32073720629040064
+          },
+          {
+            "word": "need",
+            "top2_mean": 0.13529275068276347
+          }
+        ]
+      },
+      {
+        "query_id": "te7fda903",
+        "query_window": [
+          14,
+          24
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "you",
+            "top2_mean": 0.24161159675133292
+          },
+          {
+            "word": "do",
+            "top2_mean": 0.15860589965311597
+          },
+          {
+            "word": "that",
+            "top2_mean": 0.14164813173402863
+          }
+        ]
+      },
+      {
+        "query_id": "te7fda903",
+        "query_window": [
+          17,
+          26
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "have",
+            "top2_mean": 0.254969080272663
+          },
+          {
+            "word": "like",
+            "top2_mean": 0.16601002344695587
+          },
+          {
+            "word": "that",
+            "top2_mean": 0.15520824898235833
+          }
+        ]
+      },
+      {
+        "query_id": "te7fda903",
+        "query_window": [
+          23,
+          35
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "that",
+            "top2_mean": 0.3801427825265161
+          },
+          {
+            "word": "it",
+            "top2_mean": 0.23646462281172276
+          },
+          {
+            "word": "have",
+            "top2_mean": 0.15775231463660339
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          2,
+          12
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "you",
+            "top2_mean": 0.44975387787013377
+          },
+          {
+            "word": "do",
+            "top2_mean": 0.2642234667505783
+          },
+          {
+            "word": "no",
+            "top2_mean": 0.19949775713591247
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          9,
+          19
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "have",
+            "top2_mean": 0.24778354393152038
+          },
+          {
+            "word": "not",
+            "top2_mean": 0.15916174044611608
+          },
+          {
+            "word": "like",
+            "top2_mean": 0.1524742238592146
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          11,
+          21
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "have",
+            "top2_mean": 0.2829265919553937
+          },
+          {
+            "word": "i",
+            "top2_mean": 0.1824619001227395
+          },
+          {
+            "word": "it",
+            "top2_mean": 0.17232798097379995
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          14,
+          22
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "have",
+            "top2_mean": 0.25755582411187705
+          },
+          {
+            "word": "am",
+            "top2_mean": 0.22961155061949187
+          },
+          {
+            "word": "i",
+            "top2_mean": 0.18019058962187467
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          19,
+          33
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "here",
+            "top2_mean": 0.5205402661308824
+          },
+          {
+            "word": "are",
+            "top2_mean": 0.28778244037000694
+          },
+          {
+            "word": "feel",
+            "top2_mean": 0.22635653250509152
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          10,
+          16
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "not",
+            "top2_mean": 0.19489630416490178
+          },
+          {
+            "word": "like",
+            "top2_mean": 0.16712468597862407
+          },
+          {
+            "word": "you",
+            "top2_mean": 0.1454188267084031
+          }
+        ]
+      },
+      {
+        "query_id": "ta84f22ff",
+        "query_window": [
+          16,
+          22
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "am",
+            "top2_mean": 0.2614934650744907
+          },
+          {
+            "word": "have",
+            "top2_mean": 0.19953298724673071
+          },
+          {
+            "word": "i",
+            "top2_mean": 0.16282898352372369
+          }
+        ]
+      },
+      {
+        "query_id": "te1c6177b",
+        "query_window": [
+          2,
+          11
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "no",
+            "top2_mean": 0.2972931056761636
+          },
+          {
+            "word": "do",
+            "top2_mean": 0.22623760598439208
+          },
+          {
+            "word": "like",
+            "top2_mean": 0.1701573420073612
+          }
+        ]
+      },
+      {
+        "query_id": "te1c6177b",
+        "query_window": [
+          10,
+          18
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "i",
+            "top2_mean": 0.32041420236508045
+          },
+          {
+            "word": "like",
+            "top2_mean": 0.24227590124597706
+          },
+          {
+            "word": "my",
+            "top2_mean": 0.19471316414966294
+          }
+        ]
+      },
+      {
+        "query_id": "te1c6177b",
+        "query_window": [
+          15,
+          23
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "am",
+            "top2_mean": 0.41940713211481584
+          },
+          {
+            "word": "that",
+            "top2_mean": 0.18481168377862983
+          },
+          {
+            "word": "feel",
+            "top2_mean": 0.18245572196209053
+          }
+        ]
+      },
+      {
+        "query_id": "te1c6177b",
+        "query_window": [
+          21,
+          30
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "not",
+            "top2_mean": 0.30032385026466146
+          },
+          {
+            "word": "right",
+            "top2_mean": 0.22251767512808918
+          },
+          {
+            "word": "are",
+            "top2_mean": 0.1998711490316467
+          }
+        ]
+      },
+      {
+        "query_id": "te1c6177b",
+        "query_window": [
+          24,
+          31
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "not",
+            "top2_mean": 0.23280083681394392
+          },
+          {
+            "word": "are",
+            "top2_mean": 0.22856707044970676
+          },
+          {
+            "word": "right",
+            "top2_mean": 0.18254475965803876
+          }
+        ]
+      },
+      {
+        "query_id": "te1c6177b",
+        "query_window": [
+          29,
+          43
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "hungry",
+            "top2_mean": 0.481120630517803
+          },
+          {
+            "word": "right",
+            "top2_mean": 0.19347207547068362
+          },
+          {
+            "word": "you",
+            "top2_mean": 0.18933418944731545
+          }
+        ]
+      },
+      {
+        "query_id": "t196443a7",
+        "query_window": [
+          2,
+          12
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "are",
+            "top2_mean": 0.5265878269877939
+          },
+          {
+            "word": "here",
+            "top2_mean": 0.21193114762744159
+          },
+          {
+            "word": "i",
+            "top2_mean": 0.17804340986510353
+          }
+        ]
+      },
+      {
+        "query_id": "t196443a7",
+        "query_window": [
+          10,
+          20
+        ],
+        "top3_word_score_candidates": [
+          {
+            "word": "you",
+            "top2_mean": 0.32270800796182353
+          },
+          {
+            "word": "do",
+            "top2_mean": 0.24724212454486386
+          },
+          {
+            "word": "need",
+            "top2_mean": 0.22297801258301458
+          }
+        ]
+      }
+    ],
+    "final_prediction_provenance": "record_evidence.py contains Sol-authored literal INTERPRETATIONS after the numerical analyses; the final JSON matches final_interpreted_predictions.json. The literal list is an output artifact, not a pre-supplied answer key."
+  },
+  "novelty": {
+    "all_eight_full_transcripts_absent": true,
+    "full_targets_also_absent_as_contiguous_calibration_spans": 7,
+    "exact_strictly_novel_sentences": 5,
+    "rows": [
+      {
+        "id": "te7fda903",
+        "trial": 85,
+        "truth": [
+          "do",
+          "you",
+          "have",
+          "that"
+        ],
+        "exact": true,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      },
+      {
+        "id": "t196443a7",
+        "trial": 87,
+        "truth": [
+          "are",
+          "you",
+          "coming",
+          "closer"
+        ],
+        "exact": false,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      },
+      {
+        "id": "t0ba95c98",
+        "trial": 80,
+        "truth": [
+          "you",
+          "are",
+          "bad"
+        ],
+        "exact": true,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      },
+      {
+        "id": "te1c6177b",
+        "trial": 83,
+        "truth": [
+          "no",
+          "i",
+          "am",
+          "not",
+          "hungry"
+        ],
+        "exact": true,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      },
+      {
+        "id": "td4202301",
+        "trial": 82,
+        "truth": [
+          "hope",
+          "you",
+          "like",
+          "music"
+        ],
+        "exact": false,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": [
+          "c002"
+        ]
+      },
+      {
+        "id": "ta84f22ff",
+        "trial": 86,
+        "truth": [
+          "you",
+          "have",
+          "it",
+          "here"
+        ],
+        "exact": false,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      },
+      {
+        "id": "tc14fc0db",
+        "trial": 81,
+        "truth": [
+          "i",
+          "hope",
+          "they",
+          "are",
+          "comfortable"
+        ],
+        "exact": true,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      },
+      {
+        "id": "t49dd1ce6",
+        "trial": 84,
+        "truth": [
+          "i",
+          "hope",
+          "they",
+          "do",
+          "not",
+          "need",
+          "my",
+          "family"
+        ],
+        "exact": true,
+        "whole_transcript_in_calibration": false,
+        "calibration_contiguous_span_matches": []
+      }
+    ]
+  },
+  "wording_corrections_without_editing_raw_artifacts": [
+    {
+      "source": "targeted_evidence.py docstring and targeted_evidence.json boundary_origin",
+      "issue": "Uses human interpretation wording; these associations/boundaries were created by Sol through the logged file-change actions, not provided by a human.",
+      "report_as": "Sol-inferred calibration word exemplars / approximate boundaries."
+    },
+    {
+      "source": "record_evidence.py / reconstruction_evidence.json numerical_results",
+      "issue": "Says numerical similarities determine not words or counts. This omits the explicitly word-labeled candidate ranks from targeted_evidence.py.",
+      "report_as": "Numerical routines provide neural interval matches and selected word-candidate scores; Sol supplies association choices and final complete sentence composition."
+    }
+  ],
+  "qualifications": [
+    {
+      "kind": "ROI_selection_on_development",
+      "description": "The i6v ROI was chosen using an earlier conventional lexical diagnostic on these same8 trials; their score is exploratory. Confirmation32 is separate and remains blinded in this audit."
+    },
+    {
+      "kind": "transductive_block_correction",
+      "description": "Full-block label-free mean correction uses all40 block6 neural recordings, including the reserved32; no reserved target labels enter this transform. Both Sol and baselines receive the same preprocessing."
+    },
+    {
+      "kind": "duration_information",
+      "description": "Recording duration/array length is supplied and may support word-count priors; no explicit target count or word timing is supplied."
+    },
+    {
+      "kind": "trace_limit",
+      "description": "Actions show no forbidden reads or networking. They are not kernel-level file/network telemetry and cannot exclude pretraining familiarity or all implicit library/shell reads."
+    }
+  ],
+  "evidence_artifacts": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/cases/sentences_t16_fresh_dev.json",
+      "sha256": "fb59a14f276e0fe51d7688db817ce5e035582460cb91a97293912644f054877b"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/cases/sentences_t16_fresh_dev.npz",
+      "sha256": "0034c7c652acbd7539425eba016f484393a03fff991045c9e729b08bb7add4de"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/prompts/sentences_t16_fresh_dev.txt",
+      "sha256": "c96baed515829de9d4e0afb4d5236126dbe084db14c252ca80f46390e2de9407"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_t16_fresh_dev.json",
+      "sha256": "c5fe1f614a04fcc1a12141ad5c705c45123fc138e5dc4ad64bb4d960c458d722"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_t16_fresh_dev.invocation.json",
+      "sha256": "b063e8970a95639ab027d5f9497207738b3f88c82cf6542226399aae17011dd6"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_t16_fresh_dev.events.jsonl",
+      "sha256": "648ce1e88c4023003aed863b822bfa7b607ebb176d07c84cfd4f2f6e749893d0"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/inputs.json",
+      "sha256": "1c0268545f57f7f86afbbd2baf9ce7dc81d7ce9629559b945868fcdd296d9cee"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/neural_inputs.npz",
+      "sha256": "de42f18dfddd56756a31d5c917ad42ff7b2a7d48e099b29517e91b96e37d9438"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/unsupervised_pca.npz",
+      "sha256": "03028b78334e1cf09a8245371a375283ca5356238561befab5592f8f908a8380"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/targeted_evidence.json",
+      "sha256": "a22a5b03e4495f5afff3d38f5acc4ff719ccc6b8cb0aa6592bd733c6d5a6e38b"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/reconstruction_evidence.json",
+      "sha256": "e520a575046639e262bfb95de9e23360ef61c9d552900e61eb60a50b56e1afcb"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/final_interpreted_predictions.json",
+      "sha256": "63a35f1543ce306d461fcb340513265b58230a9e5298d096d8efb4be33f6b5e3"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/ANALYSIS.md",
+      "sha256": "ca90f40f689fa50efa6d7632ac8c456f0ab1ac892066d2903dd2dec97e30b48e"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/edge_retrieval.py",
+      "sha256": "821f14b0f985e1be2d3916af9845026d0acf85587606047389e7ce8c970d9f80"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/inspect_intervals.py",
+      "sha256": "72d788490b087f696425e92169437edb803d316796f052c4166115b8c9cb6027"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/local_dtw.py",
+      "sha256": "f65b57d16e88366837ea67b6a0dec900ab3168af65c6b274b4c76328c167836a"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/local_retrieval.py",
+      "sha256": "4960afcdd653ea0f41dd3bc17e085e7739323323ce3e24cf2a180c3307dafa45"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/prepare_pca.py",
+      "sha256": "35a113741277242d120b695fb83ad20ef64f7ccfcb1f65843989d6686206ef37"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/record_evidence.py",
+      "sha256": "49c3b6b375b8e893b568e24bc99adf2de5974d7fd1e5ddecc821a1e8a1721871"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/retrieval.py",
+      "sha256": "c6e21170cefba6670942ce87fab7c4cbe2a98d756136e315874106a31dfc2b56"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/show_local.py",
+      "sha256": "a18003f57743cbea01de2297676e4a1b744e4525fa7a1dc13c4d9526198ddb06"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_cases/sentences_t16_fresh_dev/targeted_evidence.py",
+      "sha256": "0c986509787a2a821ae99cad43f66487fb45736d32b22fb2ca6f1c68939eb3fb"
+    }
+  ]
+}

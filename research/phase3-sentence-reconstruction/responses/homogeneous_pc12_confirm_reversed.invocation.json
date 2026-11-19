@@ -1,0 +1,27 @@
+{
+  "name": "homogeneous_pc12_confirm_reversed",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sequence_model_sandbox",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/homogeneous_pc12_confirm_reversed.json",
+    "-"
+  ],
+  "prompt_sha256": "8cbdcefde2140cef67c329119d7335f5e86232a47c347f8d8a894ad71ebf1166",
+  "started_utc": "2026-11-18T16:59:58Z",
+  "returncode": 0,
+  "wall_seconds": 382.99138283729553
+}

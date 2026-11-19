@@ -1,0 +1,83 @@
+{
+  "predictions": [
+    {
+      "id": "td133fe66",
+      "tokens": [
+        "what",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t91b28a91",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "clean",
+        "my",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "ta8a65773",
+      "tokens": [
+        "hope",
+        "is",
+        "nurse"
+      ]
+    },
+    {
+      "id": "tcd92c110",
+      "tokens": [
+        "i",
+        "have",
+        "need",
+        "music"
+      ]
+    },
+    {
+      "id": "t7d52b265",
+      "tokens": [
+        "tell",
+        "my",
+        "i",
+        "coming",
+        "here"
+      ]
+    },
+    {
+      "id": "t50600ea0",
+      "tokens": [
+        "music",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t53cbb8ea",
+      "tokens": [
+        "they",
+        "do",
+        "i",
+        "have",
+        "faith"
+      ]
+    },
+    {
+      "id": "tf75891fc",
+      "tokens": [
+        "family",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ]
+    }
+  ],
+  "query_labels_used": false,
+  "configuration_sha256": "02f7f73945b3f1de6712f27f6b29637d049326a3baf7d926d48db0738e4915e1",
+  "wall_seconds": 0.4302500420017168,
+  "uses_model_authored_hypothesis_text_or_predictions": false
+}

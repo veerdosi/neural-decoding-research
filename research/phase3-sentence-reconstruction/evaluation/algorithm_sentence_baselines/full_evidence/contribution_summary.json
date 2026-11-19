@@ -1,0 +1,306 @@
+{
+  "A_frozen_evidence_replay": {
+    "all_recordings": {
+      "n": 8,
+      "reference_words": 39,
+      "algorithm_edits": 14,
+      "sol_edits": 10,
+      "algorithm_wer": 0.358974358974359,
+      "sol_wer": 0.2564102564102564,
+      "algorithm_exact": 1,
+      "sol_exact": 2,
+      "net_edit_reduction_with_sol": 4,
+      "wer_reduction_percentage_points": 10.256410256410257,
+      "descriptive_paired_bootstrap_95pct_percentage_points": [
+        -2.7027027027027026,
+        20.0
+      ]
+    },
+    "strictly_novel_whole_targets": {
+      "n": 8,
+      "reference_words": 39,
+      "algorithm_edits": 14,
+      "sol_edits": 10,
+      "algorithm_wer": 0.358974358974359,
+      "sol_wer": 0.2564102564102564,
+      "algorithm_exact": 1,
+      "sol_exact": 2,
+      "net_edit_reduction_with_sol": 4,
+      "wer_reduction_percentage_points": 10.256410256410257,
+      "descriptive_paired_bootstrap_95pct_percentage_points": [
+        -2.7027027027027026,
+        20.0
+      ]
+    },
+    "per_query": [
+      {
+        "id": "td133fe66",
+        "reference_words": 4,
+        "algorithm_errors": 1,
+        "sol_errors": 1,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t91b28a91",
+        "reference_words": 8,
+        "algorithm_errors": 3,
+        "sol_errors": 1,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "ta8a65773",
+        "reference_words": 4,
+        "algorithm_errors": 3,
+        "sol_errors": 2,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "tcd92c110",
+        "reference_words": 4,
+        "algorithm_errors": 1,
+        "sol_errors": 0,
+        "algorithm_exact": false,
+        "sol_exact": true,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t7d52b265",
+        "reference_words": 6,
+        "algorithm_errors": 3,
+        "sol_errors": 2,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t50600ea0",
+        "reference_words": 3,
+        "algorithm_errors": 0,
+        "sol_errors": 0,
+        "algorithm_exact": true,
+        "sol_exact": true,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t53cbb8ea",
+        "reference_words": 5,
+        "algorithm_errors": 2,
+        "sol_errors": 3,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "tf75891fc",
+        "reference_words": 5,
+        "algorithm_errors": 1,
+        "sol_errors": 1,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      }
+    ]
+  },
+  "B_fixed_generic_workflow": {
+    "all_recordings": {
+      "n": 16,
+      "reference_words": 71,
+      "algorithm_edits": 34,
+      "sol_edits": 29,
+      "algorithm_wer": 0.4788732394366197,
+      "sol_wer": 0.4084507042253521,
+      "algorithm_exact": 0,
+      "sol_exact": 4,
+      "net_edit_reduction_with_sol": 5,
+      "wer_reduction_percentage_points": 7.042253521126761,
+      "descriptive_paired_bootstrap_95pct_percentage_points": [
+        -6.41025641025641,
+        21.25
+      ]
+    },
+    "strictly_novel_whole_targets": {
+      "n": 14,
+      "reference_words": 64,
+      "algorithm_edits": 31,
+      "sol_edits": 27,
+      "algorithm_wer": 0.484375,
+      "sol_wer": 0.421875,
+      "algorithm_exact": 0,
+      "sol_exact": 3,
+      "net_edit_reduction_with_sol": 4,
+      "wer_reduction_percentage_points": 6.25,
+      "descriptive_paired_bootstrap_95pct_percentage_points": [
+        -6.666666666666667,
+        20.588235294117645
+      ]
+    },
+    "per_query": [
+      {
+        "id": "tda989373",
+        "reference_words": 3,
+        "algorithm_errors": 1,
+        "sol_errors": 2,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": false
+      },
+      {
+        "id": "tdd25032b",
+        "reference_words": 8,
+        "algorithm_errors": 4,
+        "sol_errors": 0,
+        "algorithm_exact": false,
+        "sol_exact": true,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t5ee44a7f",
+        "reference_words": 4,
+        "algorithm_errors": 1,
+        "sol_errors": 0,
+        "algorithm_exact": false,
+        "sol_exact": true,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "tdf8f9fae",
+        "reference_words": 4,
+        "algorithm_errors": 2,
+        "sol_errors": 0,
+        "algorithm_exact": false,
+        "sol_exact": true,
+        "whole_target_absent_as_calibration_span": false
+      },
+      {
+        "id": "t4f16b000",
+        "reference_words": 2,
+        "algorithm_errors": 3,
+        "sol_errors": 3,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t40a0a424",
+        "reference_words": 6,
+        "algorithm_errors": 1,
+        "sol_errors": 2,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "tf256b8ed",
+        "reference_words": 5,
+        "algorithm_errors": 2,
+        "sol_errors": 3,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t12be1627",
+        "reference_words": 3,
+        "algorithm_errors": 1,
+        "sol_errors": 1,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t42cfafec",
+        "reference_words": 5,
+        "algorithm_errors": 2,
+        "sol_errors": 1,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "te3715f88",
+        "reference_words": 5,
+        "algorithm_errors": 3,
+        "sol_errors": 3,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "tb8083852",
+        "reference_words": 4,
+        "algorithm_errors": 3,
+        "sol_errors": 3,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t9024802d",
+        "reference_words": 5,
+        "algorithm_errors": 3,
+        "sol_errors": 4,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t2b08e042",
+        "reference_words": 4,
+        "algorithm_errors": 1,
+        "sol_errors": 0,
+        "algorithm_exact": false,
+        "sol_exact": true,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t62254eda",
+        "reference_words": 4,
+        "algorithm_errors": 2,
+        "sol_errors": 2,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "t9db27598",
+        "reference_words": 4,
+        "algorithm_errors": 3,
+        "sol_errors": 2,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      },
+      {
+        "id": "tef25d0d3",
+        "reference_words": 5,
+        "algorithm_errors": 2,
+        "sol_errors": 3,
+        "algorithm_exact": false,
+        "sol_exact": false,
+        "whole_target_absent_as_calibration_span": true
+      }
+    ]
+  },
+  "interpretation": "The numerical pipeline already supports substantial sentence reconstruction without Sol. The observed extra Sol contribution is four development edits and five fresh-set edits. These small gains, one participant and one session, do not establish robust superiority or a distinctive decoding paradigm.",
+  "A_scope": "All structured score families from the actual development call are made available to calibration-only family/ensemble selection. This inherits Sol choice/orchestration of numerical algorithms and selected calibration contexts.",
+  "B_scope": "A predetermined inventory is regenerated on fresh neural arrays without reading any Sol-produced helpers, scores, hypotheses, or outputs at application. Calibration contexts are evenly spaced IDs rather than selected by Sol. The algorithm inventory was discovered during development; the workflow still inherits that research discovery.",
+  "uncertainty": "Bootstrap ranges resample paired utterances in the same recording block. They are descriptive, do not model within-block correlation, and cannot support participant/session population claims.",
+  "comparison_limits": [
+    "The deterministic assembly rule estimates unknown word boundaries by uniform or letter-length timing; nonlinear semantic interpretation could exploit the same contexts better. This is one strong auditable comparator, not an optimal algorithmic bound.",
+    "Continuous diagnostic printouts (norms/eigenvalues/PC traces) are documented but are not directly word-scored. They contributed to the development algorithm inventory; final-prediction/hypothesis prose is excluded.",
+    "The 2340-splice bank contains none of the eight development targets; its exact-match score is not a meaningful standalone compositional benchmark.",
+    "The independent trained word-emission baseline was calibrated but not predicted/scored after prioritizing the complete pipeline ablation. It is not used to claim a contribution."
+  ],
+  "runtimes": {
+    "generic_fresh_seconds": 12.734841333003715,
+    "frozen_replay_assembly_seconds": 0.4302500420017168,
+    "generic_calibration_selection_seconds": 28.2460675839975,
+    "frozen_calibration_selection_seconds": 25.142484667012468
+  }
+}

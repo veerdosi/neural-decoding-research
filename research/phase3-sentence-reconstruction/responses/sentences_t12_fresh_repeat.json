@@ -1,0 +1,30 @@
+{
+  "predictions": [
+    {"id":"tda989373","tokens":["they","need","what"]},
+    {"id":"tdd25032b","tokens":["tell","my","family","i","do","not","feel","thirsty"]},
+    {"id":"t5ee44a7f","tokens":["my","music","is","here"]},
+    {"id":"tdf8f9fae","tokens":["i","hope","they","have"]},
+    {"id":"t4f16b000","tokens":["goodbye","coming"]},
+    {"id":"t40a0a424","tokens":["no","they","do","not","feel","comfortable"]},
+    {"id":"tf256b8ed","tokens":["tell","my","nurse","is","very","good"]},
+    {"id":"t12be1627","tokens":["i","like","it"]},
+    {"id":"t42cfafec","tokens":["i","hope","you","have","faith"]},
+    {"id":"te3715f88","tokens":["need","my","family","good"]},
+    {"id":"tb8083852","tokens":["family","is","not","good"]},
+    {"id":"t9024802d","tokens":["do","not","need","it"]},
+    {"id":"t2b08e042","tokens":["my","faith","they","are","good"]},
+    {"id":"t62254eda","tokens":["that","is","very","comfortable"]},
+    {"id":"t9db27598","tokens":["is","my","nurse","not","comfortable"]},
+    {"id":"tef25d0d3","tokens":["they","do","not","have","faith"]}
+  ],
+  "method": {
+    "analysis":"Calibration-only PCA with the first two components removed, Gaussian smoothing, cosine interval retrieval, and slope-constrained DTW. Final sequences were manually interpreted from overlapping calibration evidence and exemplar comparisons.",
+    "evidence":"interpretation_evidence.json",
+    "automatic_sequences":["algorithm_only_sequences.json","exemplar_assembly_sequences.json","phrase_assembly_sequences.json"],
+    "reproduction":"run_analysis.sh"
+  },
+  "limitations":[
+    "Word boundaries, identities, and counts remain uncertain; automatic assemblies were saved separately from final interpretations.",
+    "Lowest confidence: t4f16b000, tb8083852, and t2b08e042. Supporting intervals and competing reconstructions are recorded in interpretation_evidence.json."
+  ]
+}

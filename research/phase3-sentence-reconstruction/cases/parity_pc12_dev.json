@@ -1,0 +1,21 @@
+{
+  "name": "parity_pc12_dev",
+  "scheme": "even_parity",
+  "split": "development",
+  "components": 12,
+  "control": null,
+  "query_ids": [
+    "qdfb52a22",
+    "q456cd16a",
+    "q373614f4",
+    "q26f8d199",
+    "q82a971e9",
+    "q57189db9",
+    "q857cb5d3",
+    "q9d8befca"
+  ],
+  "calibration_n": 12,
+  "query_n": 8,
+  "pca_variance_retained": 0.5022961995359279,
+  "prompt_sha256": "d4211a77ce03385e6328ebd7793e7b9093123f723504a6bc74261803df1a31fe"
+}

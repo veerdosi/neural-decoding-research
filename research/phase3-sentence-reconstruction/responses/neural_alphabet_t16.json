@@ -1,0 +1,23 @@
+{
+  "predictions": [
+    {"id":"te7fda903","tokens":["do","you","do","that"]},
+    {"id":"t196443a7","tokens":["are","you","comfortable"]},
+    {"id":"t0ba95c98","tokens":["you","are","bad"]},
+    {"id":"te1c6177b","tokens":["they","hope","i","am","not","hungry"]},
+    {"id":"td4202301","tokens":["do","you","like","music"]},
+    {"id":"ta84f22ff","tokens":["do","that","here"]},
+    {"id":"tc14fc0db","tokens":["i","hope","they","are","comfortable"]},
+    {"id":"t49dd1ce6","tokens":["i","hope","they","do","not","need","my","family"]}
+  ],
+  "method":"Induced reusable subsequence motifs from the paired examples, allowed duration and contextual variation, and composed motifs in order. Used sentence context to resolve ambiguous boundaries.",
+  "uncertainty":{
+    "te7fda903":"high; repeated short motifs obscure word boundaries",
+    "t196443a7":"high; pronoun and comfortable onset are ambiguous",
+    "t0ba95c98":"moderate",
+    "te1c6177b":"high; not and hungry are weakly separated",
+    "td4202301":"moderate; initial do is uncertain",
+    "ta84f22ff":"high; initial word and intervening transitions are ambiguous",
+    "tc14fc0db":"low",
+    "t49dd1ce6":"high; need and especially my are uncertain"
+  }
+}

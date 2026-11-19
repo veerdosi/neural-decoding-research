@@ -1,0 +1,81 @@
+{
+  "predictions": [
+    {
+      "id": "td133fe66",
+      "tokens": [
+        "what",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t91b28a91",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ]
+    },
+    {
+      "id": "ta8a65773",
+      "tokens": [
+        "what",
+        "is",
+        "right"
+      ]
+    },
+    {
+      "id": "tcd92c110",
+      "tokens": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ]
+    },
+    {
+      "id": "t7d52b265",
+      "tokens": [
+        "is",
+        "my",
+        "nurse",
+        "coming",
+        "here"
+      ]
+    },
+    {
+      "id": "t50600ea0",
+      "tokens": [
+        "music",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t53cbb8ea",
+      "tokens": [
+        "how",
+        "do",
+        "you",
+        "have",
+        "faith"
+      ]
+    },
+    {
+      "id": "tf75891fc",
+      "tokens": [
+        "you",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ]
+    }
+  ],
+  "method": "Applied Gaussian temporal smoothing, framewise cosine normalization, calibration-only unsupervised PCA, and alternative component removal/whitening. Retrieved whole recordings and short intervals using cosine similarity, linear time resampling and slope-constrained subsequence DTW. Inferred words and order from overlapping retrieved calibration transcripts, including have/no plus music, music plus is/here, tell/my/family plus need/my/computer, and do/not plus feel/hungry. No supervised model, labeled neural prototypes, gradient updates or fine-tuning were used. Scripts, scores, paths and query-specific evidence are retained in this directory, including inference_evidence.json.",
+  "limitations": "Best-effort reconstructions, not verified target text. Shared onset/offset responses, weak local similarities and variable timing make boundaries and short words ambiguous. ta8a65773, t7d52b265 and t53cbb8ea are particularly uncertain; the latter two admit competing prefixes or an additional word. Retrieval similarity is contextual evidence, not ground truth."
+}

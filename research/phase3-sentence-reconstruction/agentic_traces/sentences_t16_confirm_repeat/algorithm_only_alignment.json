@@ -1,0 +1,2007 @@
+{
+  "tb0b19ec8": {
+    "path": [
+      {
+        "word": "it",
+        "start": 1,
+        "end": 12,
+        "similarity": 0.5470522046089172,
+        "exemplar": {
+          "id": "c026",
+          "word": "it",
+          "start": 2,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "music",
+        "start": 12,
+        "end": 19,
+        "similarity": 0.3811701834201813,
+        "exemplar": {
+          "id": "c039",
+          "word": "music",
+          "start": 52,
+          "end": 62,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "it",
+        "start": 19,
+        "end": 24,
+        "similarity": 0.3961012363433838,
+        "exemplar": {
+          "id": "c014",
+          "word": "it",
+          "start": 33,
+          "end": 37,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 4.276271716356277,
+    "leading_bins": 1,
+    "trailing_bins": 2
+  },
+  "t59dcd856": {
+    "path": [
+      {
+        "word": "they",
+        "start": 2,
+        "end": 14,
+        "similarity": 0.4263474643230438,
+        "exemplar": {
+          "id": "c075",
+          "word": "they",
+          "start": 4,
+          "end": 13,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "you",
+        "start": 14,
+        "end": 21,
+        "similarity": 0.5038455128669739,
+        "exemplar": {
+          "id": "c022",
+          "word": "you",
+          "start": 33,
+          "end": 41,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "like",
+        "start": 21,
+        "end": 34,
+        "similarity": 0.48183831572532654,
+        "exemplar": {
+          "id": "c002",
+          "word": "like",
+          "start": 33,
+          "end": 46,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "music",
+        "start": 34,
+        "end": 46,
+        "similarity": 0.48207205533981323,
+        "exemplar": {
+          "id": "c039",
+          "word": "music",
+          "start": 52,
+          "end": 62,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 9.371850930452348,
+    "leading_bins": 2,
+    "trailing_bins": 3
+  },
+  "tcd92c113": {
+    "path": [
+      {
+        "word": "where",
+        "start": 1,
+        "end": 15,
+        "similarity": 0.461367130279541,
+        "exemplar": {
+          "id": "c079",
+          "word": "where",
+          "start": 4,
+          "end": 17,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 15,
+        "end": 20,
+        "similarity": 0.3655458390712738,
+        "exemplar": {
+          "id": "c033",
+          "word": "is",
+          "start": 23,
+          "end": 27,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "that",
+        "start": 20,
+        "end": 31,
+        "similarity": 0.49587443470954895,
+        "exemplar": {
+          "id": "c051",
+          "word": "that",
+          "start": 22,
+          "end": 30,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 5.881487801074982,
+    "leading_bins": 1,
+    "trailing_bins": 2
+  },
+  "t1fe83bc3": {
+    "path": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 14,
+        "similarity": 0.43044477701187134,
+        "exemplar": {
+          "id": "c001",
+          "word": "i",
+          "start": 2,
+          "end": 11,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "nurse",
+        "start": 14,
+        "end": 21,
+        "similarity": 0.3472767770290375,
+        "exemplar": {
+          "id": "c008",
+          "word": "nurse",
+          "start": 26,
+          "end": 36,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "that",
+        "start": 21,
+        "end": 27,
+        "similarity": 0.3601697087287903,
+        "exemplar": {
+          "id": "c019",
+          "word": "that",
+          "start": 32,
+          "end": 39,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "here",
+        "start": 27,
+        "end": 36,
+        "similarity": 0.37927043437957764,
+        "exemplar": {
+          "id": "c048",
+          "word": "here",
+          "start": 51,
+          "end": 55,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 4.17117170214653,
+    "leading_bins": 1,
+    "trailing_bins": 1
+  },
+  "td28e3558": {
+    "path": [
+      {
+        "word": "you",
+        "start": 2,
+        "end": 12,
+        "similarity": 0.47888103127479553,
+        "exemplar": {
+          "id": "c074",
+          "word": "you",
+          "start": 4,
+          "end": 14,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "going",
+        "start": 12,
+        "end": 22,
+        "similarity": 0.37661805748939514,
+        "exemplar": {
+          "id": "c008",
+          "word": "going",
+          "start": 45,
+          "end": 52,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 3.314990887641907,
+    "leading_bins": 2,
+    "trailing_bins": 5
+  },
+  "t6f0fdfe0": {
+    "path": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 10,
+        "similarity": 0.45364588499069214,
+        "exemplar": {
+          "id": "c062",
+          "word": "i",
+          "start": 2,
+          "end": 11,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 10,
+        "end": 19,
+        "similarity": 0.4317724108695984,
+        "exemplar": {
+          "id": "c039",
+          "word": "hope",
+          "start": 20,
+          "end": 30,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 19,
+        "end": 25,
+        "similarity": 0.4868626296520233,
+        "exemplar": {
+          "id": "c050",
+          "word": "do",
+          "start": 45,
+          "end": 52,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "not",
+        "start": 25,
+        "end": 32,
+        "similarity": 0.4147655963897705,
+        "exemplar": {
+          "id": "c058",
+          "word": "not",
+          "start": 21,
+          "end": 30,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "music",
+        "start": 32,
+        "end": 48,
+        "similarity": 0.41202303767204285,
+        "exemplar": {
+          "id": "c039",
+          "word": "music",
+          "start": 50,
+          "end": 66,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 7.915668218135835,
+    "leading_bins": 1,
+    "trailing_bins": 1
+  },
+  "t4539ffbe": {
+    "path": [
+      {
+        "word": "my",
+        "start": 2,
+        "end": 20,
+        "similarity": 0.4147879183292389,
+        "exemplar": {
+          "id": "c073",
+          "word": "my",
+          "start": 2,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "it",
+        "start": 20,
+        "end": 29,
+        "similarity": 0.475300669670105,
+        "exemplar": {
+          "id": "c045",
+          "word": "it",
+          "start": 21,
+          "end": 28,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "here",
+        "start": 29,
+        "end": 36,
+        "similarity": 0.6374475359916687,
+        "exemplar": {
+          "id": "c024",
+          "word": "here",
+          "start": 51,
+          "end": 57,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 7.5060213088989265,
+    "leading_bins": 2,
+    "trailing_bins": 1
+  },
+  "ta2aa0fcb": {
+    "path": [
+      {
+        "word": "they",
+        "start": 3,
+        "end": 13,
+        "similarity": 0.34710800647735596,
+        "exemplar": {
+          "id": "c024",
+          "word": "they",
+          "start": 4,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "like",
+        "start": 13,
+        "end": 20,
+        "similarity": 0.4333982467651367,
+        "exemplar": {
+          "id": "c039",
+          "word": "like",
+          "start": 37,
+          "end": 42,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "it",
+        "start": 20,
+        "end": 31,
+        "similarity": 0.3800957202911377,
+        "exemplar": {
+          "id": "c014",
+          "word": "it",
+          "start": 31,
+          "end": 41,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 3.2459207153320313,
+    "leading_bins": 3,
+    "trailing_bins": 1
+  },
+  "tf75891ff": {
+    "path": [
+      {
+        "word": "my",
+        "start": 3,
+        "end": 18,
+        "similarity": 0.4135870337486267,
+        "exemplar": {
+          "id": "c073",
+          "word": "my",
+          "start": 2,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "family",
+        "start": 18,
+        "end": 24,
+        "similarity": 0.43158531188964844,
+        "exemplar": {
+          "id": "c043",
+          "word": "family",
+          "start": 22,
+          "end": 29,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 24,
+        "end": 34,
+        "similarity": 0.3838522732257843,
+        "exemplar": {
+          "id": "c043",
+          "word": "is",
+          "start": 31,
+          "end": 37,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "not",
+        "start": 34,
+        "end": 40,
+        "similarity": 0.3556147813796997,
+        "exemplar": {
+          "id": "c075",
+          "word": "not",
+          "start": 29,
+          "end": 36,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "very",
+        "start": 40,
+        "end": 47,
+        "similarity": 0.5412513017654419,
+        "exemplar": {
+          "id": "c071",
+          "word": "very",
+          "start": 43,
+          "end": 52,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "tired",
+        "start": 47,
+        "end": 57,
+        "similarity": 0.5152396559715271,
+        "exemplar": {
+          "id": "c042",
+          "word": "tired",
+          "start": 21,
+          "end": 33,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "are",
+        "start": 57,
+        "end": 62,
+        "similarity": 0.32738983631134033,
+        "exemplar": {
+          "id": "c052",
+          "word": "are",
+          "start": 25,
+          "end": 31,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 9.313633651733399,
+    "leading_bins": 3,
+    "trailing_bins": 1
+  },
+  "t514a6795": {
+    "path": [
+      {
+        "word": "my",
+        "start": 1,
+        "end": 13,
+        "similarity": 0.37426692247390747,
+        "exemplar": {
+          "id": "c067",
+          "word": "my",
+          "start": 2,
+          "end": 19,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 13,
+        "end": 18,
+        "similarity": 0.585845410823822,
+        "exemplar": {
+          "id": "c002",
+          "word": "hope",
+          "start": 20,
+          "end": 25,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 18,
+        "end": 23,
+        "similarity": 0.46682581305503845,
+        "exemplar": {
+          "id": "c068",
+          "word": "is",
+          "start": 30,
+          "end": 37,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "my",
+        "start": 23,
+        "end": 32,
+        "similarity": 0.45555874705314636,
+        "exemplar": {
+          "id": "c067",
+          "word": "my",
+          "start": 32,
+          "end": 42,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "success",
+        "start": 32,
+        "end": 44,
+        "similarity": 0.5120742917060852,
+        "exemplar": {
+          "id": "c067",
+          "word": "success",
+          "start": 44,
+          "end": 54,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "they",
+        "start": 44,
+        "end": 49,
+        "similarity": 0.33923429250717163,
+        "exemplar": {
+          "id": "c046",
+          "word": "they",
+          "start": 20,
+          "end": 24,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 8.49565087556839,
+    "leading_bins": 1,
+    "trailing_bins": 4
+  },
+  "t9ce92bac": {
+    "path": [
+      {
+        "word": "do",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.36117932200431824,
+        "exemplar": {
+          "id": "c004",
+          "word": "do",
+          "start": 4,
+          "end": 9,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hungry",
+        "start": 7,
+        "end": 16,
+        "similarity": 0.35698533058166504,
+        "exemplar": {
+          "id": "c016",
+          "word": "hungry",
+          "start": 30,
+          "end": 44,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "it",
+        "start": 16,
+        "end": 27,
+        "similarity": 0.3543832302093506,
+        "exemplar": {
+          "id": "c014",
+          "word": "it",
+          "start": 31,
+          "end": 39,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 2.106980117559433,
+    "leading_bins": 2,
+    "trailing_bins": 1
+  },
+  "t3afd73b4": {
+    "path": [
+      {
+        "word": "yes",
+        "start": 1,
+        "end": 10,
+        "similarity": 0.3908967673778534,
+        "exemplar": {
+          "id": "c020",
+          "word": "yes",
+          "start": 4,
+          "end": 18,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "nurse",
+        "start": 10,
+        "end": 22,
+        "similarity": 0.324651300907135,
+        "exemplar": {
+          "id": "c068",
+          "word": "nurse",
+          "start": 18,
+          "end": 30,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "are",
+        "start": 22,
+        "end": 28,
+        "similarity": 0.5788515210151672,
+        "exemplar": {
+          "id": "c052",
+          "word": "are",
+          "start": 25,
+          "end": 31,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 28,
+        "end": 38,
+        "similarity": 0.3977140486240387,
+        "exemplar": {
+          "id": "c070",
+          "word": "do",
+          "start": 17,
+          "end": 25,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 5.014136129617691,
+    "leading_bins": 1,
+    "trailing_bins": 5
+  },
+  "tef9d94a6": {
+    "path": [
+      {
+        "word": "tell",
+        "start": 1,
+        "end": 14,
+        "similarity": 0.320510596036911,
+        "exemplar": {
+          "id": "c050",
+          "word": "tell",
+          "start": 4,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "they",
+        "start": 14,
+        "end": 26,
+        "similarity": 0.4299135208129883,
+        "exemplar": {
+          "id": "c030",
+          "word": "they",
+          "start": 26,
+          "end": 40,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "my",
+        "start": 26,
+        "end": 33,
+        "similarity": 0.4084359109401703,
+        "exemplar": {
+          "id": "c078",
+          "word": "my",
+          "start": 31,
+          "end": 37,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "glasses",
+        "start": 33,
+        "end": 46,
+        "similarity": 0.49537643790245056,
+        "exemplar": {
+          "id": "c061",
+          "word": "glasses",
+          "start": 47,
+          "end": 60,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 7.0945450675487525,
+    "leading_bins": 1,
+    "trailing_bins": 5
+  },
+  "t52b24bf6": {
+    "path": [
+      {
+        "word": "you",
+        "start": 4,
+        "end": 18,
+        "similarity": 0.41840386390686035,
+        "exemplar": {
+          "id": "c008",
+          "word": "you",
+          "start": 2,
+          "end": 14,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 18,
+        "end": 23,
+        "similarity": 0.4611317217350006,
+        "exemplar": {
+          "id": "c008",
+          "word": "hope",
+          "start": 14,
+          "end": 20,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "family",
+        "start": 23,
+        "end": 34,
+        "similarity": 0.43576183915138245,
+        "exemplar": {
+          "id": "c043",
+          "word": "family",
+          "start": 18,
+          "end": 31,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 34,
+        "end": 40,
+        "similarity": 0.4117165505886078,
+        "exemplar": {
+          "id": "c079",
+          "word": "is",
+          "start": 19,
+          "end": 24,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "good",
+        "start": 40,
+        "end": 51,
+        "similarity": 0.4898509085178375,
+        "exemplar": {
+          "id": "c023",
+          "word": "good",
+          "start": 34,
+          "end": 42,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 8.345352231264116,
+    "leading_bins": 4,
+    "trailing_bins": 2
+  },
+  "t5f2d20a0": {
+    "path": [
+      {
+        "word": "my",
+        "start": 3,
+        "end": 14,
+        "similarity": 0.426343709230423,
+        "exemplar": {
+          "id": "c073",
+          "word": "my",
+          "start": 4,
+          "end": 14,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "nurse",
+        "start": 14,
+        "end": 23,
+        "similarity": 0.48196595907211304,
+        "exemplar": {
+          "id": "c008",
+          "word": "nurse",
+          "start": 26,
+          "end": 36,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "it",
+        "start": 23,
+        "end": 28,
+        "similarity": 0.5379687547683716,
+        "exemplar": {
+          "id": "c033",
+          "word": "it",
+          "start": 29,
+          "end": 34,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "very",
+        "start": 28,
+        "end": 36,
+        "similarity": 0.5605663657188416,
+        "exemplar": {
+          "id": "c009",
+          "word": "very",
+          "start": 41,
+          "end": 49,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "tired",
+        "start": 36,
+        "end": 46,
+        "similarity": 0.550856351852417,
+        "exemplar": {
+          "id": "c042",
+          "word": "tired",
+          "start": 21,
+          "end": 33,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 10.080412651300433,
+    "leading_bins": 3,
+    "trailing_bins": 5
+  },
+  "t44bb2095": {
+    "path": [
+      {
+        "word": "are",
+        "start": 1,
+        "end": 11,
+        "similarity": 0.43044066429138184,
+        "exemplar": {
+          "id": "c044",
+          "word": "are",
+          "start": 47,
+          "end": 53,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "very",
+        "start": 11,
+        "end": 16,
+        "similarity": 0.5724308490753174,
+        "exemplar": {
+          "id": "c066",
+          "word": "very",
+          "start": 22,
+          "end": 26,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "here",
+        "start": 16,
+        "end": 21,
+        "similarity": 0.42407912015914917,
+        "exemplar": {
+          "id": "c045",
+          "word": "here",
+          "start": 30,
+          "end": 34,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "my",
+        "start": 21,
+        "end": 30,
+        "similarity": 0.4756816327571869,
+        "exemplar": {
+          "id": "c079",
+          "word": "my",
+          "start": 22,
+          "end": 30,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "music",
+        "start": 30,
+        "end": 48,
+        "similarity": 0.49443408846855164,
+        "exemplar": {
+          "id": "c039",
+          "word": "music",
+          "start": 48,
+          "end": 64,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 9.997904776334764,
+    "leading_bins": 1,
+    "trailing_bins": 3
+  },
+  "te366b91c": {
+    "path": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 20,
+        "similarity": 0.4244915843009949,
+        "exemplar": {
+          "id": "c078",
+          "word": "i",
+          "start": 2,
+          "end": 20,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 20,
+        "end": 26,
+        "similarity": 0.5437552332878113,
+        "exemplar": {
+          "id": "c002",
+          "word": "hope",
+          "start": 20,
+          "end": 25,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "you",
+        "start": 26,
+        "end": 33,
+        "similarity": 0.3390173017978668,
+        "exemplar": {
+          "id": "c071",
+          "word": "you",
+          "start": 24,
+          "end": 34,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "family",
+        "start": 33,
+        "end": 51,
+        "similarity": 0.4705066382884979,
+        "exemplar": {
+          "id": "c071",
+          "word": "family",
+          "start": 55,
+          "end": 74,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 9.590112103223802,
+    "leading_bins": 1,
+    "trailing_bins": 2
+  },
+  "ta8a65775": {
+    "path": [
+      {
+        "word": "i",
+        "start": 3,
+        "end": 13,
+        "similarity": 0.48016077280044556,
+        "exemplar": {
+          "id": "c062",
+          "word": "i",
+          "start": 4,
+          "end": 9,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 13,
+        "end": 23,
+        "similarity": 0.4508032202720642,
+        "exemplar": {
+          "id": "c002",
+          "word": "hope",
+          "start": 16,
+          "end": 27,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "need",
+        "start": 23,
+        "end": 32,
+        "similarity": 0.3526337146759033,
+        "exemplar": {
+          "id": "c075",
+          "word": "need",
+          "start": 15,
+          "end": 27,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "my",
+        "start": 32,
+        "end": 41,
+        "similarity": 0.5316348671913147,
+        "exemplar": {
+          "id": "c035",
+          "word": "my",
+          "start": 59,
+          "end": 68,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "are",
+        "start": 41,
+        "end": 52,
+        "similarity": 0.4167456328868866,
+        "exemplar": {
+          "id": "c066",
+          "word": "are",
+          "start": 2,
+          "end": 9,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 8.962259129285812,
+    "leading_bins": 3,
+    "trailing_bins": 3
+  },
+  "t8485b6b9": {
+    "path": [
+      {
+        "word": "they",
+        "start": 2,
+        "end": 16,
+        "similarity": 0.3414783775806427,
+        "exemplar": {
+          "id": "c064",
+          "word": "they",
+          "start": 4,
+          "end": 15,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "feel",
+        "start": 16,
+        "end": 23,
+        "similarity": 0.46069833636283875,
+        "exemplar": {
+          "id": "c050",
+          "word": "feel",
+          "start": 62,
+          "end": 66,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "thirsty",
+        "start": 23,
+        "end": 33,
+        "similarity": 0.5289672017097473,
+        "exemplar": {
+          "id": "c066",
+          "word": "thirsty",
+          "start": 30,
+          "end": 40,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "have",
+        "start": 33,
+        "end": 39,
+        "similarity": 0.31420961022377014,
+        "exemplar": {
+          "id": "c071",
+          "word": "have",
+          "start": 34,
+          "end": 41,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 5.330515319108965,
+    "leading_bins": 2,
+    "trailing_bins": 1
+  },
+  "t41450074": {
+    "path": [
+      {
+        "word": "it",
+        "start": 1,
+        "end": 13,
+        "similarity": 0.44108185172080994,
+        "exemplar": {
+          "id": "c026",
+          "word": "it",
+          "start": 2,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "need",
+        "start": 13,
+        "end": 20,
+        "similarity": 0.4437113106250763,
+        "exemplar": {
+          "id": "c077",
+          "word": "need",
+          "start": 16,
+          "end": 25,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 3.3689613950252535,
+    "leading_bins": 1,
+    "trailing_bins": 5
+  },
+  "t53cbb8eb": {
+    "path": [
+      {
+        "word": "i",
+        "start": 2,
+        "end": 9,
+        "similarity": 0.5199240446090698,
+        "exemplar": {
+          "id": "c046",
+          "word": "i",
+          "start": 4,
+          "end": 9,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 9,
+        "end": 16,
+        "similarity": 0.5250345468521118,
+        "exemplar": {
+          "id": "c058",
+          "word": "do",
+          "start": 12,
+          "end": 23,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "not",
+        "start": 16,
+        "end": 23,
+        "similarity": 0.4862011969089508,
+        "exemplar": {
+          "id": "c058",
+          "word": "not",
+          "start": 23,
+          "end": 32,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "have",
+        "start": 23,
+        "end": 30,
+        "similarity": 0.37083232402801514,
+        "exemplar": {
+          "id": "c058",
+          "word": "have",
+          "start": 32,
+          "end": 39,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 30,
+        "end": 36,
+        "similarity": 0.35792720317840576,
+        "exemplar": {
+          "id": "c030",
+          "word": "do",
+          "start": 19,
+          "end": 26,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 5.721508005857469,
+    "leading_bins": 2,
+    "trailing_bins": 2
+  },
+  "tbfeb0ff2": {
+    "path": [
+      {
+        "word": "i",
+        "start": 3,
+        "end": 9,
+        "similarity": 0.5101542472839355,
+        "exemplar": {
+          "id": "c046",
+          "word": "i",
+          "start": 4,
+          "end": 9,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "tell",
+        "start": 9,
+        "end": 18,
+        "similarity": 0.451678991317749,
+        "exemplar": {
+          "id": "c012",
+          "word": "tell",
+          "start": 13,
+          "end": 26,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "no",
+        "start": 18,
+        "end": 27,
+        "similarity": 0.4554611146450043,
+        "exemplar": {
+          "id": "c074",
+          "word": "no",
+          "start": 23,
+          "end": 30,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "family",
+        "start": 27,
+        "end": 45,
+        "similarity": 0.39895156025886536,
+        "exemplar": {
+          "id": "c071",
+          "word": "family",
+          "start": 57,
+          "end": 76,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 7.506314522027971,
+    "leading_bins": 3,
+    "trailing_bins": 3
+  },
+  "te3243945": {
+    "path": [
+      {
+        "word": "how",
+        "start": 1,
+        "end": 12,
+        "similarity": 0.41193944215774536,
+        "exemplar": {
+          "id": "c038",
+          "word": "how",
+          "start": 2,
+          "end": 17,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "are",
+        "start": 12,
+        "end": 18,
+        "similarity": 0.3902914822101593,
+        "exemplar": {
+          "id": "c046",
+          "word": "are",
+          "start": 28,
+          "end": 33,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "very",
+        "start": 18,
+        "end": 23,
+        "similarity": 0.5237281322479248,
+        "exemplar": {
+          "id": "c009",
+          "word": "very",
+          "start": 43,
+          "end": 47,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "are",
+        "start": 23,
+        "end": 32,
+        "similarity": 0.5287186503410339,
+        "exemplar": {
+          "id": "c052",
+          "word": "are",
+          "start": 23,
+          "end": 35,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 32,
+        "end": 39,
+        "similarity": 0.3690876364707947,
+        "exemplar": {
+          "id": "c050",
+          "word": "do",
+          "start": 45,
+          "end": 54,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 6.253804726600647,
+    "leading_bins": 1,
+    "trailing_bins": 1
+  },
+  "tca769afd": {
+    "path": [
+      {
+        "word": "right",
+        "start": 1,
+        "end": 15,
+        "similarity": 0.23547089099884033,
+        "exemplar": {
+          "id": "c044",
+          "word": "right",
+          "start": 53,
+          "end": 64,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "it",
+        "start": 15,
+        "end": 32,
+        "similarity": 0.45999300479888916,
+        "exemplar": {
+          "id": "c026",
+          "word": "it",
+          "start": 4,
+          "end": 14,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "my",
+        "start": 32,
+        "end": 44,
+        "similarity": 0.3020310699939728,
+        "exemplar": {
+          "id": "c067",
+          "word": "my",
+          "start": 32,
+          "end": 42,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 44,
+        "end": 51,
+        "similarity": 0.45660537481307983,
+        "exemplar": {
+          "id": "c068",
+          "word": "is",
+          "start": 30,
+          "end": 37,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 51,
+        "end": 57,
+        "similarity": 0.35225874185562134,
+        "exemplar": {
+          "id": "c011",
+          "word": "do",
+          "start": 21,
+          "end": 27,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 57,
+        "end": 67,
+        "similarity": 0.568598747253418,
+        "exemplar": {
+          "id": "c070",
+          "word": "do",
+          "start": 17,
+          "end": 25,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 8.756623942852022,
+    "leading_bins": 1,
+    "trailing_bins": 1
+  },
+  "td133fe68": {
+    "path": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 13,
+        "similarity": 0.4630219638347626,
+        "exemplar": {
+          "id": "c062",
+          "word": "i",
+          "start": 2,
+          "end": 11,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "like",
+        "start": 13,
+        "end": 20,
+        "similarity": 0.5324824452400208,
+        "exemplar": {
+          "id": "c028",
+          "word": "like",
+          "start": 34,
+          "end": 39,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "help",
+        "start": 20,
+        "end": 25,
+        "similarity": 0.3885778486728668,
+        "exemplar": {
+          "id": "c063",
+          "word": "help",
+          "start": 49,
+          "end": 55,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "comfortable",
+        "start": 25,
+        "end": 39,
+        "similarity": 0.5768428444862366,
+        "exemplar": {
+          "id": "c013",
+          "word": "comfortable",
+          "start": 37,
+          "end": 51,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "am",
+        "start": 39,
+        "end": 49,
+        "similarity": 0.3278038203716278,
+        "exemplar": {
+          "id": "c001",
+          "word": "am",
+          "start": 9,
+          "end": 18,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 9.900367952585222,
+    "leading_bins": 1,
+    "trailing_bins": 5
+  },
+  "t588781f6": {
+    "path": [
+      {
+        "word": "yes",
+        "start": 2,
+        "end": 15,
+        "similarity": 0.37985798716545105,
+        "exemplar": {
+          "id": "c060",
+          "word": "yes",
+          "start": 2,
+          "end": 12,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "i",
+        "start": 15,
+        "end": 22,
+        "similarity": 0.345447838306427,
+        "exemplar": {
+          "id": "c048",
+          "word": "i",
+          "start": 28,
+          "end": 32,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "very",
+        "start": 22,
+        "end": 31,
+        "similarity": 0.465038001537323,
+        "exemplar": {
+          "id": "c066",
+          "word": "very",
+          "start": 22,
+          "end": 26,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hungry",
+        "start": 31,
+        "end": 41,
+        "similarity": 0.3834042251110077,
+        "exemplar": {
+          "id": "c069",
+          "word": "hungry",
+          "start": 39,
+          "end": 51,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 41,
+        "end": 46,
+        "similarity": 0.3617810010910034,
+        "exemplar": {
+          "id": "c062",
+          "word": "hope",
+          "start": 13,
+          "end": 17,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 5.344577971696854,
+    "leading_bins": 2,
+    "trailing_bins": 1
+  },
+  "tced8ecfc": {
+    "path": [
+      {
+        "word": "how",
+        "start": 3,
+        "end": 18,
+        "similarity": 0.3976530432701111,
+        "exemplar": {
+          "id": "c053",
+          "word": "how",
+          "start": 2,
+          "end": 20,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 18,
+        "end": 28,
+        "similarity": 0.333035945892334,
+        "exemplar": {
+          "id": "c038",
+          "word": "do",
+          "start": 15,
+          "end": 26,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 28,
+        "end": 38,
+        "similarity": 0.4607657194137573,
+        "exemplar": {
+          "id": "c014",
+          "word": "do",
+          "start": 22,
+          "end": 31,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "right",
+        "start": 38,
+        "end": 52,
+        "similarity": 0.4156872630119324,
+        "exemplar": {
+          "id": "c021",
+          "word": "right",
+          "start": 36,
+          "end": 49,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 7.352433984279635,
+    "leading_bins": 3,
+    "trailing_bins": 2
+  },
+  "t848cf4da": {
+    "path": [
+      {
+        "word": "that",
+        "start": 2,
+        "end": 13,
+        "similarity": 0.447405070066452,
+        "exemplar": {
+          "id": "c018",
+          "word": "that",
+          "start": 2,
+          "end": 13,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 13,
+        "end": 18,
+        "similarity": 0.5409167408943176,
+        "exemplar": {
+          "id": "c079",
+          "word": "is",
+          "start": 19,
+          "end": 24,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "okay",
+        "start": 18,
+        "end": 31,
+        "similarity": 0.5309901237487793,
+        "exemplar": {
+          "id": "c047",
+          "word": "okay",
+          "start": 42,
+          "end": 55,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 6.878911083936693,
+    "leading_bins": 2,
+    "trailing_bins": 4
+  },
+  "td6e48564": {
+    "path": [
+      {
+        "word": "it",
+        "start": 1,
+        "end": 12,
+        "similarity": 0.49236738681793213,
+        "exemplar": {
+          "id": "c027",
+          "word": "it",
+          "start": 2,
+          "end": 13,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 12,
+        "end": 19,
+        "similarity": 0.4253930449485779,
+        "exemplar": {
+          "id": "c067",
+          "word": "is",
+          "start": 27,
+          "end": 36,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "bad",
+        "start": 19,
+        "end": 31,
+        "similarity": 0.49807748198509216,
+        "exemplar": {
+          "id": "c034",
+          "word": "bad",
+          "start": 30,
+          "end": 41,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 6.510722353458405,
+    "leading_bins": 1,
+    "trailing_bins": 1
+  },
+  "t0575fbc6": {
+    "path": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 12,
+        "similarity": 0.4261035621166229,
+        "exemplar": {
+          "id": "c035",
+          "word": "i",
+          "start": 4,
+          "end": 14,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 12,
+        "end": 23,
+        "similarity": 0.520821750164032,
+        "exemplar": {
+          "id": "c039",
+          "word": "hope",
+          "start": 18,
+          "end": 28,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "my",
+        "start": 23,
+        "end": 28,
+        "similarity": 0.36011025309562683,
+        "exemplar": {
+          "id": "c028",
+          "word": "my",
+          "start": 41,
+          "end": 46,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "am",
+        "start": 28,
+        "end": 38,
+        "similarity": 0.4076474606990814,
+        "exemplar": {
+          "id": "c060",
+          "word": "am",
+          "start": 19,
+          "end": 23,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "very",
+        "start": 38,
+        "end": 55,
+        "similarity": 0.5018911957740784,
+        "exemplar": {
+          "id": "c009",
+          "word": "very",
+          "start": 41,
+          "end": 51,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "good",
+        "start": 55,
+        "end": 60,
+        "similarity": 0.45736247301101685,
+        "exemplar": {
+          "id": "c023",
+          "word": "good",
+          "start": 34,
+          "end": 42,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "family",
+        "start": 60,
+        "end": 81,
+        "similarity": 0.5068775415420532,
+        "exemplar": {
+          "id": "c071",
+          "word": "family",
+          "start": 57,
+          "end": 76,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 17.31659537315369,
+    "leading_bins": 1,
+    "trailing_bins": 1
+  },
+  "t6453e6ae": {
+    "path": [
+      {
+        "word": "how",
+        "start": 1,
+        "end": 13,
+        "similarity": 0.3316909968852997,
+        "exemplar": {
+          "id": "c038",
+          "word": "how",
+          "start": 2,
+          "end": 19,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "do",
+        "start": 13,
+        "end": 25,
+        "similarity": 0.36132949590682983,
+        "exemplar": {
+          "id": "c041",
+          "word": "do",
+          "start": 21,
+          "end": 32,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "please",
+        "start": 25,
+        "end": 38,
+        "similarity": 0.4040372371673584,
+        "exemplar": {
+          "id": "c004",
+          "word": "please",
+          "start": 21,
+          "end": 35,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 4.238729996681213,
+    "leading_bins": 1,
+    "trailing_bins": 2
+  },
+  "t4d2d7415": {
+    "path": [
+      {
+        "word": "it",
+        "start": 1,
+        "end": 19,
+        "similarity": 0.44930803775787354,
+        "exemplar": {
+          "id": "c026",
+          "word": "it",
+          "start": 2,
+          "end": 16,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "is",
+        "start": 19,
+        "end": 27,
+        "similarity": 0.3791399896144867,
+        "exemplar": {
+          "id": "c008",
+          "word": "is",
+          "start": 36,
+          "end": 43,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "hope",
+        "start": 27,
+        "end": 39,
+        "similarity": 0.44384336471557617,
+        "exemplar": {
+          "id": "c024",
+          "word": "hope",
+          "start": 18,
+          "end": 28,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "you",
+        "start": 39,
+        "end": 44,
+        "similarity": 0.39443832635879517,
+        "exemplar": {
+          "id": "c024",
+          "word": "you",
+          "start": 28,
+          "end": 32,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "are",
+        "start": 44,
+        "end": 49,
+        "similarity": 0.558567225933075,
+        "exemplar": {
+          "id": "c042",
+          "word": "are",
+          "start": 15,
+          "end": 19,
+          "source": "manual approximate alignment interpretation"
+        }
+      },
+      {
+        "word": "comfortable",
+        "start": 49,
+        "end": 67,
+        "similarity": 0.47288697957992554,
+        "exemplar": {
+          "id": "c013",
+          "word": "comfortable",
+          "start": 35,
+          "end": 55,
+          "source": "manual approximate alignment interpretation"
+        }
+      }
+    ],
+    "score": 12.743778367042543,
+    "leading_bins": 1,
+    "trailing_bins": 4
+  }
+}

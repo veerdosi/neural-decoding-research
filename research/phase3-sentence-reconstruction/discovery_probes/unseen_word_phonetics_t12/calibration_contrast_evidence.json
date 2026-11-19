@@ -1,0 +1,150 @@
+[
+  {
+    "words": [
+      "is",
+      "it"
+    ],
+    "pronunciations": [
+      [
+        "IH",
+        "Z"
+      ],
+      [
+        "IH",
+        "T"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.2634166666813079,
+    "contrast_squared_error": 1108.2478167387433,
+    "zero_contrast_squared_error": 1176.9680230076654
+  },
+  {
+    "words": [
+      "do",
+      "you"
+    ],
+    "pronunciations": [
+      [
+        "D",
+        "UW"
+      ],
+      [
+        "Y",
+        "UW"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.03920050719945844,
+    "contrast_squared_error": 1007.207828081448,
+    "zero_contrast_squared_error": 917.970279747558
+  },
+  {
+    "words": [
+      "i",
+      "my"
+    ],
+    "pronunciations": [
+      [
+        "AY"
+      ],
+      [
+        "M",
+        "AY"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.41378694855839077,
+    "contrast_squared_error": 1452.8617586230068,
+    "zero_contrast_squared_error": 1728.8260506265904
+  },
+  {
+    "words": [
+      "good",
+      "goodbye"
+    ],
+    "pronunciations": [
+      [
+        "G",
+        "UH",
+        "D"
+      ],
+      [
+        "G",
+        "UH",
+        "D",
+        "B",
+        "AY"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.3478723595060088,
+    "contrast_squared_error": 1580.120038681481,
+    "zero_contrast_squared_error": 1762.4244683705083
+  },
+  {
+    "words": [
+      "feel",
+      "tell"
+    ],
+    "pronunciations": [
+      [
+        "F",
+        "IY",
+        "L"
+      ],
+      [
+        "T",
+        "EH",
+        "L"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.09592629684343192,
+    "contrast_squared_error": 1040.9885008593626,
+    "zero_contrast_squared_error": 906.5689327203958
+  },
+  {
+    "words": [
+      "that",
+      "what"
+    ],
+    "pronunciations": [
+      [
+        "DH",
+        "AE",
+        "T"
+      ],
+      [
+        "W",
+        "AH",
+        "T"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.2102851097773749,
+    "contrast_squared_error": 1151.4075643800124,
+    "zero_contrast_squared_error": 1092.929695514221
+  },
+  {
+    "words": [
+      "no",
+      "need"
+    ],
+    "pronunciations": [
+      [
+        "N",
+        "OW"
+      ],
+      [
+        "N",
+        "IY",
+        "D"
+      ]
+    ],
+    "both_word_types_excluded_from_fit": true,
+    "contrast_cosine": 0.40725918596966737,
+    "contrast_squared_error": 1165.225039618341,
+    "zero_contrast_squared_error": 1365.690674289165
+  }
+]

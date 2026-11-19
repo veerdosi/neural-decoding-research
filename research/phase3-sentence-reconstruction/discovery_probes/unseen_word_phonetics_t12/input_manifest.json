@@ -1,0 +1,11 @@
+{
+  "inputs.json": {
+    "sha256": "a1f7ba39cadc72065e4d9a4711a274fa90d7b0a33241acb5a65292a756ed31d2"
+  },
+  "neural_inputs.npz": {
+    "sha256": "5f6574ca64e1d9c46b588b8d2c5bcd402325d4084cab1ccb65ca1d2e80602607"
+  },
+  "cmudict.dict": {
+    "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22"
+  }
+}

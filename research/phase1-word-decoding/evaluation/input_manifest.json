@@ -1,0 +1,10 @@
+{
+  "prompts/no_neural.txt": "1f5994ea340fa83a0958120a001be2d48e44e052834f244e9d92589694abdc1d",
+  "prompts/pca12_icl.txt": "997e1046dcb5b2af1dfc4a3a0cc5ac32dcb9c2f873dd7a36af17295b83b1af9d",
+  "prompts/pca12_shuffled.txt": "000c6e12a290a825b8236fc771d8222150b6e26c49a7e01e549e46749bd7fea3",
+  "prompts/raw128_icl.txt": "6b6a9c73fd3e82ffd3a35a9fed78c7880e675bcbe4c3e7a8d349eac3e79a8017",
+  "prompts/raw128_zero_shot.txt": "d2cfb1a9d2e6c8aabb690b5fe8cefceb5b2402eff961ffc9b341b549a34c25c5",
+  "config.json": "3404dabe6f573233000b2a2c3daaa00b074663124e9b7bc496180e5c4cb5c6ea",
+  "evaluation/ground_truth.json": "f8ecde2047ecbcf63b00b2629525c386d880b53829a6961f68b483002e4390be",
+  "evaluation/prepared.npz": "f4ed0585b8bddefee4fd11dea28db5d6a8d0949d87ea8e0927d8e3c7ec584d37"
+}

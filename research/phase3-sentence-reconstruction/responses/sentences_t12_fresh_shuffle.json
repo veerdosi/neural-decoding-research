@@ -1,0 +1,25 @@
+{
+  "predictions": [
+    {"id":"tda989373","tokens":["tell","my","faith"]},
+    {"id":"tdd25032b","tokens":["no","i","do","not","feel","comfortable"]},
+    {"id":"t5ee44a7f","tokens":["my","faith","is","good"]},
+    {"id":"tdf8f9fae","tokens":["they","do","that"]},
+    {"id":"t4f16b000","tokens":["i","like","help"]},
+    {"id":"t40a0a424","tokens":["tell","my","nurse","very","good"]},
+    {"id":"tf256b8ed","tokens":["they","do","not","have","my","faith"]},
+    {"id":"t12be1627","tokens":["i","hope","they","have"]},
+    {"id":"t42cfafec","tokens":["that","is","very","comfortable"]},
+    {"id":"te3715f88","tokens":["is","my","nurse","comfortable"]},
+    {"id":"tb8083852","tokens":["do","not","need","it"]},
+    {"id":"t9024802d","tokens":["my","music","is","here"]},
+    {"id":"t2b08e042","tokens":["my","family","is","not","good"]},
+    {"id":"t62254eda","tokens":["tell","need","my","family","good"]},
+    {"id":"t9db27598","tokens":["i","hope","i","have","faith"]},
+    {"id":"tef25d0d3","tokens":["tell","my","family","i","do","not","feel","very","thirsty"]}
+  ],
+  "method": "Calibration-only PCA, smoothing, removal of the first two components, cosine interval retrieval, and slope-constrained DTW. Final sequences interpret overlapping word and phrase evidence. Reproducible scripts, alternatives, and alignments are saved locally in ANALYSIS.md and reconstruction_evidence.json. Algorithm-only sequences are saved separately in algorithm_only_predictions.json and *_algorithm_only.json. No network, external labels, or pretrained decoder was used.",
+  "limitations": [
+    "Word identities, counts, and boundaries remain uncertain; these are best reconstructions rather than verified transcripts.",
+    "Lowest confidence: tda989373, t4f16b000, and t62254eda. Unusual phrases were retained where supported by neural matches."
+  ]
+}

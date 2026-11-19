@@ -1,0 +1,216 @@
+{
+  "predictions": [
+    {
+      "id": "te7fda903",
+      "tokens": [
+        "you",
+        "clean",
+        "it"
+      ]
+    },
+    {
+      "id": "t196443a7",
+      "tokens": [
+        "are",
+        "they",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "t0ba95c98",
+      "tokens": [
+        "you",
+        "are"
+      ]
+    },
+    {
+      "id": "te1c6177b",
+      "tokens": [
+        "you",
+        "feel",
+        "hungry"
+      ]
+    },
+    {
+      "id": "td4202301",
+      "tokens": [
+        "do",
+        "you",
+        "clean"
+      ]
+    },
+    {
+      "id": "ta84f22ff",
+      "tokens": [
+        "you",
+        "like",
+        "here"
+      ]
+    },
+    {
+      "id": "tc14fc0db",
+      "tokens": [
+        "i",
+        "am",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "t49dd1ce6",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "need",
+        "help"
+      ]
+    }
+  ],
+  "method": {
+    "approach": "Visual comparison of localized red/blue patches, their coordinate rows and temporal order, allowing timing changes.",
+    "evidence": "Tentative correspondences include the late lower-row red band in te7fda903 with 'it' endings, the late upper-row red activity in ta84f22ff with 'here' endings, and the middle-row red activity followed by lower blue patches in tc14fc0db with 'comfortable' examples.",
+    "uncertainty": "Very low confidence throughout. Common onset and ending dynamics obscure lexical differences. I could not establish reliable word-specific templates or boundaries; these are speculative best reconstructions, not a demonstrated successful decoding."
+  },
+  "name": "visual_dynamics_t16",
+  "n": 8,
+  "exact": 0,
+  "WER": 0.6486486486486487,
+  "rows": [
+    {
+      "id": "te7fda903",
+      "prediction": [
+        "you",
+        "clean",
+        "it"
+      ],
+      "truth": [
+        "do",
+        "you",
+        "have",
+        "that"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t196443a7",
+      "prediction": [
+        "are",
+        "they",
+        "thirsty"
+      ],
+      "truth": [
+        "are",
+        "you",
+        "coming",
+        "closer"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t0ba95c98",
+      "prediction": [
+        "you",
+        "are"
+      ],
+      "truth": [
+        "you",
+        "are",
+        "bad"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "te1c6177b",
+      "prediction": [
+        "you",
+        "feel",
+        "hungry"
+      ],
+      "truth": [
+        "no",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "td4202301",
+      "prediction": [
+        "do",
+        "you",
+        "clean"
+      ],
+      "truth": [
+        "hope",
+        "you",
+        "like",
+        "music"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "ta84f22ff",
+      "prediction": [
+        "you",
+        "like",
+        "here"
+      ],
+      "truth": [
+        "you",
+        "have",
+        "it",
+        "here"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "tc14fc0db",
+      "prediction": [
+        "i",
+        "am",
+        "comfortable"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "comfortable"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t49dd1ce6",
+      "prediction": [
+        "i",
+        "hope",
+        "you",
+        "need",
+        "help"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "family"
+      ],
+      "edit_distance": 5
+    }
+  ],
+  "tool_item_types": [],
+  "usage": [
+    {
+      "input_tokens": 40209,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 13270,
+      "reasoning_output_tokens": 12948
+    }
+  ]
+}

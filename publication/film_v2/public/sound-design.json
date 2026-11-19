@@ -1,0 +1,11 @@
+{
+  "source": "Original deterministic synthesis, artistic mechanical and confirmation clicks. No participant voice or neural audio.",
+  "seed": 6081,
+  "sample_rate": 48000,
+  "sample_peak_dbfs": {
+    "pulse": -18.478223819840412,
+    "word": -20.758416610196804,
+    "confirm": -15.676351856751555
+  },
+  "timing": "Audio follows source-editable scene/word/reveal timings in Remotion."
+}

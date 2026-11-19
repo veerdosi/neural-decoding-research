@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checks": {
+    "source_hash": true,
+    "chronological_and_full_sequence_separation": true,
+    "no_duplicate_calibration_query_features": true,
+    "prompt_case_integrity": true,
+    "model_high_codex_and_tool_free": true,
+    "calibration_only_preprocessing_recomputed": true,
+    "independent_repeat_identical_prompt": true,
+    "time_reversal_only_changes_query_time": true,
+    "shuffle_is_real_recording_and_preserves_word_bag": true,
+    "scope_sequence_experiments_only": true
+  },
+  "limits": [
+    "Single participant/session, not population validation",
+    "Author block mean correction uses unlabeled recording blocks",
+    "Same 62 recordings across repetitions/controls; not independent new participants",
+    "Public dataset pretraining contamination cannot be excluded from undisclosed model training data"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "crosssession_blockcenter_no_recalibration",
+  "dataset": "t12_crosssession",
+  "representation": "blockcenter",
+  "n_per_word": 14,
+  "draw": 0,
+  "query_n": 70,
+  "evaluation_status": "new_session_exploratory_after_baseline_scoring"
+}

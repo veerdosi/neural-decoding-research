@@ -1,0 +1,8 @@
+{
+  "recorded_matches_checked": 2652,
+  "retrieved_ids_all_equal": true,
+  "alignment_paths_all_equal": true,
+  "max_score_abs_difference": 0.0,
+  "optimized_pca_and_core_retrieval_wall_seconds": 0.2800411669886671,
+  "note": "Cost is optimized frozen central PCA/drop2/subsequence-DTW evidence generation, excluding Sol additional retrieval variants and adaptive context inspection."
+}

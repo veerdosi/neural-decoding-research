@@ -1,0 +1,197 @@
+
+### tda989373
+3.790 are my faith
+  {'query_start': 2, 'query_end': 7, 'similarity': 0.26197752356529236, 'reference': {'id': 'c043', 'start': 2, 'end': 6, 'tokens': ['are']}}
+  {'query_start': 7, 'query_end': 12, 'similarity': 0.25022071599960327, 'reference': {'id': 'c091', 'start': 7, 'end': 11, 'tokens': ['my']}}
+  {'query_start': 12, 'query_end': 20, 'similarity': 0.21089304983615875, 'reference': {'id': 'c112', 'start': 16, 'end': 24, 'tokens': ['faith']}}
+3.708 my my faith
+3.663 tell my faith
+3.605 is my faith
+3.600 are my is faith
+3.581 are my have
+
+### tdd25032b
+11.774 no i do they you comfortable
+  {'query_start': 2, 'query_end': 8, 'similarity': 0.297233909368515, 'reference': {'id': 'c018', 'start': 2, 'end': 10, 'tokens': ['no']}}
+  {'query_start': 8, 'query_end': 19, 'similarity': 0.2993118166923523, 'reference': {'id': 'c083', 'start': 16, 'end': 25, 'tokens': ['i', 'do']}}
+  {'query_start': 19, 'query_end': 26, 'similarity': 0.24677136540412903, 'reference': {'id': 'c020', 'start': 9, 'end': 14, 'tokens': ['they']}}
+  {'query_start': 26, 'query_end': 33, 'similarity': 0.20948414504528046, 'reference': {'id': 'c046', 'start': 11, 'end': 16, 'tokens': ['you']}}
+  {'query_start': 33, 'query_end': 46, 'similarity': 0.33453497290611267, 'reference': {'id': 'c017', 'start': 30, 'end': 43, 'tokens': ['comfortable']}}
+11.753 no i do my have you comfortable
+11.744 no i do have you comfortable
+11.646 no i do my very you comfortable
+11.637 no i do they very comfortable
+11.637 no i do they they comfortable
+
+### t5ee44a7f
+6.156 my faith they good
+  {'query_start': 2, 'query_end': 6, 'similarity': 0.2971149682998657, 'reference': {'id': 'c090', 'start': 2, 'end': 6, 'tokens': ['my']}}
+  {'query_start': 6, 'query_end': 13, 'similarity': 0.32231470942497253, 'reference': {'id': 'c031', 'start': 6, 'end': 11, 'tokens': ['faith']}}
+  {'query_start': 13, 'query_end': 18, 'similarity': 0.25482243299484253, 'reference': {'id': 'c056', 'start': 14, 'end': 19, 'tokens': ['they']}}
+  {'query_start': 18, 'query_end': 27, 'similarity': 0.22719885408878326, 'reference': {'id': 'c008', 'start': 21, 'end': 29, 'tokens': ['good']}}
+5.956 my my faith they good
+5.875 my faith are good
+5.834 my faith it good
+5.752 my faith what good
+5.750 my faith need good
+
+### tdf8f9fae
+4.508 my i they what
+  {'query_start': 2, 'query_end': 6, 'similarity': 0.25390955805778503, 'reference': {'id': 'c092', 'start': 2, 'end': 6, 'tokens': ['my']}}
+  {'query_start': 6, 'query_end': 11, 'similarity': 0.2517961859703064, 'reference': {'id': 'c044', 'start': 2, 'end': 8, 'tokens': ['i']}}
+  {'query_start': 11, 'query_end': 17, 'similarity': 0.2783602774143219, 'reference': {'id': 'c018', 'start': 10, 'end': 15, 'tokens': ['they']}}
+  {'query_start': 17, 'query_end': 23, 'similarity': 0.19574788212776184, 'reference': {'id': 'c082', 'start': 27, 'end': 34, 'tokens': ['what']}}
+4.495 my i need what
+4.464 my i they that
+4.451 my i need that
+4.442 my do they what
+4.429 my do need what
+
+### t4f16b000
+3.235 i like tired
+  {'query_start': 2, 'query_end': 6, 'similarity': 0.2359887808561325, 'reference': {'id': 'c011', 'start': 24, 'end': 31, 'tokens': ['i']}}
+  {'query_start': 6, 'query_end': 14, 'similarity': 0.19074170291423798, 'reference': {'id': 'c041', 'start': 6, 'end': 13, 'tokens': ['like']}}
+  {'query_start': 14, 'query_end': 20, 'similarity': 0.20781239867210388, 'reference': {'id': 'c070', 'start': 15, 'end': 20, 'tokens': ['tired']}}
+3.192 they like tired
+3.133 they going tired
+3.114 i like up
+3.102 they like up
+3.073 they is tired
+
+### t40a0a424
+8.641 my my i need is do good
+  {'query_start': 2, 'query_end': 6, 'similarity': 0.25225502252578735, 'reference': {'id': 'c032', 'start': 2, 'end': 6, 'tokens': ['my']}}
+  {'query_start': 6, 'query_end': 12, 'similarity': 0.30098167061805725, 'reference': {'id': 'c101', 'start': 6, 'end': 11, 'tokens': ['my']}}
+  {'query_start': 12, 'query_end': 17, 'similarity': 0.23018042743206024, 'reference': {'id': 'c058', 'start': 2, 'end': 6, 'tokens': ['i']}}
+  {'query_start': 17, 'query_end': 21, 'similarity': 0.2647244334220886, 'reference': {'id': 'c059', 'start': 19, 'end': 25, 'tokens': ['need']}}
+  {'query_start': 21, 'query_end': 26, 'similarity': 0.2790050506591797, 'reference': {'id': 'c100', 'start': 12, 'end': 18, 'tokens': ['is']}}
+  {'query_start': 26, 'query_end': 29, 'similarity': 0.23073433339595795, 'reference': {'id': 'c007', 'start': 9, 'end': 15, 'tokens': ['do']}}
+  {'query_start': 29, 'query_end': 38, 'similarity': 0.3098381757736206, 'reference': {'id': 'c008', 'start': 21, 'end': 29, 'tokens': ['good']}}
+8.636 tell my i need is do good
+8.622 my my i need is good
+8.617 tell my i need is good
+8.562 my my i need is my good
+8.558 tell my i need is my good
+
+### tf256b8ed
+7.474 i need not feel faith
+  {'query_start': 2, 'query_end': 8, 'similarity': 0.23800423741340637, 'reference': {'id': 'c079', 'start': 9, 'end': 14, 'tokens': ['i']}}
+  {'query_start': 8, 'query_end': 14, 'similarity': 0.33220264315605164, 'reference': {'id': 'c075', 'start': 6, 'end': 10, 'tokens': ['need']}}
+  {'query_start': 14, 'query_end': 26, 'similarity': 0.2046423703432083, 'reference': {'id': 'c079', 'start': 20, 'end': 33, 'tokens': ['not', 'feel']}}
+  {'query_start': 26, 'query_end': 34, 'similarity': 0.2838391363620758, 'reference': {'id': 'c003', 'start': 10, 'end': 20, 'tokens': ['faith']}}
+7.469 how need not feel faith
+7.467 they i need not feel faith
+7.460 they i not feel faith
+7.448 how i not feel faith
+7.439 they need not feel faith
+
+### t12be1627
+4.687 i hope you up
+  {'query_start': 2, 'query_end': 15, 'similarity': 0.25028643012046814, 'reference': {'id': 'c001', 'start': 2, 'end': 15, 'tokens': ['i', 'hope']}}
+  {'query_start': 15, 'query_end': 21, 'similarity': 0.20298856496810913, 'reference': {'id': 'c097', 'start': 15, 'end': 21, 'tokens': ['you']}}
+  {'query_start': 21, 'query_end': 24, 'similarity': 0.22623690962791443, 'reference': {'id': 'c105', 'start': 12, 'end': 18, 'tokens': ['up']}}
+4.576 i hope is up
+4.527 i hope you have
+4.506 i hope is have
+4.503 i hope my have
+4.476 i hope my up
+
+### t42cfafec
+7.467 that my very comfortable
+  {'query_start': 2, 'query_end': 7, 'similarity': 0.26858285069465637, 'reference': {'id': 'c103', 'start': 2, 'end': 7, 'tokens': ['that']}}
+  {'query_start': 7, 'query_end': 11, 'similarity': 0.20995314419269562, 'reference': {'id': 'c011', 'start': 8, 'end': 13, 'tokens': ['my']}}
+  {'query_start': 11, 'query_end': 18, 'similarity': 0.2880730926990509, 'reference': {'id': 'c115', 'start': 26, 'end': 32, 'tokens': ['very']}}
+  {'query_start': 18, 'query_end': 30, 'similarity': 0.32446882128715515, 'reference': {'id': 'c079', 'start': 41, 'end': 55, 'tokens': ['comfortable']}}
+7.455 that they very comfortable
+7.410 what my very comfortable
+7.375 what they very comfortable
+7.348 i they very comfortable
+7.331 that is very comfortable
+
+### te3715f88
+6.959 is my thirsty comfortable that
+  {'query_start': 2, 'query_end': 11, 'similarity': 0.28917667269706726, 'reference': {'id': 'c072', 'start': 2, 'end': 13, 'tokens': ['is', 'my']}}
+  {'query_start': 11, 'query_end': 19, 'similarity': 0.2453373670578003, 'reference': {'id': 'c071', 'start': 10, 'end': 18, 'tokens': ['thirsty']}}
+  {'query_start': 19, 'query_end': 29, 'similarity': 0.23594337701797485, 'reference': {'id': 'c017', 'start': 30, 'end': 43, 'tokens': ['comfortable']}}
+  {'query_start': 29, 'query_end': 33, 'similarity': 0.19856935739517212, 'reference': {'id': 'c088', 'start': 26, 'end': 34, 'tokens': ['that']}}
+6.951 is my thirsty comfortable you
+6.948 you my thirsty comfortable that
+6.940 is my thirsty comfortable
+6.940 you my thirsty comfortable you
+6.929 you my thirsty comfortable
+
+### tb8083852
+6.100 do not need it
+  {'query_start': 2, 'query_end': 17, 'similarity': 0.2824347913265228, 'reference': {'id': 'c111', 'start': 6, 'end': 17, 'tokens': ['do', 'not']}}
+  {'query_start': 17, 'query_end': 28, 'similarity': 0.20251032710075378, 'reference': {'id': 'c083', 'start': 30, 'end': 41, 'tokens': ['need', 'it']}}
+6.043 do not is it
+5.982 do not tell it
+5.971 do not it
+5.911 do is need it
+5.910 do not need it here
+
+### t9024802d
+6.021 my music is is here
+  {'query_start': 2, 'query_end': 14, 'similarity': 0.23533518612384796, 'reference': {'id': 'c016', 'start': 2, 'end': 13, 'tokens': ['my', 'music']}}
+  {'query_start': 14, 'query_end': 19, 'similarity': 0.2045699954032898, 'reference': {'id': 'c035', 'start': 17, 'end': 23, 'tokens': ['is']}}
+  {'query_start': 19, 'query_end': 24, 'similarity': 0.27043604850769043, 'reference': {'id': 'c100', 'start': 12, 'end': 18, 'tokens': ['is']}}
+  {'query_start': 24, 'query_end': 29, 'similarity': 0.2862042486667633, 'reference': {'id': 'c076', 'start': 29, 'end': 34, 'tokens': ['here']}}
+5.887 my music need is here
+5.878 my music right here
+5.853 my music it is here
+5.828 my music they is here
+5.823 my music is right here
+
+### t2b08e042
+6.237 my here is not good
+  {'query_start': 2, 'query_end': 5, 'similarity': 0.2395852953195572, 'reference': {'id': 'c046', 'start': 20, 'end': 24, 'tokens': ['my']}}
+  {'query_start': 5, 'query_end': 9, 'similarity': 0.24128778278827667, 'reference': {'id': 'c098', 'start': 2, 'end': 6, 'tokens': ['here']}}
+  {'query_start': 9, 'query_end': 20, 'similarity': 0.278589129447937, 'reference': {'id': 'c090', 'start': 14, 'end': 26, 'tokens': ['is', 'not']}}
+  {'query_start': 20, 'query_end': 29, 'similarity': 0.2395796775817871, 'reference': {'id': 'c048', 'start': 12, 'end': 21, 'tokens': ['good']}}
+6.169 my here is my good
+6.127 my here i do good
+6.122 my here i my good
+6.121 my here is do good
+6.096 very is not good
+
+### t62254eda
+7.246 tell need my very good
+  {'query_start': 2, 'query_end': 6, 'similarity': 0.24528969824314117, 'reference': {'id': 'c114', 'start': 2, 'end': 7, 'tokens': ['tell']}}
+  {'query_start': 6, 'query_end': 11, 'similarity': 0.27193453907966614, 'reference': {'id': 'c110', 'start': 9, 'end': 14, 'tokens': ['need']}}
+  {'query_start': 11, 'query_end': 18, 'similarity': 0.3056541979312897, 'reference': {'id': 'c039', 'start': 7, 'end': 12, 'tokens': ['my']}}
+  {'query_start': 18, 'query_end': 25, 'similarity': 0.21927925944328308, 'reference': {'id': 'c079', 'start': 33, 'end': 41, 'tokens': ['very']}}
+  {'query_start': 25, 'query_end': 33, 'similarity': 0.2577730715274811, 'reference': {'id': 'c091', 'start': 23, 'end': 33, 'tokens': ['good']}}
+7.156 tell need my my very good
+7.150 tell my my very good
+7.147 you need my very good
+7.130 my need my very good
+7.112 need need my very good
+
+### t9db27598
+6.837 need hope i my faith
+  {'query_start': 2, 'query_end': 6, 'similarity': 0.24684026837348938, 'reference': {'id': 'c009', 'start': 8, 'end': 12, 'tokens': ['need']}}
+  {'query_start': 6, 'query_end': 14, 'similarity': 0.24800220131874084, 'reference': {'id': 'c097', 'start': 7, 'end': 15, 'tokens': ['hope']}}
+  {'query_start': 14, 'query_end': 19, 'similarity': 0.22639469802379608, 'reference': {'id': 'c117', 'start': 15, 'end': 20, 'tokens': ['i']}}
+  {'query_start': 19, 'query_end': 23, 'similarity': 0.25131645798683167, 'reference': {'id': 'c114', 'start': 7, 'end': 12, 'tokens': ['my']}}
+  {'query_start': 23, 'query_end': 30, 'similarity': 0.35529688000679016, 'reference': {'id': 'c003', 'start': 10, 'end': 20, 'tokens': ['faith']}}
+6.812 i hope i my faith
+6.780 they hope i my faith
+6.767 is hope i my faith
+6.708 need hope you my faith
+6.706 i hope you my faith
+
+### tef25d0d3
+16.452 my my family i do not need they feel faith they
+  {'query_start': 2, 'query_end': 7, 'similarity': 0.326347678899765, 'reference': {'id': 'c032', 'start': 2, 'end': 6, 'tokens': ['my']}}
+  {'query_start': 7, 'query_end': 23, 'similarity': 0.30491018295288086, 'reference': {'id': 'c027', 'start': 7, 'end': 22, 'tokens': ['my', 'family']}}
+  {'query_start': 23, 'query_end': 41, 'similarity': 0.3084520995616913, 'reference': {'id': 'c079', 'start': 9, 'end': 25, 'tokens': ['i', 'do', 'not']}}
+  {'query_start': 41, 'query_end': 45, 'similarity': 0.20078925788402557, 'reference': {'id': 'c083', 'start': 30, 'end': 34, 'tokens': ['need']}}
+  {'query_start': 45, 'query_end': 49, 'similarity': 0.2169981300830841, 'reference': {'id': 'c020', 'start': 9, 'end': 14, 'tokens': ['they']}}
+  {'query_start': 49, 'query_end': 56, 'similarity': 0.2466181516647339, 'reference': {'id': 'c015', 'start': 8, 'end': 15, 'tokens': ['feel']}}
+  {'query_start': 56, 'query_end': 61, 'similarity': 0.20788230001926422, 'reference': {'id': 'c004', 'start': 22, 'end': 30, 'tokens': ['faith']}}
+  {'query_start': 61, 'query_end': 67, 'similarity': 0.21974033117294312, 'reference': {'id': 'c043', 'start': 6, 'end': 12, 'tokens': ['they']}}
+16.437 my my family i do not need they you faith they
+16.431 my my family i do i need they feel faith they
+16.417 my my family i do i need they you faith they
+16.389 my my family i do not need feel faith they
+16.369 my my family i do i need feel faith they

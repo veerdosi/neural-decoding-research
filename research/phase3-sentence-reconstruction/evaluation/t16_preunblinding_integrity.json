@@ -1,0 +1,17 @@
+{
+  "all_frozen_artifacts_unchanged": true,
+  "checks": {
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_configuration_lock.json": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_fresh_dev_configuration_lock.json": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_confirm_predictions_locked.json": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/t16cal_sentences_t16_confirm_predictions_locked.json": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_full_evidence_comparison.py": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_algorithm_comparison.py": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_weak_word_baseline.py": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_dtw.c": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_confirm_shuffle_predictions_locked.json": true,
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/t16cal_sentences_t16_confirm_shuffle_predictions_locked.json": true
+  },
+  "sol_prediction_sha256": "a368bfdaefb2003ac27445b4da19819c97a18627868975d9202696ef1ef52dac",
+  "sol_invocation_sha256": "992d335881a6b0bdc13e39ac1a129017c8eedeedf1f34fa976385c871955748d"
+}

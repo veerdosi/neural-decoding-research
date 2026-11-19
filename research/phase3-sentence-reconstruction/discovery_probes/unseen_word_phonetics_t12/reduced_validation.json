@@ -1,0 +1,9362 @@
+[
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 0.3,
+    "response_rank": 20,
+    "median_rank": 45.5,
+    "mean_log_rank": 3.8904802992481793,
+    "top10": 8,
+    "details": [
+      {
+        "word": "am",
+        "rank": 2,
+        "best": [
+          "cham",
+          "am",
+          "him"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 81,
+        "best": [
+          "chewer",
+          "shur",
+          "shir"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 12,
+        "best": [
+          "maid",
+          "made",
+          "mayde"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 149,
+        "best": [
+          "parikh",
+          "pyhrric",
+          "pyrrhic"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 3366,
+        "best": [
+          "louanne",
+          "leoine",
+          "lwin"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 5422,
+        "best": [
+          "choicer",
+          "sutter",
+          "sooter"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 3,
+        "best": [
+          "become",
+          "capping",
+          "cumming"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 17,
+        "best": [
+          "xu",
+          "zue",
+          "zoo"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 1615,
+        "best": [
+          "jays",
+          "vees",
+          "vaz"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 448,
+        "best": [
+          "chell",
+          "tell",
+          "tel"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 1,
+        "best": [
+          "going",
+          "crain",
+          "craine"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 11,
+        "best": [
+          "jude",
+          "rood",
+          "ruud"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 251,
+        "best": [
+          "saipan",
+          "depauw",
+          "supine"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 325,
+        "best": [
+          "hypes",
+          "hub",
+          "herb"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 188,
+        "best": [
+          "soileau",
+          "sunau",
+          "zola"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 1,
+        "best": [
+          "help",
+          "hebb",
+          "sub"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 163,
+        "best": [
+          "cyr",
+          "sere",
+          "sear"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 73,
+        "best": [
+          "upp",
+          "up",
+          "hupp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 18,
+        "best": [
+          "houge",
+          "hur",
+          "her"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 19,
+        "best": [
+          "oyer",
+          "uher",
+          "ouch"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 223,
+        "best": [
+          "zeese",
+          "zeese",
+          "zeis"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "aydt"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 173,
+        "best": [
+          "ovett",
+          "lick",
+          "lake"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 12,
+        "best": [
+          "maggi",
+          "budge",
+          "mudge"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 25,
+        "best": [
+          "enid",
+          "dine",
+          "dhein"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 13,
+        "best": [
+          "gnaw",
+          "dawe",
+          "daw"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 29,
+        "best": [
+          "dutt",
+          "doutt",
+          "doubt"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 37,
+        "best": [
+          "zoos",
+          "loos",
+          "lose"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 21,
+        "best": [
+          "youker",
+          "euchre",
+          "ollie"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 129,
+        "best": [
+          "twiss",
+          "crace",
+          "ploys"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 88,
+        "best": [
+          "jut",
+          "wirt",
+          "wert"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 219,
+        "best": [
+          "soil",
+          "sail",
+          "sayle"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 4,
+        "best": [
+          "zeit",
+          "lat",
+          "asset"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 87,
+        "best": [
+          "zich",
+          "ditch",
+          "lage"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 4301,
+        "best": [
+          "luciw",
+          "josie",
+          "josey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 247,
+        "best": [
+          "aven",
+          "ivern",
+          "change"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 35,
+        "best": [
+          "happe",
+          "hap",
+          "happ"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 193,
+        "best": [
+          "beyer",
+          "bayar",
+          "bayer"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 8,
+        "best": [
+          "jut",
+          "route",
+          "routt"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 1,
+        "best": [
+          "wear",
+          "werre",
+          "wehr"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 40,
+        "best": [
+          "yass",
+          "chasse",
+          "jass"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 51,
+        "best": [
+          "chu",
+          "chiu",
+          "choo"
+        ]
+      }
+    ],
+    "key": "5_0.9_0.3_20"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 0.3,
+    "response_rank": 20,
+    "median_rank": 41.0,
+    "mean_log_rank": 3.896483698685432,
+    "top10": 8,
+    "details": [
+      {
+        "word": "am",
+        "rank": 13,
+        "best": [
+          "him",
+          "hymn",
+          "hemm"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 51,
+        "best": [
+          "her",
+          "hur",
+          "shur"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 35,
+        "best": [
+          "maid",
+          "made",
+          "mayde"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 49,
+        "best": [
+          "bing",
+          "bitching",
+          "mig"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 923,
+        "best": [
+          "nigg",
+          "knigge",
+          "gain"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 1500,
+        "best": [
+          "choicer",
+          "oyster",
+          "saute"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 71,
+        "best": [
+          "capen",
+          "gummi",
+          "gummy"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 33,
+        "best": [
+          "zoh",
+          "xu",
+          "zoo"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 2193,
+        "best": [
+          "jays",
+          "vase",
+          "vis"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 161,
+        "best": [
+          "toil",
+          "tel",
+          "tell"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 28,
+        "best": [
+          "chicoine",
+          "goyne",
+          "goin"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 1,
+        "best": [
+          "good",
+          "goode",
+          "royd"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 3198,
+        "best": [
+          "supine",
+          "saipan",
+          "showtime"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 302,
+        "best": [
+          "hub",
+          "hupp",
+          "herb"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 59,
+        "best": [
+          "hallie",
+          "hawley",
+          "soda"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 20,
+        "best": [
+          "hebb",
+          "hilb",
+          "sub"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 187,
+        "best": [
+          "seige",
+          "siege",
+          "sege"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 72,
+        "best": [
+          "hupp",
+          "shupp",
+          "schupp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 5,
+        "best": [
+          "houge",
+          "her",
+          "hur"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 34,
+        "best": [
+          "oye",
+          "oy",
+          "oie"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 5,
+        "best": [
+          "diss",
+          "dis",
+          "zeese"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "at",
+          "it",
+          "eat"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 15,
+        "best": [
+          "lac",
+          "lak",
+          "lack"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 8,
+        "best": [
+          "mei",
+          "maye",
+          "may"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 11,
+        "best": [
+          "dhein",
+          "dine",
+          "deign"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 21,
+        "best": [
+          "gnaw",
+          "dawe",
+          "daw"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 74,
+        "best": [
+          "zeit",
+          "lout",
+          "nite"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 47,
+        "best": [
+          "besaw",
+          "dis",
+          "diss"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 25,
+        "best": [
+          "uecker",
+          "looker",
+          "gaucho"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 11,
+        "best": [
+          "boys",
+          "boyes",
+          "boyz"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 71,
+        "best": [
+          "jut",
+          "what",
+          "girt"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 312,
+        "best": [
+          "soil",
+          "schill",
+          "shill"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 2,
+        "best": [
+          "zeit",
+          "that",
+          "lat"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 30,
+        "best": [
+          "zich",
+          "zeh",
+          "zi"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 3410,
+        "best": [
+          "josey",
+          "josie",
+          "rowsey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 697,
+        "best": [
+          "agin",
+          "downe",
+          "down"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 48,
+        "best": [
+          "happ",
+          "hap",
+          "happe"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 967,
+        "best": [
+          "grey",
+          "gray",
+          "graye"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 23,
+        "best": [
+          "jut",
+          "wowed",
+          "raut"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 3,
+        "best": [
+          "reh",
+          "wier",
+          "wehr"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 8,
+        "best": [
+          "dass",
+          "das",
+          "yass"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 58,
+        "best": [
+          "zue",
+          "xu",
+          "zoo"
+        ]
+      }
+    ],
+    "key": "3_1_0.3_20"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 1,
+    "response_rank": 20,
+    "median_rank": 45.5,
+    "mean_log_rank": 3.974366479260726,
+    "top10": 9,
+    "details": [
+      {
+        "word": "am",
+        "rank": 49,
+        "best": [
+          "hamm",
+          "hahm",
+          "hamme"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 160,
+        "best": [
+          "chewer",
+          "shirr",
+          "schurr"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 30,
+        "best": [
+          "made",
+          "maid",
+          "mayde"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 59,
+        "best": [
+          "patching",
+          "parikh",
+          "bitching"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 789,
+        "best": [
+          "knigge",
+          "nigg",
+          "lakin"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 585,
+        "best": [
+          "ausley",
+          "eissler",
+          "eisler"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 4,
+        "best": [
+          "eichmann",
+          "eichman",
+          "canam"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 41,
+        "best": [
+          "zoo",
+          "xu",
+          "xue"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 4003,
+        "best": [
+          "vase",
+          "vis",
+          "vees"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 533,
+        "best": [
+          "pellow",
+          "cello",
+          "pelleu"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 21,
+        "best": [
+          "chicoine",
+          "careen",
+          "corinne"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 6,
+        "best": [
+          "hughett",
+          "hughette",
+          "jewett"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 3547,
+        "best": [
+          "uphill",
+          "espada",
+          "apply"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 722,
+        "best": [
+          "hupp",
+          "hub",
+          "hype"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 10,
+        "best": [
+          "sola",
+          "hula",
+          "hola"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 1,
+        "best": [
+          "help",
+          "hepp",
+          "hep"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 84,
+        "best": [
+          "seer",
+          "sere",
+          "cyr"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 123,
+        "best": [
+          "hump",
+          "chomp",
+          "hemp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 12,
+        "best": [
+          "houge",
+          "her",
+          "hur"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 32,
+        "best": [
+          "oy",
+          "oye",
+          "oi"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 10,
+        "best": [
+          "diss",
+          "dis",
+          "dease"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "at"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 53,
+        "best": [
+          "lake",
+          "gait",
+          "gate"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 21,
+        "best": [
+          "magi",
+          "bray",
+          "brey"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 1,
+        "best": [
+          "nied",
+          "nead",
+          "need"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 15,
+        "best": [
+          "gnaw",
+          "knew",
+          "gnu"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 24,
+        "best": [
+          "nite",
+          "night",
+          "knight"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 13,
+        "best": [
+          "besaw",
+          "nous",
+          "noose"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 101,
+        "best": [
+          "cuccia",
+          "looker",
+          "cairo"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 38,
+        "best": [
+          "pris",
+          "prays",
+          "preys"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 41,
+        "best": [
+          "white",
+          "whyte",
+          "wight"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 928,
+        "best": [
+          "foil",
+          "foyle",
+          "floy"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 2,
+        "best": [
+          "lat",
+          "that",
+          "zeit"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 68,
+        "best": [
+          "zich",
+          "z",
+          "xie"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 4521,
+        "best": [
+          "rowsey",
+          "grisso",
+          "josey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 954,
+        "best": [
+          "schoene",
+          "agin",
+          "aven"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 143,
+        "best": [
+          "hump",
+          "hemp",
+          "hamp"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 104,
+        "best": [
+          "free",
+          "freeh",
+          "fray"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 44,
+        "best": [
+          "route",
+          "routt",
+          "rout"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 47,
+        "best": [
+          "reh",
+          "rea",
+          "reay"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 6,
+        "best": [
+          "yass",
+          "das",
+          "dass"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 66,
+        "best": [
+          "thuy",
+          "too",
+          "two"
+        ]
+      }
+    ],
+    "key": "3_1_1_20"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 0.3,
+    "response_rank": 12,
+    "median_rank": 122.5,
+    "mean_log_rank": 4.379968003787648,
+    "top10": 5,
+    "details": [
+      {
+        "word": "am",
+        "rank": 52,
+        "best": [
+          "hymn",
+          "him",
+          "dumm"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 160,
+        "best": [
+          "ter",
+          "yer",
+          "kerr"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 18,
+        "best": [
+          "maid",
+          "made",
+          "mayde"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 253,
+        "best": [
+          "bing",
+          "kimmich",
+          "mig"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 1203,
+        "best": [
+          "chattin",
+          "chained",
+          "dane"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 5034,
+        "best": [
+          "taisho",
+          "awfully",
+          "fossey"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 296,
+        "best": [
+          "opting",
+          "topping",
+          "putting"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 18,
+        "best": [
+          "zue",
+          "xue",
+          "xu"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 4373,
+        "best": [
+          "jays",
+          "jazz",
+          "vase"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 248,
+        "best": [
+          "doidge",
+          "toil",
+          "foyle"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 16,
+        "best": [
+          "joying",
+          "chicoine",
+          "kane"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 1,
+        "best": [
+          "good",
+          "goode",
+          "jude"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 5364,
+        "best": [
+          "tipa",
+          "lippa",
+          "skippa"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 769,
+        "best": [
+          "sup",
+          "serpe",
+          "shupp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 144,
+        "best": [
+          "outlaw",
+          "soda",
+          "zola"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 16,
+        "best": [
+          "hebe",
+          "heeb",
+          "hieb"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 241,
+        "best": [
+          "erl",
+          "earll",
+          "earl"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 154,
+        "best": [
+          "hupp",
+          "hub",
+          "schupp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 15,
+        "best": [
+          "houge",
+          "hur",
+          "her"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 47,
+        "best": [
+          "oie",
+          "oi",
+          "oye"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 29,
+        "best": [
+          "dis",
+          "diss",
+          "tese"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "at",
+          "it",
+          "eat"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 26,
+        "best": [
+          "lake",
+          "lek",
+          "lech"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 153,
+        "best": [
+          "budge",
+          "betcha",
+          "bui"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 115,
+        "best": [
+          "dead",
+          "ned",
+          "nedd"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 4,
+        "best": [
+          "gnaw",
+          "dawe",
+          "daw"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 141,
+        "best": [
+          "lout",
+          "doubt",
+          "doutt"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 145,
+        "best": [
+          "newish",
+          "those",
+          "these"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 130,
+        "best": [
+          "zocor",
+          "gaucho",
+          "soggy"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 15,
+        "best": [
+          "blish",
+          "twiss",
+          "bluish"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 11,
+        "best": [
+          "jut",
+          "rutt",
+          "rut"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 287,
+        "best": [
+          "soil",
+          "foil",
+          "foyle"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 2,
+        "best": [
+          "zeit",
+          "that",
+          "tete"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 219,
+        "best": [
+          "zich",
+          "ditch",
+          "cheese"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 4009,
+        "best": [
+          "cossey",
+          "josey",
+          "josie"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 1272,
+        "best": [
+          "schoene",
+          "sheahan",
+          "sheehan"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 26,
+        "best": [
+          "happe",
+          "happ",
+          "hap"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 613,
+        "best": [
+          "gray",
+          "grey",
+          "graye"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 48,
+        "best": [
+          "doutt",
+          "doubt",
+          "deitch"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 2,
+        "best": [
+          "reh",
+          "wehr",
+          "wear"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 12,
+        "best": [
+          "yass",
+          "tass",
+          "jess"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 27,
+        "best": [
+          "tue",
+          "to",
+          "tew"
+        ]
+      }
+    ],
+    "key": "3_1_0.3_12"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 1,
+    "response_rank": 20,
+    "median_rank": 110.0,
+    "mean_log_rank": 4.421984153424877,
+    "top10": 9,
+    "details": [
+      {
+        "word": "am",
+        "rank": 76,
+        "best": [
+          "champ",
+          "chimp",
+          "shimp"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 263,
+        "best": [
+          "chewer",
+          "her",
+          "hur"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 27,
+        "best": [
+          "maid",
+          "made",
+          "mayde"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 202,
+        "best": [
+          "parikh",
+          "bireme",
+          "pyhrric"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 4307,
+        "best": [
+          "leoine",
+          "lianne",
+          "liane"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 4035,
+        "best": [
+          "officer",
+          "saucer",
+          "sausser"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 4,
+        "best": [
+          "camping",
+          "cancom",
+          "tamping"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 19,
+        "best": [
+          "zue",
+          "zoo",
+          "xu"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 2806,
+        "best": [
+          "vis",
+          "vs",
+          "vaz"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 761,
+        "best": [
+          "pellow",
+          "pelleu",
+          "peller"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 10,
+        "best": [
+          "cooing",
+          "cowin",
+          "gowin"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 19,
+        "best": [
+          "hughett",
+          "jude",
+          "rude"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 372,
+        "best": [
+          "someday",
+          "homemade",
+          "simba"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 993,
+        "best": [
+          "hopf",
+          "humph",
+          "hupp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 249,
+        "best": [
+          "solo",
+          "soileau",
+          "sullo"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 1,
+        "best": [
+          "help",
+          "hep",
+          "heppe"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 246,
+        "best": [
+          "soir",
+          "seer",
+          "sare"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 166,
+        "best": [
+          "hump",
+          "chomp",
+          "hopf"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 35,
+        "best": [
+          "haar",
+          "har",
+          "hire"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 67,
+        "best": [
+          "oyer",
+          "uher",
+          "auch"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 252,
+        "best": [
+          "aris",
+          "zeese",
+          "yeas"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "aydt"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 266,
+        "best": [
+          "ovett",
+          "ovitt",
+          "gait"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 165,
+        "best": [
+          "brye",
+          "bray",
+          "brey"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 3,
+        "best": [
+          "enid",
+          "did",
+          "nied"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 10,
+        "best": [
+          "gnaw",
+          "nu",
+          "gnu"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 31,
+        "best": [
+          "night",
+          "nite",
+          "knight"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 54,
+        "best": [
+          "enthuse",
+          "misuse",
+          "news"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 85,
+        "best": [
+          "youker",
+          "ciocca",
+          "euchre"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 215,
+        "best": [
+          "press",
+          "presse",
+          "pris"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 51,
+        "best": [
+          "wirt",
+          "wert",
+          "white"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 949,
+        "best": [
+          "philo",
+          "filo",
+          "veilleux"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 2,
+        "best": [
+          "lat",
+          "that",
+          "light"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 332,
+        "best": [
+          "zich",
+          "lage",
+          "ledge"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 4999,
+        "best": [
+          "aloisi",
+          "locy",
+          "locey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 275,
+        "best": [
+          "schoene",
+          "aven",
+          "avon"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 198,
+        "best": [
+          "hamp",
+          "hampe",
+          "hump"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 135,
+        "best": [
+          "peacher",
+          "bayer",
+          "baier"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 9,
+        "best": [
+          "watt",
+          "routt",
+          "route"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 3,
+        "best": [
+          "veer",
+          "vere",
+          "ware"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 18,
+        "best": [
+          "yass",
+          "chasse",
+          "lass"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 76,
+        "best": [
+          "too",
+          "thuy",
+          "two"
+        ]
+      }
+    ],
+    "key": "5_0.9_1_20"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 0.3,
+    "response_rank": 12,
+    "median_rank": 106.0,
+    "mean_log_rank": 4.5761637538123,
+    "top10": 7,
+    "details": [
+      {
+        "word": "am",
+        "rank": 38,
+        "best": [
+          "ejup",
+          "him",
+          "hymn"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 239,
+        "best": [
+          "ker",
+          "kerr",
+          "kuhr"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 15,
+        "best": [
+          "mayde",
+          "made",
+          "maid"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 482,
+        "best": [
+          "parikh",
+          "emig",
+          "pyhrric"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 3570,
+        "best": [
+          "leoine",
+          "louanne",
+          "doyenne"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 10858,
+        "best": [
+          "sawdy",
+          "saudi",
+          "sawdey"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 6,
+        "best": [
+          "dubbing",
+          "become",
+          "atomic"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 14,
+        "best": [
+          "xue",
+          "zue",
+          "zoo"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 4077,
+        "best": [
+          "rays",
+          "raze",
+          "rase"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 532,
+        "best": [
+          "stahr",
+          "tel",
+          "tell"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 10,
+        "best": [
+          "rowin",
+          "lewing",
+          "lawing"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 70,
+        "best": [
+          "jude",
+          "rhude",
+          "roode"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 1281,
+        "best": [
+          "attaboy",
+          "shimko",
+          "temco"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 939,
+        "best": [
+          "serpe",
+          "chirp",
+          "hopf"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 513,
+        "best": [
+          "pseudo",
+          "soileau",
+          "salleh"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 20,
+        "best": [
+          "hebe",
+          "hieb",
+          "heeb"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 504,
+        "best": [
+          "cyr",
+          "sere",
+          "sear"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 184,
+        "best": [
+          "chomp",
+          "thomp",
+          "up"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 41,
+        "best": [
+          "hyre",
+          "hire",
+          "hoyer"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 30,
+        "best": [
+          "ouch",
+          "oyer",
+          "oye"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 319,
+        "best": [
+          "eachus",
+          "aegis",
+          "yeas"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "ate"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 202,
+        "best": [
+          "irvette",
+          "iwate",
+          "await"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 437,
+        "best": [
+          "bue",
+          "baywatch",
+          "budge"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 103,
+        "best": [
+          "did",
+          "dudd",
+          "dud"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 8,
+        "best": [
+          "daw",
+          "dawe",
+          "gnaw"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 59,
+        "best": [
+          "dutt",
+          "night",
+          "knight"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 149,
+        "best": [
+          "reuse",
+          "druce",
+          "theus"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 109,
+        "best": [
+          "youker",
+          "cutcher",
+          "kutcher"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 74,
+        "best": [
+          "blish",
+          "blush",
+          "twiss"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 13,
+        "best": [
+          "rut",
+          "rutt",
+          "route"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 369,
+        "best": [
+          "soil",
+          "viau",
+          "vieau"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 1,
+        "best": [
+          "that",
+          "zeit",
+          "jut"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 389,
+        "best": [
+          "lage",
+          "ledge",
+          "zich"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 5855,
+        "best": [
+          "josie",
+          "josey",
+          "aloisi"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 573,
+        "best": [
+          "ivern",
+          "churn",
+          "chern"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 77,
+        "best": [
+          "happe",
+          "happ",
+          "hap"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 250,
+        "best": [
+          "beyer",
+          "baier",
+          "bayar"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 1,
+        "best": [
+          "what",
+          "doubt",
+          "doutt"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 1,
+        "best": [
+          "wehr",
+          "werre",
+          "ware"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 51,
+        "best": [
+          "yass",
+          "chasse",
+          "lasch"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 32,
+        "best": [
+          "gu",
+          "goo",
+          "too"
+        ]
+      }
+    ],
+    "key": "5_0.9_0.3_12"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 1,
+    "response_rank": 12,
+    "median_rank": 139.5,
+    "mean_log_rank": 4.7802664981899445,
+    "top10": 5,
+    "details": [
+      {
+        "word": "am",
+        "rank": 166,
+        "best": [
+          "imp",
+          "hymn",
+          "him"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 363,
+        "best": [
+          "schaer",
+          "chewer",
+          "chuah"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 36,
+        "best": [
+          "brat",
+          "bratt",
+          "madd"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 160,
+        "best": [
+          "patching",
+          "bang",
+          "rapping"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 689,
+        "best": [
+          "linnik",
+          "nerlich",
+          "lakin"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 1861,
+        "best": [
+          "footer",
+          "fodor",
+          "olver"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 18,
+        "best": [
+          "eichmann",
+          "eichman",
+          "aikman"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 47,
+        "best": [
+          "xu",
+          "zue",
+          "xue"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 8647,
+        "best": [
+          "blish",
+          "bis",
+          "buice"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 774,
+        "best": [
+          "cello",
+          "terra",
+          "doidge"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 13,
+        "best": [
+          "chicoine",
+          "chaikin",
+          "oiling"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 6,
+        "best": [
+          "hughette",
+          "hughett",
+          "jude"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 7479,
+        "best": [
+          "tipa",
+          "attaboy",
+          "saipan"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 1436,
+        "best": [
+          "hupp",
+          "schupp",
+          "shupp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 39,
+        "best": [
+          "sola",
+          "soileau",
+          "tufo"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 2,
+        "best": [
+          "hebb",
+          "help",
+          "hip"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 393,
+        "best": [
+          "soir",
+          "seer",
+          "sear"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 221,
+        "best": [
+          "hump",
+          "hemp",
+          "hampe"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 36,
+        "best": [
+          "her",
+          "hur",
+          "hoyer"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 31,
+        "best": [
+          "oi",
+          "oie",
+          "oy"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 22,
+        "best": [
+          "this",
+          "tess",
+          "diss"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "at"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 110,
+        "best": [
+          "gate",
+          "gait",
+          "kett"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 773,
+        "best": [
+          "bue",
+          "brye",
+          "brey"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 20,
+        "best": [
+          "ned",
+          "nedd",
+          "den"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 10,
+        "best": [
+          "gnaw",
+          "knew",
+          "gnu"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 75,
+        "best": [
+          "light",
+          "lite",
+          "nate"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 121,
+        "best": [
+          "theus",
+          "youths",
+          "reuse"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 255,
+        "best": [
+          "coyer",
+          "gaucho",
+          "zocor"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 142,
+        "best": [
+          "blish",
+          "blyth",
+          "moisi"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 13,
+        "best": [
+          "wait",
+          "waitt",
+          "waite"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 826,
+        "best": [
+          "fool",
+          "foyle",
+          "foil"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 24,
+        "best": [
+          "lat",
+          "let",
+          "lett"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 362,
+        "best": [
+          "zich",
+          "cheese",
+          "czyz"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 8631,
+        "best": [
+          "gyosai",
+          "usa",
+          "rowsey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 1770,
+        "best": [
+          "schoene",
+          "sheehan",
+          "sheahan"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 178,
+        "best": [
+          "hump",
+          "hemp",
+          "happ"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 137,
+        "best": [
+          "drey",
+          "dray",
+          "trey"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 156,
+        "best": [
+          "write",
+          "rite",
+          "wright"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 204,
+        "best": [
+          "reh",
+          "re",
+          "rhee"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 8,
+        "best": [
+          "yass",
+          "chess",
+          "ches"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 45,
+        "best": [
+          "xue",
+          "zoo",
+          "zue"
+        ]
+      }
+    ],
+    "key": "3_1_1_12"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 0.3,
+    "response_rank": 8,
+    "median_rank": 212.5,
+    "mean_log_rank": 5.149676393082196,
+    "top10": 5,
+    "details": [
+      {
+        "word": "am",
+        "rank": 123,
+        "best": [
+          "croup",
+          "arrupe",
+          "tarp"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 528,
+        "best": [
+          "ker",
+          "cur",
+          "kuhr"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 70,
+        "best": [
+          "made",
+          "maid",
+          "mayde"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 414,
+        "best": [
+          "parikh",
+          "rematch",
+          "emig"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 4802,
+        "best": [
+          "rinard",
+          "renard",
+          "rennard"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 8080,
+        "best": [
+          "sorter",
+          "sortor",
+          "sartor"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 50,
+        "best": [
+          "become",
+          "beacom",
+          "jackman"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 28,
+        "best": [
+          "louw",
+          "lu",
+          "lew"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 6988,
+        "best": [
+          "vaz",
+          "welsh",
+          "welsch"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 2342,
+        "best": [
+          "schroll",
+          "troche",
+          "tracz"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 5,
+        "best": [
+          "ryen",
+          "ryan",
+          "ryon"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 162,
+        "best": [
+          "youn",
+          "yun",
+          "roode"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 858,
+        "best": [
+          "shimko",
+          "sanka",
+          "kepco"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 1727,
+        "best": [
+          "thorpe",
+          "thorp",
+          "tharp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 1507,
+        "best": [
+          "pseudo",
+          "suder",
+          "isadore"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 22,
+        "best": [
+          "hebe",
+          "hieb",
+          "heeb"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1111,
+        "best": [
+          "search",
+          "your",
+          "yore"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 319,
+        "best": [
+          "thomp",
+          "ab",
+          "up"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 105,
+        "best": [
+          "har",
+          "haar",
+          "hoar"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 63,
+        "best": [
+          "auch",
+          "uhr",
+          "auge"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 648,
+        "best": [
+          "douse",
+          "dowse",
+          "kerce"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 5,
+        "best": [
+          "eat",
+          "eight",
+          "aydt"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 263,
+        "best": [
+          "evett",
+          "evitt",
+          "irvette"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 2210,
+        "best": [
+          "morn",
+          "mourn",
+          "bourne"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 388,
+        "best": [
+          "added",
+          "nine",
+          "winch"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 41,
+        "best": [
+          "daw",
+          "dawe",
+          "law"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 48,
+        "best": [
+          "root",
+          "route",
+          "dirt"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 45,
+        "best": [
+          "reuse",
+          "druce",
+          "noise"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 365,
+        "best": [
+          "gosha",
+          "gaucher",
+          "gousha"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 335,
+        "best": [
+          "dries",
+          "blush",
+          "moyers"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 28,
+        "best": [
+          "wert",
+          "wirt",
+          "wart"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 745,
+        "best": [
+          "slouch",
+          "voell",
+          "soil"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 1,
+        "best": [
+          "that",
+          "lurched",
+          "jut"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 1494,
+        "best": [
+          "lerche",
+          "lurch",
+          "durch"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 7495,
+        "best": [
+          "lousy",
+          "raisa",
+          "goosey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 1363,
+        "best": [
+          "chun",
+          "chunn",
+          "shun"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 85,
+        "best": [
+          "app",
+          "happe",
+          "happ"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 104,
+        "best": [
+          "swiech",
+          "switch",
+          "ve"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 2,
+        "best": [
+          "wart",
+          "what",
+          "drought"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 1,
+        "best": [
+          "where",
+          "werre",
+          "ware"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 15,
+        "best": [
+          "yass",
+          "joyce",
+          "joice"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 82,
+        "best": [
+          "zoo",
+          "xue",
+          "xu"
+        ]
+      }
+    ],
+    "key": "5_0.9_0.3_8"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 1,
+    "response_rank": 12,
+    "median_rank": 225.0,
+    "mean_log_rank": 5.224347455934112,
+    "top10": 3,
+    "details": [
+      {
+        "word": "am",
+        "rank": 205,
+        "best": [
+          "chump",
+          "chomp",
+          "chimp"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 489,
+        "best": [
+          "chewer",
+          "schaer",
+          "scheuer"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 53,
+        "best": [
+          "brat",
+          "bratt",
+          "meek"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 662,
+        "best": [
+          "mam",
+          "ibm",
+          "parikh"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 4611,
+        "best": [
+          "duran",
+          "noreen",
+          "dayan"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 7446,
+        "best": [
+          "sousa",
+          "souza",
+          "soza"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 21,
+        "best": [
+          "cancom",
+          "camping",
+          "dumping"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 34,
+        "best": [
+          "zoo",
+          "xue",
+          "zue"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 7176,
+        "best": [
+          "vaz",
+          "besse",
+          "bess"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 1045,
+        "best": [
+          "stahr",
+          "claar",
+          "clar"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 30,
+        "best": [
+          "cowin",
+          "lowing",
+          "lewing"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 62,
+        "best": [
+          "jude",
+          "wooed",
+          "rood"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 2887,
+        "best": [
+          "hanken",
+          "shimko",
+          "henken"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2057,
+        "best": [
+          "hopf",
+          "humph",
+          "schopf"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 627,
+        "best": [
+          "solo",
+          "sullo",
+          "soileau"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 1,
+        "best": [
+          "help",
+          "heap",
+          "heape"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 704,
+        "best": [
+          "furrh",
+          "furr",
+          "fur"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 362,
+        "best": [
+          "hump",
+          "hampe",
+          "hamp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 104,
+        "best": [
+          "hire",
+          "hyre",
+          "haar"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 59,
+        "best": [
+          "oyer",
+          "uher",
+          "auch"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 406,
+        "best": [
+          "aris",
+          "eachus",
+          "etess"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "eight"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 401,
+        "best": [
+          "katt",
+          "catt",
+          "cat"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 1710,
+        "best": [
+          "bacha",
+          "drach",
+          "browse"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 42,
+        "best": [
+          "enid",
+          "did",
+          "dann"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 26,
+        "best": [
+          "nu",
+          "new",
+          "knew"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 45,
+        "best": [
+          "nate",
+          "lout",
+          "nite"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 245,
+        "best": [
+          "reuse",
+          "theus",
+          "enthuse"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 471,
+        "best": [
+          "veroa",
+          "coccia",
+          "kutscher"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 149,
+        "best": [
+          "blish",
+          "blyth",
+          "pris"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 24,
+        "best": [
+          "wirt",
+          "wert",
+          "white"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 1154,
+        "best": [
+          "fool",
+          "vieau",
+          "viau"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 6,
+        "best": [
+          "leight",
+          "late",
+          "lat"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 839,
+        "best": [
+          "leach",
+          "leetch",
+          "leech"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 10003,
+        "best": [
+          "aloisi",
+          "gyosai",
+          "rafuse"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 450,
+        "best": [
+          "schoene",
+          "kearn",
+          "kern"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 254,
+        "best": [
+          "hampe",
+          "hamp",
+          "chomp"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 169,
+        "best": [
+          "bayar",
+          "bayer",
+          "beyer"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 44,
+        "best": [
+          "zeit",
+          "routt",
+          "route"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 21,
+        "best": [
+          "veer",
+          "vere",
+          "zayre"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 40,
+        "best": [
+          "chasse",
+          "yass",
+          "lass"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 60,
+        "best": [
+          "two",
+          "tue",
+          "to"
+        ]
+      }
+    ],
+    "key": "5_0.9_1_12"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 0.3,
+    "response_rank": 8,
+    "median_rank": 166.5,
+    "mean_log_rank": 5.260230449527775,
+    "top10": 4,
+    "details": [
+      {
+        "word": "am",
+        "rank": 82,
+        "best": [
+          "come",
+          "cum",
+          "kumm"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 603,
+        "best": [
+          "cho",
+          "choe",
+          "ter"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 58,
+        "best": [
+          "made",
+          "mayde",
+          "maid"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 141,
+        "best": [
+          "imreg",
+          "bang",
+          "kimmich"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 1931,
+        "best": [
+          "return",
+          "rinard",
+          "injured"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 4172,
+        "best": [
+          "seider",
+          "sider",
+          "cider"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 1284,
+        "best": [
+          "lopping",
+          "kimco",
+          "lobbing"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 42,
+        "best": [
+          "xue",
+          "zoo",
+          "xu"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 9230,
+        "best": [
+          "welsch",
+          "welsh",
+          "jazz"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 2200,
+        "best": [
+          "fuge",
+          "latchaw",
+          "latshaw"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 97,
+        "best": [
+          "ryon",
+          "ryan",
+          "rion"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 37,
+        "best": [
+          "judd",
+          "join",
+          "riad"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 11534,
+        "best": [
+          "attaboy",
+          "honig",
+          "kahan"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 1690,
+        "best": [
+          "serpe",
+          "shoupe",
+          "shoup"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 692,
+        "best": [
+          "ruhul",
+          "hootie",
+          "suda"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 50,
+        "best": [
+          "hebe",
+          "heeb",
+          "hieb"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 639,
+        "best": [
+          "se",
+          "seay",
+          "say"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 233,
+        "best": [
+          "hupp",
+          "happe",
+          "happ"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 80,
+        "best": [
+          "hoge",
+          "har",
+          "haar"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 25,
+        "best": [
+          "ouch",
+          "coach",
+          "koch"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 88,
+        "best": [
+          "tyce",
+          "tice",
+          "kiss"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "eight"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 78,
+        "best": [
+          "lake",
+          "zick",
+          "dake"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 1182,
+        "best": [
+          "madder",
+          "madere",
+          "madar"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 263,
+        "best": [
+          "dhein",
+          "dine",
+          "churned"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 16,
+        "best": [
+          "knorr",
+          "nohr",
+          "nor"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 211,
+        "best": [
+          "dirt",
+          "juett",
+          "jute"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 16,
+        "best": [
+          "noyes",
+          "noise",
+          "lies"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 665,
+        "best": [
+          "joerger",
+          "zocor",
+          "zurcher"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 552,
+        "best": [
+          "nyers",
+          "dries",
+          "baeza"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 9,
+        "best": [
+          "rut",
+          "rutt",
+          "wirt"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 956,
+        "best": [
+          "loge",
+          "foyle",
+          "foil"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 2,
+        "best": [
+          "zeit",
+          "that",
+          "dirt"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 573,
+        "best": [
+          "zich",
+          "durch",
+          "czyz"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 10431,
+        "best": [
+          "raisa",
+          "goosey",
+          "lawyers"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 3833,
+        "best": [
+          "adage",
+          "schein",
+          "shyne"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 78,
+        "best": [
+          "happe",
+          "happ",
+          "hap"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 192,
+        "best": [
+          "drey",
+          "dray",
+          "tritsch"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 49,
+        "best": [
+          "wart",
+          "royd",
+          "groat"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 28,
+        "best": [
+          "v",
+          "vee",
+          "ve"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 8,
+        "best": [
+          "tass",
+          "yass",
+          "chess"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 63,
+        "best": [
+          "thuy",
+          "tue",
+          "tu"
+        ]
+      }
+    ],
+    "key": "3_1_0.3_8"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 1,
+    "response_rank": 8,
+    "median_rank": 214.0,
+    "mean_log_rank": 5.54789133282678,
+    "top10": 4,
+    "details": [
+      {
+        "word": "am",
+        "rank": 364,
+        "best": [
+          "honk",
+          "coombe",
+          "palme"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 830,
+        "best": [
+          "cho",
+          "choe",
+          "show"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 115,
+        "best": [
+          "meert",
+          "matchett",
+          "ranch"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 209,
+        "best": [
+          "imreg",
+          "emrich",
+          "emrick"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 945,
+        "best": [
+          "enid",
+          "edin",
+          "aydin"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 1624,
+        "best": [
+          "styer",
+          "stier",
+          "steier"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 74,
+        "best": [
+          "eichmann",
+          "eichman",
+          "nycum"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 75,
+        "best": [
+          "louw",
+          "lue",
+          "lou"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 16700,
+        "best": [
+          "welsch",
+          "welsh",
+          "kras"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 3815,
+        "best": [
+          "schnorr",
+          "fuge",
+          "schnoor"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 119,
+        "best": [
+          "gowin",
+          "daggy",
+          "caddie"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 51,
+        "best": [
+          "judd",
+          "tyne",
+          "tine"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 14577,
+        "best": [
+          "kahan",
+          "acecomm",
+          "scum"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2191,
+        "best": [
+          "hupp",
+          "shupp",
+          "schupp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 86,
+        "best": [
+          "tufo",
+          "tofu",
+          "sola"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 9,
+        "best": [
+          "hebb",
+          "hub",
+          "hebe"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1060,
+        "best": [
+          "say",
+          "seay",
+          "se"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 275,
+        "best": [
+          "hump",
+          "thomp",
+          "hemp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 72,
+        "best": [
+          "hoar",
+          "horr",
+          "whore"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 60,
+        "best": [
+          "auch",
+          "oyer",
+          "eyer"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 219,
+        "best": [
+          "tyce",
+          "tice",
+          "kiss"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 5,
+        "best": [
+          "eat",
+          "ate",
+          "eight"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 352,
+        "best": [
+          "get",
+          "goette",
+          "edgett"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 5270,
+        "best": [
+          "bui",
+          "buie",
+          "runge"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 35,
+        "best": [
+          "dine",
+          "dhein",
+          "ned"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 33,
+        "best": [
+          "law",
+          "gnaw",
+          "zoo"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 58,
+        "best": [
+          "knight",
+          "nite",
+          "night"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 43,
+        "best": [
+          "lise",
+          "lies",
+          "luz"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 1237,
+        "best": [
+          "attire",
+          "autery",
+          "kosher"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 1742,
+        "best": [
+          "massi",
+          "masci",
+          "massie"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 7,
+        "best": [
+          "wayt",
+          "weight",
+          "wait"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 2979,
+        "best": [
+          "voell",
+          "fool",
+          "schull"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 34,
+        "best": [
+          "yett",
+          "yet",
+          "date"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 679,
+        "best": [
+          "laiche",
+          "zich",
+          "lich"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 15374,
+        "best": [
+          "usa",
+          "raisa",
+          "gyosai"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 3511,
+        "best": [
+          "edgell",
+          "allege",
+          "agile"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 299,
+        "best": [
+          "hump",
+          "thomp",
+          "hemp"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 97,
+        "best": [
+          "dray",
+          "drey",
+          "trey"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 84,
+        "best": [
+          "rutt",
+          "rut",
+          "rout"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 449,
+        "best": [
+          "vi",
+          "vee",
+          "ve"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 7,
+        "best": [
+          "tass",
+          "chasse",
+          "yass"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 84,
+        "best": [
+          "lowe",
+          "loew",
+          "low"
+        ]
+      }
+    ],
+    "key": "3_1_1_8"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 1,
+    "response_rank": 8,
+    "median_rank": 398.0,
+    "mean_log_rank": 5.726931761366355,
+    "top10": 4,
+    "details": [
+      {
+        "word": "am",
+        "rank": 493,
+        "best": [
+          "chomp",
+          "pomp",
+          "chump"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 770,
+        "best": [
+          "schau",
+          "show",
+          "chau"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 162,
+        "best": [
+          "brat",
+          "bratt",
+          "meek"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 824,
+        "best": [
+          "mam",
+          "baram",
+          "ibm"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 6938,
+        "best": [
+          "digit",
+          "aeneid",
+          "renard"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 6705,
+        "best": [
+          "sosa",
+          "sauser",
+          "soucy"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 312,
+        "best": [
+          "pingpong",
+          "biamby",
+          "cancom"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 51,
+        "best": [
+          "leu",
+          "lu",
+          "loux"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 11220,
+        "best": [
+          "threet",
+          "threatt",
+          "freet"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 2388,
+        "best": [
+          "schnorr",
+          "schnoor",
+          "flohr"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 3,
+        "best": [
+          "gowin",
+          "weaken",
+          "going"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 154,
+        "best": [
+          "youn",
+          "yun",
+          "lown"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 2541,
+        "best": [
+          "kulpa",
+          "culpa",
+          "huneke"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2910,
+        "best": [
+          "hopf",
+          "harpe",
+          "harp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 1096,
+        "best": [
+          "solo",
+          "sullo",
+          "saller"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 1,
+        "best": [
+          "help",
+          "hub",
+          "hupp"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1227,
+        "best": [
+          "feur",
+          "furrh",
+          "for"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 484,
+        "best": [
+          "hump",
+          "hamp",
+          "hampe"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 142,
+        "best": [
+          "whore",
+          "hoerr",
+          "hoare"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 144,
+        "best": [
+          "or",
+          "ore",
+          "orr"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 2235,
+        "best": [
+          "jus",
+          "joice",
+          "joyce"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 11,
+        "best": [
+          "yott",
+          "yacht",
+          "eat"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 637,
+        "best": [
+          "perched",
+          "jouret",
+          "ratchet"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 9337,
+        "best": [
+          "agin",
+          "creach",
+          "creech"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 145,
+        "best": [
+          "enid",
+          "enitt",
+          "reroute"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 46,
+        "best": [
+          "thuy",
+          "to",
+          "tu"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 19,
+        "best": [
+          "knight",
+          "night",
+          "nite"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 506,
+        "best": [
+          "reuse",
+          "besaw",
+          "nasa"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 1772,
+        "best": [
+          "gaucher",
+          "kosher",
+          "gosha"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 239,
+        "best": [
+          "blish",
+          "mally",
+          "malley"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 26,
+        "best": [
+          "whate",
+          "waite",
+          "wait"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 2766,
+        "best": [
+          "swoosh",
+          "slouch",
+          "fuel"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 10,
+        "best": [
+          "lurched",
+          "leight",
+          "late"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 2741,
+        "best": [
+          "lersch",
+          "years",
+          "yours"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 14018,
+        "best": [
+          "aloisi",
+          "gyosai",
+          "wooters"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 1486,
+        "best": [
+          "kahrs",
+          "cars",
+          "varn"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 302,
+        "best": [
+          "hampe",
+          "hamp",
+          "schamp"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 230,
+        "best": [
+          "ve",
+          "sheehy",
+          "ga"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 46,
+        "best": [
+          "zeit",
+          "lite",
+          "light"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 62,
+        "best": [
+          "vi",
+          "vee",
+          "ve"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 2,
+        "best": [
+          "yass",
+          "yes",
+          "gess"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 98,
+        "best": [
+          "tue",
+          "tew",
+          "too"
+        ]
+      }
+    ],
+    "key": "5_0.9_1_8"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 0.3,
+    "response_rank": 6,
+    "median_rank": 279.5,
+    "mean_log_rank": 5.843470626658256,
+    "top10": 3,
+    "details": [
+      {
+        "word": "am",
+        "rank": 308,
+        "best": [
+          "cropp",
+          "kropp",
+          "crop"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 509,
+        "best": [
+          "scheu",
+          "schau",
+          "chau"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 99,
+        "best": [
+          "riyad",
+          "riyadh",
+          "myth"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 951,
+        "best": [
+          "babich",
+          "rematch",
+          "parikh"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 11167,
+        "best": [
+          "ammeter",
+          "beirut",
+          "matty"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 11379,
+        "best": [
+          "fourtou",
+          "footer",
+          "sartor"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 34,
+        "best": [
+          "marbod",
+          "gingham",
+          "akamine"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 74,
+        "best": [
+          "loe",
+          "loewe",
+          "lo"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 11893,
+        "best": [
+          "sweet",
+          "sweatt",
+          "swete"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 2312,
+        "best": [
+          "surge",
+          "serge",
+          "fuge"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 28,
+        "best": [
+          "uhrin",
+          "mowen",
+          "rowin"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 35,
+        "best": [
+          "rood",
+          "ruud",
+          "rude"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 1802,
+        "best": [
+          "hakon",
+          "shimko",
+          "casbah"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2581,
+        "best": [
+          "tope",
+          "shobe",
+          "shupe"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 2791,
+        "best": [
+          "pseudo",
+          "tufo",
+          "isadore"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 89,
+        "best": [
+          "whoop",
+          "fop",
+          "hjerpe"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 2053,
+        "best": [
+          "zarre",
+          "csar",
+          "tsar"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 251,
+        "best": [
+          "thomp",
+          "asp",
+          "up"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 5,
+        "best": [
+          "har",
+          "haar",
+          "hur"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 157,
+        "best": [
+          "auch",
+          "osh",
+          "ouch"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 1747,
+        "best": [
+          "ross",
+          "ros",
+          "reuss"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 11,
+        "best": [
+          "eat",
+          "jot",
+          "rot"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 735,
+        "best": [
+          "earshot",
+          "eschete",
+          "earshot"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 6806,
+        "best": [
+          "maggi",
+          "worn",
+          "warne"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 1308,
+        "best": [
+          "marotte",
+          "lysne",
+          "lyne"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 87,
+        "best": [
+          "dawe",
+          "daw",
+          "da"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 65,
+        "best": [
+          "tit",
+          "aris",
+          "dirt"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 236,
+        "best": [
+          "does",
+          "druce",
+          "noise"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 917,
+        "best": [
+          "ole",
+          "olay",
+          "chowder"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 962,
+        "best": [
+          "dries",
+          "reaches",
+          "elrich"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 187,
+        "best": [
+          "wert",
+          "wirt",
+          "mouse"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 1435,
+        "best": [
+          "searl",
+          "searle",
+          "slouch"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 1,
+        "best": [
+          "that",
+          "jut",
+          "lurched"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 1790,
+        "best": [
+          "woos",
+          "lurch",
+          "lerche"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 17698,
+        "best": [
+          "lousy",
+          "lawall",
+          "lowers"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 1540,
+        "best": [
+          "eschen",
+          "card",
+          "chord"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 232,
+        "best": [
+          "hippe",
+          "hipp",
+          "hip"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 184,
+        "best": [
+          "blauer",
+          "zaire",
+          "dwire"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 64,
+        "best": [
+          "wass",
+          "wuss",
+          "russe"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 7,
+        "best": [
+          "veer",
+          "vere",
+          "v"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 145,
+        "best": [
+          "yass",
+          "chert",
+          "puett"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 121,
+        "best": [
+          "loh",
+          "loewe",
+          "loew"
+        ]
+      }
+    ],
+    "key": "5_0.9_0.3_6"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 0.3,
+    "response_rank": 6,
+    "median_rank": 353.5,
+    "mean_log_rank": 5.898679355828658,
+    "top10": 3,
+    "details": [
+      {
+        "word": "am",
+        "rank": 330,
+        "best": [
+          "bobe",
+          "poop",
+          "baab"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 430,
+        "best": [
+          "schau",
+          "chau",
+          "show"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 161,
+        "best": [
+          "beard",
+          "beaird",
+          "maid"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 302,
+        "best": [
+          "bp",
+          "beeby",
+          "beebe"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 2893,
+        "best": [
+          "puat",
+          "beirut",
+          "meta"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 7308,
+        "best": [
+          "sauers",
+          "souers",
+          "sours"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 1274,
+        "best": [
+          "lopping",
+          "eyerman",
+          "wubben"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 134,
+        "best": [
+          "luge",
+          "rhule",
+          "reule"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 10888,
+        "best": [
+          "veered",
+          "zared",
+          "welsch"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 1950,
+        "best": [
+          "large",
+          "charle",
+          "sui"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 322,
+        "best": [
+          "acne",
+          "cayenne",
+          "ryan"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 97,
+        "best": [
+          "judd",
+          "tide",
+          "tied"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 7705,
+        "best": [
+          "oppose",
+          "honig",
+          "hobdy"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2139,
+        "best": [
+          "shope",
+          "schoepe",
+          "schoepf"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 851,
+        "best": [
+          "solder",
+          "sada",
+          "suard"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 388,
+        "best": [
+          "fop",
+          "serpe",
+          "sup"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1419,
+        "best": [
+          "your",
+          "yore",
+          "xio"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 319,
+        "best": [
+          "hupp",
+          "hap",
+          "happ"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 6,
+        "best": [
+          "hoye",
+          "hoi",
+          "hoy"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 50,
+        "best": [
+          "coach",
+          "wach",
+          "watch"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 471,
+        "best": [
+          "thiede",
+          "thede",
+          "jus"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "rott"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 288,
+        "best": [
+          "boart",
+          "bort",
+          "boat"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 2248,
+        "best": [
+          "adage",
+          "thing",
+          "change"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 928,
+        "best": [
+          "knigge",
+          "nigg",
+          "kinch"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 56,
+        "best": [
+          "url",
+          "door",
+          "doerr"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 243,
+        "best": [
+          "teet",
+          "teat",
+          "tit"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 87,
+        "best": [
+          "tis",
+          "teas",
+          "tease"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 1569,
+        "best": [
+          "aros",
+          "gousha",
+          "ardor"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 1299,
+        "best": [
+          "trade",
+          "dries",
+          "crees"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 18,
+        "best": [
+          "wirt",
+          "wert",
+          "rut"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 1162,
+        "best": [
+          "latshaw",
+          "latchaw",
+          "tewes"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 6,
+        "best": [
+          "tate",
+          "tait",
+          "taite"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 649,
+        "best": [
+          "years",
+          "yours",
+          "rueth"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 19191,
+        "best": [
+          "leider",
+          "lader",
+          "torti"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 5600,
+        "best": [
+          "adage",
+          "adage",
+          "sheahan"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 257,
+        "best": [
+          "hap",
+          "happ",
+          "happe"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 377,
+        "best": [
+          "triche",
+          "tritsch",
+          "tritch"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 108,
+        "best": [
+          "kis",
+          "kiss",
+          "thiede"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 67,
+        "best": [
+          "ve",
+          "vi",
+          "vee"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 60,
+        "best": [
+          "feat",
+          "feet",
+          "sheet"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 64,
+        "best": [
+          "tew",
+          "to",
+          "tu"
+        ]
+      }
+    ],
+    "key": "3_1_0.3_6"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 1,
+    "response_rank": 6,
+    "median_rank": 354.5,
+    "mean_log_rank": 5.938646086336464,
+    "top10": 3,
+    "details": [
+      {
+        "word": "am",
+        "rank": 939,
+        "best": [
+          "prop",
+          "propp",
+          "pub"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 623,
+        "best": [
+          "chau",
+          "schau",
+          "show"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 150,
+        "best": [
+          "meert",
+          "breit",
+          "bratt"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 342,
+        "best": [
+          "imreg",
+          "mabee",
+          "mabie"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 2004,
+        "best": [
+          "moret",
+          "bruyette",
+          "enid"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 2376,
+        "best": [
+          "sortor",
+          "sorter",
+          "sauers"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 216,
+        "best": [
+          "bernabe",
+          "mockby",
+          "pimco"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 113,
+        "best": [
+          "louw",
+          "loux",
+          "lou"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 16368,
+        "best": [
+          "zared",
+          "freet",
+          "vs"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 3010,
+        "best": [
+          "fuge",
+          "schnorr",
+          "lorge"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 416,
+        "best": [
+          "wyan",
+          "wian",
+          "wion"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 185,
+        "best": [
+          "judd",
+          "word",
+          "yard"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 10468,
+        "best": [
+          "hockin",
+          "hobday",
+          "hanko"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2542,
+        "best": [
+          "hupp",
+          "hype",
+          "harpe"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 207,
+        "best": [
+          "tufo",
+          "tofu",
+          "soutar"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 53,
+        "best": [
+          "harpe",
+          "harp",
+          "hub"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1484,
+        "best": [
+          "ver",
+          "saye",
+          "say"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 317,
+        "best": [
+          "hump",
+          "thomp",
+          "hemp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 6,
+        "best": [
+          "hoi",
+          "hoy",
+          "hoye"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 58,
+        "best": [
+          "iyer",
+          "ayer",
+          "eyer"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 547,
+        "best": [
+          "jus",
+          "russ",
+          "russe"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "at"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 690,
+        "best": [
+          "edgett",
+          "get",
+          "goette"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 5626,
+        "best": [
+          "aran",
+          "aron",
+          "ehren"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 88,
+        "best": [
+          "brute",
+          "brut",
+          "gaede"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 72,
+        "best": [
+          "lou",
+          "louw",
+          "loo"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 65,
+        "best": [
+          "teat",
+          "teet",
+          "tit"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 127,
+        "best": [
+          "tis",
+          "tease",
+          "tees"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 2791,
+        "best": [
+          "gaucher",
+          "gosha",
+          "chowder"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 1613,
+        "best": [
+          "kreis",
+          "kriese",
+          "crees"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 7,
+        "best": [
+          "whate",
+          "wait",
+          "waite"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 3553,
+        "best": [
+          "shoes",
+          "voell",
+          "searle"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 63,
+        "best": [
+          "date",
+          "lurched",
+          "taitt"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 749,
+        "best": [
+          "years",
+          "yours",
+          "roys"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 22290,
+        "best": [
+          "usa",
+          "leider",
+          "raisa"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 7421,
+        "best": [
+          "agile",
+          "edgell",
+          "boothe"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 367,
+        "best": [
+          "happ",
+          "hap",
+          "happe"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 224,
+        "best": [
+          "ve",
+          "teachey",
+          "easy"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 208,
+        "best": [
+          "rut",
+          "rutt",
+          "hughette"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 590,
+        "best": [
+          "the",
+          "thee",
+          "vee"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 20,
+        "best": [
+          "sheet",
+          "cheat",
+          "chit"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 85,
+        "best": [
+          "lowe",
+          "low",
+          "lo"
+        ]
+      }
+    ],
+    "key": "3_1_1_6"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 1,
+    "response_rank": 6,
+    "median_rank": 475.5,
+    "mean_log_rank": 6.084221853807743,
+    "top10": 2,
+    "details": [
+      {
+        "word": "am",
+        "rank": 841,
+        "best": [
+          "chomp",
+          "pomp",
+          "honk"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 949,
+        "best": [
+          "chau",
+          "show",
+          "schau"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 142,
+        "best": [
+          "riyadh",
+          "riyad",
+          "bratt"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 1197,
+        "best": [
+          "mam",
+          "babich",
+          "barich"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 10983,
+        "best": [
+          "beirut",
+          "puat",
+          "buoyed"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 8630,
+        "best": [
+          "saucy",
+          "soucy",
+          "foresaw"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 331,
+        "best": [
+          "biamby",
+          "mangum",
+          "mangham"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 90,
+        "best": [
+          "lew",
+          "leu",
+          "lue"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 13002,
+        "best": [
+          "vs",
+          "freet",
+          "threatt"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 2271,
+        "best": [
+          "schnorr",
+          "fuge",
+          "schnoor"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 53,
+        "best": [
+          "henriquez",
+          "henriques",
+          "henrique"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 209,
+        "best": [
+          "rude",
+          "rhude",
+          "rood"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 2803,
+        "best": [
+          "kulpa",
+          "culpa",
+          "succumb"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 3633,
+        "best": [
+          "harp",
+          "harpe",
+          "hupp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 1494,
+        "best": [
+          "solo",
+          "sullo",
+          "outflow"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 4,
+        "best": [
+          "humph",
+          "hupp",
+          "hub"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1623,
+        "best": [
+          "foye",
+          "foie",
+          "foy"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 350,
+        "best": [
+          "hump",
+          "hampe",
+          "hamp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 8,
+        "best": [
+          "whore",
+          "hoerr",
+          "horr"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 235,
+        "best": [
+          "ore",
+          "or",
+          "hors"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 2208,
+        "best": [
+          "jus",
+          "joyce",
+          "joice"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 29,
+        "best": [
+          "jot",
+          "rot",
+          "rott"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 1382,
+        "best": [
+          "perched",
+          "evett",
+          "evitt"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 11145,
+        "best": [
+          "krych",
+          "bruch",
+          "agin"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 619,
+        "best": [
+          "brought",
+          "brott",
+          "brute"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 86,
+        "best": [
+          "too",
+          "tew",
+          "tu"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 28,
+        "best": [
+          "neet",
+          "neat",
+          "nit"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 168,
+        "best": [
+          "lurz",
+          "dross",
+          "luz"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 2204,
+        "best": [
+          "alroy",
+          "erler",
+          "gaucher"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 601,
+        "best": [
+          "urias",
+          "leaches",
+          "leeches"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 42,
+        "best": [
+          "meiss",
+          "mice",
+          "weight"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 3229,
+        "best": [
+          "swoosh",
+          "slouch",
+          "flohr"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 17,
+        "best": [
+          "lurched",
+          "light",
+          "lite"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 1628,
+        "best": [
+          "lersch",
+          "yours",
+          "years"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 22700,
+        "best": [
+          "boisseau",
+          "grocer",
+          "grosser"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 2189,
+        "best": [
+          "eberl",
+          "aberle",
+          "errol"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 269,
+        "best": [
+          "hampe",
+          "hamp",
+          "hump"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 164,
+        "best": [
+          "ve",
+          "sheehy",
+          "ga"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 75,
+        "best": [
+          "hughette",
+          "mouse",
+          "dise"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 119,
+        "best": [
+          "v",
+          "vee",
+          "vi"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 35,
+        "best": [
+          "yass",
+          "voit",
+          "voigt"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 139,
+        "best": [
+          "towe",
+          "tow",
+          "toe"
+        ]
+      }
+    ],
+    "key": "5_0.9_1_6"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 0.3,
+    "response_rank": 4,
+    "median_rank": 567.5,
+    "mean_log_rank": 6.568971640221662,
+    "top10": 1,
+    "details": [
+      {
+        "word": "am",
+        "rank": 356,
+        "best": [
+          "carp",
+          "karp",
+          "schrupp"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 1023,
+        "best": [
+          "choe",
+          "cho",
+          "ta"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 309,
+        "best": [
+          "mid",
+          "myth",
+          "riyad"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 2040,
+        "best": [
+          "imig",
+          "ehmen",
+          "amide"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 14177,
+        "best": [
+          "troyat",
+          "burrous",
+          "burress"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 12782,
+        "best": [
+          "totter",
+          "fourtou",
+          "yano"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 421,
+        "best": [
+          "beekeeper",
+          "richburg",
+          "gingham"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 51,
+        "best": [
+          "loux",
+          "lu",
+          "lou"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 19351,
+        "best": [
+          "ghez",
+          "guez",
+          "gase"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 6788,
+        "best": [
+          "igor",
+          "charle",
+          "aydar"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 89,
+        "best": [
+          "micka",
+          "rowin",
+          "mika"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 440,
+        "best": [
+          "fade",
+          "fayed",
+          "ted"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 2798,
+        "best": [
+          "foams",
+          "hakon",
+          "tomes"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2783,
+        "best": [
+          "hjerpe",
+          "thorp",
+          "thorpe"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 4590,
+        "best": [
+          "udo",
+          "pseudo",
+          "ursa"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 213,
+        "best": [
+          "aube",
+          "hjerpe",
+          "erb"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1866,
+        "best": [
+          "yaw",
+          "ja",
+          "ya"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 364,
+        "best": [
+          "up",
+          "upp",
+          "thomp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 16,
+        "best": [
+          "haar",
+          "har",
+          "hah"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 452,
+        "best": [
+          "sutch",
+          "such",
+          "search"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 2842,
+        "best": [
+          "lueth",
+          "luth",
+          "lewd"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 67,
+        "best": [
+          "chasse",
+          "chet",
+          "lash"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 1392,
+        "best": [
+          "fiat",
+          "rensch",
+          "dad"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 7543,
+        "best": [
+          "krisch",
+          "pires",
+          "prude"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 1769,
+        "best": [
+          "evade",
+          "belshe",
+          "gaz"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 125,
+        "best": [
+          "dawe",
+          "daw",
+          "gaw"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 322,
+        "best": [
+          "jess",
+          "gess",
+          "fit"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 683,
+        "best": [
+          "druce",
+          "viewed",
+          "lurz"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 2751,
+        "best": [
+          "rother",
+          "sheeder",
+          "elcor"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 206,
+        "best": [
+          "petey",
+          "deweerd",
+          "moyers"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 420,
+        "best": [
+          "bosse",
+          "boss",
+          "bos"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 3435,
+        "best": [
+          "youell",
+          "swoosh",
+          "lesher"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 5,
+        "best": [
+          "notched",
+          "washed",
+          "fished"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 1601,
+        "best": [
+          "yale",
+          "woos",
+          "yelle"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 26526,
+        "best": [
+          "liener",
+          "leaner",
+          "goosey"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 3823,
+        "best": [
+          "wacker",
+          "whacker",
+          "beffa"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 161,
+        "best": [
+          "happe",
+          "hap",
+          "happ"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 949,
+        "best": [
+          "mishoe",
+          "ga",
+          "nej"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 256,
+        "best": [
+          "wuss",
+          "wass",
+          "kiess"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 21,
+        "best": [
+          "veer",
+          "vere",
+          "dare"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 267,
+        "best": [
+          "feit",
+          "fight",
+          "fite"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 272,
+        "best": [
+          "xue",
+          "xu",
+          "zoo"
+        ]
+      }
+    ],
+    "key": "5_0.9_0.3_4"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 1,
+    "response_rank": 4,
+    "median_rank": 1027.0,
+    "mean_log_rank": 6.6250820760793925,
+    "top10": 1,
+    "details": [
+      {
+        "word": "am",
+        "rank": 1134,
+        "best": [
+          "carp",
+          "karp",
+          "prop"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 984,
+        "best": [
+          "chuah",
+          "schaer",
+          "chau"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 248,
+        "best": [
+          "meert",
+          "mench",
+          "minch"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 1990,
+        "best": [
+          "ehmen",
+          "amen",
+          "anorak"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 2385,
+        "best": [
+          "janisch",
+          "drench",
+          "widget"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 3194,
+        "best": [
+          "ostrow",
+          "serle",
+          "siever"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 483,
+        "best": [
+          "mchargue",
+          "mockby",
+          "bobbin"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 117,
+        "best": [
+          "lieu",
+          "loo",
+          "loux"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 27453,
+        "best": [
+          "nerd",
+          "noyd",
+          "teed"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 5344,
+        "best": [
+          "adieu",
+          "ado",
+          "fuge"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 1323,
+        "best": [
+          "geeky",
+          "ailing",
+          "ayling"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 1027,
+        "best": [
+          "rudd",
+          "rud",
+          "gjerde"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 16766,
+        "best": [
+          "homemade",
+          "scum",
+          "heiken"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 3608,
+        "best": [
+          "harpe",
+          "harp",
+          "hype"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 380,
+        "best": [
+          "xhosa",
+          "seashore",
+          "floor"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 319,
+        "best": [
+          "arup",
+          "shupp",
+          "schupp"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 2285,
+        "best": [
+          "law",
+          "la",
+          "to"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 580,
+        "best": [
+          "hump",
+          "hemp",
+          "ahab"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 23,
+        "best": [
+          "who",
+          "hou",
+          "hu"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 106,
+        "best": [
+          "zsa",
+          "jha",
+          "yah"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 1152,
+        "best": [
+          "vis",
+          "leth",
+          "note"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 2,
+        "best": [
+          "eat",
+          "it",
+          "at"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 1260,
+        "best": [
+          "gait",
+          "gate",
+          "earned"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 8136,
+        "best": [
+          "gian",
+          "geon",
+          "agin"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 408,
+        "best": [
+          "rensch",
+          "milch",
+          "peirce"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 49,
+        "best": [
+          "ter",
+          "lau",
+          "lough"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 466,
+        "best": [
+          "jas",
+          "jass",
+          "ras"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 156,
+        "best": [
+          "leys",
+          "lays",
+          "leis"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 8702,
+        "best": [
+          "gaucher",
+          "woofer",
+          "iola"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 729,
+        "best": [
+          "messy",
+          "bc",
+          "witty"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 31,
+        "best": [
+          "pease",
+          "peace",
+          "piece"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 7007,
+        "best": [
+          "acer",
+          "izzo",
+          "schley"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 35,
+        "best": [
+          "lat",
+          "tat",
+          "anse"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 1892,
+        "best": [
+          "yours",
+          "years",
+          "yale"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 30724,
+        "best": [
+          "tino",
+          "verley",
+          "newell"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 3944,
+        "best": [
+          "prahl",
+          "varn",
+          "goan"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 446,
+        "best": [
+          "happe",
+          "happ",
+          "hap"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 1027,
+        "best": [
+          "eley",
+          "ealey",
+          "ealy"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 1168,
+        "best": [
+          "kiess",
+          "wes",
+          "wess"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 2164,
+        "best": [
+          "te",
+          "tee",
+          "ti"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 66,
+        "best": [
+          "sheet",
+          "chit",
+          "juett"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 215,
+        "best": [
+          "loewe",
+          "loew",
+          "loh"
+        ]
+      }
+    ],
+    "key": "3_1_1_4"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 0.3,
+    "response_rank": 4,
+    "median_rank": 734.0,
+    "mean_log_rank": 6.644891250330242,
+    "top10": 2,
+    "details": [
+      {
+        "word": "am",
+        "rank": 404,
+        "best": [
+          "kropp",
+          "cropp",
+          "crop"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 911,
+        "best": [
+          "io",
+          "achoo",
+          "furr"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 515,
+        "best": [
+          "myth",
+          "mead",
+          "meade"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 802,
+        "best": [
+          "adding",
+          "rematch",
+          "parikh"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 4391,
+        "best": [
+          "burris",
+          "rynes",
+          "rhynes"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 12357,
+        "best": [
+          "altherr",
+          "swirl",
+          "voter"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 4823,
+        "best": [
+          "seeping",
+          "chabon",
+          "eyerman"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 80,
+        "best": [
+          "loy",
+          "loye",
+          "saye"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 18563,
+        "best": [
+          "zen",
+          "nerd",
+          "nard"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 5226,
+        "best": [
+          "ader",
+          "eder",
+          "trausch"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 1153,
+        "best": [
+          "fayanne",
+          "schwinn",
+          "rurik"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 495,
+        "best": [
+          "rudd",
+          "rud",
+          "worth"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 13193,
+        "best": [
+          "shappell",
+          "schappell",
+          "hobdy"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 2390,
+        "best": [
+          "tharpe",
+          "tharp",
+          "torp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 742,
+        "best": [
+          "outlaw",
+          "footer",
+          "hootie"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 594,
+        "best": [
+          "top",
+          "schoepe",
+          "schoepp"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 1715,
+        "best": [
+          "law",
+          "la",
+          "daw"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 535,
+        "best": [
+          "ahab",
+          "schopf",
+          "happe"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 9,
+        "best": [
+          "hur",
+          "her",
+          "hoye"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 146,
+        "best": [
+          "rosh",
+          "rosch",
+          "da"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 1205,
+        "best": [
+          "wass",
+          "wuss",
+          "jus"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 8,
+        "best": [
+          "eat",
+          "rott",
+          "rot"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 726,
+        "best": [
+          "bus",
+          "buss",
+          "busse"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 4284,
+        "best": [
+          "change",
+          "shearn",
+          "eachan"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 1932,
+        "best": [
+          "then",
+          "marse",
+          "krass"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 141,
+        "best": [
+          "toye",
+          "toy",
+          "thou"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 586,
+        "best": [
+          "teat",
+          "teet",
+          "tit"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 223,
+        "best": [
+          "frace",
+          "noyes",
+          "noise"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 5685,
+        "best": [
+          "corl",
+          "charter",
+          "anew"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 418,
+        "best": [
+          "whichard",
+          "richerd",
+          "richard"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 70,
+        "best": [
+          "jazz",
+          "gide",
+          "keeth"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 2837,
+        "best": [
+          "latshaw",
+          "latchaw",
+          "ido"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 44,
+        "best": [
+          "vass",
+          "vitt",
+          "lath"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 1076,
+        "best": [
+          "yell",
+          "yelle",
+          "gilles"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 25987,
+        "best": [
+          "leider",
+          "leather",
+          "dawdy"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 4305,
+        "best": [
+          "loong",
+          "iron",
+          "koen"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 235,
+        "best": [
+          "hap",
+          "happ",
+          "happe"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 1239,
+        "best": [
+          "edye",
+          "edi",
+          "eady"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 577,
+        "best": [
+          "tidd",
+          "boose",
+          "kis"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 283,
+        "best": [
+          "dae",
+          "day",
+          "daye"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 210,
+        "best": [
+          "sheet",
+          "shit",
+          "routt"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 204,
+        "best": [
+          "seay",
+          "se",
+          "saye"
+        ]
+      }
+    ],
+    "key": "3_1_0.3_4"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 1,
+    "response_rank": 4,
+    "median_rank": 1045.0,
+    "mean_log_rank": 6.836202652830317,
+    "top10": 1,
+    "details": [
+      {
+        "word": "am",
+        "rank": 489,
+        "best": [
+          "heinke",
+          "whipp",
+          "whip"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 1496,
+        "best": [
+          "chau",
+          "show",
+          "schau"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 214,
+        "best": [
+          "riyadh",
+          "riyad",
+          "bratt"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 6940,
+        "best": [
+          "numac",
+          "bijac",
+          "backache"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 14738,
+        "best": [
+          "maret",
+          "dredged",
+          "moret"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 12359,
+        "best": [
+          "snay",
+          "sheree",
+          "fucci"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 913,
+        "best": [
+          "caricom",
+          "jumping",
+          "francom"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 141,
+        "best": [
+          "low",
+          "loe",
+          "loew"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 24322,
+        "best": [
+          "vs",
+          "threet",
+          "threatt"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 7404,
+        "best": [
+          "chessher",
+          "chesher",
+          "cheshire"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 84,
+        "best": [
+          "meishan",
+          "corinne",
+          "careen"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 1195,
+        "best": [
+          "word",
+          "diff",
+          "dif"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 5240,
+        "best": [
+          "hagwood",
+          "suburb",
+          "habecker"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 3854,
+        "best": [
+          "harp",
+          "harpe",
+          "hupp"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 4399,
+        "best": [
+          "oser",
+          "otter",
+          "astro"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 123,
+        "best": [
+          "harpe",
+          "harp",
+          "hupp"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 2070,
+        "best": [
+          "yaw",
+          "yoe",
+          "yo"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 470,
+        "best": [
+          "hemp",
+          "hamp",
+          "hampe"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 22,
+        "best": [
+          "hah",
+          "ha",
+          "haugh"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 520,
+        "best": [
+          "ou",
+          "ooh",
+          "oooh"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 3652,
+        "best": [
+          "daas",
+          "dazs",
+          "das"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 117,
+        "best": [
+          "yaffe",
+          "yott",
+          "yacht"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 1574,
+        "best": [
+          "evitt",
+          "evett",
+          "gehrt"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 15116,
+        "best": [
+          "krych",
+          "krisch",
+          "fran"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 1177,
+        "best": [
+          "reroute",
+          "prout",
+          "ziyad"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 112,
+        "best": [
+          "zoo",
+          "zue",
+          "xue"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 362,
+        "best": [
+          "yass",
+          "veit",
+          "gess"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 688,
+        "best": [
+          "suisse",
+          "dross",
+          "leos"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 6362,
+        "best": [
+          "tufa",
+          "fenno",
+          "vano"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 2,
+        "best": [
+          "dries",
+          "plese",
+          "pleas"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 173,
+        "best": [
+          "pass",
+          "nath",
+          "lath"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 8256,
+        "best": [
+          "loewe",
+          "loew",
+          "fuel"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 85,
+        "best": [
+          "leashed",
+          "reefs",
+          "leached"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 2242,
+        "best": [
+          "ziel",
+          "ziehl",
+          "zeal"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 35704,
+        "best": [
+          "bloor",
+          "newsy",
+          "traer"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 4739,
+        "best": [
+          "orran",
+          "oran",
+          "ragu"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 282,
+        "best": [
+          "hemp",
+          "hamp",
+          "hampe"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 1829,
+        "best": [
+          "lia",
+          "leah",
+          "ve"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 429,
+        "best": [
+          "russ",
+          "rus",
+          "russe"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 614,
+        "best": [
+          "yie",
+          "yi",
+          "yee"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 130,
+        "best": [
+          "feet",
+          "feat",
+          "sheet"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 256,
+        "best": [
+          "soo",
+          "suu",
+          "su"
+        ]
+      }
+    ],
+    "key": "5_0.9_1_4"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 1,
+    "response_rank": 2,
+    "median_rank": 3902.5,
+    "mean_log_rank": 7.830884980898498,
+    "top10": 0,
+    "details": [
+      {
+        "word": "am",
+        "rank": 2214,
+        "best": [
+          "hodapp",
+          "kopf",
+          "pup"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 539,
+        "best": [
+          "chew",
+          "chiu",
+          "choo"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 6377,
+        "best": [
+          "tabby",
+          "dex",
+          "decks"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 15712,
+        "best": [
+          "byrom",
+          "cherubic",
+          "attics"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 14560,
+        "best": [
+          "bjorn",
+          "bjoern",
+          "athletes"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 11867,
+        "best": [
+          "chui",
+          "hoesly",
+          "raul"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 2199,
+        "best": [
+          "whipkey",
+          "bilk",
+          "nicked"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 992,
+        "best": [
+          "fauroux",
+          "faurot",
+          "forero"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 49497,
+        "best": [
+          "groove",
+          "niehaus",
+          "yin"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 615,
+        "best": [
+          "hoonah",
+          "suresh",
+          "sway"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 563,
+        "best": [
+          "kammerer",
+          "kamerer",
+          "camerer"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 887,
+        "best": [
+          "auchter",
+          "schweiss",
+          "often"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 26385,
+        "best": [
+          "unhook",
+          "kolb",
+          "kolbe"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 4542,
+        "best": [
+          "hep",
+          "hepp",
+          "heppe"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 3195,
+        "best": [
+          "roa",
+          "roscher",
+          "tufo"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 473,
+        "best": [
+          "yopp",
+          "heape",
+          "heap"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 4111,
+        "best": [
+          "sow",
+          "sao",
+          "tsao"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 5598,
+        "best": [
+          "apt",
+          "jap",
+          "yapp"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 59,
+        "best": [
+          "haw",
+          "hawe",
+          "haugh"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 161,
+        "best": [
+          "hose",
+          "hoes",
+          "ths"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 4467,
+        "best": [
+          "wrage",
+          "rage",
+          "ushers"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 64,
+        "best": [
+          "eat",
+          "shutt",
+          "shut"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 4172,
+        "best": [
+          "wolke",
+          "lahiff",
+          "kerchief"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 37106,
+        "best": [
+          "chustz",
+          "strome",
+          "strohm"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 7171,
+        "best": [
+          "diet",
+          "paiva",
+          "shattered"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 273,
+        "best": [
+          "uy",
+          "soir",
+          "arroyo"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 680,
+        "best": [
+          "feed",
+          "fede",
+          "beauce"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 4067,
+        "best": [
+          "meer",
+          "asner",
+          "cheddar"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 13614,
+        "best": [
+          "toil",
+          "slav",
+          "ila"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 2336,
+        "best": [
+          "fenter",
+          "resort",
+          "nawrot"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 1095,
+        "best": [
+          "shoves",
+          "olague",
+          "holmer"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 9123,
+        "best": [
+          "tsao",
+          "phosphor",
+          "jose"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 893,
+        "best": [
+          "ayako",
+          "scout",
+          "girth"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 4154,
+        "best": [
+          "chato",
+          "oles",
+          "futher"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 15669,
+        "best": [
+          "jowly",
+          "cereno",
+          "tokio"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 3888,
+        "best": [
+          "beaucoup",
+          "hasid",
+          "cheats"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 414,
+        "best": [
+          "hopke",
+          "hump",
+          "hopf"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 3917,
+        "best": [
+          "joers",
+          "nature",
+          "loon"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 8504,
+        "best": [
+          "averse",
+          "was",
+          "shinn"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 9516,
+        "best": [
+          "voell",
+          "hohner",
+          "honer"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 2364,
+        "best": [
+          "acre",
+          "aker",
+          "achor"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 476,
+        "best": [
+          "osso",
+          "soohoo",
+          "husar"
+        ]
+      }
+    ],
+    "key": "3_1_1_2"
+  },
+  {
+    "n": 3,
+    "art": 1,
+    "alpha": 0.3,
+    "response_rank": 2,
+    "median_rank": 4613.0,
+    "mean_log_rank": 8.022389664632541,
+    "top10": 0,
+    "details": [
+      {
+        "word": "am",
+        "rank": 1133,
+        "best": [
+          "hershberger",
+          "haubert",
+          "herbert"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 148,
+        "best": [
+          "hosler",
+          "hostler",
+          "hossler"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 16748,
+        "best": [
+          "conway",
+          "lex",
+          "speechify"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 17594,
+        "best": [
+          "holquin",
+          "yarmulke",
+          "opens"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 25220,
+        "best": [
+          "sweatshirt",
+          "partner",
+          "rickers"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 18233,
+        "best": [
+          "etsu",
+          "acerra",
+          "flerfu"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 8114,
+        "best": [
+          "begg",
+          "beg",
+          "roping"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 887,
+        "best": [
+          "colaw",
+          "soil",
+          "sharry"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 58636,
+        "best": [
+          "disavow",
+          "jokers",
+          "airflows"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 4138,
+        "best": [
+          "goy",
+          "hattery",
+          "heradia"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 2294,
+        "best": [
+          "selves",
+          "moron",
+          "keirn"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 344,
+        "best": [
+          "scorpio",
+          "gnash",
+          "nash"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 26546,
+        "best": [
+          "depauw",
+          "sissom",
+          "koppell"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 4648,
+        "best": [
+          "tope",
+          "hodgepodge",
+          "hurm"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 4534,
+        "best": [
+          "thatcher",
+          "furfaro",
+          "fear"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 1165,
+        "best": [
+          "top",
+          "assam",
+          "schopfer"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 6344,
+        "best": [
+          "heusser",
+          "tufo",
+          "oja"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 1125,
+        "best": [
+          "app",
+          "hopf",
+          "ab"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 31,
+        "best": [
+          "hur",
+          "her",
+          "hooge"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 291,
+        "best": [
+          "hiser",
+          "heizer",
+          "hyser"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 7570,
+        "best": [
+          "thurn",
+          "catto",
+          "catoe"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 288,
+        "best": [
+          "coat",
+          "cote",
+          "kote"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 7537,
+        "best": [
+          "doby",
+          "wahid",
+          "morocco"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 30190,
+        "best": [
+          "fewell",
+          "spenner",
+          "goodhue"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 14008,
+        "best": [
+          "selves",
+          "fran",
+          "onnen"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 1325,
+        "best": [
+          "uyehara",
+          "saws",
+          "sause"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 4349,
+        "best": [
+          "radosh",
+          "official",
+          "motter"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 1155,
+        "best": [
+          "yedda",
+          "juana",
+          "wanna"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 8024,
+        "best": [
+          "stoker",
+          "stoecker",
+          "oana"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 5492,
+        "best": [
+          "cogley",
+          "fiesta",
+          "motyl"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 497,
+        "best": [
+          "bowes",
+          "boase",
+          "boes"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 9193,
+        "best": [
+          "holzhauser",
+          "gauer",
+          "gower"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 545,
+        "best": [
+          "ivers",
+          "heiges",
+          "gort"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 4578,
+        "best": [
+          "ashley",
+          "fledge",
+          "suits"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 8208,
+        "best": [
+          "sidi",
+          "perillo",
+          "furniture"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 7719,
+        "best": [
+          "snog",
+          "fescue",
+          "focus"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 1502,
+        "best": [
+          "hedgehog",
+          "hopped",
+          "hamme"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 656,
+        "best": [
+          "snooker",
+          "thither",
+          "gallow"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 9162,
+        "best": [
+          "oberle",
+          "caron",
+          "taffy"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 5349,
+        "best": [
+          "zada",
+          "oles",
+          "houdaille"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 6379,
+        "best": [
+          "owades",
+          "airs",
+          "heirs"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 360,
+        "best": [
+          "kuo",
+          "hosiery",
+          "stir"
+        ]
+      }
+    ],
+    "key": "3_1_0.3_2"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 1,
+    "response_rank": 2,
+    "median_rank": 4726.0,
+    "mean_log_rank": 8.270510761031593,
+    "top10": 0,
+    "details": [
+      {
+        "word": "am",
+        "rank": 1628,
+        "best": [
+          "shaped",
+          "scharpf",
+          "sapped"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 994,
+        "best": [
+          "sa",
+          "schau",
+          "show"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 13260,
+        "best": [
+          "dalma",
+          "jurek",
+          "yurek"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 37214,
+        "best": [
+          "domek",
+          "domecq",
+          "scrubbed"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 41669,
+        "best": [
+          "artist",
+          "gatliff",
+          "reserves"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 18252,
+        "best": [
+          "yasser",
+          "yasir",
+          "ceara"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 8593,
+        "best": [
+          "averbeck",
+          "airbag",
+          "rybak"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 704,
+        "best": [
+          "tso",
+          "sloe",
+          "slow"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 65088,
+        "best": [
+          "cajole",
+          "thunder",
+          "skid"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 3496,
+        "best": [
+          "footer",
+          "seiter",
+          "seitter"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 746,
+        "best": [
+          "bayonne",
+          "sawdust",
+          "belger"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 3112,
+        "best": [
+          "weave",
+          "zaid",
+          "toward"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 15058,
+        "best": [
+          "sums",
+          "somes",
+          "laib"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 4810,
+        "best": [
+          "eap",
+          "earp",
+          "hap"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 6717,
+        "best": [
+          "seer",
+          "shih",
+          "shi"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 181,
+        "best": [
+          "hip",
+          "hipp",
+          "hippe"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 4693,
+        "best": [
+          "shew",
+          "shiu",
+          "shoe"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 4248,
+        "best": [
+          "app",
+          "hemp",
+          "heaped"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 42,
+        "best": [
+          "ha",
+          "hah",
+          "haw"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 1163,
+        "best": [
+          "scharr",
+          "schar",
+          "schaar"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 14977,
+        "best": [
+          "cose",
+          "staff",
+          "staph"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 1200,
+        "best": [
+          "emmer",
+          "song",
+          "hanover"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 10380,
+        "best": [
+          "zunker",
+          "taunt",
+          "wig"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 61138,
+        "best": [
+          "omni",
+          "elena",
+          "duchossois"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 16520,
+        "best": [
+          "tipple",
+          "pin",
+          "pinn"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 379,
+        "best": [
+          "offshore",
+          "few",
+          "phew"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 2415,
+        "best": [
+          "spohn",
+          "spahn",
+          "spawn"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 7987,
+        "best": [
+          "setters",
+          "detar",
+          "gallow"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 8049,
+        "best": [
+          "sedor",
+          "totter",
+          "ezra"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 179,
+        "best": [
+          "fleitas",
+          "penry",
+          "costas"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 4518,
+        "best": [
+          "marois",
+          "pawn",
+          "macko"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 12832,
+        "best": [
+          "flohr",
+          "chaucer",
+          "loye"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 1561,
+        "best": [
+          "spong",
+          "sebby",
+          "sebi"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 4414,
+        "best": [
+          "siner",
+          "sinor",
+          "sinar"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 38782,
+        "best": [
+          "valero",
+          "bloor",
+          "slither"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 4759,
+        "best": [
+          "assign",
+          "chaos",
+          "olliff"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 370,
+        "best": [
+          "hemp",
+          "hump",
+          "hampe"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 7601,
+        "best": [
+          "soria",
+          "skewes",
+          "skews"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 8010,
+        "best": [
+          "suffered",
+          "rahway",
+          "lass"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 8831,
+        "best": [
+          "pugh",
+          "peugh",
+          "pew"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 3771,
+        "best": [
+          "inhofe",
+          "bauch",
+          "hadleigh"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 394,
+        "best": [
+          "stow",
+          "stowe",
+          "sur"
+        ]
+      }
+    ],
+    "key": "5_0.9_1_2"
+  },
+  {
+    "n": 5,
+    "art": 0.9,
+    "alpha": 0.3,
+    "response_rank": 2,
+    "median_rank": 5166.0,
+    "mean_log_rank": 8.38995918994209,
+    "top10": 0,
+    "details": [
+      {
+        "word": "am",
+        "rank": 1189,
+        "best": [
+          "sampre",
+          "samper",
+          "cupp"
+        ]
+      },
+      {
+        "word": "are",
+        "rank": 1222,
+        "best": [
+          "hutzler",
+          "hitler",
+          "chaw"
+        ]
+      },
+      {
+        "word": "bad",
+        "rank": 17057,
+        "best": [
+          "edgin",
+          "porreca",
+          "vowing"
+        ]
+      },
+      {
+        "word": "bring",
+        "rank": 32015,
+        "best": [
+          "wisdom",
+          "kingsport",
+          "arbat"
+        ]
+      },
+      {
+        "word": "clean",
+        "rank": 43934,
+        "best": [
+          "darpino",
+          "fixative",
+          "seastrand"
+        ]
+      },
+      {
+        "word": "closer",
+        "rank": 21914,
+        "best": [
+          "scotto",
+          "yerger",
+          "foell"
+        ]
+      },
+      {
+        "word": "coming",
+        "rank": 1064,
+        "best": [
+          "entrap",
+          "meme",
+          "enigma"
+        ]
+      },
+      {
+        "word": "do",
+        "rank": 657,
+        "best": [
+          "dorow",
+          "dorroh",
+          "doro"
+        ]
+      },
+      {
+        "word": "faith",
+        "rank": 69589,
+        "best": [
+          "olen",
+          "ahlen",
+          "aalen"
+        ]
+      },
+      {
+        "word": "feel",
+        "rank": 8479,
+        "best": [
+          "kodo",
+          "postwar",
+          "shirl"
+        ]
+      },
+      {
+        "word": "going",
+        "rank": 823,
+        "best": [
+          "evren",
+          "waterborne",
+          "southgate"
+        ]
+      },
+      {
+        "word": "good",
+        "rank": 2064,
+        "best": [
+          "lohn",
+          "lon",
+          "knode"
+        ]
+      },
+      {
+        "word": "goodbye",
+        "rank": 10056,
+        "best": [
+          "horned",
+          "housewives",
+          "klopfer"
+        ]
+      },
+      {
+        "word": "have",
+        "rank": 6198,
+        "best": [
+          "fop",
+          "shoupe",
+          "shupe"
+        ]
+      },
+      {
+        "word": "hello",
+        "rank": 7222,
+        "best": [
+          "iosue",
+          "tafaro",
+          "ciraulo"
+        ]
+      },
+      {
+        "word": "help",
+        "rank": 273,
+        "best": [
+          "om",
+          "shoupe",
+          "shoop"
+        ]
+      },
+      {
+        "word": "here",
+        "rank": 8856,
+        "best": [
+          "escrow",
+          "oughta",
+          "scheuer"
+        ]
+      },
+      {
+        "word": "hope",
+        "rank": 957,
+        "best": [
+          "app",
+          "humber",
+          "humph"
+        ]
+      },
+      {
+        "word": "how",
+        "rank": 46,
+        "best": [
+          "haar",
+          "har",
+          "hoho"
+        ]
+      },
+      {
+        "word": "i",
+        "rank": 3296,
+        "best": [
+          "ova",
+          "outgo",
+          "hotel"
+        ]
+      },
+      {
+        "word": "is",
+        "rank": 21933,
+        "best": [
+          "funder",
+          "goodhue",
+          "chafee"
+        ]
+      },
+      {
+        "word": "it",
+        "rank": 1306,
+        "best": [
+          "hydras",
+          "aced",
+          "aist"
+        ]
+      },
+      {
+        "word": "like",
+        "rank": 14501,
+        "best": [
+          "hoffmeister",
+          "st",
+          "saint"
+        ]
+      },
+      {
+        "word": "my",
+        "rank": 48780,
+        "best": [
+          "prada",
+          "spared",
+          "holstine"
+        ]
+      },
+      {
+        "word": "need",
+        "rank": 12614,
+        "best": [
+          "ewing",
+          "naive",
+          "paddle"
+        ]
+      },
+      {
+        "word": "no",
+        "rank": 1443,
+        "best": [
+          "hartzler",
+          "ester",
+          "esther"
+        ]
+      },
+      {
+        "word": "not",
+        "rank": 5191,
+        "best": [
+          "porras",
+          "overturf",
+          "kartchner"
+        ]
+      },
+      {
+        "word": "nurse",
+        "rank": 2414,
+        "best": [
+          "cheadle",
+          "bonar",
+          "bohner"
+        ]
+      },
+      {
+        "word": "okay",
+        "rank": 4428,
+        "best": [
+          "salz",
+          "salls",
+          "sauls"
+        ]
+      },
+      {
+        "word": "please",
+        "rank": 7305,
+        "best": [
+          "trials",
+          "pillars",
+          "dolan"
+        ]
+      },
+      {
+        "word": "right",
+        "rank": 5074,
+        "best": [
+          "beaupre",
+          "soundview",
+          "byrge"
+        ]
+      },
+      {
+        "word": "tell",
+        "rank": 12581,
+        "best": [
+          "chesser",
+          "scheffler",
+          "power"
+        ]
+      },
+      {
+        "word": "that",
+        "rank": 1109,
+        "best": [
+          "handley",
+          "handly",
+          "eilts"
+        ]
+      },
+      {
+        "word": "they",
+        "rank": 6379,
+        "best": [
+          "akali",
+          "fyodorov",
+          "sauterne"
+        ]
+      },
+      {
+        "word": "thirsty",
+        "rank": 26093,
+        "best": [
+          "norell",
+          "norrell",
+          "moray"
+        ]
+      },
+      {
+        "word": "tired",
+        "rank": 14537,
+        "best": [
+          "foxwood",
+          "noth",
+          "knoth"
+        ]
+      },
+      {
+        "word": "up",
+        "rank": 1204,
+        "best": [
+          "homed",
+          "harcum",
+          "hopke"
+        ]
+      },
+      {
+        "word": "very",
+        "rank": 3832,
+        "best": [
+          "govier",
+          "onorato",
+          "pixler"
+        ]
+      },
+      {
+        "word": "what",
+        "rank": 5141,
+        "best": [
+          "hughston",
+          "houston",
+          "overshot"
+        ]
+      },
+      {
+        "word": "where",
+        "rank": 2236,
+        "best": [
+          "corzo",
+          "pirro",
+          "pierro"
+        ]
+      },
+      {
+        "word": "yes",
+        "rank": 9306,
+        "best": [
+          "tierco",
+          "kemmerer",
+          "kemerer"
+        ]
+      },
+      {
+        "word": "you",
+        "rank": 1017,
+        "best": [
+          "schussler",
+          "seashore",
+          "oyster"
+        ]
+      }
+    ],
+    "key": "5_0.9_0.3_2"
+  }
+]

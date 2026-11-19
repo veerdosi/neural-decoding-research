@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-11-18T16:58:27.726282+00:00",
+  "decision": "Choose homogeneous-only calibration because both development protocols decoded every trial; this more stringent scheme exposes no mixed word order during calibration. Keep original preprocessing and prompt.",
+  "development_results": {
+    "homogeneous": {
+      "exact_correct": 12,
+      "n": 12
+    },
+    "parity": {
+      "exact_correct": 8,
+      "n": 8
+    }
+  },
+  "confirmation": "All 62 eligible mixed-sequence trials in chronological second half; two independent identical-prompt calls, within-word-bag shuffled recordings and no-signal control.",
+  "recipe_sha256": "09508ecee8934a05caab8ee30196ef79c6548497460712610823b535baeb3070",
+  "new_hypothesis": "Reused word patterns plus timing adaptation support ordered unseen combinations; generic slot baselines may fail because timing is variable. Add temporal sequence baselines before claiming advantage."
+}

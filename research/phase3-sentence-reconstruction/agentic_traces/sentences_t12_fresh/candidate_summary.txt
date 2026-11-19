@@ -1,0 +1,16 @@
+tda989373 1.76 they need what | 1.68 they need that | 1.44 they do that | 1.39 they do what | 1.36 they are what | 1.13 they do it
+tdd25032b 7.00 tell my family i do not feel very thirsty | 6.88 tell my family i do not feel thirsty | 6.73 tell my family i do not feel hungry | 6.60 tell my family they do not feel thirsty | 6.52 tell my family i do not feel comfortable | 6.50 tell my family they do not feel very hungry
+t5ee44a7f 2.89 my music is here | 2.31 no music is here | 2.18 my music here | 1.96 bring it here | 1.74 bring music here
+tdf8f9fae 2.47 i hope you have | 2.20 i hope i have | 2.08 i hope they have | 1.73 i hope you | 1.42 i hope they | 1.24 i hope they feel
+t4f16b000 1.06 is my faith | 0.82 is my family | 0.62 is music | 0.55 are they coming | 0.51 is my music | 0.28 my family
+t40a0a424 5.64 no i do not feel not comfortable | 5.44 no i do not feel very comfortable | 5.23 no i do not feel comfortable | 5.21 i do not feel very comfortable | 5.11 no they do not feel very comfortable | 4.85 no you do not feel very comfortable
+tf256b8ed 4.05 tell my nurse very good | 3.86 tell my nurse is very good | 3.67 tell my family very good | 3.55 tell my nurse i am very good | 3.54 tell my nurse you are good | 3.51 tell my nurse they are good
+t12be1627 1.03 they bring it | 0.89 they like it | 0.76 i like family | 0.74 i bring it | 0.74 i like it | 0.68 i like you
+t42cfafec 3.26 i hope have faith | 3.20 i hope my faith | 3.19 i hope i have faith | 3.16 i hope you have faith | 3.16 they hope i have faith | 3.06 you hope i have faith
+te3715f88 3.56 tell my family good | 3.47 tell is my family good | 3.37 you tell my family good | 3.23 you need my family good | 2.95 tell my family is good | 2.77 tell my family very good
+tb8083852 2.98 my family is good | 2.85 my family do good | 2.69 my music is good | 2.58 my family is not good | 2.37 my music is not good | 2.34 family is not good
+t9024802d 3.09 do is it | 2.81 do not need it | 2.23 do not do it | 2.22 do not like it | 2.11 do you like it | 1.93 do not like that
+t2b08e042 2.33 my faith they are good | 2.07 my faith is good | 2.00 my nurse they are good | 2.00 my faith are good | 1.96 my nurse is good | 1.95 my faith good
+t62254eda 3.90 that feel very comfortable | 3.73 they feel comfortable | 3.58 that is not very comfortable | 3.50 they feel very comfortable | 3.47 i feel very comfortable | 3.28 they are very comfortable
+t9db27598 2.88 is my nurse am comfortable | 2.76 is my nurse very comfortable | 2.73 is my nurse comfortable | 2.67 is my nurse not comfortable | 2.52 is my nurse not comfortable you | 2.48 is my nurse comfortable you
+tef25d0d3 2.86 they do not need faith | 2.78 i do not have faith | 2.70 they do not have faith | 2.68 do i not have faith | 2.66 how do i have faith | 2.59 how do i not have faith

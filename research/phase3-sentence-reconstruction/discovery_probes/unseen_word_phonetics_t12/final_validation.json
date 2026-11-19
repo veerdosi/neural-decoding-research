@@ -1,0 +1,6201 @@
+{
+  "dictionary_entries": 126052,
+  "dictionary_pronunciations": 134860,
+  "validation": [
+    {
+      "model": {
+        "n": 3,
+        "art": 1,
+        "vowelweight": 1,
+        "normalize": 0,
+        "alpha": 1,
+        "gamma": 0
+      },
+      "mean_neural_squared_error": 753.8285299357498,
+      "null_mean_neural_squared_error": 855.4834005504268,
+      "relative_error_reduction": 0.11882740278685866,
+      "median_dictionary_rank": 38.5,
+      "top1": 3,
+      "top10": 10,
+      "top100": 29,
+      "details": [
+        {
+          "word": "am",
+          "rank": 48,
+          "top5": [
+            {
+              "word": "hahm",
+              "phonemes": [
+                "HH",
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "hamme",
+              "phonemes": [
+                "HH",
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "ham",
+              "phonemes": [
+                "HH",
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "hamm",
+              "phonemes": [
+                "HH",
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "hemme",
+              "phonemes": [
+                "HH",
+                "EH",
+                "M"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "are",
+          "rank": 183,
+          "top5": [
+            {
+              "word": "chewer",
+              "phonemes": [
+                "CH",
+                "UW",
+                "ER"
+              ]
+            },
+            {
+              "word": "shirr",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "scher",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "schurr",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "shir",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "bad",
+          "rank": 24,
+          "top5": [
+            {
+              "word": "made",
+              "phonemes": [
+                "M",
+                "EY",
+                "D"
+              ]
+            },
+            {
+              "word": "mayde",
+              "phonemes": [
+                "M",
+                "EY",
+                "D"
+              ]
+            },
+            {
+              "word": "maid",
+              "phonemes": [
+                "M",
+                "EY",
+                "D"
+              ]
+            },
+            {
+              "word": "madd",
+              "phonemes": [
+                "M",
+                "AE",
+                "D"
+              ]
+            },
+            {
+              "word": "mad",
+              "phonemes": [
+                "M",
+                "AE",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "bring",
+          "rank": 24,
+          "top5": [
+            {
+              "word": "bing",
+              "phonemes": [
+                "B",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "bitching",
+              "phonemes": [
+                "B",
+                "IH",
+                "CH",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "patching",
+              "phonemes": [
+                "P",
+                "AE",
+                "CH",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "reaping",
+              "phonemes": [
+                "R",
+                "IY",
+                "P",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "beaching",
+              "phonemes": [
+                "B",
+                "IY",
+                "CH",
+                "IH",
+                "NG"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "clean",
+          "rank": 592,
+          "top5": [
+            {
+              "word": "gained",
+              "phonemes": [
+                "G",
+                "EY",
+                "N",
+                "D"
+              ]
+            },
+            {
+              "word": "lakin",
+              "phonemes": [
+                "L",
+                "AE",
+                "K",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "dings",
+              "phonemes": [
+                "D",
+                "IH",
+                "NG",
+                "Z"
+              ]
+            },
+            {
+              "word": "nagin",
+              "phonemes": [
+                "N",
+                "EY",
+                "G",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "knigge",
+              "phonemes": [
+                "N",
+                "IH",
+                "G"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "closer",
+          "rank": 1168,
+          "top5": [
+            {
+              "word": "ausley",
+              "phonemes": [
+                "AO",
+                "S",
+                "L",
+                "IY"
+              ]
+            },
+            {
+              "word": "footer",
+              "phonemes": [
+                "F",
+                "UH",
+                "T",
+                "ER"
+              ]
+            },
+            {
+              "word": "saute",
+              "phonemes": [
+                "S",
+                "AO",
+                "T",
+                "EY"
+              ]
+            },
+            {
+              "word": "ousley",
+              "phonemes": [
+                "AW",
+                "S",
+                "L",
+                "IY"
+              ]
+            },
+            {
+              "word": "owsley",
+              "phonemes": [
+                "AW",
+                "S",
+                "L",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "coming",
+          "rank": 3,
+          "top5": [
+            {
+              "word": "eichman",
+              "phonemes": [
+                "AY",
+                "K",
+                "M",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "eichmann",
+              "phonemes": [
+                "AY",
+                "K",
+                "M",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "cumming",
+              "phonemes": [
+                "K",
+                "AH",
+                "M",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "coming",
+              "phonemes": [
+                "K",
+                "AH",
+                "M",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "aikman",
+              "phonemes": [
+                "EY",
+                "K",
+                "M",
+                "AH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "do",
+          "rank": 38,
+          "top5": [
+            {
+              "word": "zue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "zoo",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "xu",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "xue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "gnu",
+              "phonemes": [
+                "N",
+                "UW"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "faith",
+          "rank": 5456,
+          "top5": [
+            {
+              "word": "j's",
+              "phonemes": [
+                "JH",
+                "EY",
+                "Z"
+              ]
+            },
+            {
+              "word": "j.'s",
+              "phonemes": [
+                "JH",
+                "EY",
+                "Z"
+              ]
+            },
+            {
+              "word": "jae's",
+              "phonemes": [
+                "JH",
+                "EY",
+                "Z"
+              ]
+            },
+            {
+              "word": "jay's",
+              "phonemes": [
+                "JH",
+                "EY",
+                "Z"
+              ]
+            },
+            {
+              "word": "jays",
+              "phonemes": [
+                "JH",
+                "EY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "feel",
+          "rank": 264,
+          "top5": [
+            {
+              "word": "cello",
+              "phonemes": [
+                "CH",
+                "EH",
+                "L",
+                "OW"
+              ]
+            },
+            {
+              "word": "pellow",
+              "phonemes": [
+                "P",
+                "EH",
+                "L",
+                "OW"
+              ]
+            },
+            {
+              "word": "toil",
+              "phonemes": [
+                "T",
+                "OY",
+                "L"
+              ]
+            },
+            {
+              "word": "tel",
+              "phonemes": [
+                "T",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "tell",
+              "phonemes": [
+                "T",
+                "EH",
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "going",
+          "rank": 6,
+          "top5": [
+            {
+              "word": "careen",
+              "phonemes": [
+                "K",
+                "ER",
+                "IY",
+                "N"
+              ]
+            },
+            {
+              "word": "corinne",
+              "phonemes": [
+                "K",
+                "ER",
+                "IY",
+                "N"
+              ]
+            },
+            {
+              "word": "cowin",
+              "phonemes": [
+                "K",
+                "AW",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "gowing",
+              "phonemes": [
+                "G",
+                "AW",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "gowin",
+              "phonemes": [
+                "G",
+                "AW",
+                "IH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "good",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "goode",
+              "phonemes": [
+                "G",
+                "UH",
+                "D"
+              ]
+            },
+            {
+              "word": "good",
+              "phonemes": [
+                "G",
+                "UH",
+                "D"
+              ]
+            },
+            {
+              "word": "jude",
+              "phonemes": [
+                "JH",
+                "UW",
+                "D"
+              ]
+            },
+            {
+              "word": "jewett",
+              "phonemes": [
+                "JH",
+                "UW",
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "jewitt",
+              "phonemes": [
+                "JH",
+                "UW",
+                "IH",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "goodbye",
+          "rank": 3662,
+          "top5": [
+            {
+              "word": "showtime",
+              "phonemes": [
+                "SH",
+                "OW",
+                "T",
+                "AY",
+                "M"
+              ]
+            },
+            {
+              "word": "supine",
+              "phonemes": [
+                "S",
+                "AH",
+                "P",
+                "AY",
+                "N"
+              ]
+            },
+            {
+              "word": "kulpa",
+              "phonemes": [
+                "K",
+                "AH",
+                "L",
+                "P",
+                "AH"
+              ]
+            },
+            {
+              "word": "culpa",
+              "phonemes": [
+                "K",
+                "AH",
+                "L",
+                "P",
+                "AH"
+              ]
+            },
+            {
+              "word": "saipan",
+              "phonemes": [
+                "S",
+                "EY",
+                "P",
+                "AH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "have",
+          "rank": 846,
+          "top5": [
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hub",
+              "phonemes": [
+                "HH",
+                "AH",
+                "B"
+              ]
+            },
+            {
+              "word": "hype",
+              "phonemes": [
+                "HH",
+                "AY",
+                "P"
+              ]
+            },
+            {
+              "word": "herb",
+              "phonemes": [
+                "HH",
+                "ER",
+                "B"
+              ]
+            },
+            {
+              "word": "schupp",
+              "phonemes": [
+                "SH",
+                "AH",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "hello",
+          "rank": 12,
+          "top5": [
+            {
+              "word": "sola",
+              "phonemes": [
+                "S",
+                "OW",
+                "L",
+                "AH"
+              ]
+            },
+            {
+              "word": "soileau",
+              "phonemes": [
+                "S",
+                "OY",
+                "L",
+                "OW"
+              ]
+            },
+            {
+              "word": "hula",
+              "phonemes": [
+                "HH",
+                "UW",
+                "L",
+                "AH"
+              ]
+            },
+            {
+              "word": "solo",
+              "phonemes": [
+                "S",
+                "OW",
+                "L",
+                "OW"
+              ]
+            },
+            {
+              "word": "silo",
+              "phonemes": [
+                "S",
+                "AY",
+                "L",
+                "OW"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "help",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "help",
+              "phonemes": [
+                "HH",
+                "EH",
+                "L",
+                "P"
+              ]
+            },
+            {
+              "word": "hep",
+              "phonemes": [
+                "HH",
+                "EH",
+                "P"
+              ]
+            },
+            {
+              "word": "hepp",
+              "phonemes": [
+                "HH",
+                "EH",
+                "P"
+              ]
+            },
+            {
+              "word": "heppe",
+              "phonemes": [
+                "HH",
+                "EH",
+                "P"
+              ]
+            },
+            {
+              "word": "hippe",
+              "phonemes": [
+                "HH",
+                "IH",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "here",
+          "rank": 110,
+          "top5": [
+            {
+              "word": "seer",
+              "phonemes": [
+                "S",
+                "IY",
+                "R"
+              ]
+            },
+            {
+              "word": "sere",
+              "phonemes": [
+                "S",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "cyr",
+              "phonemes": [
+                "S",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "sear",
+              "phonemes": [
+                "S",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "sayre",
+              "phonemes": [
+                "S",
+                "EH",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "hope",
+          "rank": 128,
+          "top5": [
+            {
+              "word": "hump",
+              "phonemes": [
+                "HH",
+                "AH",
+                "M",
+                "P"
+              ]
+            },
+            {
+              "word": "chomp",
+              "phonemes": [
+                "CH",
+                "AA",
+                "M",
+                "P"
+              ]
+            },
+            {
+              "word": "hemp",
+              "phonemes": [
+                "HH",
+                "EH",
+                "M",
+                "P"
+              ]
+            },
+            {
+              "word": "hopf",
+              "phonemes": [
+                "HH",
+                "AA",
+                "P",
+                "F"
+              ]
+            },
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "how",
+          "rank": 9,
+          "top5": [
+            {
+              "word": "houge",
+              "phonemes": [
+                "HH",
+                "AW",
+                "JH"
+              ]
+            },
+            {
+              "word": "haar",
+              "phonemes": [
+                "HH",
+                "AA",
+                "R"
+              ]
+            },
+            {
+              "word": "har",
+              "phonemes": [
+                "HH",
+                "AA",
+                "R"
+              ]
+            },
+            {
+              "word": "hire",
+              "phonemes": [
+                "HH",
+                "AY",
+                "R"
+              ]
+            },
+            {
+              "word": "hyre",
+              "phonemes": [
+                "HH",
+                "AY",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "i",
+          "rank": 25,
+          "top5": [
+            {
+              "word": "oye",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oie",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oy",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oi",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oyer",
+              "phonemes": [
+                "OY",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "rank": 5,
+          "top5": [
+            {
+              "word": "dis",
+              "phonemes": [
+                "D",
+                "IH",
+                "S"
+              ]
+            },
+            {
+              "word": "diss",
+              "phonemes": [
+                "D",
+                "IH",
+                "S"
+              ]
+            },
+            {
+              "word": "dease",
+              "phonemes": [
+                "D",
+                "IY",
+                "S"
+              ]
+            },
+            {
+              "word": "zeese",
+              "phonemes": [
+                "Z",
+                "IY",
+                "S"
+              ]
+            },
+            {
+              "word": "is",
+              "phonemes": [
+                "IH",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "it",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "eat",
+              "phonemes": [
+                "IY",
+                "T"
+              ]
+            },
+            {
+              "word": "it",
+              "phonemes": [
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "at",
+              "phonemes": [
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "ede",
+              "phonemes": [
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "eade",
+              "phonemes": [
+                "IY",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "rank": 36,
+          "top5": [
+            {
+              "word": "lake",
+              "phonemes": [
+                "L",
+                "EY",
+                "K"
+              ]
+            },
+            {
+              "word": "lech",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            },
+            {
+              "word": "leck",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            },
+            {
+              "word": "lek",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            },
+            {
+              "word": "lack",
+              "phonemes": [
+                "L",
+                "AE",
+                "K"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "my",
+          "rank": 49,
+          "top5": [
+            {
+              "word": "bue",
+              "phonemes": [
+                "B",
+                "W",
+                "EH"
+              ]
+            },
+            {
+              "word": "macha",
+              "phonemes": [
+                "M",
+                "AE",
+                "CH",
+                "AH"
+              ]
+            },
+            {
+              "word": "bray",
+              "phonemes": [
+                "B",
+                "R",
+                "EY"
+              ]
+            },
+            {
+              "word": "brey",
+              "phonemes": [
+                "B",
+                "R",
+                "EY"
+              ]
+            },
+            {
+              "word": "brae",
+              "phonemes": [
+                "B",
+                "R",
+                "EY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "need",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "need",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "nied",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "nead",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "kneed",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "knead",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "no",
+          "rank": 13,
+          "top5": [
+            {
+              "word": "gnaw",
+              "phonemes": [
+                "N",
+                "AO"
+              ]
+            },
+            {
+              "word": "nu",
+              "phonemes": [
+                "N",
+                "UW"
+              ]
+            },
+            {
+              "word": "gnu",
+              "phonemes": [
+                "N",
+                "UW"
+              ]
+            },
+            {
+              "word": "knew",
+              "phonemes": [
+                "N",
+                "UW"
+              ]
+            },
+            {
+              "word": "new",
+              "phonemes": [
+                "N",
+                "UW"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "not",
+          "rank": 39,
+          "top5": [
+            {
+              "word": "knight",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "nite",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "night",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "lite",
+              "phonemes": [
+                "L",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "light",
+              "phonemes": [
+                "L",
+                "AY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "nurse",
+          "rank": 15,
+          "top5": [
+            {
+              "word": "nous",
+              "phonemes": [
+                "N",
+                "UW",
+                "S"
+              ]
+            },
+            {
+              "word": "noose",
+              "phonemes": [
+                "N",
+                "UW",
+                "S"
+              ]
+            },
+            {
+              "word": "news",
+              "phonemes": [
+                "N",
+                "UW",
+                "Z"
+              ]
+            },
+            {
+              "word": "news'",
+              "phonemes": [
+                "N",
+                "UW",
+                "Z"
+              ]
+            },
+            {
+              "word": "diss",
+              "phonemes": [
+                "D",
+                "IH",
+                "S"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "okay",
+          "rank": 36,
+          "top5": [
+            {
+              "word": "autery",
+              "phonemes": [
+                "OW",
+                "T",
+                "ER",
+                "IY"
+              ]
+            },
+            {
+              "word": "coyer",
+              "phonemes": [
+                "K",
+                "OY",
+                "ER"
+              ]
+            },
+            {
+              "word": "ochre",
+              "phonemes": [
+                "OW",
+                "K",
+                "ER"
+              ]
+            },
+            {
+              "word": "coccia",
+              "phonemes": [
+                "K",
+                "OW",
+                "CH",
+                "AH"
+              ]
+            },
+            {
+              "word": "cushy",
+              "phonemes": [
+                "K",
+                "UH",
+                "SH",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "please",
+          "rank": 9,
+          "top5": [
+            {
+              "word": "blish",
+              "phonemes": [
+                "B",
+                "L",
+                "IH",
+                "SH"
+              ]
+            },
+            {
+              "word": "blyth",
+              "phonemes": [
+                "B",
+                "L",
+                "IH",
+                "TH"
+              ]
+            },
+            {
+              "word": "pris",
+              "phonemes": [
+                "P",
+                "R",
+                "IH",
+                "S"
+              ]
+            },
+            {
+              "word": "brys",
+              "phonemes": [
+                "B",
+                "R",
+                "IH",
+                "S"
+              ]
+            },
+            {
+              "word": "preece",
+              "phonemes": [
+                "P",
+                "R",
+                "IY",
+                "S"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "right",
+          "rank": 47,
+          "top5": [
+            {
+              "word": "white",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "wight",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "whyte",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "what",
+              "phonemes": [
+                "W",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "whet",
+              "phonemes": [
+                "W",
+                "EH",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "tell",
+          "rank": 495,
+          "top5": [
+            {
+              "word": "foyle",
+              "phonemes": [
+                "F",
+                "OY",
+                "L"
+              ]
+            },
+            {
+              "word": "foil",
+              "phonemes": [
+                "F",
+                "OY",
+                "L"
+              ]
+            },
+            {
+              "word": "soil",
+              "phonemes": [
+                "S",
+                "OY",
+                "L"
+              ]
+            },
+            {
+              "word": "full",
+              "phonemes": [
+                "F",
+                "UH",
+                "L"
+              ]
+            },
+            {
+              "word": "floy",
+              "phonemes": [
+                "F",
+                "L",
+                "OY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "lat",
+              "phonemes": [
+                "L",
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "that",
+              "phonemes": [
+                "DH",
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "zeit",
+              "phonemes": [
+                "Z",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "let",
+              "phonemes": [
+                "L",
+                "EH",
+                "T"
+              ]
+            },
+            {
+              "word": "lett",
+              "phonemes": [
+                "L",
+                "EH",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "they",
+          "rank": 67,
+          "top5": [
+            {
+              "word": "zich",
+              "phonemes": [
+                "Z",
+                "IH",
+                "CH"
+              ]
+            },
+            {
+              "word": "ditch",
+              "phonemes": [
+                "D",
+                "IH",
+                "CH"
+              ]
+            },
+            {
+              "word": "dietsch",
+              "phonemes": [
+                "D",
+                "IY",
+                "CH"
+              ]
+            },
+            {
+              "word": "dietsche",
+              "phonemes": [
+                "D",
+                "IY",
+                "CH"
+              ]
+            },
+            {
+              "word": "zee",
+              "phonemes": [
+                "Z",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "thirsty",
+          "rank": 3816,
+          "top5": [
+            {
+              "word": "rowsey",
+              "phonemes": [
+                "R",
+                "OW",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "josie",
+              "phonemes": [
+                "JH",
+                "OW",
+                "Z",
+                "IY"
+              ]
+            },
+            {
+              "word": "josey",
+              "phonemes": [
+                "JH",
+                "OW",
+                "Z",
+                "IY"
+              ]
+            },
+            {
+              "word": "rossi",
+              "phonemes": [
+                "R",
+                "AO",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "rossie",
+              "phonemes": [
+                "R",
+                "AO",
+                "S",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "tired",
+          "rank": 994,
+          "top5": [
+            {
+              "word": "schoene",
+              "phonemes": [
+                "SH",
+                "AA",
+                "IY",
+                "N"
+              ]
+            },
+            {
+              "word": "qian",
+              "phonemes": [
+                "K",
+                "IY",
+                "AA",
+                "N"
+              ]
+            },
+            {
+              "word": "joann",
+              "phonemes": [
+                "JH",
+                "OW",
+                "AE",
+                "N"
+              ]
+            },
+            {
+              "word": "joanne",
+              "phonemes": [
+                "JH",
+                "OW",
+                "AE",
+                "N"
+              ]
+            },
+            {
+              "word": "geon",
+              "phonemes": [
+                "JH",
+                "IY",
+                "AA",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "up",
+          "rank": 113,
+          "top5": [
+            {
+              "word": "hump",
+              "phonemes": [
+                "HH",
+                "AH",
+                "M",
+                "P"
+              ]
+            },
+            {
+              "word": "hap",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "happ",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "happe",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "hemp",
+              "phonemes": [
+                "HH",
+                "EH",
+                "M",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "very",
+          "rank": 49,
+          "top5": [
+            {
+              "word": "freeh",
+              "phonemes": [
+                "F",
+                "R",
+                "IY"
+              ]
+            },
+            {
+              "word": "free",
+              "phonemes": [
+                "F",
+                "R",
+                "IY"
+              ]
+            },
+            {
+              "word": "frey",
+              "phonemes": [
+                "F",
+                "R",
+                "EY"
+              ]
+            },
+            {
+              "word": "fray",
+              "phonemes": [
+                "F",
+                "R",
+                "EY"
+              ]
+            },
+            {
+              "word": "beacher",
+              "phonemes": [
+                "B",
+                "IY",
+                "CH",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "what",
+          "rank": 28,
+          "top5": [
+            {
+              "word": "routt",
+              "phonemes": [
+                "R",
+                "AW",
+                "T"
+              ]
+            },
+            {
+              "word": "rout",
+              "phonemes": [
+                "R",
+                "AW",
+                "T"
+              ]
+            },
+            {
+              "word": "route",
+              "phonemes": [
+                "R",
+                "AW",
+                "T"
+              ]
+            },
+            {
+              "word": "raut",
+              "phonemes": [
+                "R",
+                "AW",
+                "T"
+              ]
+            },
+            {
+              "word": "wight",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "where",
+          "rank": 90,
+          "top5": [
+            {
+              "word": "reh",
+              "phonemes": [
+                "R",
+                "EH"
+              ]
+            },
+            {
+              "word": "veer",
+              "phonemes": [
+                "V",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "vere",
+              "phonemes": [
+                "V",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "giere",
+              "phonemes": [
+                "JH",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "jeer",
+              "phonemes": [
+                "JH",
+                "IH",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "yes",
+          "rank": 27,
+          "top5": [
+            {
+              "word": "dass",
+              "phonemes": [
+                "D",
+                "AE",
+                "S"
+              ]
+            },
+            {
+              "word": "das",
+              "phonemes": [
+                "D",
+                "AE",
+                "S"
+              ]
+            },
+            {
+              "word": "tass",
+              "phonemes": [
+                "T",
+                "AE",
+                "S"
+              ]
+            },
+            {
+              "word": "des",
+              "phonemes": [
+                "D",
+                "EH",
+                "S"
+              ]
+            },
+            {
+              "word": "death",
+              "phonemes": [
+                "D",
+                "EH",
+                "TH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "rank": 76,
+          "top5": [
+            {
+              "word": "to",
+              "phonemes": [
+                "T",
+                "UW"
+              ]
+            },
+            {
+              "word": "tu",
+              "phonemes": [
+                "T",
+                "UW"
+              ]
+            },
+            {
+              "word": "tew",
+              "phonemes": [
+                "T",
+                "UW"
+              ]
+            },
+            {
+              "word": "two",
+              "phonemes": [
+                "T",
+                "UW"
+              ]
+            },
+            {
+              "word": "thuy",
+              "phonemes": [
+                "T",
+                "UW"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": {
+        "n": 5,
+        "art": 0.9,
+        "vowelweight": 2,
+        "normalize": 0,
+        "alpha": 0.3,
+        "gamma": 15
+      },
+      "mean_neural_squared_error": 796.2347678459479,
+      "null_mean_neural_squared_error": 855.4834005504268,
+      "relative_error_reduction": 0.06925748958583855,
+      "median_dictionary_rank": 60.0,
+      "top1": 2,
+      "top10": 11,
+      "top100": 26,
+      "details": [
+        {
+          "word": "am",
+          "rank": 3,
+          "top5": [
+            {
+              "word": "hymn",
+              "phonemes": [
+                "HH",
+                "IH",
+                "M"
+              ]
+            },
+            {
+              "word": "him",
+              "phonemes": [
+                "HH",
+                "IH",
+                "M"
+              ]
+            },
+            {
+              "word": "am",
+              "phonemes": [
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "hahm",
+              "phonemes": [
+                "HH",
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "hamme",
+              "phonemes": [
+                "HH",
+                "AE",
+                "M"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "are",
+          "rank": 66,
+          "top5": [
+            {
+              "word": "schur",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "shur",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "schurr",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "shurr",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            },
+            {
+              "word": "sher",
+              "phonemes": [
+                "SH",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "bad",
+          "rank": 11,
+          "top5": [
+            {
+              "word": "made",
+              "phonemes": [
+                "M",
+                "EY",
+                "D"
+              ]
+            },
+            {
+              "word": "maid",
+              "phonemes": [
+                "M",
+                "EY",
+                "D"
+              ]
+            },
+            {
+              "word": "mayde",
+              "phonemes": [
+                "M",
+                "EY",
+                "D"
+              ]
+            },
+            {
+              "word": "med",
+              "phonemes": [
+                "M",
+                "EH",
+                "D"
+              ]
+            },
+            {
+              "word": "bade",
+              "phonemes": [
+                "B",
+                "EY",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "bring",
+          "rank": 159,
+          "top5": [
+            {
+              "word": "bing",
+              "phonemes": [
+                "B",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "mig",
+              "phonemes": [
+                "M",
+                "IH",
+                "G"
+              ]
+            },
+            {
+              "word": "big",
+              "phonemes": [
+                "B",
+                "IH",
+                "G"
+              ]
+            },
+            {
+              "word": "ming",
+              "phonemes": [
+                "M",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "ping",
+              "phonemes": [
+                "P",
+                "IH",
+                "NG"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "clean",
+          "rank": 508,
+          "top5": [
+            {
+              "word": "knin",
+              "phonemes": [
+                "N",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "zain",
+              "phonemes": [
+                "Z",
+                "EY",
+                "N"
+              ]
+            },
+            {
+              "word": "zane",
+              "phonemes": [
+                "Z",
+                "EY",
+                "N"
+              ]
+            },
+            {
+              "word": "glynn",
+              "phonemes": [
+                "G",
+                "L",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "glyn",
+              "phonemes": [
+                "G",
+                "L",
+                "IH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "closer",
+          "rank": 6286,
+          "top5": [
+            {
+              "word": "saudi",
+              "phonemes": [
+                "S",
+                "AO",
+                "D",
+                "IY"
+              ]
+            },
+            {
+              "word": "sawdy",
+              "phonemes": [
+                "S",
+                "AO",
+                "D",
+                "IY"
+              ]
+            },
+            {
+              "word": "sawdey",
+              "phonemes": [
+                "S",
+                "AO",
+                "D",
+                "IY"
+              ]
+            },
+            {
+              "word": "saute",
+              "phonemes": [
+                "S",
+                "AO",
+                "T",
+                "EY"
+              ]
+            },
+            {
+              "word": "schutter",
+              "phonemes": [
+                "SH",
+                "AH",
+                "T",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "coming",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "coming",
+              "phonemes": [
+                "K",
+                "AH",
+                "M",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "cumming",
+              "phonemes": [
+                "K",
+                "AH",
+                "M",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "capping",
+              "phonemes": [
+                "K",
+                "AE",
+                "P",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "curbing",
+              "phonemes": [
+                "K",
+                "ER",
+                "B",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "eidem",
+              "phonemes": [
+                "AY",
+                "D",
+                "IH",
+                "M"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "do",
+          "rank": 13,
+          "top5": [
+            {
+              "word": "xu",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "xue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "zoo",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "zue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "gnaw",
+              "phonemes": [
+                "N",
+                "AO"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "faith",
+          "rank": 862,
+          "top5": [
+            {
+              "word": "vase",
+              "phonemes": [
+                "V",
+                "EY",
+                "S"
+              ]
+            },
+            {
+              "word": "v.'s",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "v.s",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "v's",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "vees",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "feel",
+          "rank": 148,
+          "top5": [
+            {
+              "word": "tell",
+              "phonemes": [
+                "T",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "tel",
+              "phonemes": [
+                "T",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "fell",
+              "phonemes": [
+                "F",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "fel",
+              "phonemes": [
+                "F",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "fehl",
+              "phonemes": [
+                "F",
+                "EH",
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "going",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "gowin",
+              "phonemes": [
+                "G",
+                "AW",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "going",
+              "phonemes": [
+                "G",
+                "OW",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "gowing",
+              "phonemes": [
+                "G",
+                "AW",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "erwin",
+              "phonemes": [
+                "ER",
+                "W",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "irwin",
+              "phonemes": [
+                "ER",
+                "W",
+                "IH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "good",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "good",
+              "phonemes": [
+                "G",
+                "UH",
+                "D"
+              ]
+            },
+            {
+              "word": "goode",
+              "phonemes": [
+                "G",
+                "UH",
+                "D"
+              ]
+            },
+            {
+              "word": "gird",
+              "phonemes": [
+                "G",
+                "ER",
+                "D"
+              ]
+            },
+            {
+              "word": "gerd",
+              "phonemes": [
+                "G",
+                "ER",
+                "D"
+              ]
+            },
+            {
+              "word": "jude",
+              "phonemes": [
+                "JH",
+                "UW",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "goodbye",
+          "rank": 251,
+          "top5": [
+            {
+              "word": "attaboy",
+              "phonemes": [
+                "AE",
+                "T",
+                "AH",
+                "B",
+                "OY"
+              ]
+            },
+            {
+              "word": "supine",
+              "phonemes": [
+                "S",
+                "AH",
+                "P",
+                "AY",
+                "N"
+              ]
+            },
+            {
+              "word": "kabbah",
+              "phonemes": [
+                "K",
+                "AH",
+                "B",
+                "AH"
+              ]
+            },
+            {
+              "word": "kulpa",
+              "phonemes": [
+                "K",
+                "AH",
+                "L",
+                "P",
+                "AH"
+              ]
+            },
+            {
+              "word": "culpa",
+              "phonemes": [
+                "K",
+                "AH",
+                "L",
+                "P",
+                "AH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "have",
+          "rank": 255,
+          "top5": [
+            {
+              "word": "hub",
+              "phonemes": [
+                "HH",
+                "AH",
+                "B"
+              ]
+            },
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "herb",
+              "phonemes": [
+                "HH",
+                "ER",
+                "B"
+              ]
+            },
+            {
+              "word": "hebb",
+              "phonemes": [
+                "HH",
+                "EH",
+                "B"
+              ]
+            },
+            {
+              "word": "chubb",
+              "phonemes": [
+                "CH",
+                "AH",
+                "B"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "hello",
+          "rank": 666,
+          "top5": [
+            {
+              "word": "sunau",
+              "phonemes": [
+                "S",
+                "UW",
+                "N",
+                "AW"
+              ]
+            },
+            {
+              "word": "sauna",
+              "phonemes": [
+                "S",
+                "AO",
+                "N",
+                "AH"
+              ]
+            },
+            {
+              "word": "souza",
+              "phonemes": [
+                "S",
+                "UW",
+                "Z",
+                "AH"
+              ]
+            },
+            {
+              "word": "sousa",
+              "phonemes": [
+                "S",
+                "UW",
+                "Z",
+                "AH"
+              ]
+            },
+            {
+              "word": "sooner",
+              "phonemes": [
+                "S",
+                "UW",
+                "N",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "help",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "hebb",
+              "phonemes": [
+                "HH",
+                "EH",
+                "B"
+              ]
+            },
+            {
+              "word": "help",
+              "phonemes": [
+                "HH",
+                "EH",
+                "L",
+                "P"
+              ]
+            },
+            {
+              "word": "hub",
+              "phonemes": [
+                "HH",
+                "AH",
+                "B"
+              ]
+            },
+            {
+              "word": "heeb",
+              "phonemes": [
+                "HH",
+                "IY",
+                "B"
+              ]
+            },
+            {
+              "word": "hebe",
+              "phonemes": [
+                "HH",
+                "IY",
+                "B"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "here",
+          "rank": 190,
+          "top5": [
+            {
+              "word": "eyre",
+              "phonemes": [
+                "EH",
+                "R"
+              ]
+            },
+            {
+              "word": "err",
+              "phonemes": [
+                "EH",
+                "R"
+              ]
+            },
+            {
+              "word": "ayre",
+              "phonemes": [
+                "EH",
+                "R"
+              ]
+            },
+            {
+              "word": "ere",
+              "phonemes": [
+                "EH",
+                "R"
+              ]
+            },
+            {
+              "word": "air",
+              "phonemes": [
+                "EH",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "hope",
+          "rank": 104,
+          "top5": [
+            {
+              "word": "chupp",
+              "phonemes": [
+                "CH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "shupp",
+              "phonemes": [
+                "SH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "schupp",
+              "phonemes": [
+                "SH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "chopp",
+              "phonemes": [
+                "CH",
+                "AA",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "how",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "houge",
+              "phonemes": [
+                "HH",
+                "AW",
+                "JH"
+              ]
+            },
+            {
+              "word": "hao",
+              "phonemes": [
+                "HH",
+                "AW"
+              ]
+            },
+            {
+              "word": "hau",
+              "phonemes": [
+                "HH",
+                "AW"
+              ]
+            },
+            {
+              "word": "how",
+              "phonemes": [
+                "HH",
+                "AW"
+              ]
+            },
+            {
+              "word": "howe",
+              "phonemes": [
+                "HH",
+                "AW"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "i",
+          "rank": 10,
+          "top5": [
+            {
+              "word": "oy",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oye",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oie",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oi",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "ouch",
+              "phonemes": [
+                "AW",
+                "CH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "rank": 54,
+          "top5": [
+            {
+              "word": "sis",
+              "phonemes": [
+                "S",
+                "IH",
+                "S"
+              ]
+            },
+            {
+              "word": "zeese",
+              "phonemes": [
+                "Z",
+                "IY",
+                "S"
+              ]
+            },
+            {
+              "word": "says",
+              "phonemes": [
+                "S",
+                "IH",
+                "Z"
+              ]
+            },
+            {
+              "word": "liz",
+              "phonemes": [
+                "L",
+                "IH",
+                "Z"
+              ]
+            },
+            {
+              "word": "cease",
+              "phonemes": [
+                "S",
+                "IY",
+                "S"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "it",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "eat",
+              "phonemes": [
+                "IY",
+                "T"
+              ]
+            },
+            {
+              "word": "it",
+              "phonemes": [
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "ate",
+              "phonemes": [
+                "EY",
+                "T"
+              ]
+            },
+            {
+              "word": "eight",
+              "phonemes": [
+                "EY",
+                "T"
+              ]
+            },
+            {
+              "word": "aydt",
+              "phonemes": [
+                "EY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "rank": 57,
+          "top5": [
+            {
+              "word": "lick",
+              "phonemes": [
+                "L",
+                "IH",
+                "K"
+              ]
+            },
+            {
+              "word": "zick",
+              "phonemes": [
+                "Z",
+                "IH",
+                "K"
+              ]
+            },
+            {
+              "word": "lake",
+              "phonemes": [
+                "L",
+                "EY",
+                "K"
+              ]
+            },
+            {
+              "word": "leck",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            },
+            {
+              "word": "lech",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "my",
+          "rank": 3,
+          "top5": [
+            {
+              "word": "maj",
+              "phonemes": [
+                "M",
+                "AE",
+                "JH"
+              ]
+            },
+            {
+              "word": "madge",
+              "phonemes": [
+                "M",
+                "AE",
+                "JH"
+              ]
+            },
+            {
+              "word": "mai",
+              "phonemes": [
+                "M",
+                "AY"
+              ]
+            },
+            {
+              "word": "my",
+              "phonemes": [
+                "M",
+                "AY"
+              ]
+            },
+            {
+              "word": "magi",
+              "phonemes": [
+                "M",
+                "EY",
+                "JH",
+                "AY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "need",
+          "rank": 3,
+          "top5": [
+            {
+              "word": "noyd",
+              "phonemes": [
+                "N",
+                "OY",
+                "D"
+              ]
+            },
+            {
+              "word": "did",
+              "phonemes": [
+                "D",
+                "IH",
+                "D"
+              ]
+            },
+            {
+              "word": "nied",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "need",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "knead",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "no",
+          "rank": 51,
+          "top5": [
+            {
+              "word": "gnaw",
+              "phonemes": [
+                "N",
+                "AO"
+              ]
+            },
+            {
+              "word": "daw",
+              "phonemes": [
+                "D",
+                "AO"
+              ]
+            },
+            {
+              "word": "dawe",
+              "phonemes": [
+                "D",
+                "AO"
+              ]
+            },
+            {
+              "word": "zue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "xue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "not",
+          "rank": 98,
+          "top5": [
+            {
+              "word": "knight",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "nite",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "night",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "zeit",
+              "phonemes": [
+                "Z",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "nate",
+              "phonemes": [
+                "N",
+                "EY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "nurse",
+          "rank": 80,
+          "top5": [
+            {
+              "word": "does",
+              "phonemes": [
+                "D",
+                "IH",
+                "Z"
+              ]
+            },
+            {
+              "word": "noyes",
+              "phonemes": [
+                "N",
+                "OY",
+                "Z"
+              ]
+            },
+            {
+              "word": "noise",
+              "phonemes": [
+                "N",
+                "OY",
+                "Z"
+              ]
+            },
+            {
+              "word": "d's",
+              "phonemes": [
+                "D",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "d.'s",
+              "phonemes": [
+                "D",
+                "IY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "okay",
+          "rank": 23,
+          "top5": [
+            {
+              "word": "ciotti",
+              "phonemes": [
+                "CH",
+                "OW",
+                "T",
+                "IY"
+              ]
+            },
+            {
+              "word": "uzi",
+              "phonemes": [
+                "UW",
+                "Z",
+                "IY"
+              ]
+            },
+            {
+              "word": "okey",
+              "phonemes": [
+                "OW",
+                "K",
+                "IY"
+              ]
+            },
+            {
+              "word": "oki",
+              "phonemes": [
+                "OW",
+                "K",
+                "IY"
+              ]
+            },
+            {
+              "word": "oakey",
+              "phonemes": [
+                "OW",
+                "K",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "please",
+          "rank": 66,
+          "top5": [
+            {
+              "word": "boies",
+              "phonemes": [
+                "B",
+                "OY",
+                "Z"
+              ]
+            },
+            {
+              "word": "boyz",
+              "phonemes": [
+                "B",
+                "OY",
+                "Z"
+              ]
+            },
+            {
+              "word": "boys'",
+              "phonemes": [
+                "B",
+                "OY",
+                "Z"
+              ]
+            },
+            {
+              "word": "boys",
+              "phonemes": [
+                "B",
+                "OY",
+                "Z"
+              ]
+            },
+            {
+              "word": "boyes",
+              "phonemes": [
+                "B",
+                "OY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "right",
+          "rank": 151,
+          "top5": [
+            {
+              "word": "jut",
+              "phonemes": [
+                "JH",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "wirt",
+              "phonemes": [
+                "W",
+                "ER",
+                "T"
+              ]
+            },
+            {
+              "word": "wert",
+              "phonemes": [
+                "W",
+                "ER",
+                "T"
+              ]
+            },
+            {
+              "word": "what",
+              "phonemes": [
+                "W",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "weight",
+              "phonemes": [
+                "W",
+                "EY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "tell",
+          "rank": 147,
+          "top5": [
+            {
+              "word": "soil",
+              "phonemes": [
+                "S",
+                "OY",
+                "L"
+              ]
+            },
+            {
+              "word": "sil",
+              "phonemes": [
+                "S",
+                "IH",
+                "L"
+              ]
+            },
+            {
+              "word": "sill",
+              "phonemes": [
+                "S",
+                "IH",
+                "L"
+              ]
+            },
+            {
+              "word": "salle",
+              "phonemes": [
+                "S",
+                "EY",
+                "L"
+              ]
+            },
+            {
+              "word": "sale",
+              "phonemes": [
+                "S",
+                "EY",
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "rank": 7,
+          "top5": [
+            {
+              "word": "zeit",
+              "phonemes": [
+                "Z",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "lat",
+              "phonemes": [
+                "L",
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "let",
+              "phonemes": [
+                "L",
+                "EH",
+                "T"
+              ]
+            },
+            {
+              "word": "lett",
+              "phonemes": [
+                "L",
+                "EH",
+                "T"
+              ]
+            },
+            {
+              "word": "litt",
+              "phonemes": [
+                "L",
+                "IH",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "they",
+          "rank": 63,
+          "top5": [
+            {
+              "word": "zich",
+              "phonemes": [
+                "Z",
+                "IH",
+                "CH"
+              ]
+            },
+            {
+              "word": "zych",
+              "phonemes": [
+                "Z",
+                "AY",
+                "CH"
+              ]
+            },
+            {
+              "word": "ditch",
+              "phonemes": [
+                "D",
+                "IH",
+                "CH"
+              ]
+            },
+            {
+              "word": "deitsch",
+              "phonemes": [
+                "D",
+                "AY",
+                "CH"
+              ]
+            },
+            {
+              "word": "deitch",
+              "phonemes": [
+                "D",
+                "AY",
+                "CH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "thirsty",
+          "rank": 1468,
+          "top5": [
+            {
+              "word": "luthi",
+              "phonemes": [
+                "L",
+                "UW",
+                "DH",
+                "IY"
+              ]
+            },
+            {
+              "word": "juicy",
+              "phonemes": [
+                "JH",
+                "UW",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "dawsey",
+              "phonemes": [
+                "D",
+                "AO",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "luciw",
+              "phonemes": [
+                "L",
+                "UW",
+                "S",
+                "IH"
+              ]
+            },
+            {
+              "word": "jerzy",
+              "phonemes": [
+                "JH",
+                "ER",
+                "Z",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "tired",
+          "rank": 352,
+          "top5": [
+            {
+              "word": "ivern",
+              "phonemes": [
+                "AY",
+                "V",
+                "ER",
+                "N"
+              ]
+            },
+            {
+              "word": "ivan",
+              "phonemes": [
+                "AY",
+                "V",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "iven",
+              "phonemes": [
+                "AY",
+                "V",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "asian",
+              "phonemes": [
+                "EY",
+                "ZH",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "downe",
+              "phonemes": [
+                "D",
+                "AW",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "up",
+          "rank": 19,
+          "top5": [
+            {
+              "word": "hap",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "happ",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "happe",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hipp",
+              "phonemes": [
+                "HH",
+                "IH",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "very",
+          "rank": 45,
+          "top5": [
+            {
+              "word": "vi",
+              "phonemes": [
+                "V",
+                "IY"
+              ]
+            },
+            {
+              "word": "ve",
+              "phonemes": [
+                "V",
+                "IY"
+              ]
+            },
+            {
+              "word": "v.",
+              "phonemes": [
+                "V",
+                "IY"
+              ]
+            },
+            {
+              "word": "v",
+              "phonemes": [
+                "V",
+                "IY"
+              ]
+            },
+            {
+              "word": "vee",
+              "phonemes": [
+                "V",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "what",
+          "rank": 25,
+          "top5": [
+            {
+              "word": "jut",
+              "phonemes": [
+                "JH",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "voigt",
+              "phonemes": [
+                "V",
+                "OY",
+                "T"
+              ]
+            },
+            {
+              "word": "voight",
+              "phonemes": [
+                "V",
+                "OY",
+                "T"
+              ]
+            },
+            {
+              "word": "voit",
+              "phonemes": [
+                "V",
+                "OY",
+                "T"
+              ]
+            },
+            {
+              "word": "jot",
+              "phonemes": [
+                "JH",
+                "AA",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "where",
+          "rank": 48,
+          "top5": [
+            {
+              "word": "vere",
+              "phonemes": [
+                "V",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "veer",
+              "phonemes": [
+                "V",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "gehr",
+              "phonemes": [
+                "JH",
+                "EH",
+                "R"
+              ]
+            },
+            {
+              "word": "vetsch",
+              "phonemes": [
+                "V",
+                "EH",
+                "CH"
+              ]
+            },
+            {
+              "word": "v.",
+              "phonemes": [
+                "V",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "yes",
+          "rank": 261,
+          "top5": [
+            {
+              "word": "chasse",
+              "phonemes": [
+                "CH",
+                "AE",
+                "S"
+              ]
+            },
+            {
+              "word": "chess",
+              "phonemes": [
+                "CH",
+                "EH",
+                "S"
+              ]
+            },
+            {
+              "word": "ches",
+              "phonemes": [
+                "CH",
+                "EH",
+                "S"
+              ]
+            },
+            {
+              "word": "chase",
+              "phonemes": [
+                "CH",
+                "EY",
+                "S"
+              ]
+            },
+            {
+              "word": "chace",
+              "phonemes": [
+                "CH",
+                "EY",
+                "S"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "rank": 120,
+          "top5": [
+            {
+              "word": "chew",
+              "phonemes": [
+                "CH",
+                "UW"
+              ]
+            },
+            {
+              "word": "chu",
+              "phonemes": [
+                "CH",
+                "UW"
+              ]
+            },
+            {
+              "word": "chiu",
+              "phonemes": [
+                "CH",
+                "UW"
+              ]
+            },
+            {
+              "word": "choo",
+              "phonemes": [
+                "CH",
+                "UW"
+              ]
+            },
+            {
+              "word": "chou",
+              "phonemes": [
+                "CH",
+                "UW"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": {
+        "n": 5,
+        "art": 1,
+        "vowelweight": 2,
+        "normalize": 0.5,
+        "alpha": 0.1,
+        "gamma": 0
+      },
+      "mean_neural_squared_error": 789.028622481757,
+      "null_mean_neural_squared_error": 855.4834005504268,
+      "relative_error_reduction": 0.07768096730563345,
+      "median_dictionary_rank": 80.0,
+      "top1": 3,
+      "top10": 11,
+      "top100": 25,
+      "details": [
+        {
+          "word": "am",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "am",
+              "phonemes": [
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "hymn",
+              "phonemes": [
+                "HH",
+                "IH",
+                "M"
+              ]
+            },
+            {
+              "word": "him",
+              "phonemes": [
+                "HH",
+                "IH",
+                "M"
+              ]
+            },
+            {
+              "word": "hemm",
+              "phonemes": [
+                "HH",
+                "EH",
+                "M"
+              ]
+            },
+            {
+              "word": "hemme",
+              "phonemes": [
+                "HH",
+                "EH",
+                "M"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "are",
+          "rank": 512,
+          "top5": [
+            {
+              "word": "chewer",
+              "phonemes": [
+                "CH",
+                "UW",
+                "ER"
+              ]
+            },
+            {
+              "word": "scheuer",
+              "phonemes": [
+                "SH",
+                "OY",
+                "ER"
+              ]
+            },
+            {
+              "word": "chuah",
+              "phonemes": [
+                "CH",
+                "UW",
+                "AA"
+              ]
+            },
+            {
+              "word": "hoyer",
+              "phonemes": [
+                "HH",
+                "OY",
+                "ER"
+              ]
+            },
+            {
+              "word": "who're",
+              "phonemes": [
+                "HH",
+                "UW",
+                "ER"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "bad",
+          "rank": 5,
+          "top5": [
+            {
+              "word": "med",
+              "phonemes": [
+                "M",
+                "EH",
+                "D"
+              ]
+            },
+            {
+              "word": "bed",
+              "phonemes": [
+                "B",
+                "EH",
+                "D"
+              ]
+            },
+            {
+              "word": "madd",
+              "phonemes": [
+                "M",
+                "AE",
+                "D"
+              ]
+            },
+            {
+              "word": "mad",
+              "phonemes": [
+                "M",
+                "AE",
+                "D"
+              ]
+            },
+            {
+              "word": "bad",
+              "phonemes": [
+                "B",
+                "AE",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "bring",
+          "rank": 107,
+          "top5": [
+            {
+              "word": "bing",
+              "phonemes": [
+                "B",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "bitching",
+              "phonemes": [
+                "B",
+                "IH",
+                "CH",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "beeping",
+              "phonemes": [
+                "B",
+                "IY",
+                "P",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "parikh",
+              "phonemes": [
+                "P",
+                "AE",
+                "R",
+                "IH",
+                "K"
+              ]
+            },
+            {
+              "word": "beaching",
+              "phonemes": [
+                "B",
+                "IY",
+                "CH",
+                "IH",
+                "NG"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "clean",
+          "rank": 633,
+          "top5": [
+            {
+              "word": "lenient",
+              "phonemes": [
+                "L",
+                "IY",
+                "N",
+                "IY",
+                "AH",
+                "N",
+                "T"
+              ]
+            },
+            {
+              "word": "levene",
+              "phonemes": [
+                "L",
+                "EH",
+                "V",
+                "IY",
+                "N"
+              ]
+            },
+            {
+              "word": "livin'",
+              "phonemes": [
+                "L",
+                "IH",
+                "V",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "defend",
+              "phonemes": [
+                "D",
+                "IH",
+                "F",
+                "EH",
+                "N",
+                "D"
+              ]
+            },
+            {
+              "word": "levin",
+              "phonemes": [
+                "L",
+                "EH",
+                "V",
+                "IH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "closer",
+          "rank": 3899,
+          "top5": [
+            {
+              "word": "aflutter",
+              "phonemes": [
+                "AH",
+                "F",
+                "L",
+                "AH",
+                "T",
+                "ER"
+              ]
+            },
+            {
+              "word": "officer",
+              "phonemes": [
+                "AO",
+                "F",
+                "IH",
+                "S",
+                "ER"
+              ]
+            },
+            {
+              "word": "officer",
+              "phonemes": [
+                "AO",
+                "F",
+                "AH",
+                "S",
+                "ER"
+              ]
+            },
+            {
+              "word": "fulfer",
+              "phonemes": [
+                "F",
+                "UH",
+                "L",
+                "F",
+                "ER"
+              ]
+            },
+            {
+              "word": "sawdey",
+              "phonemes": [
+                "S",
+                "AO",
+                "D",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "coming",
+          "rank": 4,
+          "top5": [
+            {
+              "word": "camping",
+              "phonemes": [
+                "K",
+                "AE",
+                "M",
+                "P",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "clumping",
+              "phonemes": [
+                "K",
+                "L",
+                "AH",
+                "M",
+                "P",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "kvamme",
+              "phonemes": [
+                "K",
+                "AH",
+                "V",
+                "AE",
+                "M"
+              ]
+            },
+            {
+              "word": "cumming",
+              "phonemes": [
+                "K",
+                "AH",
+                "M",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "coming",
+              "phonemes": [
+                "K",
+                "AH",
+                "M",
+                "IH",
+                "NG"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "do",
+          "rank": 17,
+          "top5": [
+            {
+              "word": "zoo",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "zue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "xue",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "xu",
+              "phonemes": [
+                "Z",
+                "UW"
+              ]
+            },
+            {
+              "word": "zoh",
+              "phonemes": [
+                "Z",
+                "OW"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "faith",
+          "rank": 6959,
+          "top5": [
+            {
+              "word": "vaz",
+              "phonemes": [
+                "V",
+                "AE",
+                "Z"
+              ]
+            },
+            {
+              "word": "v.s",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "v.'s",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "v's",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "vees",
+              "phonemes": [
+                "V",
+                "IY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "feel",
+          "rank": 167,
+          "top5": [
+            {
+              "word": "tel",
+              "phonemes": [
+                "T",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "tell",
+              "phonemes": [
+                "T",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "tale",
+              "phonemes": [
+                "T",
+                "EY",
+                "L"
+              ]
+            },
+            {
+              "word": "tail",
+              "phonemes": [
+                "T",
+                "EY",
+                "L"
+              ]
+            },
+            {
+              "word": "schedule",
+              "phonemes": [
+                "S",
+                "K",
+                "EH",
+                "JH",
+                "UH",
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "going",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "gowin",
+              "phonemes": [
+                "G",
+                "AW",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "going",
+              "phonemes": [
+                "G",
+                "OW",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "gowing",
+              "phonemes": [
+                "G",
+                "AW",
+                "IH",
+                "NG"
+              ]
+            },
+            {
+              "word": "gougeon",
+              "phonemes": [
+                "G",
+                "AW",
+                "JH",
+                "IH",
+                "N"
+              ]
+            },
+            {
+              "word": "gurkin",
+              "phonemes": [
+                "G",
+                "ER",
+                "K",
+                "IH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "good",
+          "rank": 3,
+          "top5": [
+            {
+              "word": "jewett",
+              "phonemes": [
+                "JH",
+                "UW",
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "jewitt",
+              "phonemes": [
+                "JH",
+                "UW",
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "good",
+              "phonemes": [
+                "G",
+                "UH",
+                "D"
+              ]
+            },
+            {
+              "word": "goode",
+              "phonemes": [
+                "G",
+                "UH",
+                "D"
+              ]
+            },
+            {
+              "word": "dewitte",
+              "phonemes": [
+                "D",
+                "UW",
+                "IH",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "goodbye",
+          "rank": 94,
+          "top5": [
+            {
+              "word": "canepa",
+              "phonemes": [
+                "K",
+                "AA",
+                "N",
+                "EH",
+                "P",
+                "AH"
+              ]
+            },
+            {
+              "word": "uncouple",
+              "phonemes": [
+                "AH",
+                "N",
+                "K",
+                "AH",
+                "P",
+                "AH",
+                "L"
+              ]
+            },
+            {
+              "word": "funtime",
+              "phonemes": [
+                "F",
+                "AH",
+                "N",
+                "T",
+                "AY",
+                "M"
+              ]
+            },
+            {
+              "word": "subtype",
+              "phonemes": [
+                "S",
+                "AH",
+                "B",
+                "T",
+                "AY",
+                "P"
+              ]
+            },
+            {
+              "word": "sublime",
+              "phonemes": [
+                "S",
+                "AH",
+                "B",
+                "L",
+                "AY",
+                "M"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "have",
+          "rank": 312,
+          "top5": [
+            {
+              "word": "hub",
+              "phonemes": [
+                "HH",
+                "AH",
+                "B"
+              ]
+            },
+            {
+              "word": "humph",
+              "phonemes": [
+                "HH",
+                "AH",
+                "M",
+                "F"
+              ]
+            },
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hyssop",
+              "phonemes": [
+                "HH",
+                "IH",
+                "S",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "herb",
+              "phonemes": [
+                "HH",
+                "ER",
+                "B"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "hello",
+          "rank": 642,
+          "top5": [
+            {
+              "word": "osceola",
+              "phonemes": [
+                "AO",
+                "S",
+                "K",
+                "IY",
+                "OW",
+                "L",
+                "AH"
+              ]
+            },
+            {
+              "word": "ursola",
+              "phonemes": [
+                "ER",
+                "S",
+                "OW",
+                "L",
+                "AH"
+              ]
+            },
+            {
+              "word": "sunau",
+              "phonemes": [
+                "S",
+                "UW",
+                "N",
+                "AW"
+              ]
+            },
+            {
+              "word": "sokolow",
+              "phonemes": [
+                "S",
+                "AA",
+                "K",
+                "AH",
+                "L",
+                "OW"
+              ]
+            },
+            {
+              "word": "cecola",
+              "phonemes": [
+                "S",
+                "EH",
+                "K",
+                "OW",
+                "L",
+                "AH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "help",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "help",
+              "phonemes": [
+                "HH",
+                "EH",
+                "L",
+                "P"
+              ]
+            },
+            {
+              "word": "hilb",
+              "phonemes": [
+                "HH",
+                "IH",
+                "L",
+                "B"
+              ]
+            },
+            {
+              "word": "shelp",
+              "phonemes": [
+                "SH",
+                "EH",
+                "L",
+                "P"
+              ]
+            },
+            {
+              "word": "hebb",
+              "phonemes": [
+                "HH",
+                "EH",
+                "B"
+              ]
+            },
+            {
+              "word": "hippe",
+              "phonemes": [
+                "HH",
+                "IH",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "here",
+          "rank": 70,
+          "top5": [
+            {
+              "word": "zerr",
+              "phonemes": [
+                "Z",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "zier",
+              "phonemes": [
+                "Z",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "zayre",
+              "phonemes": [
+                "Z",
+                "EY",
+                "R"
+              ]
+            },
+            {
+              "word": "sear",
+              "phonemes": [
+                "S",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "cyr",
+              "phonemes": [
+                "S",
+                "IH",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "hope",
+          "rank": 122,
+          "top5": [
+            {
+              "word": "chupp",
+              "phonemes": [
+                "CH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hump",
+              "phonemes": [
+                "HH",
+                "AH",
+                "M",
+                "P"
+              ]
+            },
+            {
+              "word": "upp",
+              "phonemes": [
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "up",
+              "phonemes": [
+                "AH",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "how",
+          "rank": 27,
+          "top5": [
+            {
+              "word": "houge",
+              "phonemes": [
+                "HH",
+                "AW",
+                "JH"
+              ]
+            },
+            {
+              "word": "hyre",
+              "phonemes": [
+                "HH",
+                "AY",
+                "R"
+              ]
+            },
+            {
+              "word": "hire",
+              "phonemes": [
+                "HH",
+                "AY",
+                "R"
+              ]
+            },
+            {
+              "word": "harr",
+              "phonemes": [
+                "HH",
+                "AE",
+                "R"
+              ]
+            },
+            {
+              "word": "harre",
+              "phonemes": [
+                "HH",
+                "AE",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "i",
+          "rank": 124,
+          "top5": [
+            {
+              "word": "ouch",
+              "phonemes": [
+                "AW",
+                "CH"
+              ]
+            },
+            {
+              "word": "aichi",
+              "phonemes": [
+                "AA",
+                "IY",
+                "CH",
+                "IY"
+              ]
+            },
+            {
+              "word": "ige",
+              "phonemes": [
+                "AY",
+                "JH"
+              ]
+            },
+            {
+              "word": "oye",
+              "phonemes": [
+                "OY"
+              ]
+            },
+            {
+              "word": "oy",
+              "phonemes": [
+                "OY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "is",
+          "rank": 92,
+          "top5": [
+            {
+              "word": "avis",
+              "phonemes": [
+                "EY",
+                "V",
+                "IH",
+                "S"
+              ]
+            },
+            {
+              "word": "zeis",
+              "phonemes": [
+                "Z",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "zeese",
+              "phonemes": [
+                "Z",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "z.'s",
+              "phonemes": [
+                "Z",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "z's",
+              "phonemes": [
+                "Z",
+                "IY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "it",
+          "rank": 2,
+          "top5": [
+            {
+              "word": "eat",
+              "phonemes": [
+                "IY",
+                "T"
+              ]
+            },
+            {
+              "word": "it",
+              "phonemes": [
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "at",
+              "phonemes": [
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "id",
+              "phonemes": [
+                "IH",
+                "D"
+              ]
+            },
+            {
+              "word": "ihde",
+              "phonemes": [
+                "IH",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "rank": 12,
+          "top5": [
+            {
+              "word": "chet",
+              "phonemes": [
+                "CH",
+                "EH",
+                "T"
+              ]
+            },
+            {
+              "word": "lake",
+              "phonemes": [
+                "L",
+                "EY",
+                "K"
+              ]
+            },
+            {
+              "word": "lick",
+              "phonemes": [
+                "L",
+                "IH",
+                "K"
+              ]
+            },
+            {
+              "word": "lech",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            },
+            {
+              "word": "lek",
+              "phonemes": [
+                "L",
+                "EH",
+                "K"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "my",
+          "rank": 1,
+          "top5": [
+            {
+              "word": "mai",
+              "phonemes": [
+                "M",
+                "AY"
+              ]
+            },
+            {
+              "word": "my",
+              "phonemes": [
+                "M",
+                "AY"
+              ]
+            },
+            {
+              "word": "may",
+              "phonemes": [
+                "M",
+                "EY"
+              ]
+            },
+            {
+              "word": "mey",
+              "phonemes": [
+                "M",
+                "EY"
+              ]
+            },
+            {
+              "word": "mei",
+              "phonemes": [
+                "M",
+                "EY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "need",
+          "rank": 3,
+          "top5": [
+            {
+              "word": "enid",
+              "phonemes": [
+                "IY",
+                "N",
+                "IH",
+                "D"
+              ]
+            },
+            {
+              "word": "nevitt",
+              "phonemes": [
+                "N",
+                "EH",
+                "V",
+                "IH",
+                "T"
+              ]
+            },
+            {
+              "word": "knead",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "kneed",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            },
+            {
+              "word": "nied",
+              "phonemes": [
+                "N",
+                "IY",
+                "D"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "no",
+          "rank": 24,
+          "top5": [
+            {
+              "word": "gnaw",
+              "phonemes": [
+                "N",
+                "AO"
+              ]
+            },
+            {
+              "word": "dawe",
+              "phonemes": [
+                "D",
+                "AO"
+              ]
+            },
+            {
+              "word": "daw",
+              "phonemes": [
+                "D",
+                "AO"
+              ]
+            },
+            {
+              "word": "nah",
+              "phonemes": [
+                "N",
+                "AA"
+              ]
+            },
+            {
+              "word": "na",
+              "phonemes": [
+                "N",
+                "AA"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "not",
+          "rank": 88,
+          "top5": [
+            {
+              "word": "night",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "nite",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "knight",
+              "phonemes": [
+                "N",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "zeit",
+              "phonemes": [
+                "Z",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "lout",
+              "phonemes": [
+                "L",
+                "AW",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "nurse",
+          "rank": 152,
+          "top5": [
+            {
+              "word": "unissued",
+              "phonemes": [
+                "AH",
+                "N",
+                "IH",
+                "SH",
+                "UW",
+                "D"
+              ]
+            },
+            {
+              "word": "misuse",
+              "phonemes": [
+                "M",
+                "IH",
+                "S",
+                "Y",
+                "UW",
+                "S"
+              ]
+            },
+            {
+              "word": "diffuse",
+              "phonemes": [
+                "D",
+                "IH",
+                "F",
+                "Y",
+                "UW",
+                "S"
+              ]
+            },
+            {
+              "word": "jesse's",
+              "phonemes": [
+                "JH",
+                "EH",
+                "S",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "does",
+              "phonemes": [
+                "D",
+                "IH",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "okay",
+          "rank": 80,
+          "top5": [
+            {
+              "word": "ciotti",
+              "phonemes": [
+                "CH",
+                "OW",
+                "T",
+                "IY"
+              ]
+            },
+            {
+              "word": "autery",
+              "phonemes": [
+                "OW",
+                "T",
+                "ER",
+                "IY"
+              ]
+            },
+            {
+              "word": "hoity",
+              "phonemes": [
+                "HH",
+                "OY",
+                "T",
+                "IY"
+              ]
+            },
+            {
+              "word": "choosy",
+              "phonemes": [
+                "CH",
+                "UW",
+                "Z",
+                "IY"
+              ]
+            },
+            {
+              "word": "ullery",
+              "phonemes": [
+                "UW",
+                "L",
+                "ER",
+                "IY"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "please",
+          "rank": 4,
+          "top5": [
+            {
+              "word": "benefiel",
+              "phonemes": [
+                "B",
+                "EH",
+                "N",
+                "AH",
+                "F",
+                "IY",
+                "L"
+              ]
+            },
+            {
+              "word": "blurs",
+              "phonemes": [
+                "B",
+                "L",
+                "ER",
+                "Z"
+              ]
+            },
+            {
+              "word": "bethel",
+              "phonemes": [
+                "B",
+                "EH",
+                "TH",
+                "EH",
+                "L"
+              ]
+            },
+            {
+              "word": "plese",
+              "phonemes": [
+                "P",
+                "L",
+                "IY",
+                "Z"
+              ]
+            },
+            {
+              "word": "please",
+              "phonemes": [
+                "P",
+                "L",
+                "IY",
+                "Z"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "right",
+          "rank": 161,
+          "top5": [
+            {
+              "word": "what",
+              "phonemes": [
+                "W",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "jut",
+              "phonemes": [
+                "JH",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "wirt",
+              "phonemes": [
+                "W",
+                "ER",
+                "T"
+              ]
+            },
+            {
+              "word": "wert",
+              "phonemes": [
+                "W",
+                "ER",
+                "T"
+              ]
+            },
+            {
+              "word": "white",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "tell",
+          "rank": 327,
+          "top5": [
+            {
+              "word": "sil",
+              "phonemes": [
+                "S",
+                "IH",
+                "L"
+              ]
+            },
+            {
+              "word": "sill",
+              "phonemes": [
+                "S",
+                "IH",
+                "L"
+              ]
+            },
+            {
+              "word": "zile",
+              "phonemes": [
+                "Z",
+                "AY",
+                "L"
+              ]
+            },
+            {
+              "word": "sail",
+              "phonemes": [
+                "S",
+                "EY",
+                "L"
+              ]
+            },
+            {
+              "word": "sale",
+              "phonemes": [
+                "S",
+                "EY",
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "rank": 5,
+          "top5": [
+            {
+              "word": "zeit",
+              "phonemes": [
+                "Z",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "let",
+              "phonemes": [
+                "L",
+                "EH",
+                "T"
+              ]
+            },
+            {
+              "word": "lett",
+              "phonemes": [
+                "L",
+                "EH",
+                "T"
+              ]
+            },
+            {
+              "word": "lat",
+              "phonemes": [
+                "L",
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "that",
+              "phonemes": [
+                "DH",
+                "AE",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "they",
+          "rank": 215,
+          "top5": [
+            {
+              "word": "zich",
+              "phonemes": [
+                "Z",
+                "IH",
+                "CH"
+              ]
+            },
+            {
+              "word": "deitsch",
+              "phonemes": [
+                "D",
+                "AY",
+                "CH"
+              ]
+            },
+            {
+              "word": "dyche",
+              "phonemes": [
+                "D",
+                "AY",
+                "CH"
+              ]
+            },
+            {
+              "word": "deitch",
+              "phonemes": [
+                "D",
+                "AY",
+                "CH"
+              ]
+            },
+            {
+              "word": "zych",
+              "phonemes": [
+                "Z",
+                "AY",
+                "CH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "thirsty",
+          "rank": 3004,
+          "top5": [
+            {
+              "word": "lugosi",
+              "phonemes": [
+                "L",
+                "AH",
+                "G",
+                "OW",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "lugosi",
+              "phonemes": [
+                "L",
+                "UW",
+                "G",
+                "OW",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "giudice",
+              "phonemes": [
+                "JH",
+                "UW",
+                "D",
+                "IH",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "lucchesi",
+              "phonemes": [
+                "L",
+                "UW",
+                "K",
+                "EH",
+                "S",
+                "IY"
+              ]
+            },
+            {
+              "word": "judicious",
+              "phonemes": [
+                "JH",
+                "UW",
+                "D",
+                "IH",
+                "SH",
+                "AH",
+                "S"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "tired",
+          "rank": 119,
+          "top5": [
+            {
+              "word": "audition",
+              "phonemes": [
+                "AA",
+                "D",
+                "IH",
+                "SH",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "diverged",
+              "phonemes": [
+                "D",
+                "AY",
+                "V",
+                "ER",
+                "JH",
+                "D"
+              ]
+            },
+            {
+              "word": "tejan",
+              "phonemes": [
+                "T",
+                "EY",
+                "JH",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "diven",
+              "phonemes": [
+                "D",
+                "AY",
+                "V",
+                "AH",
+                "N"
+              ]
+            },
+            {
+              "word": "dajun",
+              "phonemes": [
+                "D",
+                "EY",
+                "JH",
+                "AH",
+                "N"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "up",
+          "rank": 12,
+          "top5": [
+            {
+              "word": "hupp",
+              "phonemes": [
+                "HH",
+                "AH",
+                "P"
+              ]
+            },
+            {
+              "word": "hype",
+              "phonemes": [
+                "HH",
+                "AY",
+                "P"
+              ]
+            },
+            {
+              "word": "happe",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "happ",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            },
+            {
+              "word": "hap",
+              "phonemes": [
+                "HH",
+                "AE",
+                "P"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "very",
+          "rank": 40,
+          "top5": [
+            {
+              "word": "twitchy",
+              "phonemes": [
+                "T",
+                "W",
+                "IH",
+                "CH",
+                "IY"
+              ]
+            },
+            {
+              "word": "dwire",
+              "phonemes": [
+                "D",
+                "W",
+                "AY",
+                "R"
+              ]
+            },
+            {
+              "word": "schweer",
+              "phonemes": [
+                "SH",
+                "W",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "vecci",
+              "phonemes": [
+                "V",
+                "EH",
+                "CH",
+                "IY"
+              ]
+            },
+            {
+              "word": "voyage",
+              "phonemes": [
+                "V",
+                "OY",
+                "IH",
+                "JH"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "what",
+          "rank": 34,
+          "top5": [
+            {
+              "word": "jut",
+              "phonemes": [
+                "JH",
+                "AH",
+                "T"
+              ]
+            },
+            {
+              "word": "jot",
+              "phonemes": [
+                "JH",
+                "AA",
+                "T"
+              ]
+            },
+            {
+              "word": "chat",
+              "phonemes": [
+                "CH",
+                "AE",
+                "T"
+              ]
+            },
+            {
+              "word": "wight",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            },
+            {
+              "word": "white",
+              "phonemes": [
+                "W",
+                "AY",
+                "T"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "where",
+          "rank": 37,
+          "top5": [
+            {
+              "word": "veitch",
+              "phonemes": [
+                "V",
+                "AY",
+                "CH"
+              ]
+            },
+            {
+              "word": "vere",
+              "phonemes": [
+                "V",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "veer",
+              "phonemes": [
+                "V",
+                "IH",
+                "R"
+              ]
+            },
+            {
+              "word": "gehr",
+              "phonemes": [
+                "JH",
+                "EH",
+                "R"
+              ]
+            },
+            {
+              "word": "gier",
+              "phonemes": [
+                "JH",
+                "IH",
+                "R"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "yes",
+          "rank": 80,
+          "top5": [
+            {
+              "word": "chess",
+              "phonemes": [
+                "CH",
+                "EH",
+                "S"
+              ]
+            },
+            {
+              "word": "ches",
+              "phonemes": [
+                "CH",
+                "EH",
+                "S"
+              ]
+            },
+            {
+              "word": "das",
+              "phonemes": [
+                "D",
+                "AE",
+                "S"
+              ]
+            },
+            {
+              "word": "dass",
+              "phonemes": [
+                "D",
+                "AE",
+                "S"
+              ]
+            },
+            {
+              "word": "chasse",
+              "phonemes": [
+                "CH",
+                "AE",
+                "S"
+              ]
+            }
+          ]
+        },
+        {
+          "word": "you",
+          "rank": 152,
+          "top5": [
+            {
+              "word": "itochu",
+              "phonemes": [
+                "IY",
+                "T",
+                "OW",
+                "CH",
+                "UW"
+              ]
+            },
+            {
+              "word": "jew",
+              "phonemes": [
+                "JH",
+                "UW"
+              ]
+            },
+            {
+              "word": "ju",
+              "phonemes": [
+                "JH",
+                "UW"
+              ]
+            },
+            {
+              "word": "jue",
+              "phonemes": [
+                "JH",
+                "UW"
+              ]
+            },
+            {
+              "word": "jus",
+              "phonemes": [
+                "JH",
+                "UW"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "model": "unweighted ensemble of preceding three",
+      "median_dictionary_rank": 38.5,
+      "top1": 5,
+      "top10": 11,
+      "top100": 30,
+      "details": [
+        {
+          "word": "am",
+          "rank": 10
+        },
+        {
+          "word": "are",
+          "rank": 169
+        },
+        {
+          "word": "bad",
+          "rank": 11
+        },
+        {
+          "word": "bring",
+          "rank": 77
+        },
+        {
+          "word": "clean",
+          "rank": 365
+        },
+        {
+          "word": "closer",
+          "rank": 3002
+        },
+        {
+          "word": "coming",
+          "rank": 1
+        },
+        {
+          "word": "do",
+          "rank": 17
+        },
+        {
+          "word": "faith",
+          "rank": 2161
+        },
+        {
+          "word": "feel",
+          "rank": 137
+        },
+        {
+          "word": "going",
+          "rank": 2
+        },
+        {
+          "word": "good",
+          "rank": 1
+        },
+        {
+          "word": "goodbye",
+          "rank": 279
+        },
+        {
+          "word": "have",
+          "rank": 330
+        },
+        {
+          "word": "hello",
+          "rank": 188
+        },
+        {
+          "word": "help",
+          "rank": 1
+        },
+        {
+          "word": "here",
+          "rank": 93
+        },
+        {
+          "word": "hope",
+          "rank": 100
+        },
+        {
+          "word": "how",
+          "rank": 8
+        },
+        {
+          "word": "i",
+          "rank": 34
+        },
+        {
+          "word": "is",
+          "rank": 22
+        },
+        {
+          "word": "it",
+          "rank": 2
+        },
+        {
+          "word": "like",
+          "rank": 24
+        },
+        {
+          "word": "my",
+          "rank": 1
+        },
+        {
+          "word": "need",
+          "rank": 1
+        },
+        {
+          "word": "no",
+          "rank": 24
+        },
+        {
+          "word": "not",
+          "rank": 74
+        },
+        {
+          "word": "nurse",
+          "rank": 50
+        },
+        {
+          "word": "okay",
+          "rank": 21
+        },
+        {
+          "word": "please",
+          "rank": 4
+        },
+        {
+          "word": "right",
+          "rank": 88
+        },
+        {
+          "word": "tell",
+          "rank": 225
+        },
+        {
+          "word": "that",
+          "rank": 5
+        },
+        {
+          "word": "they",
+          "rank": 70
+        },
+        {
+          "word": "thirsty",
+          "rank": 1585
+        },
+        {
+          "word": "tired",
+          "rank": 139
+        },
+        {
+          "word": "up",
+          "rank": 18
+        },
+        {
+          "word": "very",
+          "rank": 22
+        },
+        {
+          "word": "what",
+          "rank": 24
+        },
+        {
+          "word": "where",
+          "rank": 43
+        },
+        {
+          "word": "yes",
+          "rank": 83
+        },
+        {
+          "word": "you",
+          "rank": 112
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+
+tb0b19ec8
+3.051 it  it:1-14/0.52
+2.841 it music  it:1-12/0.54 music:12-21/0.29
+2.818 it is  it:1-14/0.52 is:14-20/0.28
+2.772 is it  is:1-15/0.44 it:15-24/0.35
+
+t59dcd856
+6.843 do you like music  do:4-18/0.41 you:18-24/0.50 like:24-34/0.49 music:34-46/0.45
+6.828 you you like music  you:1-14/0.39 you:14-24/0.44 like:24-34/0.49 music:34-46/0.45
+5.559 you like music  you:1-20/0.35 like:20-34/0.43 music:34-46/0.45
+5.553 they do you like music  they:2-14/0.31 do:14-18/0.40 you:18-24/0.50 like:24-34/0.49 music:34-46/0.45
+
+t1fe83bc3
+2.471 i have it good  i:1-10/0.47 have:10-19/0.30 it:19-23/0.44 good:23-34/0.33
+2.439 i am good  i:1-10/0.47 am:10-22/0.31 good:22-34/0.32
+2.393 i have good  i:1-10/0.47 have:10-22/0.31 good:22-34/0.32
+1.967 i am good here  i:1-10/0.47 am:10-22/0.31 good:22-28/0.29 here:28-36/0.32
+
+td28e3558
+2.387 you going  you:1-12/0.48 going:12-23/0.31
+2.341 you  you:1-13/0.48
+1.858 you it  you:1-14/0.46 it:14-23/0.24
+0.512 you are  you:1-13/0.48 are:13-17/-0.11
+
+t6f0fdfe0
+5.706 i hope they do music  i:1-9/0.44 hope:9-15/0.50 they:15-21/0.39 do:21-31/0.41 music:31-47/0.39
+5.437 i hope they do not music  i:1-9/0.44 hope:9-15/0.50 they:15-20/0.38 do:20-28/0.46 not:28-32/0.32 music:32-47/0.40
+4.378 i hope they do not need music  i:1-9/0.44 hope:9-15/0.50 they:15-20/0.38 do:20-28/0.46 not:28-32/0.32 need:32-37/0.39 music:37-48/0.33
+3.766 i hope they do not my music  i:1-9/0.44 hope:9-15/0.50 they:15-20/0.38 do:20-26/0.43 not:26-30/0.31 my:30-34/0.16 music:34-47/0.40
+
+t4539ffbe
+5.516 my not here  my:1-19/0.38 not:19-25/0.33 here:25-36/0.61
+5.338 my is here  my:1-19/0.38 is:19-24/0.29 here:24-36/0.59
+4.899 i like it here  i:3-12/0.44 like:12-20/0.33 it:20-24/0.28 here:24-36/0.59
+4.753 my here  my:1-19/0.38 here:19-36/0.44
+
+t514a6795
+6.653 my hope is my success  my:1-12/0.40 hope:12-19/0.48 is:19-24/0.40 my:24-31/0.45 success:31-45/0.48
+6.485 my hope is my success they  my:1-12/0.40 hope:12-19/0.48 is:19-24/0.40 my:24-31/0.45 success:31-45/0.48 they:45-51/0.29
+
+t9ce92bac
+0.978 hungry it  hungry:4-17/0.32 it:17-27/0.34
+0.840 they it  they:2-15/0.31 it:15-27/0.33
+0.831 my it  my:2-14/0.32 it:14-27/0.31
+0.429 hungry  hungry:4-17/0.32
+
+t3afd73b4
+3.335 how nurse are you  how:1-11/0.29 nurse:11-21/0.35 are:21-27/0.50 you:27-35/0.50
+3.070 how thirsty are you  how:1-13/0.30 thirsty:13-22/0.32 are:22-27/0.54 you:27-35/0.50
+2.828 nurse are you  nurse:11-21/0.35 are:21-27/0.50 you:27-35/0.50
+2.772 i nurse are do  i:2-11/0.30 nurse:11-21/0.35 are:21-28/0.50 do:28-39/0.36
+
+tef9d94a6
+4.529 that do they my glasses  that:4-9/0.31 do:9-18/0.41 they:18-25/0.34 my:25-32/0.39 glasses:32-46/0.48
+4.334 do they my glasses  do:9-18/0.41 they:18-25/0.34 my:25-32/0.39 glasses:32-46/0.48
+4.023 do they have my glasses  do:9-18/0.41 they:18-22/0.36 have:22-28/0.29 my:28-33/0.46 glasses:33-47/0.48
+3.777 do they not my glasses  do:9-18/0.41 they:18-25/0.34 not:25-29/0.26 my:29-33/0.45 glasses:33-47/0.48
+
+t52b24bf6
+6.408 you hope family is good  you:3-16/0.41 hope:16-23/0.46 family:23-34/0.42 is:34-39/0.39 good:39-50/0.46
+6.076 you hope my family is good  you:3-16/0.41 hope:16-22/0.49 my:22-26/0.35 family:26-34/0.44 is:34-39/0.39 good:39-50/0.46
+3.521 you hope my family is that good  you:3-16/0.41 hope:16-22/0.49 my:22-26/0.35 family:26-33/0.44 is:33-37/0.28 that:37-41/0.07 good:41-50/0.44
+
+t5f2d20a0
+8.881 my nurse it very tired  my:1-13/0.41 nurse:13-22/0.48 it:22-27/0.50 very:27-36/0.52 tired:36-46/0.56
+8.479 my nurse is very tired  my:1-13/0.41 nurse:13-22/0.48 is:22-27/0.42 very:27-36/0.52 tired:36-46/0.56
+
+te366b91c
+7.447 i hope you family  i:3-19/0.46 hope:19-25/0.46 you:25-33/0.33 family:33-52/0.45
+6.976 i hope you have family  i:3-19/0.46 hope:19-25/0.46 you:25-31/0.34 have:31-36/0.33 family:36-52/0.46
+6.357 i hope you my family  i:3-19/0.46 hope:19-25/0.46 you:25-31/0.34 my:31-35/0.15 family:35-52/0.46
+6.320 i hope my family  i:3-19/0.46 hope:19-27/0.44 my:27-33/0.13 family:33-52/0.45
+
+ta8a65775
+5.941 i hope need my do are  i:3-17/0.43 hope:17-25/0.39 need:25-31/0.39 my:31-38/0.48 do:38-44/0.33 are:44-54/0.43
+3.549 i hope need my computer  i:3-17/0.43 hope:17-25/0.39 need:25-31/0.39 my:31-37/0.50 computer:37-45/0.20
+3.445 i hope they need my music  i:3-16/0.43 hope:16-21/0.43 they:21-26/0.21 need:26-31/0.38 my:31-37/0.50 music:37-45/0.32
+2.502 i hope they need my computer  i:3-16/0.43 hope:16-21/0.43 they:21-26/0.21 need:26-31/0.38 my:31-37/0.50 computer:37-45/0.20
+
+t41450074
+2.579 it my  it:1-14/0.41 my:14-22/0.41
+1.839 i my  i:4-14/0.39 my:14-22/0.41
+1.684 it  it:1-14/0.41
+1.580 is my  is:3-14/0.35 my:14-22/0.41
+
+t53cbb8eb
+4.349 i do not up  i:1-10/0.46 do:10-17/0.52 not:17-23/0.45 up:23-35/0.33
+4.343 i do not is  i:1-10/0.46 do:10-17/0.52 not:17-22/0.48 is:22-34/0.33
+4.079 i do not have  i:1-10/0.46 do:10-17/0.52 not:17-22/0.48 have:22-30/0.34
+3.204 i do not have it  i:1-10/0.46 do:10-17/0.52 not:17-22/0.48 have:22-30/0.34 it:30-36/0.17
+
+tbfeb0ff2
+5.098 i hope family  i:2-16/0.43 hope:16-28/0.36 family:28-42/0.43
+4.595 i have family  i:2-15/0.44 have:15-24/0.31 family:24-44/0.39
+4.364 i tell family  i:1-9/0.44 tell:9-21/0.37 family:21-44/0.37
+3.906 i tell my family  i:1-9/0.44 tell:9-20/0.38 my:20-25/0.23 family:25-44/0.39
+
+te3243945
+4.716 how tired are they  how:1-13/0.39 tired:13-25/0.43 are:25-30/0.55 they:30-39/0.36
+4.699 how tired are you  how:1-13/0.39 tired:13-25/0.43 are:25-31/0.51 you:31-39/0.37
+3.837 how are they  how:1-14/0.38 are:14-29/0.40 they:29-39/0.36
+3.496 how are you  how:1-14/0.38 are:14-30/0.38 you:30-39/0.34
+
+tca769afd
+5.753 it my it do  it:14-34/0.41 my:34-43/0.29 it:43-56/0.34 do:56-67/0.54
+4.064 is it do  is:19-39/0.38 it:39-56/0.27 do:56-67/0.54
+3.352 is it you  is:12-34/0.38 it:34-53/0.25 you:53-65/0.43
+3.348 it is do  it:15-43/0.29 is:43-56/0.32 do:56-67/0.54
+
+td133fe68
+7.475 i like comfortable am  i:1-12/0.48 like:12-22/0.41 comfortable:22-39/0.50 am:39-48/0.32
+7.219 i like comfortable  i:1-12/0.48 like:12-22/0.41 comfortable:22-40/0.49
+7.193 i like comfortable family  i:1-12/0.48 like:12-22/0.41 comfortable:22-40/0.49 family:40-49/0.29
+7.139 i like comfortable have  i:1-12/0.48 like:12-22/0.41 comfortable:22-40/0.49 have:40-50/0.28
+
+t588781f6
+4.152 yes i very hungry  yes:3-15/0.38 i:15-21/0.31 very:21-31/0.42 hungry:31-45/0.41
+3.945 you yes i very hungry  you:1-9/0.36 yes:9-15/0.40 i:15-21/0.31 very:21-31/0.42 hungry:31-45/0.41
+3.470 yes i am very hungry  yes:3-15/0.38 i:15-19/0.32 am:19-23/0.21 very:23-31/0.45 hungry:31-45/0.41
+3.112 yes very hungry  yes:3-17/0.34 very:17-31/0.31 hungry:31-45/0.41
+
+tced8ecfc
+4.988 how do they do right  how:3-19/0.37 do:19-25/0.34 they:25-30/0.39 do:30-39/0.44 right:39-52/0.40
+4.875 how they do right  how:3-20/0.37 they:20-30/0.32 do:30-39/0.44 right:39-52/0.40
+3.862 what do they do right  what:3-20/0.31 do:20-25/0.33 they:25-30/0.39 do:30-39/0.44 right:39-52/0.40
+
+t6453e6ae
+2.999 how do do please  how:1-11/0.34 do:11-17/0.31 do:17-26/0.38 please:26-38/0.43
+2.745 how do please  how:1-13/0.31 do:13-26/0.33 please:26-38/0.43
+2.320 how you do please  how:1-12/0.33 you:12-17/0.19 do:17-26/0.38 please:26-38/0.43
+1.842 how do you feel please  how:1-10/0.35 do:10-16/0.30 you:16-21/0.22 feel:21-27/0.37 please:27-38/0.44
+
+t4d2d7415
+9.184 it is hope you are comfortable  it:1-20/0.43 is:20-26/0.35 hope:26-36/0.44 you:36-44/0.36 are:44-49/0.45 comfortable:49-65/0.49
+8.275 it hope you are comfortable  it:1-21/0.41 hope:21-36/0.34 you:36-44/0.36 are:44-49/0.45 comfortable:49-65/0.49
+7.769 is hope you are comfortable  is:4-24/0.36 hope:24-36/0.41 you:36-44/0.36 are:44-49/0.45 comfortable:49-65/0.49
+7.075 i do hope you are comfortable  i:4-18/0.43 do:18-24/0.14 hope:24-36/0.41 you:36-44/0.36 are:44-49/0.45 comfortable:49-65/0.49

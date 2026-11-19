@@ -1,0 +1,21 @@
+{
+  "layout_moves": {
+    "outputs/neural_decoding_pilot": "research/phase1-word-decoding",
+    "outputs/neural_decoding_phase2": "research/phase2-decoder-comparisons",
+    "outputs/neural_language_reconstruction": "research/phase3-sentence-reconstruction"
+  },
+  "publication": "publication/",
+  "local_only": "local/ and .venv/; excluded from Git",
+  "removed_categories": [
+    "Reinstallable node_modules and bundled render browsers",
+    "Nested Remotion template Git metadata",
+    "Python bytecode and macOS metadata",
+    "Byte-verified duplicate model working directories; archived completed traces retained",
+    "Unfinished prepared model sandboxes, queues and superseded prose drafts",
+    "Duplicate reproduction and input rebuild folders",
+    "Downloaded Codex protocol schemas and Remotion skill checkout",
+    "Four unused original MAT downloads: attempted single words T12, arrow sequence T12, imagined sentences T16 and 125k-word T16",
+    "Unused source repository checkout and remote file listing"
+  ],
+  "evidence_snapshot_count": 1393
+}

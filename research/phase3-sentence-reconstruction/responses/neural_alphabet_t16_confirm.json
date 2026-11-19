@@ -1,0 +1,42 @@
+{
+  "predictions": [
+    {"id":"tb0b19ec8","tokens":["it","is","good"]},
+    {"id":"t59dcd856","tokens":["do","you","like","faith"]},
+    {"id":"tcd92c113","tokens":["where","is","it","not"]},
+    {"id":"t1fe83bc3","tokens":["i","am","that","good"]},
+    {"id":"td28e3558","tokens":["you","okay"]},
+    {"id":"t6f0fdfe0","tokens":["i","hope","they","do","not","need","music"]},
+    {"id":"t4539ffbe","tokens":["i","hope","my","nurse","is","here"]},
+    {"id":"ta2aa0fcb","tokens":["they","like","it","up"]},
+    {"id":"tf75891ff","tokens":["my","family","is","not","very","tired"]},
+    {"id":"t514a6795","tokens":["my","hope","is","my","success"]},
+    {"id":"t9ce92bac","tokens":["my","music"]},
+    {"id":"t3afd73b4","tokens":["i","feel","thirsty","are","you"]},
+    {"id":"tef9d94a6","tokens":["do","they","have","my","glasses"]},
+    {"id":"t52b24bf6","tokens":["you","hope","my","family","is","good"]},
+    {"id":"t5f2d20a0","tokens":["my","nurse","is","very","tired"]},
+    {"id":"t44bb2095","tokens":["where","is","my","music"]},
+    {"id":"te366b91c","tokens":["i","hope","you","have","family"]},
+    {"id":"ta8a65775","tokens":["i","hope","they","need","my","computer"]},
+    {"id":"t8485b6b9","tokens":["they","feel","thirsty"]},
+    {"id":"t41450074","tokens":["it","is","my"]},
+    {"id":"t53cbb8eb","tokens":["i","do","not","have"]},
+    {"id":"tbfeb0ff2","tokens":["i","am","no","good"]},
+    {"id":"te3243945","tokens":["how","are","you","very","thirsty"]},
+    {"id":"tca769afd","tokens":["it","is","what","i","do"]},
+    {"id":"td133fe68","tokens":["i","am","comfortable","tell","my","family"]},
+    {"id":"t588781f6","tokens":["what","is","very","hungry"]},
+    {"id":"tced8ecfc","tokens":["how","do","they","not","like"]},
+    {"id":"t848cf4da","tokens":["they","hope","i","do"]},
+    {"id":"td6e48564","tokens":["it","is","that","bad"]},
+    {"id":"t0575fbc6","tokens":["i","hope","i","have","very","good","family"]},
+    {"id":"t6453e6ae","tokens":["how","they","do","not","need","it"]},
+    {"id":"t4d2d7415","tokens":["they","hope","you","are","comfortable"]}
+  ],
+  "method":"Manual comparison of recurring symbol motifs across calibration sentences, using their order, durations and contextual variations to infer word sequences. No tools, code, files, browsing or delegates.",
+  "uncertainty":{
+    "overall":"high",
+    "note":"These are best-effort hypotheses. Variable motifs and hidden boundaries leave several word identities and word counts unresolved; grammatical context influenced ambiguous choices.",
+    "most_ambiguous":["t59dcd856","tcd92c113","ta2aa0fcb","t3afd73b4","te366b91c","ta8a65775","t41450074","tbfeb0ff2","te3243945","td133fe68","tced8ecfc","t6453e6ae"]
+  }
+}

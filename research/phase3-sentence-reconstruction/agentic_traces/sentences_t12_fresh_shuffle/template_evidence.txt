@@ -1,0 +1,83 @@
+tda989373 my my faith
+  {'token': 'my', 'start': 2, 'end': 7, 'similarity': 0.22205401957035065}
+  {'token': 'my', 'start': 7, 'end': 13, 'similarity': 0.2024114429950714}
+  {'token': 'faith', 'start': 13, 'end': 20, 'similarity': 0.18895059823989868}
+tdd25032b no i do they very comfortable
+  {'token': 'no', 'start': 2, 'end': 8, 'similarity': 0.24648243188858032}
+  {'token': 'i', 'start': 8, 'end': 13, 'similarity': 0.3044680655002594}
+  {'token': 'do', 'start': 13, 'end': 19, 'similarity': 0.26794421672821045}
+  {'token': 'they', 'start': 19, 'end': 25, 'similarity': 0.21487540006637573}
+  {'token': 'very', 'start': 25, 'end': 32, 'similarity': 0.17369776964187622}
+  {'token': 'comfortable', 'start': 32, 'end': 46, 'similarity': 0.30084413290023804}
+t5ee44a7f my faith they good
+  {'token': 'my', 'start': 2, 'end': 6, 'similarity': 0.2565731406211853}
+  {'token': 'faith', 'start': 6, 'end': 13, 'similarity': 0.2909281253814697}
+  {'token': 'they', 'start': 13, 'end': 18, 'similarity': 0.20706982910633087}
+  {'token': 'good', 'start': 18, 'end': 27, 'similarity': 0.20753023028373718}
+tdf8f9fae they they what
+  {'token': 'they', 'start': 2, 'end': 10, 'similarity': 0.2039630264043808}
+  {'token': 'they', 'start': 10, 'end': 17, 'similarity': 0.23760905861854553}
+  {'token': 'what', 'start': 17, 'end': 23, 'similarity': 0.1653413027524948}
+t4f16b000 they bring
+  {'token': 'they', 'start': 2, 'end': 8, 'similarity': 0.1886771321296692}
+  {'token': 'bring', 'start': 8, 'end': 20, 'similarity': 0.1523256152868271}
+t40a0a424 tell my nurse very good
+  {'token': 'tell', 'start': 2, 'end': 7, 'similarity': 0.21745465695858002}
+  {'token': 'my', 'start': 7, 'end': 12, 'similarity': 0.28790974617004395}
+  {'token': 'nurse', 'start': 12, 'end': 23, 'similarity': 0.16869699954986572}
+  {'token': 'very', 'start': 23, 'end': 29, 'similarity': 0.18134501576423645}
+  {'token': 'good', 'start': 29, 'end': 38, 'similarity': 0.2781611680984497}
+tf256b8ed they do not feel faith
+  {'token': 'they', 'start': 2, 'end': 7, 'similarity': 0.22082555294036865}
+  {'token': 'do', 'start': 7, 'end': 13, 'similarity': 0.2600671350955963}
+  {'token': 'not', 'start': 13, 'end': 18, 'similarity': 0.19450639188289642}
+  {'token': 'feel', 'start': 18, 'end': 26, 'similarity': 0.16426688432693481}
+  {'token': 'faith', 'start': 26, 'end': 34, 'similarity': 0.23789119720458984}
+t12be1627 i hope you up
+  {'token': 'i', 'start': 2, 'end': 7, 'similarity': 0.2292032539844513}
+  {'token': 'hope', 'start': 7, 'end': 15, 'similarity': 0.23153197765350342}
+  {'token': 'you', 'start': 15, 'end': 21, 'similarity': 0.16891825199127197}
+  {'token': 'up', 'start': 21, 'end': 24, 'similarity': 0.19696977734565735}
+t42cfafec they very comfortable
+  {'token': 'they', 'start': 2, 'end': 11, 'similarity': 0.2042519897222519}
+  {'token': 'very', 'start': 11, 'end': 18, 'similarity': 0.24890398979187012}
+  {'token': 'comfortable', 'start': 18, 'end': 30, 'similarity': 0.30260464549064636}
+te3715f88 you my thirsty comfortable
+  {'token': 'you', 'start': 2, 'end': 7, 'similarity': 0.26241549849510193}
+  {'token': 'my', 'start': 7, 'end': 11, 'similarity': 0.28683316707611084}
+  {'token': 'thirsty', 'start': 11, 'end': 19, 'similarity': 0.18640121817588806}
+  {'token': 'comfortable', 'start': 19, 'end': 33, 'similarity': 0.17809022963047028}
+tb8083852 do is it
+  {'token': 'do', 'start': 2, 'end': 11, 'similarity': 0.24227730929851532}
+  {'token': 'is', 'start': 11, 'end': 19, 'similarity': 0.22626560926437378}
+  {'token': 'it', 'start': 19, 'end': 28, 'similarity': 0.20300185680389404}
+t9024802d my music they here
+  {'token': 'my', 'start': 2, 'end': 6, 'similarity': 0.22280770540237427}
+  {'token': 'music', 'start': 6, 'end': 16, 'similarity': 0.20052024722099304}
+  {'token': 'they', 'start': 16, 'end': 22, 'similarity': 0.20862232148647308}
+  {'token': 'here', 'start': 22, 'end': 29, 'similarity': 0.2511398196220398}
+t2b08e042 family do good
+  {'token': 'family', 'start': 2, 'end': 12, 'similarity': 0.21893300116062164}
+  {'token': 'do', 'start': 12, 'end': 20, 'similarity': 0.23252862691879272}
+  {'token': 'good', 'start': 20, 'end': 29, 'similarity': 0.21414035558700562}
+t62254eda tell my very good
+  {'token': 'tell', 'start': 2, 'end': 9, 'similarity': 0.2157108187675476}
+  {'token': 'my', 'start': 9, 'end': 17, 'similarity': 0.26747968792915344}
+  {'token': 'very', 'start': 17, 'end': 25, 'similarity': 0.19914312660694122}
+  {'token': 'good', 'start': 25, 'end': 33, 'similarity': 0.23247084021568298}
+t9db27598 i hope i my faith
+  {'token': 'i', 'start': 2, 'end': 7, 'similarity': 0.2287520170211792}
+  {'token': 'hope', 'start': 7, 'end': 14, 'similarity': 0.23048534989356995}
+  {'token': 'i', 'start': 14, 'end': 19, 'similarity': 0.1981258988380432}
+  {'token': 'my', 'start': 19, 'end': 23, 'similarity': 0.22639799118041992}
+  {'token': 'faith', 'start': 23, 'end': 30, 'similarity': 0.3312798738479614}
+tef25d0d3 tell my family i do not they feel thirsty
+  {'token': 'tell', 'start': 2, 'end': 7, 'similarity': 0.28570738434791565}
+  {'token': 'my', 'start': 7, 'end': 13, 'similarity': 0.3077057898044586}
+  {'token': 'family', 'start': 13, 'end': 23, 'similarity': 0.27092981338500977}
+  {'token': 'i', 'start': 23, 'end': 29, 'similarity': 0.3563712239265442}
+  {'token': 'do', 'start': 29, 'end': 36, 'similarity': 0.28934288024902344}
+  {'token': 'not', 'start': 36, 'end': 43, 'similarity': 0.16454671323299408}
+  {'token': 'they', 'start': 43, 'end': 49, 'similarity': 0.15464377403259277}
+  {'token': 'feel', 'start': 49, 'end': 57, 'similarity': 0.2113693505525589}
+  {'token': 'thirsty', 'start': 57, 'end': 67, 'similarity': 0.1612686663866043}

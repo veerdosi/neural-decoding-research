@@ -1,0 +1,583 @@
+{
+  "tda989373": {
+    "tokens": [
+      "my",
+      "my",
+      "faith"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.22205401957035065
+      },
+      {
+        "token": "my",
+        "start": 7,
+        "end": 13,
+        "similarity": 0.2024114429950714
+      },
+      {
+        "token": "faith",
+        "start": 13,
+        "end": 20,
+        "similarity": 0.18895059823989868
+      }
+    ],
+    "total_score": 2.447796729477461
+  },
+  "tdd25032b": {
+    "tokens": [
+      "no",
+      "i",
+      "do",
+      "they",
+      "very",
+      "comfortable"
+    ],
+    "intervals": [
+      {
+        "token": "no",
+        "start": 2,
+        "end": 8,
+        "similarity": 0.24648243188858032
+      },
+      {
+        "token": "i",
+        "start": 8,
+        "end": 13,
+        "similarity": 0.3044680655002594
+      },
+      {
+        "token": "do",
+        "start": 13,
+        "end": 19,
+        "similarity": 0.26794421672821045
+      },
+      {
+        "token": "they",
+        "start": 19,
+        "end": 25,
+        "similarity": 0.21487540006637573
+      },
+      {
+        "token": "very",
+        "start": 25,
+        "end": 32,
+        "similarity": 0.17369776964187622
+      },
+      {
+        "token": "comfortable",
+        "start": 32,
+        "end": 46,
+        "similarity": 0.30084413290023804
+      }
+    ],
+    "total_score": 8.904686692564084
+  },
+  "t5ee44a7f": {
+    "tokens": [
+      "my",
+      "faith",
+      "they",
+      "good"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 6,
+        "similarity": 0.2565731406211853
+      },
+      {
+        "token": "faith",
+        "start": 6,
+        "end": 13,
+        "similarity": 0.2909281253814697
+      },
+      {
+        "token": "they",
+        "start": 13,
+        "end": 18,
+        "similarity": 0.20706982910633087
+      },
+      {
+        "token": "good",
+        "start": 18,
+        "end": 27,
+        "similarity": 0.20753023028373718
+      }
+    ],
+    "total_score": 4.431562882256392
+  },
+  "tdf8f9fae": {
+    "tokens": [
+      "they",
+      "they",
+      "what"
+    ],
+    "intervals": [
+      {
+        "token": "they",
+        "start": 2,
+        "end": 10,
+        "similarity": 0.2039630264043808
+      },
+      {
+        "token": "they",
+        "start": 10,
+        "end": 17,
+        "similarity": 0.23760905861854553
+      },
+      {
+        "token": "what",
+        "start": 17,
+        "end": 23,
+        "similarity": 0.1653413027524948
+      }
+    ],
+    "total_score": 2.9697480530592704
+  },
+  "t4f16b000": {
+    "tokens": [
+      "they",
+      "bring"
+    ],
+    "intervals": [
+      {
+        "token": "they",
+        "start": 2,
+        "end": 8,
+        "similarity": 0.1886771321296692
+      },
+      {
+        "token": "bring",
+        "start": 8,
+        "end": 20,
+        "similarity": 0.1523256152868271
+      }
+    ],
+    "total_score": 2.1878525807571894
+  },
+  "t40a0a424": {
+    "tokens": [
+      "tell",
+      "my",
+      "nurse",
+      "very",
+      "good"
+    ],
+    "intervals": [
+      {
+        "token": "tell",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.21745465695858002
+      },
+      {
+        "token": "my",
+        "start": 7,
+        "end": 12,
+        "similarity": 0.28790974617004395
+      },
+      {
+        "token": "nurse",
+        "start": 12,
+        "end": 23,
+        "similarity": 0.16869699954986572
+      },
+      {
+        "token": "very",
+        "start": 23,
+        "end": 29,
+        "similarity": 0.18134501576423645
+      },
+      {
+        "token": "good",
+        "start": 29,
+        "end": 38,
+        "similarity": 0.2781611680984497
+      }
+    ],
+    "total_score": 6.003312235529072
+  },
+  "tf256b8ed": {
+    "tokens": [
+      "they",
+      "do",
+      "not",
+      "feel",
+      "faith"
+    ],
+    "intervals": [
+      {
+        "token": "they",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.22082555294036865
+      },
+      {
+        "token": "do",
+        "start": 7,
+        "end": 13,
+        "similarity": 0.2600671350955963
+      },
+      {
+        "token": "not",
+        "start": 13,
+        "end": 18,
+        "similarity": 0.19450639188289642
+      },
+      {
+        "token": "feel",
+        "start": 18,
+        "end": 26,
+        "similarity": 0.16426688432693481
+      },
+      {
+        "token": "faith",
+        "start": 26,
+        "end": 34,
+        "similarity": 0.23789119720458984
+      }
+    ],
+    "total_score": 4.932152540988536
+  },
+  "t12be1627": {
+    "tokens": [
+      "i",
+      "hope",
+      "you",
+      "up"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.2292032539844513
+      },
+      {
+        "token": "hope",
+        "start": 7,
+        "end": 15,
+        "similarity": 0.23153197765350342
+      },
+      {
+        "token": "you",
+        "start": 15,
+        "end": 21,
+        "similarity": 0.16891825199127197
+      },
+      {
+        "token": "up",
+        "start": 21,
+        "end": 24,
+        "similarity": 0.19696977734565735
+      }
+    ],
+    "total_score": 3.056861450805907
+  },
+  "t42cfafec": {
+    "tokens": [
+      "they",
+      "very",
+      "comfortable"
+    ],
+    "intervals": [
+      {
+        "token": "they",
+        "start": 2,
+        "end": 11,
+        "similarity": 0.2042519897222519
+      },
+      {
+        "token": "very",
+        "start": 11,
+        "end": 18,
+        "similarity": 0.24890398979187012
+      },
+      {
+        "token": "comfortable",
+        "start": 18,
+        "end": 30,
+        "similarity": 0.30260464549064636
+      }
+    ],
+    "total_score": 5.865602135813379
+  },
+  "te3715f88": {
+    "tokens": [
+      "you",
+      "my",
+      "thirsty",
+      "comfortable"
+    ],
+    "intervals": [
+      {
+        "token": "you",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.26241549849510193
+      },
+      {
+        "token": "my",
+        "start": 7,
+        "end": 11,
+        "similarity": 0.28683316707611084
+      },
+      {
+        "token": "thirsty",
+        "start": 11,
+        "end": 19,
+        "similarity": 0.18640121817588806
+      },
+      {
+        "token": "comfortable",
+        "start": 19,
+        "end": 33,
+        "similarity": 0.17809022963047028
+      }
+    ],
+    "total_score": 4.808602934132869
+  },
+  "tb8083852": {
+    "tokens": [
+      "do",
+      "is",
+      "it"
+    ],
+    "intervals": [
+      {
+        "token": "do",
+        "start": 2,
+        "end": 11,
+        "similarity": 0.24227730929851532
+      },
+      {
+        "token": "is",
+        "start": 11,
+        "end": 19,
+        "similarity": 0.22626560926437378
+      },
+      {
+        "token": "it",
+        "start": 19,
+        "end": 28,
+        "similarity": 0.20300185680389404
+      }
+    ],
+    "total_score": 4.278423784241017
+  },
+  "t9024802d": {
+    "tokens": [
+      "my",
+      "music",
+      "they",
+      "here"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 6,
+        "similarity": 0.22280770540237427
+      },
+      {
+        "token": "music",
+        "start": 6,
+        "end": 16,
+        "similarity": 0.20052024722099304
+      },
+      {
+        "token": "they",
+        "start": 16,
+        "end": 22,
+        "similarity": 0.20862232148647308
+      },
+      {
+        "token": "here",
+        "start": 22,
+        "end": 29,
+        "similarity": 0.2511398196220398
+      }
+    ],
+    "total_score": 4.245966817563426
+  },
+  "t2b08e042": {
+    "tokens": [
+      "family",
+      "do",
+      "good"
+    ],
+    "intervals": [
+      {
+        "token": "family",
+        "start": 2,
+        "end": 12,
+        "similarity": 0.21893300116062164
+      },
+      {
+        "token": "do",
+        "start": 12,
+        "end": 20,
+        "similarity": 0.23252862691879272
+      },
+      {
+        "token": "good",
+        "start": 20,
+        "end": 29,
+        "similarity": 0.21414035558700562
+      }
+    ],
+    "total_score": 4.7447005466285415
+  },
+  "t62254eda": {
+    "tokens": [
+      "tell",
+      "my",
+      "very",
+      "good"
+    ],
+    "intervals": [
+      {
+        "token": "tell",
+        "start": 2,
+        "end": 9,
+        "similarity": 0.2157108187675476
+      },
+      {
+        "token": "my",
+        "start": 9,
+        "end": 17,
+        "similarity": 0.26747968792915344
+      },
+      {
+        "token": "very",
+        "start": 17,
+        "end": 25,
+        "similarity": 0.19914312660694122
+      },
+      {
+        "token": "good",
+        "start": 25,
+        "end": 33,
+        "similarity": 0.23247084021568298
+      }
+    ],
+    "total_score": 5.26363755152285
+  },
+  "t9db27598": {
+    "tokens": [
+      "i",
+      "hope",
+      "i",
+      "my",
+      "faith"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.2287520170211792
+      },
+      {
+        "token": "hope",
+        "start": 7,
+        "end": 14,
+        "similarity": 0.23048534989356995
+      },
+      {
+        "token": "i",
+        "start": 14,
+        "end": 19,
+        "similarity": 0.1981258988380432
+      },
+      {
+        "token": "my",
+        "start": 19,
+        "end": 23,
+        "similarity": 0.22639799118041992
+      },
+      {
+        "token": "faith",
+        "start": 23,
+        "end": 30,
+        "similarity": 0.3312798738479614
+      }
+    ],
+    "total_score": 5.04949684462186
+  },
+  "tef25d0d3": {
+    "tokens": [
+      "tell",
+      "my",
+      "family",
+      "i",
+      "do",
+      "not",
+      "they",
+      "feel",
+      "thirsty"
+    ],
+    "intervals": [
+      {
+        "token": "tell",
+        "start": 2,
+        "end": 7,
+        "similarity": 0.28570738434791565
+      },
+      {
+        "token": "my",
+        "start": 7,
+        "end": 13,
+        "similarity": 0.3077057898044586
+      },
+      {
+        "token": "family",
+        "start": 13,
+        "end": 23,
+        "similarity": 0.27092981338500977
+      },
+      {
+        "token": "i",
+        "start": 23,
+        "end": 29,
+        "similarity": 0.3563712239265442
+      },
+      {
+        "token": "do",
+        "start": 29,
+        "end": 36,
+        "similarity": 0.28934288024902344
+      },
+      {
+        "token": "not",
+        "start": 36,
+        "end": 43,
+        "similarity": 0.16454671323299408
+      },
+      {
+        "token": "they",
+        "start": 43,
+        "end": 49,
+        "similarity": 0.15464377403259277
+      },
+      {
+        "token": "feel",
+        "start": 49,
+        "end": 57,
+        "similarity": 0.2113693505525589
+      },
+      {
+        "token": "thirsty",
+        "start": 57,
+        "end": 67,
+        "similarity": 0.1612686663866043
+      }
+    ],
+    "total_score": 11.941757770814585
+  }
+}

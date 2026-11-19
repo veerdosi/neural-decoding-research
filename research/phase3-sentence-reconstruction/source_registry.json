@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "filename": "t12.2023.09.28_binnedTX_spikePow_20ms_speak.mat",
+      "local_path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sources/t12.2023.09.28_binnedTX_spikePow_20ms_speak.mat",
+      "sha256": "70dd98d133798779111aeb13fdb2fb985f84030e44a8e5a4c854e7369e271188",
+      "bytes": 87207800,
+      "download_url": "https://huggingface.co/datasets/raei/Kunz-2025-InnerSpeechMotorCortexImplicationsSpeechNeuroprostheses/resolve/main/seqRecallSpeech/t12.2023.09.28_binnedTX_spikePow_20ms_speak.mat",
+      "origin": "Community mirror of Kunz2025 author dataset; frozen local hash is authoritative for this experiment",
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12360486/",
+      "author_code": "https://github.com/nptl-stanford/inner_speech"
+    },
+    {
+      "filename": "t12.2023.11.28_attempted_50words.mat",
+      "local_path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sources/t12.2023.11.28_attempted_50words.mat",
+      "sha256": "5293bdfd362d2a0be40fd3be55f7a7974bccf1f8d32ef50938f66c53452052e5",
+      "bytes": 47377469,
+      "download_url": "https://huggingface.co/datasets/raei/Kunz-2025-InnerSpeechMotorCortexImplicationsSpeechNeuroprostheses/resolve/main/sentenceData/t12.2023.11.28_attempted_50words.mat",
+      "origin": "Community mirror of Kunz2025 author dataset; frozen local hash is authoritative for this experiment",
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12360486/",
+      "author_code": "https://github.com/nptl-stanford/inner_speech"
+    },
+    {
+      "filename": "t16.2024.04.29_attempted_50words.mat",
+      "local_path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sources/t16.2024.04.29_attempted_50words.mat",
+      "sha256": "599ae05c4ef954559afdf73d4cee95e29db84f510307d6d37a46650819f586a7",
+      "bytes": 105770556,
+      "download_url": "https://huggingface.co/datasets/raei/Kunz-2025-InnerSpeechMotorCortexImplicationsSpeechNeuroprostheses/resolve/main/sentenceData/t16.2024.04.29_attempted_50words.mat",
+      "origin": "Community mirror of Kunz2025 author dataset; frozen local hash is authoritative for this experiment",
+      "publication": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12360486/",
+      "author_code": "https://github.com/nptl-stanford/inner_speech"
+    },
+    {
+      "source_url": "https://zenodo.org/records/8047896/files/tuningTasks.tar.gz?download=1",
+      "archive_member": "./tuningTasks/t12.2022.05.03_fiftyWordSet.mat",
+      "size": 387839334,
+      "sha256": "25808ca2cc8a57d265e78589e3d54d4eafac633b01662151b082c491ed39dc55",
+      "compressed_bytes_consumed": 675205120,
+      "release": "Zenodo June2023 mirror. Compare current Dryad release for known later corrections; May03 is not the June28 session listed in the timing correction.",
+      "not_used": "RNN outputs, weights, audio features or language model archives"
+    },
+    {
+      "filename": "cmudict.dict",
+      "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+      "bytes": 3618488,
+      "download_url": "https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict",
+      "purpose": "Generic pronunciation dictionary, no neural information; exact retrieved file bundled with probe"
+    }
+  ],
+  "raw_recordings_bundled": false,
+  "scope": "Sources for completed Sol decoding probes; ancillary source diagnostics are described in their saved configurations."
+}

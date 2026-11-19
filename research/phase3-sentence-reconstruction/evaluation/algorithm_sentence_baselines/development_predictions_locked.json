@@ -1,0 +1,248 @@
+{
+  "name": "sentences_agentic_dev",
+  "matched_dtw_compositor": [
+    {
+      "id": "td133fe66",
+      "tokens": [
+        "what",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t91b28a91",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "clean",
+        "my",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "ta8a65773",
+      "tokens": [
+        "hope",
+        "is",
+        "nurse"
+      ]
+    },
+    {
+      "id": "tcd92c110",
+      "tokens": [
+        "i",
+        "have",
+        "need",
+        "music"
+      ]
+    },
+    {
+      "id": "t7d52b265",
+      "tokens": [
+        "tell",
+        "my",
+        "i",
+        "coming",
+        "here"
+      ]
+    },
+    {
+      "id": "t50600ea0",
+      "tokens": [
+        "music",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t53cbb8ea",
+      "tokens": [
+        "they",
+        "do",
+        "i",
+        "have",
+        "faith"
+      ]
+    },
+    {
+      "id": "tf75891fc",
+      "tokens": [
+        "family",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ]
+    }
+  ],
+  "nearest_whole_recording_dtw": [
+    {
+      "id": "td133fe66",
+      "tokens": [
+        "here",
+        "is",
+        "that"
+      ],
+      "retrieved_calibration_id": "c098"
+    },
+    {
+      "id": "t91b28a91",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "am",
+        "comfortable"
+      ],
+      "retrieved_calibration_id": "c078"
+    },
+    {
+      "id": "ta8a65773",
+      "tokens": [
+        "are",
+        "they",
+        "right"
+      ],
+      "retrieved_calibration_id": "c043"
+    },
+    {
+      "id": "tcd92c110",
+      "tokens": [
+        "i",
+        "need",
+        "music"
+      ],
+      "retrieved_calibration_id": "c081"
+    },
+    {
+      "id": "t7d52b265",
+      "tokens": [
+        "tell",
+        "my",
+        "nurse",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ],
+      "retrieved_calibration_id": "c011"
+    },
+    {
+      "id": "t50600ea0",
+      "tokens": [
+        "no",
+        "music",
+        "here"
+      ],
+      "retrieved_calibration_id": "c093"
+    },
+    {
+      "id": "t53cbb8ea",
+      "tokens": [
+        "they",
+        "need",
+        "it",
+        "coming",
+        "up"
+      ],
+      "retrieved_calibration_id": "c009"
+    },
+    {
+      "id": "tf75891fc",
+      "tokens": [
+        "you",
+        "do",
+        "not",
+        "like",
+        "my",
+        "computer"
+      ],
+      "retrieved_calibration_id": "c080"
+    }
+  ],
+  "configuration_sha256": "43c3a6dc808d2dd9c10a6ace7af6ecf22f2fed340802d185b08de504330019b8",
+  "query_labels_used": false,
+  "wall_seconds_decode": 0.17320141699747182,
+  "matched_dtw_text_splice": [
+    {
+      "id": "td133fe66",
+      "tokens": [
+        "what",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t91b28a91",
+      "tokens": [
+        "they",
+        "tell",
+        "my",
+        "family",
+        "i",
+        "am",
+        "not",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "ta8a65773",
+      "tokens": [
+        "hope",
+        "is",
+        "what"
+      ]
+    },
+    {
+      "id": "tcd92c110",
+      "tokens": [
+        "i",
+        "need",
+        "music",
+        "here"
+      ]
+    },
+    {
+      "id": "t7d52b265",
+      "tokens": [
+        "my",
+        "nurse",
+        "is",
+        "coming",
+        "here"
+      ]
+    },
+    {
+      "id": "t50600ea0",
+      "tokens": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t53cbb8ea",
+      "tokens": [
+        "do",
+        "you",
+        "have",
+        "faith"
+      ]
+    },
+    {
+      "id": "tf75891fc",
+      "tokens": [
+        "you",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ]
+    }
+  ],
+  "splice_configuration_sha256": "dc9e313d4bba73576f8b00784f164822283dbc0f739ad081d2e1b14b4b359d38"
+}

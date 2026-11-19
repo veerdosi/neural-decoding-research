@@ -1,0 +1,18 @@
+{
+  "source_sha256": "1301d8cd1424252996ea22d6c6d2127f810fd10a9ed27afa15c6fc71ba0916d9",
+  "html_sha256": "1badb2e2b74466e647e4241e27926281edcb602c41197a05b78f2aec723c383b",
+  "figures": [
+    {
+      "path": "research/phase3-sentence-reconstruction/figures/actual_neural_sentence.png",
+      "sha256": "a51f0335850bd46d968c1199e7aca916f5d1831a4bccee2ca38419f183a92dfe"
+    },
+    {
+      "path": "research/phase3-sentence-reconstruction/figures/t16_development_to_reserved.png",
+      "sha256": "3af1f957228dd88dc14c20fcbf4ac93073d477a4252f72203bb5401ab72a490b"
+    }
+  ],
+  "images_embedded": true,
+  "fonts_embedded": true,
+  "build_utc": "2026-11-19T10:52:40.148774+00:00",
+  "Markdown_version": "3.11.3"
+}

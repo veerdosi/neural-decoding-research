@@ -1,0 +1,125 @@
+{
+  "video_sha256": "b8c620f42d3eb5c5adc010a00c558d57b5549ec3bb89b1e23c217939087f194f",
+  "video_bytes": 4243452,
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 960,
+    "duration_seconds": 32.0,
+    "codec": "h264",
+    "audio": "aac",
+    "max_volume_dbfs": -17.1
+  },
+  "full_decode_errors": 0,
+  "shots": [
+    {
+      "query_id": "tcd92c113",
+      "native_signal_exact": true,
+      "prediction_and_repeat_exact": true,
+      "calibration_disjoint": true,
+      "prediction_precedes_target": true
+    },
+    {
+      "query_id": "tef9d94a6",
+      "native_signal_exact": true,
+      "prediction_and_repeat_exact": true,
+      "calibration_disjoint": true,
+      "prediction_precedes_target": true
+    },
+    {
+      "query_id": "tf75891ff",
+      "native_signal_exact": true,
+      "prediction_and_repeat_exact": true,
+      "calibration_disjoint": true,
+      "prediction_precedes_target": true
+    },
+    {
+      "query_id": "tdd25032b",
+      "native_signal_exact": true,
+      "prediction_and_repeat_exact": true,
+      "calibration_disjoint": true,
+      "prediction_precedes_target": true
+    }
+  ],
+  "evidence_sha256": "75a3283a0d5766608fbfa0f6dc2aab82472d0c323fed4472b8779ee9c9179edf",
+  "source_sha256": {
+    "src/Film.tsx": "c05d73bd2b4486ba3702c914e07f3cbb043a4d34bd1057066de863358361d100",
+    "src/Root.tsx": "f47a3762150ac16c686e0de7ddfc65ff3ad0214113da09294742a8c9deb651d9",
+    "export_evidence.py": "936aba5bceffa61a61327d9504a43e8948cc6aa8e567bc327ec2b0e066d78c4c"
+  },
+  "representative_encoded_frames": [
+    {
+      "frame": 0,
+      "path": "encoded-frames/frame-01.png",
+      "sha256": "d6da84f318ab03d0e0757795e939b52a48fc36425bf1bfd16ad6b3c9c185d849"
+    },
+    {
+      "frame": 45,
+      "path": "encoded-frames/frame-02.png",
+      "sha256": "e67eea7babd72261d2dd8b7d2738880454e8ab801c46d197411963562fd6cff8"
+    },
+    {
+      "frame": 90,
+      "path": "encoded-frames/frame-03.png",
+      "sha256": "a8e930159dfe22a65f1414e482d29f972c527a59bbdb081c703d0821c32363b9"
+    },
+    {
+      "frame": 135,
+      "path": "encoded-frames/frame-04.png",
+      "sha256": "5272a47ca3dc224dbfa8d73e225b084185dedacf7399a8c705ad76f23fc4a248"
+    },
+    {
+      "frame": 210,
+      "path": "encoded-frames/frame-05.png",
+      "sha256": "e7fe0fea0095e4c04d8e010be4aec05a3c10c182f030bf209914ece1ad908343"
+    },
+    {
+      "frame": 300,
+      "path": "encoded-frames/frame-06.png",
+      "sha256": "9e63b71daf6e4e2e54ba4d12bafb1533b57d8eb05f81fc295f2db580f74918f4"
+    },
+    {
+      "frame": 360,
+      "path": "encoded-frames/frame-07.png",
+      "sha256": "be6b28c4da49f0929adafbb79041122b29729ec3ebc31fa89e8875df69d4a33b"
+    },
+    {
+      "frame": 435,
+      "path": "encoded-frames/frame-08.png",
+      "sha256": "2b3db700960e32480709c06fd75c76b4e98ae4a3fc2646906aaac1b104464775"
+    },
+    {
+      "frame": 525,
+      "path": "encoded-frames/frame-09.png",
+      "sha256": "6da65cfdd39bfdc3dfa35f50f12371bb9cfe759838d80443de8a1e838d1bbc85"
+    },
+    {
+      "frame": 600,
+      "path": "encoded-frames/frame-10.png",
+      "sha256": "852fbd70f177c8563295abba60969fe7c79584f46f77440204df4824e1bbfc39"
+    },
+    {
+      "frame": 675,
+      "path": "encoded-frames/frame-11.png",
+      "sha256": "8b9d49363733df17765c4a65eb10b55f9a3c935819f51a162de41508ea2d9770"
+    },
+    {
+      "frame": 780,
+      "path": "encoded-frames/frame-12.png",
+      "sha256": "0c6b11650cfcaeb392d5932d5def3b7f1c83c30e6ea07f258e2a99c06c6c507a"
+    },
+    {
+      "frame": 855,
+      "path": "encoded-frames/frame-13.png",
+      "sha256": "cbbf1509a6e8ddbdcf607a7806c555713846b8620fd1b0a05151b417cb8621fa"
+    },
+    {
+      "frame": 930,
+      "path": "encoded-frames/frame-14.png",
+      "sha256": "7b2348bcb5a675ac5629d985de4d46b33a646336c8dc416ca1bafa2522f7f144"
+    }
+  ],
+  "v1_preserved": true,
+  "scope": "Verifies provenance, reveal timing and media integrity. Visual review of representative frames and Studio preview remains a separate editorial assessment."
+}

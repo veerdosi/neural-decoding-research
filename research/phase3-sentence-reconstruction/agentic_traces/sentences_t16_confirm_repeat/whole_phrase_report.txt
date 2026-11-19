@@ -1,0 +1,224 @@
+
+tb0b19ec8
+0.400 c026 it(2-16) is(16-23)
+0.381 c036 is(2-3) it(3-22) that(22-23)
+0.372 c003 is(2-4) it(4-19) that(18-23)
+0.363 c027 it(2-11) is(11-23)
+0.314 c013 is(2-16) my(16-23)
+
+t59dcd856
+0.369 c002 i(2-12) hope(12-18) you(18-23) like(23-34) music(33-46)
+0.326 c039 i(2-13) hope(13-19) you(18-25) like(25-33) my(33-36) music(36-46)
+0.324 c056 you(2-15) do(15-24) not(23-31) need(31-38) faith(38-46)
+0.289 c038 how(2-13) do(13-19) you(19-26) clean(26-46)
+0.282 c037 how(2-6) do(6-16) you(16-23) like(22-35) that(35-46)
+
+tcd92c113
+0.367 c033 where(2-14) is(14-20) it(20-29) going(29-30)
+0.316 c051 i(2-9) need(9-18) that(18-30)
+0.304 c079 where(2-16) is(15-19) my(19-24) faith(24-30)
+0.286 c018 that(2-12) is(12-21) bad(21-30)
+0.267 c075 they(2-11) need(10-19) not(19-30)
+
+t1fe83bc3
+0.314 c001 i(2-11) am(11-20) clean(20-34)
+0.287 c077 i(2-7) need(7-17) it(17-33) right(33-34)
+0.264 c062 i(2-13) hope(13-22) they(22-29) are(29-34)
+0.248 c073 my(2-16) glasses(16-34)
+0.248 c012 i(2-3) tell(3-25) you(25-34)
+
+td28e3558
+0.331 c009 coming(2-14) outside(14-24)
+0.301 c026 it(2-16) is(16-24)
+0.300 c007 you(2-11) clean(11-23) it(23-24)
+0.293 c045 you(2-14) like(14-24)
+0.280 c008 you(2-15) hope(15-24)
+
+t6f0fdfe0
+0.341 c039 i(2-10) hope(9-17) you(17-25) like(25-30) my(29-33) music(32-46)
+0.288 c035 i(2-10) hope(9-15) they(15-20) do(20-26) not(26-32) need(32-45) my(45-46)
+0.279 c002 i(2-9) hope(9-17) you(17-25) like(25-32) music(31-45)
+0.256 c062 i(2-10) hope(9-19) they(19-26) are(26-33) closer(33-46)
+0.247 c056 you(2-11) do(11-24) not(24-29) need(29-43) faith(43-46)
+
+t4539ffbe
+0.298 c045 you(2-6) like(6-20) it(20-28) here(28-34)
+0.280 c048 am(2-5) right(4-21) here(21-33)
+0.274 c042 they(2-18) are(18-24) tired(24-34)
+0.265 c029 do(2-13) not(12-21) feel(21-34)
+0.264 c077 it(2-4) right(4-22) here(22-34)
+
+ta2aa0fcb
+0.284 c002 hope(2-8) you(8-12) like(12-21) music(21-29)
+0.281 c073 my(2-20) glasses(20-29)
+0.254 c041 do(2-15) it(15-28)
+0.252 c028 hope(2-9) you(9-14) like(13-23) my(23-29)
+0.244 c039 hope(2-9) you(9-13) like(12-22) my(21-29)
+
+tf75891ff
+0.281 c043 no(2-12) my(12-17) family(16-25) is(25-29) not(29-37) going(37-52) here(52-60)
+0.266 c078 i(2-3) hope(3-8) my(8-17) family(16-27) is(27-40) right(40-49) here(49-56)
+0.227 c024 they(2-22) hope(22-26) you(26-32) are(32-42) right(41-52) here(52-58)
+0.219 c009 coming(2-17) outside(16-36) is(35-40) very(39-47) good(46-55)
+0.218 c000 my(2-12) family(12-29) they(29-41) feel(41-49) thirsty(48-59)
+
+t514a6795
+0.389 c067 my(2-12) faith(11-18) is(17-25) my(25-32) success(31-47)
+0.276 c002 i(2-11) hope(11-19) you(19-24) like(23-33) music(32-49)
+0.246 c039 i(2-13) hope(12-19) you(19-23) like(23-28) my(27-31) music(31-48)
+0.236 c028 i(2-11) hope(11-19) you(19-25) like(24-33) my(33-37) help(37-48)
+0.211 c068 my(2-12) nurse(11-19) is(18-21) not(21-29) going(29-50)
+
+t9ce92bac
+0.313 c073 my(2-15) glasses(14-24)
+0.280 c026 it(2-17) is(17-25)
+0.260 c016 hungry(2-25)
+0.242 c005 you(2-17) hope(17-24) my(24-25)
+0.239 c003 it(2-9) that(9-24) good(24-25)
+
+t3afd73b4
+0.262 c074 you(2-18) are(18-26) no(26-35) good(35-40)
+0.248 c052 where(2-20) are(20-29) they(29-37) not(37-40)
+0.231 c012 i(2-12) tell(12-23) you(23-37) i(37-40)
+0.226 c065 family(2-23) is(23-27) okay(26-38)
+0.219 c062 i(2-11) hope(11-17) they(17-22) are(21-29) closer(28-40)
+
+tef9d94a6
+0.313 c061 do(2-14) i(14-19) have(18-26) my(26-32) glasses(31-48)
+0.279 c039 hope(2-10) you(10-18) like(17-26) my(26-32) music(32-48)
+0.231 c073 my(2-27) glasses(27-48)
+0.230 c058 i(2-7) do(7-18) not(18-22) have(21-28) my(27-36) computer(36-48)
+0.213 c050 nurse(2-5) they(5-11) do(11-20) not(20-30) feel(29-34) thirsty(33-48)
+
+t52b24bf6
+0.281 c008 you(2-16) hope(15-24) my(23-32) nurse(31-40) is(40-50)
+0.243 c043 no(2-16) my(16-24) family(24-35) is(35-38) not(37-46) going(46-50)
+0.227 c005 you(2-15) hope(15-22) my(22-26) nurse(25-36) is(35-42) here(42-50)
+0.223 c045 you(2-16) like(16-33) it(33-46) here(46-50)
+0.218 c019 my(2-17) family(17-35) is(35-40) that(39-42) good(42-50)
+
+t5f2d20a0
+0.263 c005 hope(2-5) my(5-14) nurse(14-25) is(25-35) here(35-48)
+0.261 c077 i(2-8) need(8-16) it(16-28) right(28-38) here(37-46)
+0.241 c078 hope(2-5) my(5-15) family(15-23) is(22-30) right(29-38) here(38-46)
+0.236 c009 coming(2-10) outside(10-20) is(20-29) very(29-44) good(44-48)
+0.234 c071 i(2-17) hope(17-22) you(22-27) have(27-33) very(32-43) good(42-46) family(46-48)
+
+t44bb2095
+0.374 c079 where(2-21) is(21-25) my(25-31) faith(31-45)
+0.276 c071 have(2-4) very(4-18) good(18-25) family(25-46)
+0.271 c035 not(2-6) need(6-24) my(24-33) music(33-47)
+0.258 c033 where(2-18) is(18-26) it(26-31) going(31-46)
+0.245 c066 are(2-10) they(10-25) very(25-35) thirsty(35-46)
+
+te366b91c
+0.361 c078 i(2-19) hope(19-27) my(27-34) family(33-50)
+0.299 c039 i(2-19) hope(19-27) you(26-31) like(30-36) my(36-41) music(41-50)
+0.291 c071 i(2-20) hope(20-26) you(26-31) have(31-39) very(39-44) good(44-50)
+0.265 c062 i(2-19) hope(19-27) they(27-31) are(31-44) closer(43-50)
+0.247 c046 i(2-18) hope(18-26) they(26-32) are(31-36) right(36-41) here(41-48)
+
+ta8a65775
+0.282 c039 i(2-17) hope(16-24) you(24-28) like(27-32) my(32-37) music(37-49)
+0.277 c002 i(2-16) hope(15-23) you(23-30) like(30-38) music(37-50)
+0.249 c067 my(2-14) faith(14-26) is(26-32) my(31-39) success(38-47)
+0.236 c046 i(2-16) hope(16-23) they(23-29) are(28-33) right(33-41) here(41-52)
+0.233 c035 i(2-16) hope(16-21) they(20-24) do(24-30) not(30-38) need(38-46) my(46-52)
+
+t8485b6b9
+0.296 c066 are(2-8) they(8-18) very(17-22) thirsty(22-37)
+0.285 c050 nurse(2-3) they(3-8) do(7-11) not(11-15) feel(15-24) thirsty(24-37)
+0.248 c075 they(2-12) need(12-20) not(20-33)
+0.233 c017 you(2-10) feel(10-25) it(24-34)
+0.231 c008 hope(2-16) my(16-22) nurse(22-33) is(33-37)
+
+t41450074
+0.404 c016 i(2-14) am(13-22)
+0.387 c077 i(2-12) need(12-22)
+0.344 c032 i(2-15) do(15-22)
+0.321 c073 my(2-22)
+0.289 c045 you(2-13) like(13-22)
+
+t53cbb8eb
+0.371 c058 i(2-11) do(10-16) not(16-21) have(21-33) my(33-35)
+0.274 c007 clean(2-18) it(18-25) up(25-34)
+0.249 c050 they(2-6) do(6-15) not(15-25) feel(25-33) thirsty(33-35)
+0.247 c059 you(2-14) are(14-24) up(24-35)
+0.240 c035 they(2-9) do(9-16) not(16-24) need(24-35)
+
+tbfeb0ff2
+0.297 c071 have(2-5) very(4-14) good(14-23) family(23-45)
+0.293 c078 i(2-15) hope(15-23) my(22-28) family(27-43) is(43-45)
+0.259 c028 i(2-13) hope(13-31) you(31-41) like(40-45)
+0.247 c012 i(2-10) tell(10-27) you(27-42) i(42-45)
+0.244 c066 are(2-10) they(10-29) very(29-33) thirsty(33-43)
+
+te3243945
+0.337 c052 where(2-23) are(23-31) they(30-37)
+0.328 c053 how(2-4) are(4-15) they(15-37)
+0.291 c074 you(2-12) are(12-26) no(26-37)
+0.248 c066 are(2-6) they(6-16) very(15-24) thirsty(24-37)
+0.247 c057 how(2-23) are(23-31) you(31-37)
+
+tca769afd
+0.233 c068 nurse(2-18) is(18-28) not(28-42) going(42-63)
+0.228 c003 is(2-19) it(19-44) that(44-58) good(57-65)
+0.208 c037 how(2-30) do(30-51) you(50-60) like(60-65)
+0.193 c069 what(2-30) is(30-45) hungry(45-65)
+0.193 c022 what(2-25) do(25-49) you(49-59) clean(59-65)
+
+td133fe68
+0.296 c010 you(2-19) feel(19-24) comfortable(24-49)
+0.264 c013 my(2-12) nurse(11-22) comfortable(22-45)
+0.263 c029 do(2-12) not(12-21) feel(21-25) comfortable(25-47)
+0.238 c028 you(2-8) like(8-26) my(26-36) help(36-51)
+0.229 c062 i(2-13) hope(12-18) they(17-20) are(20-27) closer(27-47)
+
+t588781f6
+0.249 c060 yes(2-14) i(14-19) am(19-23) very(22-32) good(32-44)
+0.245 c020 hungry(2-44)
+0.243 c069 what(2-21) is(21-30) hungry(30-44)
+0.229 c053 how(2-10) are(10-17) they(17-43)
+0.219 c066 are(2-7) they(7-19) very(19-31) thirsty(31-44)
+
+tced8ecfc
+0.297 c007 you(2-19) clean(19-38) it(37-42) up(42-51)
+0.274 c056 you(2-21) do(21-35) not(35-40) need(40-51)
+0.271 c038 how(2-20) do(20-27) you(27-31) clean(31-51)
+0.246 c054 what(2-18) do(17-25) i(25-31) tell(31-38) my(38-43) nurse(43-51)
+0.235 c014 how(2-20) they(20-30) do(30-40) it(40-51)
+
+t848cf4da
+0.335 c065 family(2-17) is(16-20) okay(20-32)
+0.306 c049 hello(2-21) you(21-32)
+0.299 c047 family(2-4) is(4-8) not(8-18) okay(17-32)
+0.253 c018 that(2-14) is(14-22) bad(22-32)
+0.250 c078 i(2-15) hope(15-24) my(24-32)
+
+td6e48564
+0.388 c018 that(2-12) is(12-20) bad(20-29)
+0.320 c027 it(2-10) is(10-26) what(26-29)
+0.309 c013 is(2-16) my(16-25) nurse(25-29)
+0.308 c003 it(2-11) that(11-20) good(20-29)
+0.297 c036 it(2-7) that(7-16) bad(15-29)
+
+t0575fbc6
+0.427 c071 i(2-16) hope(16-23) you(23-28) have(28-41) very(40-50) good(50-60) family(60-77)
+0.217 c009 coming(2-15) outside(15-33) is(33-38) very(38-53) good(53-73)
+0.198 c078 i(2-15) hope(15-22) my(22-28) family(28-51) is(51-60) right(59-65) here(64-75)
+0.183 c062 i(2-14) hope(14-25) they(25-35) are(35-51) closer(51-75)
+0.178 c035 i(2-15) hope(15-21) they(20-24) do(24-28) not(28-37) need(37-52) my(52-64) music(64-76)
+
+t6453e6ae
+0.290 c038 how(2-12) do(11-18) you(18-26) clean(26-37)
+0.254 c004 do(2-13) what(13-26) please(26-37)
+0.217 c007 you(2-13) clean(13-36) it(35-37)
+0.216 c071 you(2-3) have(3-11) very(11-16) good(16-26) family(25-37)
+0.215 c065 family(2-21) is(20-26) okay(25-37)
+
+t4d2d7415
+0.290 c013 is(2-23) my(23-30) nurse(30-46) comfortable(46-65)
+0.274 c024 they(2-24) hope(24-37) you(37-46) are(45-52) right(51-58) here(58-68)
+0.243 c029 tell(2-18) my(18-22) nurse(21-27) i(27-32) do(32-37) not(37-41) feel(41-47) comfortable(47-66)
+0.241 c010 you(2-32) feel(32-46) comfortable(46-67)
+0.228 c009 coming(2-19) outside(19-40) is(39-44) very(44-52) good(52-67)

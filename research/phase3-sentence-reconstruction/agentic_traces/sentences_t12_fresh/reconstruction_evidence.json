@@ -1,0 +1,650 @@
+{
+  "provenance": "Only inputs.json and neural_inputs.npz in this directory were used. No network, external labels, external weights, or delegated agents. Final choices are human interpretation, not the raw numerical assembly. Calibration cuts are inferred and can be inaccurate.",
+  "query_evidence": [
+    {
+      "id": "tda989373",
+      "tokens": [
+        "they",
+        "need",
+        "what"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            10
+          ],
+          "interpreted_fragment": "they",
+          "calibration_matches": "c104:2-6; c101:18-22; c061:13-17"
+        },
+        {
+          "query_rows": [
+            8,
+            16
+          ],
+          "interpreted_fragment": "need",
+          "calibration_matches": "c009:7-11; c055:5-9; competing do in c079/c080"
+        },
+        {
+          "query_rows": [
+            14,
+            24
+          ],
+          "interpreted_fragment": "what",
+          "calibration_matches": "c062:10-18; c098:7-16"
+        }
+      ]
+    },
+    {
+      "id": "tdd25032b",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "confidence": "medium",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            22
+          ],
+          "interpreted_fragment": "tell my family",
+          "calibration_matches": "c114:2-19; c027:5-22; c078:5-20"
+        },
+        {
+          "query_rows": [
+            20,
+            36
+          ],
+          "interpreted_fragment": "i do",
+          "calibration_matches": "c079:8-20; c083:12-25"
+        },
+        {
+          "query_rows": [
+            32,
+            45
+          ],
+          "interpreted_fragment": "not",
+          "calibration_matches": "c079:17-29; c101:37-46"
+        },
+        {
+          "query_rows": [
+            38,
+            55
+          ],
+          "interpreted_fragment": "feel",
+          "calibration_matches": "c015:6-16; c020:9-20; c001:17-25"
+        },
+        {
+          "query_rows": [
+            53,
+            67
+          ],
+          "interpreted_fragment": "thirsty",
+          "calibration_matches": "c072:16-30; optional very unresolved"
+        }
+      ]
+    },
+    {
+      "id": "t5ee44a7f",
+      "tokens": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "confidence": "medium",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "my music",
+          "calibration_matches": "c016:2-14; c093:4-12"
+        },
+        {
+          "query_rows": [
+            11,
+            24
+          ],
+          "interpreted_fragment": "is",
+          "calibration_matches": "c100:5-18; c047:18-26; estimated transition to here"
+        },
+        {
+          "query_rows": [
+            17,
+            30
+          ],
+          "interpreted_fragment": "here",
+          "calibration_matches": "c058:29-39; c047:22-31; c093:14-21; c108:29-37"
+        }
+      ]
+    },
+    {
+      "id": "tdf8f9fae",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "have"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            16
+          ],
+          "interpreted_fragment": "i hope",
+          "calibration_matches": "c001:2-15; c005:2-14; c097:2-14"
+        },
+        {
+          "query_rows": [
+            14,
+            22
+          ],
+          "interpreted_fragment": "you",
+          "calibration_matches": "c097:15-21; competing they in c025:11-22"
+        },
+        {
+          "query_rows": [
+            20,
+            25
+          ],
+          "interpreted_fragment": "have",
+          "calibration_matches": "c066:19-23; c097:17-23; weak terminal word"
+        }
+      ]
+    },
+    {
+      "id": "t4f16b000",
+      "tokens": [
+        "is",
+        "my",
+        "faith"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "is my",
+          "calibration_matches": "c091:3-14; c039:4-12"
+        },
+        {
+          "query_rows": [
+            11,
+            21
+          ],
+          "interpreted_fragment": "faith",
+          "calibration_matches": "c112:15-24; c003:2-10; music/family remain alternatives; candidate score favors faith under full features"
+        }
+      ]
+    },
+    {
+      "id": "t40a0a424",
+      "tokens": [
+        "no",
+        "they",
+        "do",
+        "not",
+        "feel",
+        "very",
+        "comfortable"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "no they",
+          "calibration_matches": "c018:2-14; competing no i in c079:2-15"
+        },
+        {
+          "query_rows": [
+            8,
+            24
+          ],
+          "interpreted_fragment": "do not",
+          "calibration_matches": "c083:16-31; c080:6-21; c079:9-25"
+        },
+        {
+          "query_rows": [
+            20,
+            33
+          ],
+          "interpreted_fragment": "feel",
+          "calibration_matches": "c079:31-43; c020:10-19"
+        },
+        {
+          "query_rows": [
+            26,
+            39
+          ],
+          "interpreted_fragment": "very",
+          "calibration_matches": "c079:35-50; phrase boundary uncertain"
+        },
+        {
+          "query_rows": [
+            32,
+            46
+          ],
+          "interpreted_fragment": "comfortable",
+          "calibration_matches": "c017:29-41; c114:37-47; c103:18-30; c039:29-38"
+        }
+      ]
+    },
+    {
+      "id": "tf256b8ed",
+      "tokens": [
+        "tell",
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "good"
+      ],
+      "confidence": "medium-low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            18
+          ],
+          "interpreted_fragment": "tell my nurse",
+          "calibration_matches": "c011:3-18; c072:7-18; c049:3-12"
+        },
+        {
+          "query_rows": [
+            11,
+            24
+          ],
+          "interpreted_fragment": "nurse is",
+          "calibration_matches": "c049:6-20; c100:4-18; is inclusion uncertain"
+        },
+        {
+          "query_rows": [
+            23,
+            36
+          ],
+          "interpreted_fragment": "very good",
+          "calibration_matches": "c008:15-28; c049:23-37"
+        },
+        {
+          "query_rows": [
+            29,
+            39
+          ],
+          "interpreted_fragment": "good",
+          "calibration_matches": "c008:22-29; c091:24-33; c049:30-37"
+        }
+      ]
+    },
+    {
+      "id": "t12be1627",
+      "tokens": [
+        "i",
+        "like",
+        "it"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "i like",
+          "calibration_matches": "c041:2-13; competing they at onset in c009"
+        },
+        {
+          "query_rows": [
+            8,
+            21
+          ],
+          "interpreted_fragment": "like it",
+          "calibration_matches": "c036:3-16; c088:18-31 supports competing like that; terminal it is uncertain"
+        }
+      ]
+    },
+    {
+      "id": "t42cfafec",
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "confidence": "medium-low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "i hope",
+          "calibration_matches": "c001:2-14; c097:2-15; c099:3-15"
+        },
+        {
+          "query_rows": [
+            8,
+            21
+          ],
+          "interpreted_fragment": "hope you",
+          "calibration_matches": "c097:10-22; competing i in c117:13-21"
+        },
+        {
+          "query_rows": [
+            17,
+            30
+          ],
+          "interpreted_fragment": "have faith",
+          "calibration_matches": "c002:6-19; c003:2-15; c112:11-23"
+        },
+        {
+          "query_rows": [
+            23,
+            31
+          ],
+          "interpreted_fragment": "faith",
+          "calibration_matches": "c003:11-15; c002:13-20; c004:22-26"
+        }
+      ]
+    },
+    {
+      "id": "te3715f88",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "good"
+      ],
+      "confidence": "medium-low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "tell my",
+          "calibration_matches": "c114:2-10; c061:19-27; c109:7-15; competing you need"
+        },
+        {
+          "query_rows": [
+            11,
+            27
+          ],
+          "interpreted_fragment": "my family",
+          "calibration_matches": "c101:5-18; c108:15-28; c091:13-25"
+        },
+        {
+          "query_rows": [
+            20,
+            34
+          ],
+          "interpreted_fragment": "good",
+          "calibration_matches": "c091:18-32; c049:23-38; c008:15-28"
+        }
+      ]
+    },
+    {
+      "id": "tb8083852",
+      "tokens": [
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            13
+          ],
+          "interpreted_fragment": "my family",
+          "calibration_matches": "c027:13-24; c101:13-25; c108:19-29"
+        },
+        {
+          "query_rows": [
+            8,
+            21
+          ],
+          "interpreted_fragment": "is",
+          "calibration_matches": "c090:14-25; competing do/not-like fragments"
+        },
+        {
+          "query_rows": [
+            17,
+            30
+          ],
+          "interpreted_fragment": "good",
+          "calibration_matches": "c048:12-22; c091:22-34; c049:28-37; c008:22-30; optional not unresolved"
+        }
+      ]
+    },
+    {
+      "id": "t9024802d",
+      "tokens": [
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            18
+          ],
+          "interpreted_fragment": "do not",
+          "calibration_matches": "c111:5-18; c080:7-20"
+        },
+        {
+          "query_rows": [
+            14,
+            24
+          ],
+          "interpreted_fragment": "need",
+          "calibration_matches": "c083:27-38; competing is that/like that"
+        },
+        {
+          "query_rows": [
+            20,
+            28
+          ],
+          "interpreted_fragment": "it",
+          "calibration_matches": "c083:34-41; competing that in c088:23-29; candidate comparisons favor need it"
+        }
+      ]
+    },
+    {
+      "id": "t2b08e042",
+      "tokens": [
+        "my",
+        "faith",
+        "is",
+        "good"
+      ],
+      "confidence": "medium-low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "my faith",
+          "calibration_matches": "c031:2-12; c003:3-18; competing my nurse in c049:2-15"
+        },
+        {
+          "query_rows": [
+            11,
+            21
+          ],
+          "interpreted_fragment": "is",
+          "calibration_matches": "weak short function word; c056:12-23 gives alternative they are"
+        },
+        {
+          "query_rows": [
+            17,
+            28
+          ],
+          "interpreted_fragment": "good",
+          "calibration_matches": "c008:20-29; c049:28-41; c048:12-20"
+        }
+      ]
+    },
+    {
+      "id": "t62254eda",
+      "tokens": [
+        "they",
+        "feel",
+        "very",
+        "comfortable"
+      ],
+      "confidence": "medium-low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            15
+          ],
+          "interpreted_fragment": "they",
+          "calibration_matches": "c025:11-21; c015:2-14; competing that is"
+        },
+        {
+          "query_rows": [
+            8,
+            21
+          ],
+          "interpreted_fragment": "feel",
+          "calibration_matches": "c015:7-19; c079:31-45; c101:40-50"
+        },
+        {
+          "query_rows": [
+            14,
+            25
+          ],
+          "interpreted_fragment": "very",
+          "calibration_matches": "c079:37-50; c039:24-34; competing not"
+        },
+        {
+          "query_rows": [
+            20,
+            31
+          ],
+          "interpreted_fragment": "comfortable",
+          "calibration_matches": "c103:20-29; c079:44-55; c039:29-41; c114:41-52"
+        }
+      ]
+    },
+    {
+      "id": "t9db27598",
+      "tokens": [
+        "is",
+        "my",
+        "nurse",
+        "comfortable"
+      ],
+      "confidence": "medium",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            19
+          ],
+          "interpreted_fragment": "is my nurse",
+          "calibration_matches": "c072:2-19; c011:5-20; c049:3-15"
+        },
+        {
+          "query_rows": [
+            17,
+            33
+          ],
+          "interpreted_fragment": "comfortable",
+          "calibration_matches": "c017:29-42; c114:37-53; c103:16-24; possible intervening not/very unresolved"
+        }
+      ]
+    },
+    {
+      "id": "tef25d0d3",
+      "tokens": [
+        "how",
+        "do",
+        "i",
+        "have",
+        "faith"
+      ],
+      "confidence": "low",
+      "overlapping_support": [
+        {
+          "query_rows": [
+            2,
+            13
+          ],
+          "interpreted_fragment": "how do",
+          "calibration_matches": "c007:4-12; c082:4-9; c061:4-9; competing they do"
+        },
+        {
+          "query_rows": [
+            14,
+            24
+          ],
+          "interpreted_fragment": "i have",
+          "calibration_matches": "c117:18-25; c004:8-14; competing not in c079:21-31"
+        },
+        {
+          "query_rows": [
+            23,
+            34
+          ],
+          "interpreted_fragment": "faith",
+          "calibration_matches": "c003:7-18; c004:20-29; c061:30-37 gives competing family"
+        }
+      ]
+    }
+  ],
+  "reproduction": [
+    "OPENBLAS_NUM_THREADS=1 /Users/veerdosi/Documents/Codex/2026-11-18/go/work/venv/bin/python prepare_pca.py",
+    "local_retrieval.py drop2 pca32drop2",
+    "local_dtw.py drop2",
+    "align_templates.py",
+    "assemble_exemplars.py",
+    "align_temporal_exemplars.py",
+    "assemble_temporal.py",
+    "assemble_phrases.py",
+    "score_candidates.py",
+    "score_candidates_pca32.py",
+    "finalize_reconstruction.py"
+  ],
+  "numerical_evidence": [
+    "local_drop2.json",
+    "local_pca32drop2.json",
+    "local_dtw_drop2.json",
+    "edge_drop2.json",
+    "global_drop2_evidence.json",
+    "calibration_alignment.json",
+    "temporal_calibration_alignment.json",
+    "interpreted_candidate_scores.json",
+    "interpreted_candidate_scores_pca32.json"
+  ],
+  "automatic_outputs": [
+    "algorithm_only_sequences.json",
+    "temporal_algorithm_only_sequences.json",
+    "phrase_algorithm_only_sequences.json"
+  ]
+}

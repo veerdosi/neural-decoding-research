@@ -1,0 +1,27 @@
+{
+  "condition": "raw128_shuffled",
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/model_sandbox",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_decoding_pilot/responses/raw128_shuffled.json",
+    "-"
+  ],
+  "model": "gpt-6.1-sol",
+  "effort": "high",
+  "prompt_sha256": "43fe1de332735d9f12259a3713ee03358b5f0810854d057977e36fbef573c2db",
+  "started_utc": "2026-11-18T07:13:56Z",
+  "returncode": 0,
+  "finished_utc": "2026-11-18T07:24:40Z"
+}

@@ -1,0 +1,22 @@
+{
+  "predictions": [
+    {"id":"tda989373","tokens":["they","need","what"]},
+    {"id":"tdd25032b","tokens":["tell","my","family","i","do","not","feel","thirsty"]},
+    {"id":"t5ee44a7f","tokens":["my","music","is","here"]},
+    {"id":"tdf8f9fae","tokens":["i","hope","you","have"]},
+    {"id":"t4f16b000","tokens":["is","my","faith"]},
+    {"id":"t40a0a424","tokens":["no","they","do","not","feel","very","comfortable"]},
+    {"id":"tf256b8ed","tokens":["tell","my","nurse","is","very","good"]},
+    {"id":"t12be1627","tokens":["i","like","it"]},
+    {"id":"t42cfafec","tokens":["i","hope","you","have","faith"]},
+    {"id":"te3715f88","tokens":["tell","my","family","good"]},
+    {"id":"tb8083852","tokens":["my","family","is","good"]},
+    {"id":"t9024802d","tokens":["do","not","need","it"]},
+    {"id":"t2b08e042","tokens":["my","faith","is","good"]},
+    {"id":"t62254eda","tokens":["they","feel","very","comfortable"]},
+    {"id":"t9db27598","tokens":["is","my","nurse","comfortable"]},
+    {"id":"tef25d0d3","tokens":["how","do","i","have","faith"]}
+  ],
+  "method": "Used only supplied calibration and query recordings: calibration-only PCA, smoothing, removal of two components, cosine interval retrieval, and slope-constrained subsequence DTW. Final tokens interpret overlapping evidence. Scripts, supporting matches, alternatives, and timing notes are saved locally in reconstruction_evidence.json and associated files. Numerical assemblies are saved separately in algorithm_only_sequences.json, temporal_algorithm_only_sequences.json, and phrase_algorithm_only_sequences.json.",
+  "limitations": "These are best estimates, not verified transcripts. Word counts and boundaries were inferred; short words, pronouns, terminal words, and several short queries remain substantially ambiguous."
+}

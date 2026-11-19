@@ -1,0 +1,155 @@
+
+tda989373
+2-12 0.21 c009:2-10 they need | 0.21 c104:2-9 they do | 0.20 c101:18-25 family they | 0.20 c053:11-18 they | 0.20 c018:8-14 they
+5-15 0.24 c009:2-11 they need | 0.23 c101:18-28 family they do | 0.22 c018:9-15 they are | 0.22 c055:3-10 you | 0.21 c023:2-9 do you
+8-18 0.23 c018:10-16 they are | 0.22 c009:5-13 they need it | 0.22 c101:20-30 they do | 0.22 c080:3-12 you do | 0.21 c050:6-12 good
+11-21 0.21 c101:24-34 do | 0.21 c080:7-19 do not | 0.20 c018:11-26 they are not | 0.19 c026:3-14 you are | 0.19 c046:27-33 nurse
+14-24 0.19 c098:7-16 is that | 0.19 c062:10-18 what | 0.17 c101:26-35 do | 0.16 c082:26-33 what | 0.16 c092:35-45 very tired
+
+tdd25032b
+2-12 0.30 c114:2-10 tell my | 0.26 c072:2-12 is my | 0.24 c011:2-13 tell my | 0.23 c012:4-13 am i | 0.23 c109:4-14 tell
+5-15 0.29 c027:5-15 tell my | 0.29 c114:5-15 tell my | 0.24 c072:4-13 my | 0.23 c078:5-15 tell my | 0.23 c101:5-14 tell my
+8-18 0.31 c027:8-18 my family | 0.28 c114:8-17 my family | 0.26 c078:8-16 my | 0.22 c101:7-16 my | 0.21 c012:10-18 i coming
+11-21 0.29 c027:11-21 my family | 0.23 c078:11-18 my family | 0.21 c114:9-19 my family | 0.21 c115:7-15 my family | 0.21 c001:5-13 i hope
+14-24 0.28 c027:14-22 my family | 0.26 c117:9-17 hope | 0.23 c115:9-16 my family | 0.23 c078:13-20 my family | 0.23 c114:13-20 my family
+17-27 0.27 c083:6-18 hope i | 0.27 c101:14-23 family they | 0.25 c117:10-19 hope i | 0.24 c115:10-17 family | 0.23 c032:8-17 family is
+20-30 0.34 c083:12-22 i do | 0.32 c079:8-15 i do | 0.32 c101:17-26 family they do | 0.24 c032:11-18 family is | 0.23 c115:13-19 family is
+23-33 0.36 c079:9-19 i do | 0.35 c083:14-25 i do | 0.32 c101:18-29 family they do | 0.25 c032:13-19 is | 0.24 c111:5-12 do
+26-36 0.31 c079:9-20 i do | 0.30 c101:22-30 they do | 0.30 c083:18-25 do | 0.24 c080:6-14 do | 0.24 c111:5-13 do
+29-39 0.29 c079:15-23 do not | 0.26 c101:25-32 do | 0.25 c075:2-11 you need it | 0.21 c090:15-24 is | 0.21 c083:21-27 do not
+32-42 0.26 c079:17-27 do not | 0.21 c101:27-36 do | 0.21 c075:4-11 need it | 0.17 c090:19-26 is | 0.17 c092:9-21 nurse is
+35-45 0.20 c079:19-29 do not | 0.18 c101:37-46 not | 0.17 c025:11-21 they | 0.16 c032:20-26 not | 0.16 c035:27-36 it going
+38-48 0.18 c015:6-12 they feel | 0.17 c032:20-26 not | 0.16 c020:10-18 they feel | 0.16 c025:13-23 they feel | 0.16 c082:16-22 you
+41-51 0.19 c020:9-15 they | 0.17 c015:7-13 they feel | 0.17 c045:2-8 do you | 0.15 c032:22-27 not going | 0.14 c068:31-38 okay
+44-54 0.25 c020:11-17 they | 0.20 c114:41-51 comfortable | 0.20 c045:2-13 do you | 0.19 c015:8-14 they feel | 0.18 c036:15-22 it
+47-57 0.23 c015:7-16 they feel | 0.22 c020:12-20 they feel | 0.22 c045:6-14 you | 0.22 c001:17-25 they | 0.18 c049:19-30 is very
+50-60 0.22 c072:13-24 my nurse thirsty | 0.18 c015:8-21 they feel hungry | 0.17 c049:22-31 is very | 0.16 c119:8-14 are you | 0.16 c079:35-45 feel very
+53-63 0.26 c072:16-27 nurse thirsty | 0.18 c015:13-24 feel hungry | 0.17 c079:37-47 feel very comfortable | 0.15 c004:17-29 no faith | 0.15 c059:8-16 hope they
+56-66 0.25 c072:21-29 thirsty | 0.21 c034:33-41 you are right here | 0.18 c043:5-12 they | 0.17 c015:17-25 hungry | 0.16 c103:20-27 comfortable
+
+t5ee44a7f
+2-12 0.24 c016:2-11 my music | 0.20 c109:17-25 my | 0.18 c105:2-8 bring up | 0.18 c052:10-17 how tired | 0.18 c093:2-10 no music
+5-15 0.23 c016:5-14 my music is | 0.21 c105:2-8 bring up | 0.18 c093:4-12 music | 0.17 c109:20-27 my | 0.17 c041:12-21 music
+8-18 0.21 c010:22-28 like | 0.20 c016:8-15 music is | 0.19 c047:16-25 coming here | 0.19 c105:3-10 bring up | 0.17 c093:5-14 music here
+11-21 0.21 c047:18-26 coming here | 0.20 c100:5-15 is | 0.18 c093:9-17 music here | 0.17 c010:22-29 like | 0.16 c027:18-29 family they
+14-24 0.25 c093:10-18 music here | 0.23 c047:20-27 coming here | 0.22 c100:6-18 is here | 0.20 c108:26-36 is here | 0.19 c075:11-20 it here
+17-27 0.27 c058:29-38 here | 0.27 c047:22-28 here | 0.25 c093:14-21 here | 0.25 c108:29-37 here | 0.24 c100:11-21 is here
+20-30 0.24 c058:32-39 here | 0.24 c047:23-31 here | 0.23 c100:14-23 here | 0.23 c063:30-39 here | 0.22 c076:27-34 here
+
+tdf8f9fae
+2-12 0.23 c001:2-12 i hope | 0.21 c005:2-12 i hope | 0.21 c083:2-8 i hope | 0.20 c097:2-12 i hope | 0.19 c040:2-13 i hope
+5-15 0.25 c001:5-15 i hope | 0.20 c025:2-14 hope they | 0.19 c005:4-14 i hope | 0.17 c097:4-14 i hope | 0.17 c020:3-10 hope
+8-18 0.24 c025:6-15 hope they | 0.22 c001:8-16 hope | 0.16 c097:8-18 hope you | 0.16 c020:3-11 hope | 0.16 c117:9-20 hope i
+11-21 0.22 c025:10-18 hope they | 0.20 c097:10-21 hope you | 0.18 c070:4-13 you are | 0.17 c001:11-20 hope they | 0.15 c100:8-17 is here
+14-24 0.18 c025:12-22 they feel | 0.15 c047:10-19 is coming | 0.15 c107:6-17 is here | 0.15 c116:7-18 not very | 0.15 c040:28-34 am
+
+t4f16b000
+2-12 0.22 c091:3-11 is my | 0.21 c062:2-8 goodbye | 0.20 c011:2-9 tell | 0.19 c079:44-53 comfortable | 0.18 c101:54-63 hungry
+5-15 0.21 c091:6-14 my | 0.18 c046:20-28 my | 0.17 c039:4-12 is my | 0.17 c071:5-12 how thirsty | 0.17 c114:4-12 tell my
+8-18 0.18 c028:4-14 music | 0.18 c091:8-20 my family | 0.17 c013:3-9 my nurse is not good | 0.16 c017:26-37 am comfortable | 0.16 c014:3-12 my success
+11-21 0.21 c112:15-24 faith | 0.20 c028:9-18 music please | 0.20 c047:15-23 coming | 0.18 c017:31-40 am comfortable | 0.17 c003:2-10 have
+
+t40a0a424
+2-12 0.31 c018:2-13 no they | 0.30 c079:2-12 no i | 0.25 c069:38-47 my nurse is like that | 0.24 c101:18-24 family they | 0.23 c083:12-20 i do
+5-15 0.30 c079:8-15 i do | 0.29 c018:7-14 they | 0.29 c083:14-22 i do | 0.27 c101:18-26 family they do | 0.25 c092:8-15 nurse
+8-18 0.29 c083:16-25 i do | 0.27 c080:6-14 do | 0.26 c079:9-19 i do | 0.24 c018:9-21 they are | 0.24 c101:20-32 they do
+11-21 0.26 c080:8-17 do | 0.26 c083:18-26 do | 0.24 c079:11-20 do | 0.21 c075:4-13 need it | 0.21 c111:4-11 they do
+14-24 0.21 c079:15-25 do not | 0.20 c080:10-21 do not | 0.19 c083:21-31 do not need | 0.18 c075:6-15 it | 0.17 c013:34-40 my nurse is not good
+17-27 0.23 c079:17-26 do not | 0.22 c020:8-17 hope they | 0.18 c109:11-18 tell my | 0.17 c108:14-23 my | 0.17 c001:13-22 hope they
+20-30 0.23 c020:10-19 they feel | 0.22 c003:2-9 have | 0.22 c079:31-40 feel | 0.20 c091:11-22 my family | 0.18 c001:15-25 hope they
+23-33 0.22 c079:32-43 feel very | 0.18 c001:18-26 they feel | 0.18 c101:41-52 not feel | 0.18 c039:21-29 my family | 0.18 c003:4-10 have
+26-36 0.21 c103:14-22 not | 0.20 c079:35-46 feel very | 0.19 c054:18-25 my | 0.19 c046:11-18 you tell | 0.18 c017:25-34 am
+29-39 0.24 c103:17-23 not comfortable | 0.24 c017:28-37 am comfortable | 0.23 c080:30-36 my | 0.21 c054:18-30 my | 0.20 c079:40-50 very comfortable
+32-42 0.34 c017:29-39 am comfortable | 0.29 c114:37-46 not comfortable | 0.28 c103:18-27 not comfortable | 0.27 c079:42-50 very comfortable | 0.27 c054:22-33 my computer
+35-45 0.37 c017:32-41 comfortable | 0.35 c114:40-47 comfortable | 0.33 c079:45-51 comfortable | 0.33 c103:20-30 comfortable | 0.30 c039:29-38 very comfortable
+
+tf256b8ed
+2-12 0.26 c101:2-11 tell my | 0.26 c011:3-13 tell my | 0.23 c117:23-32 have my | 0.21 c027:4-12 tell my | 0.21 c078:5-11 tell my
+5-15 0.28 c011:5-17 tell my | 0.24 c117:24-35 have my | 0.21 c101:4-13 tell my | 0.20 c049:3-9 my | 0.20 c072:4-16 my
+8-18 0.24 c011:8-18 my | 0.22 c049:3-12 my | 0.22 c072:7-18 my nurse | 0.20 c013:3-11 my nurse is not good | 0.20 c069:2-13 my nurse is like that
+11-21 0.22 c049:6-15 my nurse | 0.20 c011:12-21 my nurse | 0.17 c013:5-13 my nurse is not good | 0.17 c069:4-14 my nurse is like that | 0.17 c071:3-11 how thirsty
+14-24 0.21 c059:18-26 need my | 0.18 c071:6-12 how thirsty | 0.18 c100:4-18 nurse is here | 0.17 c041:8-15 like music | 0.17 c049:8-20 my nurse is
+17-27 0.20 c100:7-19 is here | 0.19 c071:7-15 how thirsty | 0.18 c059:20-29 need my | 0.18 c041:9-17 like music | 0.18 c039:15-24 my
+20-30 0.20 c100:14-21 here | 0.19 c050:15-26 are you | 0.18 c008:12-23 am very | 0.18 c001:16-25 they | 0.18 c058:19-27 my computer right
+23-33 0.23 c008:15-26 very good | 0.18 c049:23-34 is very good | 0.18 c082:12-22 you | 0.18 c016:19-28 my hope | 0.18 c058:20-31 my computer right here
+26-36 0.25 c008:17-28 very good | 0.23 c049:25-37 is very good | 0.22 c091:19-31 family good | 0.20 c092:37-43 very tired | 0.18 c001:21-33 they feel good
+29-39 0.30 c008:22-29 good | 0.30 c091:24-33 good | 0.27 c049:30-37 good | 0.25 c092:37-43 very tired | 0.23 c038:13-20 good
+
+t12be1627
+2-12 0.19 c041:2-12 i like | 0.18 c009:3-9 they | 0.16 c111:6-18 do not | 0.16 c040:18-25 i | 0.16 c090:10-16 my music is
+5-15 0.18 c041:5-13 i like | 0.18 c036:3-12 like | 0.16 c111:11-24 do not like | 0.15 c088:13-28 you like that | 0.15 c118:11-16 is
+8-18 0.18 c088:18-31 like that | 0.18 c105:2-15 bring up | 0.17 c041:7-14 like | 0.17 c036:5-16 like | 0.17 c019:15-28 going outside
+11-21 0.16 c019:17-30 going outside | 0.16 c119:5-14 are you | 0.16 c009:24-34 coming up | 0.16 c088:24-31 that | 0.15 c040:18-29 i am
+
+t42cfafec
+2-12 0.23 c001:2-12 i hope | 0.21 c097:2-13 i hope | 0.21 c117:4-15 they hope | 0.21 c040:2-17 i hope i | 0.20 c056:3-13 i hope
+5-15 0.22 c097:6-15 i hope | 0.21 c001:5-14 i hope | 0.20 c099:3-15 i hope | 0.20 c117:6-18 they hope i | 0.20 c056:6-14 i hope
+8-18 0.25 c097:10-20 hope you | 0.20 c117:11-18 hope i | 0.20 c017:7-15 you i | 0.18 c061:4-14 what do they | 0.18 c001:9-20 hope they
+11-21 0.19 c117:13-21 hope i | 0.19 c097:12-22 hope you | 0.17 c061:6-16 do they | 0.15 c034:6-13 you are right here | 0.15 c046:7-15 do you
+14-24 0.19 c114:5-13 tell my | 0.19 c117:14-23 hope i | 0.18 c002:5-14 you have faith | 0.16 c112:10-17 have faith | 0.16 c099:13-24 they are
+17-27 0.24 c002:6-16 have faith | 0.24 c003:2-14 have faith | 0.21 c112:11-20 have faith | 0.21 c114:7-16 my | 0.19 c059:27-35 my faith
+20-30 0.33 c003:6-15 have faith | 0.30 c002:11-19 faith | 0.25 c059:30-36 faith | 0.24 c112:13-23 faith | 0.23 c004:20-28 faith
+
+te3715f88
+2-12 0.23 c110:6-13 need | 0.22 c114:2-10 tell my | 0.21 c063:2-10 you need | 0.20 c061:19-26 tell | 0.20 c089:2-11 do you
+5-15 0.24 c061:19-27 tell my | 0.22 c109:7-14 tell | 0.22 c110:7-15 need my | 0.21 c063:3-10 you need | 0.21 c078:4-10 tell
+8-18 0.25 c061:22-30 tell my | 0.24 c039:4-12 is my | 0.24 c109:8-15 tell my | 0.23 c027:6-14 tell my | 0.23 c101:4-12 tell my
+11-21 0.26 c101:5-15 tell my | 0.25 c039:6-15 is my | 0.22 c109:10-24 tell my | 0.21 c108:15-22 my | 0.21 c061:24-32 my
+14-24 0.24 c101:8-18 my family | 0.23 c108:17-26 my family | 0.21 c039:9-18 my | 0.20 c114:8-18 my family | 0.20 c109:14-26 my
+17-27 0.21 c109:20-28 my | 0.20 c091:13-25 my family | 0.20 c108:18-28 my family is | 0.19 c039:19-28 my family | 0.18 c058:19-28 my computer right
+20-30 0.25 c091:18-28 family good | 0.20 c049:23-36 is very good | 0.19 c109:22-32 my family | 0.19 c008:15-26 very good | 0.18 c058:21-32 my computer right here
+23-33 0.25 c091:21-31 family good | 0.20 c008:18-28 very good | 0.20 c049:27-38 very good | 0.19 c056:16-31 they are going | 0.18 c035:33-41 going
+
+tb8083852
+2-12 0.23 c027:13-22 my family | 0.22 c101:13-23 my family they | 0.21 c108:19-29 my family is | 0.21 c032:5-14 my family | 0.20 c013:6-13 my nurse is not good
+5-15 0.25 c101:15-25 family they | 0.25 c027:16-24 family they | 0.24 c090:10-21 my music is | 0.22 c079:2-14 no i do | 0.21 c007:3-12 how do
+8-18 0.30 c090:14-23 is | 0.26 c101:18-28 family they do | 0.26 c027:18-27 family they | 0.26 c079:8-19 i do | 0.25 c007:4-13 do
+11-21 0.26 c090:16-25 is | 0.24 c007:7-16 do you | 0.22 c111:8-14 do | 0.22 c101:21-32 they do | 0.21 c079:11-19 do
+14-24 0.21 c007:9-21 do you | 0.20 c102:4-12 you do | 0.20 c074:10-20 have no | 0.19 c038:8-16 not good | 0.19 c119:13-19 you
+17-27 0.21 c091:22-32 family good | 0.21 c048:12-19 good | 0.20 c049:28-37 very good | 0.20 c082:20-32 do what | 0.19 c038:9-19 not good
+20-30 0.24 c048:12-22 good | 0.20 c091:24-34 good | 0.18 c008:22-30 good | 0.18 c085:19-27 good | 0.18 c026:16-25 outside
+
+t9024802d
+2-12 0.29 c111:5-15 do | 0.26 c009:6-13 they need it | 0.23 c075:3-12 you need it | 0.22 c018:9-16 they are | 0.21 c079:9-17 i do
+5-15 0.30 c111:10-16 do not | 0.23 c010:3-12 what is | 0.21 c009:7-16 need it | 0.21 c075:5-15 need it | 0.21 c103:3-9 that is
+8-18 0.26 c111:10-18 do not | 0.25 c010:3-15 what is | 0.22 c113:9-17 like that | 0.21 c085:3-13 it is | 0.21 c098:6-13 is
+11-21 0.23 c010:7-17 is that | 0.22 c113:11-19 like that | 0.21 c098:6-16 is that | 0.20 c111:13-21 not like | 0.18 c083:34-41 it
+14-24 0.20 c083:27-38 not need it | 0.19 c032:23-34 not going | 0.19 c098:9-19 is that | 0.17 c010:10-20 is that | 0.17 c113:13-20 that
+17-27 0.21 c088:18-29 like that | 0.21 c031:19-28 right here | 0.20 c083:31-41 need it | 0.18 c091:29-34 good | 0.18 c032:26-36 going outside
+
+t2b08e042
+2-12 0.28 c031:2-10 my faith | 0.27 c049:2-10 my | 0.25 c003:3-15 have faith | 0.23 c013:2-10 my nurse is not good | 0.21 c071:2-13 how thirsty
+5-15 0.29 c049:4-15 my nurse | 0.28 c031:5-12 my faith | 0.25 c003:9-18 faith | 0.21 c112:15-21 faith | 0.21 c071:9-18 thirsty is
+8-18 0.21 c031:6-14 my faith is | 0.19 c049:7-16 my nurse | 0.18 c112:17-23 faith | 0.17 c078:12-22 my family i | 0.17 c056:9-18 hope they
+11-21 0.19 c056:12-23 hope they are | 0.15 c005:11-17 hope you | 0.15 c075:8-17 it here | 0.14 c073:10-20 they do | 0.14 c020:4-14 hope they
+14-24 0.19 c056:15-28 they are going | 0.18 c049:26-37 very good | 0.16 c043:8-18 they right | 0.15 c008:20-27 very good | 0.15 c005:18-30 are going
+17-27 0.22 c008:20-29 very good | 0.21 c049:28-39 very good | 0.21 c013:64-73 my nurse is not good | 0.19 c056:19-33 are going | 0.18 c048:12-20 good
+
+t62254eda
+2-12 0.23 c025:11-18 they | 0.20 c087:5-15 what is | 0.20 c015:2-11 they | 0.19 c013:2-7 my nurse is not good | 0.19 c072:2-9 is my
+5-15 0.24 c025:11-21 they | 0.22 c015:5-14 they feel | 0.20 c011:7-14 my | 0.19 c072:8-17 my nurse | 0.19 c101:40-47 not feel
+8-18 0.23 c015:7-16 they feel | 0.23 c115:23-33 is not | 0.22 c101:40-50 not feel | 0.22 c079:31-41 feel | 0.20 c025:14-27 they feel
+11-21 0.25 c079:33-45 feel very | 0.24 c115:26-34 not | 0.23 c015:10-19 feel | 0.21 c039:21-31 my family very | 0.18 c001:20-27 they feel
+14-24 0.27 c079:37-48 feel very comfortable | 0.24 c039:24-33 family very comfortable | 0.24 c015:13-22 feel hungry | 0.19 c115:29-41 not very hungry | 0.19 c011:25-33 i
+17-27 0.33 c079:41-51 very comfortable | 0.30 c103:17-27 not comfortable | 0.29 c039:26-36 family very comfortable | 0.25 c015:15-24 feel hungry | 0.24 c114:35-47 not comfortable
+20-30 0.35 c103:20-29 comfortable | 0.34 c079:44-55 comfortable | 0.32 c039:29-38 very comfortable | 0.30 c114:41-51 comfortable | 0.28 c078:33-42 comfortable
+
+t9db27598
+2-12 0.28 c072:2-13 is my | 0.23 c061:20-28 tell my | 0.23 c011:3-14 tell my | 0.20 c117:24-32 have my | 0.20 c034:4-12 you are right here
+5-15 0.30 c072:6-16 my | 0.25 c011:5-17 tell my | 0.23 c049:3-10 my | 0.20 c117:25-38 have my | 0.20 c012:9-17 i coming
+8-18 0.25 c072:8-19 my nurse | 0.25 c049:3-13 my | 0.23 c011:11-20 my nurse | 0.21 c103:8-17 is not | 0.20 c069:3-13 my nurse is like that
+11-21 0.24 c071:11-21 thirsty is | 0.23 c103:10-19 is not | 0.22 c049:6-16 my nurse | 0.19 c108:20-30 my family is | 0.18 c072:12-21 my nurse
+14-24 0.25 c103:13-21 not | 0.19 c071:14-24 is my | 0.18 c012:16-25 coming up | 0.18 c017:24-36 i am comfortable | 0.18 c040:25-34 am
+17-27 0.27 c017:29-38 am comfortable | 0.21 c103:16-24 not comfortable | 0.21 c114:37-47 not comfortable | 0.19 c071:7-14 how thirsty | 0.19 c079:40-50 very comfortable
+20-30 0.24 c017:33-41 comfortable | 0.21 c114:40-52 comfortable | 0.19 c109:2-12 tell | 0.18 c080:32-42 my computer | 0.18 c062:2-8 goodbye
+23-33 0.21 c114:43-53 comfortable | 0.20 c017:34-42 comfortable | 0.17 c045:5-15 you | 0.17 c052:5-11 how | 0.17 c024:2-14 you what
+
+tef25d0d3
+2-12 0.24 c101:18-31 family they do | 0.24 c079:8-14 i do | 0.23 c075:2-10 you need it | 0.23 c018:9-19 they are | 0.22 c007:4-12 do
+5-15 0.27 c075:4-12 need it | 0.25 c079:7-14 i do | 0.24 c101:24-32 do | 0.23 c083:18-26 do | 0.21 c080:8-15 do
+8-18 0.26 c075:4-17 need it here | 0.24 c079:11-24 do not | 0.19 c080:10-20 do not | 0.19 c101:27-36 do | 0.19 c055:13-20 need
+11-21 0.22 c079:17-27 do not | 0.19 c047:10-18 is coming | 0.19 c075:8-19 it here | 0.19 c117:15-23 i | 0.18 c032:20-27 not going
+14-24 0.21 c117:18-25 i | 0.21 c079:21-31 not | 0.16 c011:28-36 i am | 0.16 c009:17-26 coming | 0.16 c004:8-14 have
+17-27 0.19 c079:24-34 not feel | 0.17 c117:19-26 i have | 0.16 c080:30-37 my | 0.16 c109:4-16 tell my | 0.15 c039:11-21 my
+20-30 0.21 c080:32-39 my | 0.20 c003:6-14 have faith | 0.16 c039:6-14 is my | 0.16 c004:25-31 faith | 0.16 c072:16-27 nurse thirsty
+23-33 0.26 c003:7-15 have faith | 0.23 c061:26-37 my family | 0.20 c016:4-10 my music | 0.20 c080:33-40 my | 0.20 c027:34-42 hungry

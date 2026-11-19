@@ -1,0 +1,36 @@
+{
+  "initial_reproducibility_and_calibration": [
+    "dev_raw_n14_repeat1",
+    "dev_raw_n14_repeat2",
+    "dev_raw_n2_draw0",
+    "dev_raw_n2_draw1",
+    "dev_raw_n2_draw2",
+    "dev_raw_n4_draw0",
+    "dev_raw_n4_draw1",
+    "dev_raw_n4_draw2",
+    "dev_raw_n7_draw0",
+    "dev_raw_n7_draw1",
+    "dev_raw_n7_draw2"
+  ],
+  "confirmation_and_mechanisms": [
+    "confirm_raw_n7_draw0",
+    "confirm_raw_n7_draw1",
+    "confirm_raw_n2_draw0",
+    "confirm_raw_n2_draw1",
+    "confirm_raw_n7_shuffled",
+    "confirm_raw_n7_no_signal",
+    "confirm_blockcenter_n7",
+    "dev_blockcenter_n14_sol",
+    "dev_delay_n14_sol"
+  ],
+  "batch_protocol": [
+    "dev_raw_n14_chunk0",
+    "dev_raw_n14_chunk1",
+    "dev_raw_n14_chunk2",
+    "dev_raw_n14_chunk3",
+    "dev_raw_n14_chunk4",
+    "dev_raw_n14_chunk5",
+    "dev_raw_n14_chunk6"
+  ],
+  "adaptive_exploratory": []
+}

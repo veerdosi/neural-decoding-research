@@ -1,0 +1,1802 @@
+{
+  "scope": "Frozen symbolic interface,80 calibration sentences and32 chronologically reserved within-session recordings from T16. Symbol IDs arbitrary; PCA and KMeans use calibration neural frames only. No Sol tools, retrieved transcripts, word boundaries or query word counts.",
+  "sol": {
+    "all": {
+      "n": 32,
+      "edits": 57,
+      "reference_words": 143,
+      "WER": 0.3986013986013986,
+      "exact": 9
+    },
+    "strict": {
+      "n": 30,
+      "edits": 55,
+      "reference_words": 137,
+      "WER": 0.40145985401459855,
+      "exact": 8
+    },
+    "usage": [
+      {
+        "input_tokens": 27741,
+        "cached_input_tokens": 12160,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 27333,
+        "reasoning_output_tokens": 26416
+      }
+    ],
+    "wall_seconds": 572.6694180965424
+  },
+  "matched_HMM": {
+    "all": {
+      "n": 32,
+      "edits": 91,
+      "reference_words": 143,
+      "WER": 0.6363636363636364,
+      "exact": 2
+    },
+    "strict": {
+      "n": 30,
+      "edits": 89,
+      "reference_words": 137,
+      "WER": 0.6496350364963503,
+      "exact": 1
+    },
+    "selected": {
+      "word_states": 3,
+      "dirichlet_prior_frames": 8.0,
+      "lm_scale": 0.5,
+      "word_transition_penalty": -2.0,
+      "calibration_cv_WER": 0.7219101123595506
+    },
+    "wall_seconds": 0.3513150215148926
+  },
+  "paired_comparison": {
+    "net_edit_reduction_with_sol": 34,
+    "WER_reduction_percentage_points": 23.776223776223777,
+    "descriptive_trial_bootstrap_95pct_percentage_points": [
+      11.290019403347078,
+      35.0
+    ],
+    "sol_lower_error_trials": 21,
+    "algorithm_lower_error_trials": 4,
+    "equal_error_trials": 7,
+    "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+  },
+  "strictly_novel_target_ids": [
+    "t0575fbc6",
+    "t1fe83bc3",
+    "t3afd73b4",
+    "t41450074",
+    "t44bb2095",
+    "t4539ffbe",
+    "t4d2d7415",
+    "t514a6795",
+    "t52b24bf6",
+    "t588781f6",
+    "t59dcd856",
+    "t5f2d20a0",
+    "t6453e6ae",
+    "t6f0fdfe0",
+    "t8485b6b9",
+    "t848cf4da",
+    "t9ce92bac",
+    "ta2aa0fcb",
+    "ta8a65775",
+    "tbfeb0ff2",
+    "tca769afd",
+    "tcd92c113",
+    "tced8ecfc",
+    "td133fe68",
+    "td28e3558",
+    "td6e48564",
+    "te3243945",
+    "te366b91c",
+    "tef9d94a6",
+    "tf75891ff"
+  ],
+  "Sol_rows": [
+    {
+      "id": "tb0b19ec8",
+      "prediction": [
+        "it",
+        "is",
+        "good"
+      ],
+      "truth": [
+        "is",
+        "it"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t59dcd856",
+      "prediction": [
+        "do",
+        "you",
+        "like",
+        "faith"
+      ],
+      "truth": [
+        "do",
+        "you",
+        "like",
+        "music"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "tcd92c113",
+      "prediction": [
+        "where",
+        "is",
+        "it",
+        "not"
+      ],
+      "truth": [
+        "where",
+        "is",
+        "that"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t1fe83bc3",
+      "prediction": [
+        "i",
+        "am",
+        "that",
+        "good"
+      ],
+      "truth": [
+        "i",
+        "have",
+        "it",
+        "good"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "td28e3558",
+      "prediction": [
+        "you",
+        "okay"
+      ],
+      "truth": [
+        "you",
+        "coming"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t6f0fdfe0",
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "music"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t4539ffbe",
+      "prediction": [
+        "i",
+        "hope",
+        "my",
+        "nurse",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "i",
+        "like",
+        "that",
+        "here"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "ta2aa0fcb",
+      "prediction": [
+        "they",
+        "like",
+        "it",
+        "up"
+      ],
+      "truth": [
+        "they",
+        "like",
+        "it"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "tf75891ff",
+      "prediction": [
+        "my",
+        "family",
+        "is",
+        "not",
+        "very",
+        "tired"
+      ],
+      "truth": [
+        "my",
+        "family",
+        "is",
+        "not",
+        "very",
+        "tired"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t514a6795",
+      "prediction": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ],
+      "truth": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t9ce92bac",
+      "prediction": [
+        "my",
+        "music"
+      ],
+      "truth": [
+        "bring",
+        "it"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t3afd73b4",
+      "prediction": [
+        "i",
+        "feel",
+        "thirsty",
+        "are",
+        "you"
+      ],
+      "truth": [
+        "how",
+        "thirsty",
+        "are",
+        "you"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "tef9d94a6",
+      "prediction": [
+        "do",
+        "they",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "truth": [
+        "do",
+        "they",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t52b24bf6",
+      "prediction": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "truth": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t5f2d20a0",
+      "prediction": [
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "tired"
+      ],
+      "truth": [
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "tired"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t44bb2095",
+      "prediction": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ],
+      "truth": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "te366b91c",
+      "prediction": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "family"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "ta8a65775",
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "computer"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "nurse"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t8485b6b9",
+      "prediction": [
+        "they",
+        "feel",
+        "thirsty"
+      ],
+      "truth": [
+        "hope",
+        "they",
+        "feel",
+        "thirsty"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t41450074",
+      "prediction": [
+        "it",
+        "is",
+        "my"
+      ],
+      "truth": [
+        "am",
+        "i"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t53cbb8eb",
+      "prediction": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ],
+      "truth": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "tbfeb0ff2",
+      "prediction": [
+        "i",
+        "am",
+        "no",
+        "good"
+      ],
+      "truth": [
+        "i",
+        "have",
+        "no",
+        "family"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "te3243945",
+      "prediction": [
+        "how",
+        "are",
+        "you",
+        "very",
+        "thirsty"
+      ],
+      "truth": [
+        "how",
+        "tired",
+        "are",
+        "they"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "tca769afd",
+      "prediction": [
+        "it",
+        "is",
+        "what",
+        "i",
+        "do"
+      ],
+      "truth": [
+        "is",
+        "that",
+        "it",
+        "you"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "td133fe68",
+      "prediction": [
+        "i",
+        "am",
+        "comfortable",
+        "tell",
+        "my",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "like",
+        "how",
+        "comfortable",
+        "i",
+        "am"
+      ],
+      "edit_distance": 5
+    },
+    {
+      "id": "t588781f6",
+      "prediction": [
+        "what",
+        "is",
+        "very",
+        "hungry"
+      ],
+      "truth": [
+        "yes",
+        "i",
+        "am",
+        "very",
+        "hungry"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "tced8ecfc",
+      "prediction": [
+        "how",
+        "do",
+        "they",
+        "not",
+        "like"
+      ],
+      "truth": [
+        "how",
+        "do",
+        "they",
+        "do",
+        "it",
+        "right"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t848cf4da",
+      "prediction": [
+        "they",
+        "hope",
+        "i",
+        "do"
+      ],
+      "truth": [
+        "that",
+        "is",
+        "okay"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "td6e48564",
+      "prediction": [
+        "it",
+        "is",
+        "that",
+        "bad"
+      ],
+      "truth": [
+        "it",
+        "is",
+        "bad"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t0575fbc6",
+      "prediction": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "very",
+        "good",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "very",
+        "good",
+        "family"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t6453e6ae",
+      "prediction": [
+        "how",
+        "they",
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "truth": [
+        "how",
+        "do",
+        "you",
+        "do",
+        "it",
+        "please"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "t4d2d7415",
+      "prediction": [
+        "they",
+        "hope",
+        "you",
+        "are",
+        "comfortable"
+      ],
+      "truth": [
+        "it",
+        "is",
+        "my",
+        "hope",
+        "that",
+        "you",
+        "are",
+        "comfortable"
+      ],
+      "edit_distance": 4
+    }
+  ],
+  "HMM_rows": [
+    {
+      "id": "tb0b19ec8",
+      "prediction": [
+        "it",
+        "good"
+      ],
+      "truth": [
+        "is",
+        "it"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t59dcd856",
+      "prediction": [
+        "you",
+        "do",
+        "like",
+        "faith"
+      ],
+      "truth": [
+        "do",
+        "you",
+        "like",
+        "music"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "tcd92c113",
+      "prediction": [
+        "where",
+        "it",
+        "not"
+      ],
+      "truth": [
+        "where",
+        "is",
+        "that"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t1fe83bc3",
+      "prediction": [
+        "i",
+        "tell",
+        "is",
+        "good"
+      ],
+      "truth": [
+        "i",
+        "have",
+        "it",
+        "good"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "td28e3558",
+      "prediction": [
+        "you",
+        "okay"
+      ],
+      "truth": [
+        "you",
+        "coming"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t6f0fdfe0",
+      "prediction": [
+        "i",
+        "hope",
+        "need",
+        "my",
+        "need",
+        "thirsty"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "t4539ffbe",
+      "prediction": [
+        "i",
+        "clean",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "i",
+        "like",
+        "that",
+        "here"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "ta2aa0fcb",
+      "prediction": [
+        "hope",
+        "they",
+        "like",
+        "up"
+      ],
+      "truth": [
+        "they",
+        "like",
+        "it"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "tf75891ff",
+      "prediction": [
+        "what",
+        "my",
+        "family",
+        "is",
+        "not",
+        "where",
+        "glasses",
+        "here"
+      ],
+      "truth": [
+        "my",
+        "family",
+        "is",
+        "not",
+        "very",
+        "tired"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "t514a6795",
+      "prediction": [
+        "hello",
+        "hope",
+        "yes",
+        "my",
+        "success",
+        "have"
+      ],
+      "truth": [
+        "my",
+        "hope",
+        "is",
+        "my",
+        "success"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t9ce92bac",
+      "prediction": [
+        "what",
+        "outside",
+        "thirsty"
+      ],
+      "truth": [
+        "bring",
+        "it"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t3afd73b4",
+      "prediction": [
+        "family",
+        "nurse",
+        "are",
+        "clean"
+      ],
+      "truth": [
+        "how",
+        "thirsty",
+        "are",
+        "you"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "tef9d94a6",
+      "prediction": [
+        "coming",
+        "they",
+        "up",
+        "my",
+        "faith",
+        "glasses"
+      ],
+      "truth": [
+        "do",
+        "they",
+        "have",
+        "my",
+        "glasses"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t52b24bf6",
+      "prediction": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "truth": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t5f2d20a0",
+      "prediction": [
+        "i",
+        "my",
+        "nurse",
+        "it",
+        "hungry",
+        "tired"
+      ],
+      "truth": [
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "tired"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t44bb2095",
+      "prediction": [
+        "no",
+        "very",
+        "is",
+        "my",
+        "music"
+      ],
+      "truth": [
+        "where",
+        "is",
+        "my",
+        "music"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "te366b91c",
+      "prediction": [
+        "i",
+        "hope",
+        "yes",
+        "family",
+        "please"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "family"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "ta8a65775",
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "music",
+        "outside"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "nurse"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t8485b6b9",
+      "prediction": [
+        "hope",
+        "they",
+        "feel",
+        "please"
+      ],
+      "truth": [
+        "hope",
+        "they",
+        "feel",
+        "thirsty"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t41450074",
+      "prediction": [
+        "it",
+        "my"
+      ],
+      "truth": [
+        "am",
+        "i"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t53cbb8eb",
+      "prediction": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ],
+      "truth": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "tbfeb0ff2",
+      "prediction": [
+        "i",
+        "hope",
+        "family",
+        "please"
+      ],
+      "truth": [
+        "i",
+        "have",
+        "no",
+        "family"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "te3243945",
+      "prediction": [
+        "tell",
+        "are",
+        "am",
+        "very",
+        "hungry"
+      ],
+      "truth": [
+        "how",
+        "tired",
+        "are",
+        "they"
+      ],
+      "edit_distance": 5
+    },
+    {
+      "id": "tca769afd",
+      "prediction": [
+        "you",
+        "it",
+        "not",
+        "outside",
+        "going",
+        "no"
+      ],
+      "truth": [
+        "is",
+        "that",
+        "it",
+        "you"
+      ],
+      "edit_distance": 6
+    },
+    {
+      "id": "td133fe68",
+      "prediction": [
+        "i",
+        "going",
+        "feel",
+        "comfortable",
+        "am"
+      ],
+      "truth": [
+        "i",
+        "like",
+        "how",
+        "comfortable",
+        "i",
+        "am"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "t588781f6",
+      "prediction": [
+        "what",
+        "good",
+        "help",
+        "hungry"
+      ],
+      "truth": [
+        "yes",
+        "i",
+        "am",
+        "very",
+        "hungry"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "tced8ecfc",
+      "prediction": [
+        "tell",
+        "do",
+        "yes",
+        "faith",
+        "right"
+      ],
+      "truth": [
+        "how",
+        "do",
+        "they",
+        "do",
+        "it",
+        "right"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "t848cf4da",
+      "prediction": [
+        "they",
+        "is",
+        "okay"
+      ],
+      "truth": [
+        "that",
+        "is",
+        "okay"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "td6e48564",
+      "prediction": [
+        "it",
+        "family"
+      ],
+      "truth": [
+        "it",
+        "is",
+        "bad"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t0575fbc6",
+      "prediction": [
+        "i",
+        "hope",
+        "am",
+        "help",
+        "very",
+        "good",
+        "help",
+        "thirsty"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "i",
+        "have",
+        "very",
+        "good",
+        "family"
+      ],
+      "edit_distance": 4
+    },
+    {
+      "id": "t6453e6ae",
+      "prediction": [
+        "yes",
+        "they",
+        "need",
+        "hungry"
+      ],
+      "truth": [
+        "how",
+        "do",
+        "you",
+        "do",
+        "it",
+        "please"
+      ],
+      "edit_distance": 6
+    },
+    {
+      "id": "t4d2d7415",
+      "prediction": [
+        "what",
+        "they",
+        "hope",
+        "faith",
+        "are",
+        "thirsty",
+        "comfortable"
+      ],
+      "truth": [
+        "it",
+        "is",
+        "my",
+        "hope",
+        "that",
+        "you",
+        "are",
+        "comfortable"
+      ],
+      "edit_distance": 6
+    }
+  ],
+  "prediction_hashes": {
+    "sol": "32e09c31d8f5c71dc97d7f73fee55512e5adfc106ae668a7e9a9194cd3efba0d",
+    "HMM": "058e9810868a09dfbcac468e04a94fb846025e702bc08ee998b8469387e0edc7"
+  },
+  "limits": "One participant/date and one evaluation block. Conditional trial uncertainty does not establish between-session or population performance. Full-block label-free centering is transductive. HMM is one matched conventional baseline, not the best achievable conventional decoder.",
+  "full_feature_contextual_comparisons": {
+    "generic": {
+      "all": {
+        "n": 32,
+        "edits": 55,
+        "reference_words": 143,
+        "WER": 0.38461538461538464,
+        "exact": 6
+      },
+      "paired_with_symbolic_Sol": {
+        "net_edit_reduction_with_sol": -2,
+        "WER_reduction_percentage_points": -1.3986013986013985,
+        "descriptive_trial_bootstrap_95pct_percentage_points": [
+          -13.72586439155815,
+          9.79020979020979
+        ],
+        "sol_lower_error_trials": 12,
+        "algorithm_lower_error_trials": 11,
+        "equal_error_trials": 9,
+        "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+      },
+      "scope": "Stronger existing workflow on full neural features. Same calibration/evaluation trials, different and richer input representation; not a matched-symbol comparison. T16cal runtime reuses the generic evidence cache."
+    },
+    "t16cal": {
+      "all": {
+        "n": 32,
+        "edits": 51,
+        "reference_words": 143,
+        "WER": 0.35664335664335667,
+        "exact": 4
+      },
+      "paired_with_symbolic_Sol": {
+        "net_edit_reduction_with_sol": -6,
+        "WER_reduction_percentage_points": -4.195804195804196,
+        "descriptive_trial_bootstrap_95pct_percentage_points": [
+          -14.814814814814813,
+          5.263157894736842
+        ],
+        "sol_lower_error_trials": 12,
+        "algorithm_lower_error_trials": 11,
+        "equal_error_trials": 9,
+        "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+      },
+      "scope": "Stronger existing workflow on full neural features. Same calibration/evaluation trials, different and richer input representation; not a matched-symbol comparison. T16cal runtime reuses the generic evidence cache."
+    }
+  },
+  "duration_matched_recording_shuffle": {
+    "nominal": {
+      "n": 32,
+      "edits": 138,
+      "reference_words": 143,
+      "WER": 0.965034965034965,
+      "exact": 0
+    },
+    "donor": {
+      "n": 32,
+      "edits": 63,
+      "reference_words": 143,
+      "WER": 0.4405594405594406,
+      "exact": 10
+    },
+    "tool_item_types": [],
+    "donor_rows": [
+      {
+        "id": "tb0b19ec8",
+        "prediction": [
+          "you",
+          "okay"
+        ],
+        "truth": [
+          "you",
+          "coming"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t59dcd856",
+        "prediction": [
+          "i",
+          "hope",
+          "you",
+          "have",
+          "family"
+        ],
+        "truth": [
+          "i",
+          "hope",
+          "you",
+          "have",
+          "family"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "tcd92c113",
+        "prediction": [
+          "they",
+          "do",
+          "not",
+          "need"
+        ],
+        "truth": [
+          "that",
+          "is",
+          "okay"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "t1fe83bc3",
+        "prediction": [
+          "how",
+          "they",
+          "do",
+          "it"
+        ],
+        "truth": [
+          "how",
+          "do",
+          "you",
+          "do",
+          "it",
+          "please"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "td28e3558",
+        "prediction": [
+          "my",
+          "music"
+        ],
+        "truth": [
+          "bring",
+          "it"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "t6f0fdfe0",
+        "prediction": [
+          "where",
+          "is",
+          "my",
+          "music"
+        ],
+        "truth": [
+          "where",
+          "is",
+          "my",
+          "music"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t4539ffbe",
+        "prediction": [
+          "they",
+          "feel",
+          "thirsty"
+        ],
+        "truth": [
+          "hope",
+          "they",
+          "feel",
+          "thirsty"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "ta2aa0fcb",
+        "prediction": [
+          "it",
+          "is",
+          "good"
+        ],
+        "truth": [
+          "is",
+          "it"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "tf75891ff",
+        "prediction": [
+          "i",
+          "hope",
+          "they",
+          "like",
+          "my",
+          "music"
+        ],
+        "truth": [
+          "i",
+          "hope",
+          "they",
+          "need",
+          "my",
+          "nurse"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "t514a6795",
+        "prediction": [
+          "it",
+          "is",
+          "what",
+          "i",
+          "do"
+        ],
+        "truth": [
+          "is",
+          "that",
+          "it",
+          "you"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "t9ce92bac",
+        "prediction": [
+          "it",
+          "is",
+          "bad"
+        ],
+        "truth": [
+          "it",
+          "is",
+          "bad"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t3afd73b4",
+        "prediction": [
+          "what",
+          "is",
+          "hungry"
+        ],
+        "truth": [
+          "yes",
+          "i",
+          "am",
+          "very",
+          "hungry"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "tef9d94a6",
+        "prediction": [
+          "you",
+          "do",
+          "not",
+          "need",
+          "faith"
+        ],
+        "truth": [
+          "do",
+          "you",
+          "like",
+          "music"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "t52b24bf6",
+        "prediction": [
+          "do",
+          "you",
+          "have",
+          "my",
+          "glasses"
+        ],
+        "truth": [
+          "do",
+          "they",
+          "have",
+          "my",
+          "glasses"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t5f2d20a0",
+        "prediction": [
+          "you",
+          "hope",
+          "my",
+          "family",
+          "is",
+          "good"
+        ],
+        "truth": [
+          "you",
+          "hope",
+          "my",
+          "family",
+          "is",
+          "good"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t44bb2095",
+        "prediction": [
+          "my",
+          "nurse",
+          "is",
+          "very",
+          "tired"
+        ],
+        "truth": [
+          "my",
+          "nurse",
+          "is",
+          "very",
+          "tired"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "te366b91c",
+        "prediction": [
+          "i",
+          "am",
+          "no",
+          "good"
+        ],
+        "truth": [
+          "i",
+          "have",
+          "no",
+          "family"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "ta8a65775",
+        "prediction": [
+          "i",
+          "hope",
+          "i",
+          "have",
+          "very",
+          "good",
+          "family"
+        ],
+        "truth": [
+          "i",
+          "hope",
+          "i",
+          "have",
+          "very",
+          "good",
+          "family"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t8485b6b9",
+        "prediction": [
+          "how",
+          "are",
+          "you",
+          "very",
+          "thirsty"
+        ],
+        "truth": [
+          "how",
+          "tired",
+          "are",
+          "they"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "t41450074",
+        "prediction": [
+          "they",
+          "like",
+          "it"
+        ],
+        "truth": [
+          "they",
+          "like",
+          "it"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t53cbb8eb",
+        "prediction": [
+          "i",
+          "am",
+          "comfortable"
+        ],
+        "truth": [
+          "how",
+          "thirsty",
+          "are",
+          "you"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "tbfeb0ff2",
+        "prediction": [
+          "i",
+          "hope",
+          "they",
+          "need",
+          "my",
+          "music"
+        ],
+        "truth": [
+          "i",
+          "hope",
+          "they",
+          "do",
+          "not",
+          "need",
+          "it"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "te3243945",
+        "prediction": [
+          "i",
+          "am",
+          "that",
+          "good"
+        ],
+        "truth": [
+          "i",
+          "have",
+          "it",
+          "good"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "tca769afd",
+        "prediction": [
+          "they",
+          "hope",
+          "you",
+          "are",
+          "comfortable"
+        ],
+        "truth": [
+          "it",
+          "is",
+          "my",
+          "hope",
+          "that",
+          "you",
+          "are",
+          "comfortable"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "td133fe68",
+        "prediction": [
+          "my",
+          "family",
+          "is",
+          "not",
+          "very",
+          "tired"
+        ],
+        "truth": [
+          "my",
+          "family",
+          "is",
+          "not",
+          "very",
+          "tired"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t588781f6",
+        "prediction": [
+          "i",
+          "like",
+          "it",
+          "here"
+        ],
+        "truth": [
+          "i",
+          "like",
+          "that",
+          "here"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "tced8ecfc",
+        "prediction": [
+          "i",
+          "do",
+          "not",
+          "feel",
+          "comfortable"
+        ],
+        "truth": [
+          "i",
+          "like",
+          "how",
+          "comfortable",
+          "i",
+          "am"
+        ],
+        "edit_distance": 5
+      },
+      {
+        "id": "t848cf4da",
+        "prediction": [
+          "it",
+          "is",
+          "my"
+        ],
+        "truth": [
+          "am",
+          "i"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "td6e48564",
+        "prediction": [
+          "where",
+          "is",
+          "it",
+          "not"
+        ],
+        "truth": [
+          "where",
+          "is",
+          "that"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "t0575fbc6",
+        "prediction": [
+          "my",
+          "hope",
+          "is",
+          "my",
+          "success"
+        ],
+        "truth": [
+          "my",
+          "hope",
+          "is",
+          "my",
+          "success"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t6453e6ae",
+        "prediction": [
+          "i",
+          "do",
+          "not",
+          "have"
+        ],
+        "truth": [
+          "i",
+          "do",
+          "not",
+          "have"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t4d2d7415",
+        "prediction": [
+          "how",
+          "do",
+          "you",
+          "like"
+        ],
+        "truth": [
+          "how",
+          "do",
+          "they",
+          "do",
+          "it",
+          "right"
+        ],
+        "edit_distance": 4
+      }
+    ],
+    "scope": "New independent inference on recording strings assigned to different query IDs; donor performance need not equal the original call because model predictions vary."
+  }
+}

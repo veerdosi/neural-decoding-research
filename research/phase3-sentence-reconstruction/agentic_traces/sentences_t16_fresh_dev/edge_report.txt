@@ -1,0 +1,48 @@
+
+ te7fda903
+5 0.457 c061:2-6 do i have my glasses | 0.452 c004:2-7 do what please | 0.439 c005:2-8 you hope my nurse is here | 0.417 c034:2-6 you are that bad | 0.412 c055:2-6 do i tell my nurse | 0.389 c057:2-6 how are you here
+8 0.445 c055:2-8 do i tell my nurse | 0.414 c004:2-10 do what please | 0.387 c061:2-9 do i have my glasses | 0.365 c005:2-13 you hope my nurse is here | 0.348 c034:2-10 you are that bad | 0.322 c008:2-6 you hope my nurse is going
+12 0.455 c055:2-12 do i tell my nurse | 0.396 c004:2-13 do what please | 0.341 c005:2-18 you hope my nurse is here | 0.314 c008:2-12 you hope my nurse is going | 0.311 c058:2-22 i do not have my computer | 0.306 c061:2-22 do i have my glasses
+16 0.418 c055:2-13 do i tell my nurse | 0.362 c004:2-15 do what please | 0.329 c058:2-23 i do not have my computer | 0.314 c008:2-14 you hope my nurse is going | 0.302 c007:2-20 you clean it up | 0.301 c048:2-20 you hope i am right here
+
+ t196443a7
+5 0.552 c066:2-9 are they very thirsty | 0.432 c001:2-7 i am clean | 0.411 c046:2-7 i hope they are right here | 0.409 c048:2-7 you hope i am right here | 0.384 c051:2-7 i need that | 0.375 c071:2-9 i hope you have very good family
+8 0.611 c066:2-10 are they very thirsty | 0.407 c071:2-12 i hope you have very good family | 0.401 c046:2-7 i hope they are right here | 0.393 c078:2-15 i hope my family is right here | 0.363 c001:2-8 i am clean | 0.359 c048:2-7 you hope i am right here
+12 0.556 c066:2-15 are they very thirsty | 0.352 c078:2-20 i hope my family is right here | 0.342 c071:2-17 i hope you have very good family | 0.325 c052:2-9 where are they not | 0.307 c046:2-13 i hope they are right here | 0.297 c062:2-13 i hope they are closer
+16 0.459 c066:2-19 are they very thirsty | 0.320 c078:2-22 i hope my family is right here | 0.311 c048:2-19 you hope i am right here | 0.304 c062:2-17 i hope they are closer | 0.284 c046:2-16 i hope they are right here | 0.282 c014:2-24 how they do it
+
+ t0ba95c98
+5 0.353 c048:2-7 you hope i am right here | 0.348 c004:2-7 do what please | 0.340 c055:2-7 do i tell my nurse | 0.320 c027:2-9 it is what they have | 0.315 c042:2-8 they are tired | 0.297 c034:2-9 you are that bad
+8 0.325 c004:2-14 do what please | 0.311 c055:2-11 do i tell my nurse | 0.306 c031:2-11 how do you like | 0.294 c005:2-17 you hope my nurse is here | 0.293 c027:2-11 it is what they have | 0.276 c008:2-11 you hope my nurse is going
+12 0.353 c074:2-18 you are no good | 0.339 c004:2-17 do what please | 0.317 c005:2-20 you hope my nurse is here | 0.311 c034:2-17 you are that bad | 0.308 c010:2-20 you feel comfortable | 0.305 c076:2-17 no you are not going outside
+16 0.337 c074:2-22 you are no good | 0.303 c072:2-28 you are okay | 0.290 c034:2-20 you are that bad | 0.274 c004:2-20 do what please | 0.274 c076:2-19 no you are not going outside | 0.268 c042:2-19 they are tired
+
+ te1c6177b
+5 0.365 c060:2-6 yes i am very good | 0.334 c076:2-7 no you are not going outside | 0.262 c041:2-7 hope you do it | 0.230 c017:2-9 you feel it | 0.228 c065:2-8 family is okay | 0.218 c042:2-9 they are tired
+8 0.359 c076:2-10 no you are not going outside | 0.287 c042:2-12 they are tired | 0.279 c060:2-6 yes i am very good | 0.273 c040:2-14 they like my nurse | 0.242 c024:2-14 they hope you are right here | 0.238 c055:2-11 do i tell my nurse
+12 0.328 c076:2-15 no you are not going outside | 0.316 c040:2-19 they like my nurse | 0.301 c043:2-16 no my family is not going here | 0.296 c055:2-16 do i tell my nurse | 0.239 c042:2-16 they are tired | 0.226 c024:2-20 they hope you are right here
+16 0.304 c055:2-19 do i tell my nurse | 0.301 c043:2-23 no my family is not going here | 0.296 c040:2-24 they like my nurse | 0.258 c076:2-22 no you are not going outside | 0.237 c060:2-19 yes i am very good | 0.216 c042:2-18 they are tired
+
+ td4202301
+5 0.407 c075:2-6 they need not | 0.361 c000:2-7 tell my family they feel thirsty | 0.355 c018:2-6 that is bad | 0.354 c073:2-7 my glasses | 0.347 c064:2-7 they need help | 0.342 c057:2-7 how are you here
+8 0.374 c075:2-7 they need not | 0.359 c031:2-10 how do you like | 0.359 c041:2-12 hope you do it | 0.346 c073:2-10 my glasses | 0.341 c018:2-9 that is bad | 0.319 c038:2-11 how do you clean
+12 0.390 c041:2-18 hope you do it | 0.328 c075:2-10 they need not | 0.291 c018:2-10 that is bad | 0.271 c031:2-16 how do you like | 0.267 c064:2-12 they need help | 0.262 c073:2-16 my glasses
+16 0.410 c041:2-21 hope you do it | 0.290 c075:2-24 they need not | 0.278 c031:2-20 how do you like | 0.267 c063:2-24 do you need help here | 0.253 c005:2-17 you hope my nurse is here | 0.237 c072:2-19 you are okay
+
+ ta84f22ff
+5 0.438 c045:2-8 you like it here | 0.414 c004:2-6 do what please | 0.405 c018:2-7 that is bad | 0.401 c008:2-7 you hope my nurse is going | 0.389 c005:2-8 you hope my nurse is here | 0.365 c034:2-9 you are that bad
+8 0.485 c045:2-12 you like it here | 0.464 c008:2-10 you hope my nurse is going | 0.360 c074:2-13 you are no good | 0.357 c055:2-10 do i tell my nurse | 0.354 c034:2-13 you are that bad | 0.352 c017:2-11 you feel it
+12 0.476 c008:2-14 you hope my nurse is going | 0.449 c045:2-14 you like it here | 0.398 c017:2-15 you feel it | 0.374 c034:2-15 you are that bad | 0.370 c007:2-21 you clean it up | 0.365 c070:2-15 you do
+16 0.365 c008:2-20 you hope my nurse is going | 0.326 c045:2-17 you like it here | 0.325 c017:2-25 you feel it | 0.294 c034:2-24 you are that bad | 0.289 c055:2-18 do i tell my nurse | 0.287 c007:2-30 you clean it up
+
+ tc14fc0db
+5 0.449 c046:2-8 i hope they are right here | 0.403 c071:2-9 i hope you have very good family | 0.384 c038:2-6 how do you clean | 0.380 c031:2-8 how do you like | 0.375 c035:2-7 i hope they do not need my music | 0.331 c078:2-10 i hope my family is right here
+8 0.450 c046:2-12 i hope they are right here | 0.361 c031:2-10 how do you like | 0.352 c071:2-10 i hope you have very good family | 0.305 c035:2-13 i hope they do not need my music | 0.290 c078:2-11 i hope my family is right here | 0.286 c038:2-11 how do you clean
+12 0.488 c046:2-17 i hope they are right here | 0.348 c062:2-17 i hope they are closer | 0.309 c071:2-22 i hope you have very good family | 0.307 c035:2-23 i hope they do not need my music | 0.282 c028:2-21 i hope you like my help | 0.282 c031:2-10 how do you like
+16 0.493 c046:2-22 i hope they are right here | 0.380 c062:2-20 i hope they are closer | 0.356 c035:2-28 i hope they do not need my music | 0.350 c071:2-25 i hope you have very good family | 0.304 c002:2-29 i hope you like music | 0.301 c028:2-25 i hope you like my help
+
+ t49dd1ce6
+5 0.549 c071:2-9 i hope you have very good family | 0.530 c046:2-8 i hope they are right here | 0.505 c001:2-8 i am clean | 0.464 c062:2-9 i hope they are closer | 0.440 c078:2-11 i hope my family is right here | 0.403 c014:2-8 how they do it
+8 0.522 c071:2-10 i hope you have very good family | 0.511 c046:2-11 i hope they are right here | 0.446 c062:2-11 i hope they are closer | 0.440 c078:2-14 i hope my family is right here | 0.432 c001:2-10 i am clean | 0.366 c035:2-16 i hope they do not need my music
+12 0.481 c046:2-16 i hope they are right here | 0.465 c062:2-16 i hope they are closer | 0.417 c071:2-21 i hope you have very good family | 0.363 c078:2-22 i hope my family is right here | 0.341 c035:2-23 i hope they do not need my music | 0.306 c028:2-20 i hope you like my help
+16 0.427 c062:2-19 i hope they are closer | 0.423 c046:2-22 i hope they are right here | 0.376 c071:2-24 i hope you have very good family | 0.342 c078:2-24 i hope my family is right here | 0.328 c035:2-28 i hope they do not need my music | 0.261 c028:2-24 i hope you like my help

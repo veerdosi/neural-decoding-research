@@ -1,0 +1,11 @@
+{
+  "name": "newsession_blockcenter_listening_to_attempted",
+  "dataset": "t12_newsession",
+  "representation": "blockcenter",
+  "n_per_word": 10,
+  "draw": 0,
+  "query_n": 70,
+  "evaluation_status": "new_session_exploratory_after_baseline_scoring",
+  "calibration_behavior": "listening",
+  "evaluation_behavior": "attempted"
+}

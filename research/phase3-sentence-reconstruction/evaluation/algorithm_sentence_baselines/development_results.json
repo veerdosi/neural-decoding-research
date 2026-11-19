@@ -1,0 +1,455 @@
+{
+  "matched_dtw_compositor": {
+    "n": 8,
+    "exact_sentences": 1,
+    "edits": 14,
+    "reference_words": 39,
+    "wer": 0.358974358974359,
+    "rows": [
+      {
+        "id": "td133fe66",
+        "prediction": [
+          "what",
+          "is",
+          "that"
+        ],
+        "truth": [
+          "what",
+          "good",
+          "is",
+          "that"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t91b28a91",
+        "prediction": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "clean",
+          "my",
+          "comfortable"
+        ],
+        "truth": [
+          "please",
+          "tell",
+          "my",
+          "family",
+          "i",
+          "need",
+          "my",
+          "computer"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "ta8a65773",
+        "prediction": [
+          "hope",
+          "is",
+          "nurse"
+        ],
+        "truth": [
+          "how",
+          "is",
+          "it",
+          "right"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "tcd92c110",
+        "prediction": [
+          "i",
+          "have",
+          "need",
+          "music"
+        ],
+        "truth": [
+          "i",
+          "have",
+          "no",
+          "music"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t7d52b265",
+        "prediction": [
+          "tell",
+          "my",
+          "i",
+          "coming",
+          "here"
+        ],
+        "truth": [
+          "yes",
+          "my",
+          "nurse",
+          "is",
+          "coming",
+          "here"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "t50600ea0",
+        "prediction": [
+          "music",
+          "is",
+          "here"
+        ],
+        "truth": [
+          "music",
+          "is",
+          "here"
+        ],
+        "edit_distance": 0
+      },
+      {
+        "id": "t53cbb8ea",
+        "prediction": [
+          "they",
+          "do",
+          "i",
+          "have",
+          "faith"
+        ],
+        "truth": [
+          "they",
+          "do",
+          "not",
+          "have",
+          "nurse"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "tf75891fc",
+        "prediction": [
+          "family",
+          "do",
+          "not",
+          "feel",
+          "hungry"
+        ],
+        "truth": [
+          "i",
+          "do",
+          "not",
+          "feel",
+          "hungry"
+        ],
+        "edit_distance": 1
+      }
+    ]
+  },
+  "nearest_whole_recording_dtw": {
+    "n": 8,
+    "exact_sentences": 0,
+    "edits": 26,
+    "reference_words": 39,
+    "wer": 0.6666666666666666,
+    "rows": [
+      {
+        "id": "td133fe66",
+        "prediction": [
+          "here",
+          "is",
+          "that"
+        ],
+        "truth": [
+          "what",
+          "good",
+          "is",
+          "that"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "t91b28a91",
+        "prediction": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "am",
+          "comfortable"
+        ],
+        "truth": [
+          "please",
+          "tell",
+          "my",
+          "family",
+          "i",
+          "need",
+          "my",
+          "computer"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "ta8a65773",
+        "prediction": [
+          "are",
+          "they",
+          "right"
+        ],
+        "truth": [
+          "how",
+          "is",
+          "it",
+          "right"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "tcd92c110",
+        "prediction": [
+          "i",
+          "need",
+          "music"
+        ],
+        "truth": [
+          "i",
+          "have",
+          "no",
+          "music"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "t7d52b265",
+        "prediction": [
+          "tell",
+          "my",
+          "nurse",
+          "i",
+          "am",
+          "not",
+          "hungry"
+        ],
+        "truth": [
+          "yes",
+          "my",
+          "nurse",
+          "is",
+          "coming",
+          "here"
+        ],
+        "edit_distance": 5
+      },
+      {
+        "id": "t50600ea0",
+        "prediction": [
+          "no",
+          "music",
+          "here"
+        ],
+        "truth": [
+          "music",
+          "is",
+          "here"
+        ],
+        "edit_distance": 2
+      },
+      {
+        "id": "t53cbb8ea",
+        "prediction": [
+          "they",
+          "need",
+          "it",
+          "coming",
+          "up"
+        ],
+        "truth": [
+          "they",
+          "do",
+          "not",
+          "have",
+          "nurse"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "tf75891fc",
+        "prediction": [
+          "you",
+          "do",
+          "not",
+          "like",
+          "my",
+          "computer"
+        ],
+        "truth": [
+          "i",
+          "do",
+          "not",
+          "feel",
+          "hungry"
+        ],
+        "edit_distance": 4
+      }
+    ]
+  },
+  "matched_dtw_text_splice": {
+    "n": 8,
+    "exact_sentences": 0,
+    "edits": 17,
+    "reference_words": 39,
+    "wer": 0.4358974358974359,
+    "rows": [
+      {
+        "id": "td133fe66",
+        "prediction": [
+          "what",
+          "is",
+          "that"
+        ],
+        "truth": [
+          "what",
+          "good",
+          "is",
+          "that"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t91b28a91",
+        "prediction": [
+          "they",
+          "tell",
+          "my",
+          "family",
+          "i",
+          "am",
+          "not",
+          "comfortable"
+        ],
+        "truth": [
+          "please",
+          "tell",
+          "my",
+          "family",
+          "i",
+          "need",
+          "my",
+          "computer"
+        ],
+        "edit_distance": 4
+      },
+      {
+        "id": "ta8a65773",
+        "prediction": [
+          "hope",
+          "is",
+          "what"
+        ],
+        "truth": [
+          "how",
+          "is",
+          "it",
+          "right"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "tcd92c110",
+        "prediction": [
+          "i",
+          "need",
+          "music",
+          "here"
+        ],
+        "truth": [
+          "i",
+          "have",
+          "no",
+          "music"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "t7d52b265",
+        "prediction": [
+          "my",
+          "nurse",
+          "is",
+          "coming",
+          "here"
+        ],
+        "truth": [
+          "yes",
+          "my",
+          "nurse",
+          "is",
+          "coming",
+          "here"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t50600ea0",
+        "prediction": [
+          "my",
+          "music",
+          "is",
+          "here"
+        ],
+        "truth": [
+          "music",
+          "is",
+          "here"
+        ],
+        "edit_distance": 1
+      },
+      {
+        "id": "t53cbb8ea",
+        "prediction": [
+          "do",
+          "you",
+          "have",
+          "faith"
+        ],
+        "truth": [
+          "they",
+          "do",
+          "not",
+          "have",
+          "nurse"
+        ],
+        "edit_distance": 3
+      },
+      {
+        "id": "tf75891fc",
+        "prediction": [
+          "you",
+          "do",
+          "not",
+          "feel",
+          "hungry"
+        ],
+        "truth": [
+          "i",
+          "do",
+          "not",
+          "feel",
+          "hungry"
+        ],
+        "edit_distance": 1
+      }
+    ]
+  },
+  "protocol": {
+    "scope": "Development 8 only; baseline tuning and prediction lock preceded this evaluator reading query labels",
+    "configuration_sha256": "43c3a6dc808d2dd9c10a6ace7af6ecf22f2fed340802d185b08de504330019b8",
+    "prediction_sha256": "78caa001e65b804461dd6240b04a0b6d77bb1bb3780180eccde59b0c773a6d68",
+    "same_candidate_intervals_as_Sol": true,
+    "not_an_oracle_baseline": "Calibration word boundaries are estimated, not known. A poor result would not establish unique Sol capability; it could reflect weak interval-to-word labeling or decoding.",
+    "runtime_decode_seconds": 0.17320141699747182,
+    "runtime_calibration_seconds": 6.957011166989105,
+    "runtime_evaluation_seconds": 0.005949459009571001
+  }
+}

@@ -1,0 +1,109 @@
+
+tb0b19ec8
+2-25 0.28 c045:2-21 you like | 0.27 c009:2-30 coming outside | 0.27 c008:2-21 you hope | 0.25 c045:2-26 you like it | 0.25 c061:2-36 do i have | 0.24 c026:2-31 it is
+
+t59dcd856
+18-36 0.32 c071:14-41 hope you have | 0.27 c039:19-43 hope you like | 0.25 c071:23-41 you have | 0.25 c067:17-34 faith is | 0.25 c072:34-48 okay | 0.25 c030:29-48 they have
+23-36 0.30 c038:23-35 do you | 0.30 c071:23-41 you have | 0.26 c048:24-41 hope i am | 0.25 c072:34-48 okay | 0.23 c071:31-41 have | 0.22 c048:24-33 hope i
+
+tcd92c113
+2-17 0.38 c018:2-14 that | 0.38 c018:2-20 that is | 0.29 c064:2-15 they | 0.26 c065:2-23 family | 0.25 c079:2-24 where is | 0.24 c013:2-17 is
+2-33 0.32 c065:2-46 family is okay | 0.30 c049:2-38 hello you | 0.28 c047:26-54 is not okay | 0.28 c047:33-54 not okay | 0.24 c078:2-39 i hope my | 0.24 c018:2-32 that is bad
+
+t1fe83bc3
+2-17 0.30 c038:2-23 how | 0.26 c049:2-25 hello | 0.26 c031:2-21 how do | 0.21 c058:2-23 i do | 0.21 c014:2-24 how they | 0.20 c055:2-15 do
+10-26 0.29 c041:19-33 you do | 0.26 c050:38-53 they do | 0.24 c058:14-23 do | 0.23 c071:41-57 very good | 0.22 c075:17-39 need not | 0.22 c067:42-57 success
+14-27 0.34 c041:19-33 you do | 0.31 c041:25-33 do | 0.28 c074:23-30 no | 0.27 c041:19-41 you do it | 0.26 c007:16-37 clean it | 0.25 c067:27-34 is
+23-38 0.34 c004:23-35 please | 0.33 c004:13-35 what please | 0.30 c001:17-29 clean | 0.27 c033:29-48 it going | 0.27 c056:39-47 need | 0.26 c033:35-48 going
+
+td28e3558
+2-16 0.30 c073:2-15 my | 0.29 c075:2-26 they need | 0.29 c075:2-17 they | 0.29 c005:2-18 you | 0.26 c033:2-22 where | 0.24 c016:20-46 am hungry
+2-26 0.31 c073:2-30 my glasses | 0.23 c005:2-29 you hope | 0.22 c073:15-30 glasses | 0.22 c016:31-46 hungry | 0.21 c035:2-31 i hope they | 0.21 c033:2-35 where is it
+
+ta2aa0fcb
+2-24 0.35 c026:2-31 it is | 0.32 c036:2-30 is it | 0.32 c036:2-18 is | 0.27 c013:2-25 is my | 0.27 c026:2-17 it | 0.26 c002:47-64 music
+
+tf75891ff
+19-31 0.32 c064:15-25 need | 0.25 c079:31-46 faith | 0.25 c011:33-44 they | 0.24 c067:17-34 faith is | 0.24 c050:38-53 they do | 0.23 c072:34-48 okay
+22-44 0.34 c035:47-77 need my music | 0.29 c035:39-77 not need my music | 0.27 c039:27-64 you like my music | 0.23 c075:17-39 need not | 0.22 c000:45-69 feel thirsty | 0.22 c039:27-43 you like
+37-53 0.28 c066:2-14 are | 0.27 c024:25-41 you are | 0.22 c031:2-13 how | 0.21 c076:23-47 are not | 0.21 c057:20-36 you here | 0.20 c029:40-57 do not
+
+t514a6795
+2-20 0.17 c012:2-28 i tell | 0.17 c027:2-15 it | 0.17 c007:2-16 you | 0.17 c044:49-72 are right here | 0.16 c008:27-43 nurse is | 0.16 c012:2-14 i
+18-38 0.38 c013:2-17 is | 0.37 c027:2-15 it | 0.34 c036:2-30 is it | 0.33 c026:2-31 it is | 0.32 c013:2-25 is my | 0.30 c004:2-13 do
+18-50 0.30 c003:2-36 is it | 0.30 c027:2-38 it is what | 0.30 c036:2-39 is it that | 0.29 c013:2-36 is my nurse | 0.29 c027:2-28 it is | 0.28 c004:2-23 do what
+35-55 0.24 c077:41-53 right | 0.24 c036:2-30 is it | 0.23 c026:2-17 it | 0.23 c024:2-16 they | 0.22 c046:2-25 i hope they | 0.22 c077:26-41 need it
+44-66 0.31 c031:2-27 how do you | 0.30 c048:2-24 you | 0.29 c048:2-29 you hope | 0.29 c076:2-23 no you | 0.28 c031:13-27 do you | 0.28 c068:47-61 going
+50-66 0.35 c071:23-31 you | 0.35 c011:24-33 do | 0.34 c070:2-27 you do | 0.33 c076:2-23 no you | 0.31 c048:2-29 you hope | 0.31 c031:13-27 do you
+
+t9ce92bac
+2-19 0.41 c027:2-28 it is | 0.37 c027:2-15 it | 0.34 c036:2-18 is | 0.34 c077:26-41 need it | 0.31 c018:2-20 that is | 0.30 c036:2-30 is it
+
+t3afd73b4
+2-22 0.32 c060:2-19 yes i | 0.32 c060:2-23 yes i am | 0.27 c018:2-20 that is | 0.27 c053:2-34 how are | 0.26 c045:2-21 you like | 0.25 c059:2-30 you are
+10-22 0.23 c060:2-19 yes i | 0.22 c060:2-23 yes i am | 0.21 c048:24-33 hope i | 0.20 c027:28-45 what they | 0.20 c067:27-42 is my | 0.20 c035:2-15 i
+
+tef9d94a6
+2-24 0.40 c056:2-31 you do | 0.37 c075:2-26 they need | 0.36 c063:2-35 do you | 0.32 c006:2-28 they do | 0.32 c056:2-24 you | 0.31 c038:2-30 how do
+10-25 0.37 c022:33-43 you | 0.35 c022:24-43 do you | 0.31 c002:17-35 hope you | 0.30 c058:14-23 do | 0.30 c011:24-44 do they | 0.28 c075:2-26 they need
+
+t52b24bf6
+2-19 0.30 c004:2-13 do | 0.28 c005:2-18 you | 0.28 c061:2-24 do i | 0.27 c043:2-13 no | 0.26 c050:2-16 tell | 0.25 c023:2-18 they
+10-26 0.37 c030:21-36 do they | 0.33 c055:2-25 do i | 0.30 c041:25-33 do | 0.29 c061:15-36 i have | 0.29 c058:14-32 do not | 0.28 c045:2-21 you like
+
+t5f2d20a0
+18-27 0.34 c058:40-48 my | 0.32 c050:53-61 not | 0.28 c008:12-27 hope my | 0.28 c048:24-33 hope i | 0.26 c006:47-58 hope | 0.25 c045:13-21 like
+30-40 0.29 c079:18-24 is | 0.24 c019:13-31 family is | 0.21 c009:17-30 outside | 0.20 c067:17-34 faith is | 0.19 c071:41-57 very good | 0.19 c002:2-17 i
+
+te366b91c
+2-19 0.35 c012:2-28 i tell | 0.33 c035:2-24 i hope | 0.33 c001:2-17 i am | 0.30 c012:14-28 tell | 0.29 c071:2-14 i | 0.27 c051:2-22 i need
+10-28 0.37 c028:13-22 hope | 0.34 c012:14-40 tell you | 0.31 c028:13-29 hope you | 0.28 c012:14-28 tell | 0.27 c074:15-30 are no | 0.25 c012:14-45 tell you i
+17-28 0.43 c074:23-30 no | 0.39 c066:14-21 they | 0.35 c028:13-22 hope | 0.33 c074:15-30 are no | 0.32 c065:23-29 is | 0.32 c047:40-54 okay
+
+ta8a65775
+20-37 0.27 c071:23-41 you have | 0.27 c048:24-41 hope i am | 0.24 c009:17-30 outside | 0.23 c028:38-56 my help | 0.23 c063:47-59 help | 0.22 c009:17-39 outside is
+27-38 0.37 c060:14-23 i am | 0.31 c071:31-41 have | 0.30 c063:47-59 help | 0.28 c043:20-32 family | 0.27 c060:14-30 i am very | 0.27 c060:19-30 am very
+
+t8485b6b9
+8-30 0.34 c052:2-33 where are | 0.33 c042:13-33 are tired | 0.33 c053:22-34 are | 0.32 c046:9-34 hope they are | 0.29 c046:25-54 are right here | 0.27 c024:25-41 you are
+
+t53cbb8eb
+2-20 0.26 c014:2-24 how they | 0.25 c032:2-26 i | 0.25 c029:2-32 tell my nurse | 0.25 c038:2-23 how | 0.25 c054:2-23 what | 0.24 c074:2-23 you are
+26-40 0.34 c012:28-40 you | 0.34 c012:28-45 you i | 0.32 c070:16-27 do | 0.32 c044:29-43 hope | 0.28 c008:2-21 you hope | 0.28 c044:29-49 hope they
+
+tbfeb0ff2
+12-22 0.30 c035:24-31 they | 0.29 c039:19-35 hope you | 0.29 c007:16-28 clean | 0.25 c067:27-34 is | 0.25 c067:17-27 faith | 0.24 c063:26-35 you
+29-46 0.39 c039:50-64 music | 0.36 c039:43-64 my music | 0.29 c066:29-43 thirsty | 0.27 c004:23-35 please | 0.27 c008:43-55 going | 0.27 c075:17-39 need not
+
+te3243945
+10-23 0.29 c008:21-36 my nurse | 0.28 c062:10-19 hope | 0.28 c008:21-43 my nurse is | 0.26 c008:27-36 nurse | 0.25 c001:8-17 am | 0.25 c028:13-29 hope you
+17-35 0.27 c033:29-48 it going | 0.25 c074:23-42 no good | 0.25 c019:31-47 that good | 0.25 c019:26-47 is that good | 0.25 c029:57-66 feel | 0.24 c012:45-65 am thirsty
+
+tca769afd
+2-26 0.36 c026:2-17 it | 0.34 c013:2-17 is | 0.34 c018:2-20 that is | 0.34 c036:2-30 is it | 0.33 c026:2-31 it is | 0.33 c051:2-22 i need
+
+td133fe68
+26-38 0.35 c043:32-46 is not | 0.29 c043:32-38 is | 0.29 c068:39-47 not | 0.28 c067:27-42 is my | 0.28 c035:56-64 my | 0.27 c007:28-37 it
+
+t588781f6
+2-17 0.42 c073:2-15 my | 0.32 c051:2-14 i | 0.29 c018:2-14 that | 0.28 c051:2-22 i need | 0.28 c067:2-27 my faith | 0.28 c043:2-13 no
+13-25 0.30 c045:13-26 like it | 0.29 c050:46-61 do not | 0.27 c050:53-61 not | 0.24 c039:35-50 like my | 0.22 c013:36-53 comfortable | 0.22 c062:33-47 closer
+
+tced8ecfc
+9-24 0.31 c028:29-45 like my | 0.27 c067:17-34 faith is | 0.26 c024:16-25 hope | 0.24 c039:35-43 like | 0.24 c028:22-45 you like my | 0.24 c008:12-27 hope my
+37-52 0.27 c028:45-56 help | 0.24 c030:36-48 have | 0.23 c030:29-48 they have | 0.23 c060:14-30 i am very | 0.23 c000:17-36 my family | 0.22 c000:17-45 my family they
+
+t848cf4da
+2-23 0.36 c077:2-26 i | 0.32 c016:2-31 i am | 0.31 c077:2-33 i need | 0.31 c073:2-15 my | 0.28 c045:2-21 you like | 0.26 c032:2-36 i do
+
+t0575fbc6
+2-12 0.38 c073:2-15 my | 0.33 c046:2-9 i | 0.31 c023:2-18 they | 0.29 c061:2-15 do | 0.24 c018:2-14 that | 0.23 c031:2-13 how
+30-51 0.38 c067:42-57 success | 0.23 c002:47-64 music | 0.23 c014:24-39 do it | 0.20 c067:17-42 faith is my | 0.20 c067:27-42 is my | 0.20 c079:31-46 faith
+
+t6453e6ae
+22-36 0.34 c069:28-39 is | 0.30 c059:30-41 up | 0.28 c030:36-48 have | 0.26 c059:24-41 are up | 0.24 c007:28-44 it up | 0.21 c027:28-38 what
+
+t4d2d7415
+2-21 0.38 c053:2-22 how | 0.34 c054:2-23 what | 0.34 c007:2-16 you | 0.31 c049:2-25 hello | 0.29 c006:2-19 they | 0.26 c050:2-28 tell my
+15-31 0.26 c062:10-26 hope they | 0.25 c012:28-45 you i | 0.25 c012:28-40 you | 0.24 c043:38-55 not going | 0.23 c041:19-33 you do | 0.23 c031:13-27 do you
+34-52 0.33 c021:34-49 right | 0.26 c029:15-32 my nurse | 0.25 c075:26-39 not | 0.25 c041:25-41 do it | 0.24 c075:17-39 need not | 0.23 c039:27-50 you like my

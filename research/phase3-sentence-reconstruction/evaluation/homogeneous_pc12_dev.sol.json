@@ -1,0 +1,85 @@
+{
+  "name": "homogeneous_pc12_dev",
+  "n": 12,
+  "exact_sequence_correct": 12,
+  "exact_sequence_accuracy": 1.0,
+  "token_accuracy": 1.0,
+  "position_accuracy": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "prediction_bits": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1
+    ]
+  ],
+  "method_self_report": "Compared temporal segments with calibration patterns: up generally has negative third-coordinate activity and higher first-coordinate activity; right generally has positive third-coordinate activity. Allowed timing shifts between words. Main uncertainty is locating transitions from repeated-word calibration alone, especially the final word of q0403bdaa.",
+  "donor_exact_accuracy": 1.0,
+  "usage": [
+    {
+      "input_tokens": 39449,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 2400,
+      "reasoning_output_tokens": 2116
+    }
+  ]
+}

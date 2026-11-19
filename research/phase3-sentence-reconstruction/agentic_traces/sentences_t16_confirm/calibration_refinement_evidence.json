@@ -1,0 +1,3206 @@
+{
+  "c000": {
+    "old_boundaries": [
+      3,
+      19,
+      25,
+      36,
+      49,
+      56,
+      67
+    ],
+    "new_segments": [
+      {
+        "word": "tell",
+        "id": "c000",
+        "start": 3,
+        "end": 18,
+        "similarity_loo": 0.4289899870727625
+      },
+      {
+        "word": "my",
+        "id": "c000",
+        "start": 18,
+        "end": 27,
+        "similarity_loo": 0.3785513065145353
+      },
+      {
+        "word": "family",
+        "id": "c000",
+        "start": 27,
+        "end": 38,
+        "similarity_loo": 0.34823069632603443
+      },
+      {
+        "word": "they",
+        "id": "c000",
+        "start": 38,
+        "end": 50,
+        "similarity_loo": 0.32802666609129794
+      },
+      {
+        "word": "feel",
+        "id": "c000",
+        "start": 50,
+        "end": 56,
+        "similarity_loo": 0.18914085685030202
+      },
+      {
+        "word": "thirsty",
+        "id": "c000",
+        "start": 56,
+        "end": 67,
+        "similarity_loo": 0.35247316333858725
+      }
+    ]
+  },
+  "c001": {
+    "old_boundaries": [
+      2,
+      8,
+      18,
+      30
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c001",
+        "start": 2,
+        "end": 10,
+        "similarity_loo": 0.4891378849842714
+      },
+      {
+        "word": "am",
+        "id": "c001",
+        "start": 10,
+        "end": 18,
+        "similarity_loo": 0.39681580803693584
+      },
+      {
+        "word": "clean",
+        "id": "c001",
+        "start": 18,
+        "end": 30,
+        "similarity_loo": 0.4313365288664437
+      }
+    ]
+  },
+  "c002": {
+    "old_boundaries": [
+      8,
+      19,
+      28,
+      35,
+      45,
+      62
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c002",
+        "start": 8,
+        "end": 18,
+        "similarity_loo": 0.4888192431350908
+      },
+      {
+        "word": "hope",
+        "id": "c002",
+        "start": 18,
+        "end": 26,
+        "similarity_loo": 0.5246804810121855
+      },
+      {
+        "word": "you",
+        "id": "c002",
+        "start": 26,
+        "end": 37,
+        "similarity_loo": 0.5703258201611994
+      },
+      {
+        "word": "like",
+        "id": "c002",
+        "start": 37,
+        "end": 48,
+        "similarity_loo": 0.4909606621350319
+      },
+      {
+        "word": "music",
+        "id": "c002",
+        "start": 48,
+        "end": 62,
+        "similarity_loo": 0.30493113140914235
+      }
+    ]
+  },
+  "c003": {
+    "old_boundaries": [
+      5,
+      24,
+      38,
+      44,
+      55
+    ],
+    "new_segments": [
+      {
+        "word": "is",
+        "id": "c003",
+        "start": 5,
+        "end": 24,
+        "similarity_loo": 0.48847150609074047
+      },
+      {
+        "word": "it",
+        "id": "c003",
+        "start": 24,
+        "end": 39,
+        "similarity_loo": 0.512258439472314
+      },
+      {
+        "word": "that",
+        "id": "c003",
+        "start": 39,
+        "end": 44,
+        "similarity_loo": 0.3844876759705714
+      },
+      {
+        "word": "good",
+        "id": "c003",
+        "start": 44,
+        "end": 55,
+        "similarity_loo": 0.4495801486699488
+      }
+    ]
+  },
+  "c004": {
+    "old_boundaries": [
+      3,
+      15,
+      23,
+      35
+    ],
+    "new_segments": [
+      {
+        "word": "do",
+        "id": "c004",
+        "start": 3,
+        "end": 14,
+        "similarity_loo": 0.41048088190194376
+      },
+      {
+        "word": "what",
+        "id": "c004",
+        "start": 14,
+        "end": 23,
+        "similarity_loo": 0.18099562368493732
+      },
+      {
+        "word": "please",
+        "id": "c004",
+        "start": 23,
+        "end": 35,
+        "similarity_loo": 0.4
+      }
+    ]
+  },
+  "c005": {
+    "old_boundaries": [
+      3,
+      18,
+      28,
+      35,
+      47,
+      54,
+      68
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c005",
+        "start": 3,
+        "end": 17,
+        "similarity_loo": 0.45384620830487865
+      },
+      {
+        "word": "hope",
+        "id": "c005",
+        "start": 17,
+        "end": 29,
+        "similarity_loo": 0.49131683779603724
+      },
+      {
+        "word": "my",
+        "id": "c005",
+        "start": 29,
+        "end": 36,
+        "similarity_loo": 0.45196633950984527
+      },
+      {
+        "word": "nurse",
+        "id": "c005",
+        "start": 36,
+        "end": 49,
+        "similarity_loo": 0.4916554808775123
+      },
+      {
+        "word": "is",
+        "id": "c005",
+        "start": 49,
+        "end": 54,
+        "similarity_loo": 0.25655432147717583
+      },
+      {
+        "word": "here",
+        "id": "c005",
+        "start": 54,
+        "end": 68,
+        "similarity_loo": 0.5973286107953121
+      }
+    ]
+  },
+  "c006": {
+    "old_boundaries": [
+      5,
+      22,
+      32,
+      40,
+      47,
+      59
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c006",
+        "start": 5,
+        "end": 23,
+        "similarity_loo": 0.38864053508915875
+      },
+      {
+        "word": "do",
+        "id": "c006",
+        "start": 23,
+        "end": 34,
+        "similarity_loo": 0.5946400875058605
+      },
+      {
+        "word": "not",
+        "id": "c006",
+        "start": 34,
+        "end": 41,
+        "similarity_loo": 0.44509597630661624
+      },
+      {
+        "word": "have",
+        "id": "c006",
+        "start": 41,
+        "end": 48,
+        "similarity_loo": 0.24857320347382955
+      },
+      {
+        "word": "hope",
+        "id": "c006",
+        "start": 48,
+        "end": 59,
+        "similarity_loo": 0.4524718415465482
+      }
+    ]
+  },
+  "c007": {
+    "old_boundaries": [
+      3,
+      20,
+      29,
+      35,
+      44
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c007",
+        "start": 3,
+        "end": 21,
+        "similarity_loo": 0.44870443005943983
+      },
+      {
+        "word": "clean",
+        "id": "c007",
+        "start": 21,
+        "end": 29,
+        "similarity_loo": 0.29976954097794284
+      },
+      {
+        "word": "it",
+        "id": "c007",
+        "start": 29,
+        "end": 35,
+        "similarity_loo": 0.33629126386220254
+      },
+      {
+        "word": "up",
+        "id": "c007",
+        "start": 35,
+        "end": 44,
+        "similarity_loo": 0.5602142698142092
+      }
+    ]
+  },
+  "c008": {
+    "old_boundaries": [
+      2,
+      13,
+      20,
+      25,
+      35,
+      41,
+      54
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c008",
+        "start": 2,
+        "end": 12,
+        "similarity_loo": 0.43460322018490943
+      },
+      {
+        "word": "hope",
+        "id": "c008",
+        "start": 12,
+        "end": 20,
+        "similarity_loo": 0.5047353861241625
+      },
+      {
+        "word": "my",
+        "id": "c008",
+        "start": 20,
+        "end": 26,
+        "similarity_loo": 0.46282140934044014
+      },
+      {
+        "word": "nurse",
+        "id": "c008",
+        "start": 26,
+        "end": 36,
+        "similarity_loo": 0.4820799408403488
+      },
+      {
+        "word": "is",
+        "id": "c008",
+        "start": 36,
+        "end": 40,
+        "similarity_loo": 0.32665793964830947
+      },
+      {
+        "word": "going",
+        "id": "c008",
+        "start": 40,
+        "end": 54,
+        "similarity_loo": 0.48551740412383365
+      }
+    ]
+  },
+  "c009": {
+    "old_boundaries": [
+      3,
+      17,
+      32,
+      39,
+      49,
+      58
+    ],
+    "new_segments": [
+      {
+        "word": "coming",
+        "id": "c009",
+        "start": 3,
+        "end": 17,
+        "similarity_loo": 0.4
+      },
+      {
+        "word": "outside",
+        "id": "c009",
+        "start": 17,
+        "end": 34,
+        "similarity_loo": 0.30095484348129514
+      },
+      {
+        "word": "is",
+        "id": "c009",
+        "start": 34,
+        "end": 40,
+        "similarity_loo": 0.43908346186910396
+      },
+      {
+        "word": "very",
+        "id": "c009",
+        "start": 40,
+        "end": 49,
+        "similarity_loo": 0.5397355687663298
+      },
+      {
+        "word": "good",
+        "id": "c009",
+        "start": 49,
+        "end": 58,
+        "similarity_loo": 0.40825647381124336
+      }
+    ]
+  },
+  "c010": {
+    "old_boundaries": [
+      2,
+      19,
+      25,
+      42
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c010",
+        "start": 2,
+        "end": 20,
+        "similarity_loo": 0.435421434330095
+      },
+      {
+        "word": "feel",
+        "id": "c010",
+        "start": 20,
+        "end": 25,
+        "similarity_loo": 0.44275382569569055
+      },
+      {
+        "word": "comfortable",
+        "id": "c010",
+        "start": 25,
+        "end": 42,
+        "similarity_loo": 0.5708436043009643
+      }
+    ]
+  },
+  "c011": {
+    "old_boundaries": [
+      4,
+      21,
+      31,
+      42,
+      54
+    ],
+    "new_segments": [
+      {
+        "word": "what",
+        "id": "c011",
+        "start": 4,
+        "end": 23,
+        "similarity_loo": 0.4357327604817832
+      },
+      {
+        "word": "do",
+        "id": "c011",
+        "start": 23,
+        "end": 31,
+        "similarity_loo": 0.5639219435664709
+      },
+      {
+        "word": "they",
+        "id": "c011",
+        "start": 31,
+        "end": 42,
+        "similarity_loo": 0.3393345990777231
+      },
+      {
+        "word": "do",
+        "id": "c011",
+        "start": 42,
+        "end": 54,
+        "similarity_loo": 0.40934432757673084
+      }
+    ]
+  },
+  "c012": {
+    "old_boundaries": [
+      3,
+      16,
+      30,
+      40,
+      43,
+      51,
+      65
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c012",
+        "start": 3,
+        "end": 20,
+        "similarity_loo": 0.39474859781869087
+      },
+      {
+        "word": "tell",
+        "id": "c012",
+        "start": 20,
+        "end": 31,
+        "similarity_loo": 0.3563873641952634
+      },
+      {
+        "word": "you",
+        "id": "c012",
+        "start": 31,
+        "end": 40,
+        "similarity_loo": 0.43551089549929783
+      },
+      {
+        "word": "i",
+        "id": "c012",
+        "start": 40,
+        "end": 44,
+        "similarity_loo": 0.48256882252262323
+      },
+      {
+        "word": "am",
+        "id": "c012",
+        "start": 44,
+        "end": 52,
+        "similarity_loo": 0.3762101024679722
+      },
+      {
+        "word": "thirsty",
+        "id": "c012",
+        "start": 52,
+        "end": 65,
+        "similarity_loo": 0.4442338377073825
+      }
+    ]
+  },
+  "c013": {
+    "old_boundaries": [
+      5,
+      17,
+      25,
+      34,
+      53
+    ],
+    "new_segments": [
+      {
+        "word": "is",
+        "id": "c013",
+        "start": 5,
+        "end": 17,
+        "similarity_loo": 0.3826349374658369
+      },
+      {
+        "word": "my",
+        "id": "c013",
+        "start": 17,
+        "end": 24,
+        "similarity_loo": 0.44730275828009647
+      },
+      {
+        "word": "nurse",
+        "id": "c013",
+        "start": 24,
+        "end": 35,
+        "similarity_loo": 0.42174877675432426
+      },
+      {
+        "word": "comfortable",
+        "id": "c013",
+        "start": 35,
+        "end": 53,
+        "similarity_loo": 0.5525987210759656
+      }
+    ]
+  },
+  "c014": {
+    "old_boundaries": [
+      2,
+      13,
+      24,
+      31,
+      40
+    ],
+    "new_segments": [
+      {
+        "word": "how",
+        "id": "c014",
+        "start": 2,
+        "end": 17,
+        "similarity_loo": 0.47967848936493396
+      },
+      {
+        "word": "they",
+        "id": "c014",
+        "start": 17,
+        "end": 24,
+        "similarity_loo": 0.3432298385417726
+      },
+      {
+        "word": "do",
+        "id": "c014",
+        "start": 24,
+        "end": 31,
+        "similarity_loo": 0.4539672788742712
+      },
+      {
+        "word": "it",
+        "id": "c014",
+        "start": 31,
+        "end": 40,
+        "similarity_loo": 0.4025205367474669
+      }
+    ]
+  },
+  "c015": {
+    "old_boundaries": [
+      3,
+      21,
+      31,
+      41,
+      50,
+      59
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c015",
+        "start": 3,
+        "end": 21,
+        "similarity_loo": 0.41456633456583697
+      },
+      {
+        "word": "need",
+        "id": "c015",
+        "start": 21,
+        "end": 30,
+        "similarity_loo": 0.4964803508896282
+      },
+      {
+        "word": "it",
+        "id": "c015",
+        "start": 30,
+        "end": 39,
+        "similarity_loo": 0.4904317739355808
+      },
+      {
+        "word": "going",
+        "id": "c015",
+        "start": 39,
+        "end": 50,
+        "similarity_loo": 0.29600064810113136
+      },
+      {
+        "word": "up",
+        "id": "c015",
+        "start": 50,
+        "end": 59,
+        "similarity_loo": 0.3948658000865232
+      }
+    ]
+  },
+  "c016": {
+    "old_boundaries": [
+      4,
+      22,
+      29,
+      46
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c016",
+        "start": 4,
+        "end": 20,
+        "similarity_loo": 0.48497943333500204
+      },
+      {
+        "word": "am",
+        "id": "c016",
+        "start": 20,
+        "end": 29,
+        "similarity_loo": 0.39107976642288583
+      },
+      {
+        "word": "hungry",
+        "id": "c016",
+        "start": 29,
+        "end": 46,
+        "similarity_loo": 0.5568528422237355
+      }
+    ]
+  },
+  "c017": {
+    "old_boundaries": [
+      3,
+      17,
+      24,
+      33
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c017",
+        "start": 3,
+        "end": 16,
+        "similarity_loo": 0.40377450974558904
+      },
+      {
+        "word": "feel",
+        "id": "c017",
+        "start": 16,
+        "end": 24,
+        "similarity_loo": 0.38780470341564727
+      },
+      {
+        "word": "it",
+        "id": "c017",
+        "start": 24,
+        "end": 33,
+        "similarity_loo": 0.3439988737453942
+      }
+    ]
+  },
+  "c018": {
+    "old_boundaries": [
+      3,
+      12,
+      19,
+      29
+    ],
+    "new_segments": [
+      {
+        "word": "that",
+        "id": "c018",
+        "start": 3,
+        "end": 13,
+        "similarity_loo": 0.20880548917913816
+      },
+      {
+        "word": "is",
+        "id": "c018",
+        "start": 13,
+        "end": 19,
+        "similarity_loo": 0.4155060751609704
+      },
+      {
+        "word": "bad",
+        "id": "c018",
+        "start": 19,
+        "end": 29,
+        "similarity_loo": 0.3638430892751881
+      }
+    ]
+  },
+  "c019": {
+    "old_boundaries": [
+      3,
+      14,
+      23,
+      32,
+      35,
+      46
+    ],
+    "new_segments": [
+      {
+        "word": "my",
+        "id": "c019",
+        "start": 3,
+        "end": 13,
+        "similarity_loo": 0.3265262449766453
+      },
+      {
+        "word": "family",
+        "id": "c019",
+        "start": 13,
+        "end": 24,
+        "similarity_loo": 0.3289505425516194
+      },
+      {
+        "word": "is",
+        "id": "c019",
+        "start": 24,
+        "end": 31,
+        "similarity_loo": 0.49521912749421465
+      },
+      {
+        "word": "that",
+        "id": "c019",
+        "start": 31,
+        "end": 35,
+        "similarity_loo": 0.3026564051819697
+      },
+      {
+        "word": "good",
+        "id": "c019",
+        "start": 35,
+        "end": 46,
+        "similarity_loo": 0.48001051679068857
+      }
+    ]
+  },
+  "c021": {
+    "old_boundaries": [
+      13,
+      29,
+      37,
+      49
+    ],
+    "new_segments": [
+      {
+        "word": "do",
+        "id": "c021",
+        "start": 13,
+        "end": 30,
+        "similarity_loo": 0.4809364175628706
+      },
+      {
+        "word": "that",
+        "id": "c021",
+        "start": 30,
+        "end": 36,
+        "similarity_loo": 0.2991982883272653
+      },
+      {
+        "word": "right",
+        "id": "c021",
+        "start": 36,
+        "end": 49,
+        "similarity_loo": 0.2691923649691534
+      }
+    ]
+  },
+  "c022": {
+    "old_boundaries": [
+      3,
+      25,
+      32,
+      44,
+      56
+    ],
+    "new_segments": [
+      {
+        "word": "what",
+        "id": "c022",
+        "start": 3,
+        "end": 27,
+        "similarity_loo": 0.3526293868351848
+      },
+      {
+        "word": "do",
+        "id": "c022",
+        "start": 27,
+        "end": 36,
+        "similarity_loo": 0.5618188978470166
+      },
+      {
+        "word": "you",
+        "id": "c022",
+        "start": 36,
+        "end": 45,
+        "similarity_loo": 0.48085032227985874
+      },
+      {
+        "word": "clean",
+        "id": "c022",
+        "start": 45,
+        "end": 56,
+        "similarity_loo": 0.35568266705864593
+      }
+    ]
+  },
+  "c023": {
+    "old_boundaries": [
+      3,
+      16,
+      26,
+      31,
+      43
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c023",
+        "start": 3,
+        "end": 17,
+        "similarity_loo": 0.3967241948348124
+      },
+      {
+        "word": "are",
+        "id": "c023",
+        "start": 17,
+        "end": 27,
+        "similarity_loo": 0.4896275724444903
+      },
+      {
+        "word": "that",
+        "id": "c023",
+        "start": 27,
+        "end": 31,
+        "similarity_loo": 0.2095420572278283
+      },
+      {
+        "word": "good",
+        "id": "c023",
+        "start": 31,
+        "end": 43,
+        "similarity_loo": 0.4944428997594328
+      }
+    ]
+  },
+  "c024": {
+    "old_boundaries": [
+      3,
+      16,
+      25,
+      33,
+      41,
+      49,
+      58
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c024",
+        "start": 3,
+        "end": 17,
+        "similarity_loo": 0.39351692350523615
+      },
+      {
+        "word": "hope",
+        "id": "c024",
+        "start": 17,
+        "end": 26,
+        "similarity_loo": 0.4353672465871219
+      },
+      {
+        "word": "you",
+        "id": "c024",
+        "start": 26,
+        "end": 33,
+        "similarity_loo": 0.3723151455985492
+      },
+      {
+        "word": "are",
+        "id": "c024",
+        "start": 33,
+        "end": 39,
+        "similarity_loo": 0.5724779986359987
+      },
+      {
+        "word": "right",
+        "id": "c024",
+        "start": 39,
+        "end": 47,
+        "similarity_loo": 0.42835608647995455
+      },
+      {
+        "word": "here",
+        "id": "c024",
+        "start": 47,
+        "end": 58,
+        "similarity_loo": 0.6508853689678521
+      }
+    ]
+  },
+  "c025": {
+    "old_boundaries": [
+      8,
+      21,
+      40
+    ],
+    "new_segments": [
+      {
+        "word": "bring",
+        "id": "c025",
+        "start": 8,
+        "end": 21,
+        "similarity_loo": 0.4
+      },
+      {
+        "word": "here",
+        "id": "c025",
+        "start": 21,
+        "end": 40,
+        "similarity_loo": 0.5438036720630743
+      }
+    ]
+  },
+  "c026": {
+    "old_boundaries": [
+      2,
+      17,
+      31
+    ],
+    "new_segments": [
+      {
+        "word": "it",
+        "id": "c026",
+        "start": 2,
+        "end": 18,
+        "similarity_loo": 0.4181991936787955
+      },
+      {
+        "word": "is",
+        "id": "c026",
+        "start": 18,
+        "end": 31,
+        "similarity_loo": 0.3476228179032437
+      }
+    ]
+  },
+  "c027": {
+    "old_boundaries": [
+      2,
+      12,
+      28,
+      37,
+      44,
+      54
+    ],
+    "new_segments": [
+      {
+        "word": "it",
+        "id": "c027",
+        "start": 2,
+        "end": 14,
+        "similarity_loo": 0.41680971432457303
+      },
+      {
+        "word": "is",
+        "id": "c027",
+        "start": 14,
+        "end": 29,
+        "similarity_loo": 0.47392778873991875
+      },
+      {
+        "word": "what",
+        "id": "c027",
+        "start": 29,
+        "end": 38,
+        "similarity_loo": 0.2271072117144418
+      },
+      {
+        "word": "they",
+        "id": "c027",
+        "start": 38,
+        "end": 44,
+        "similarity_loo": 0.31616627972475964
+      },
+      {
+        "word": "have",
+        "id": "c027",
+        "start": 44,
+        "end": 54,
+        "similarity_loo": 0.32547155683364787
+      }
+    ]
+  },
+  "c028": {
+    "old_boundaries": [
+      5,
+      15,
+      23,
+      32,
+      41,
+      46,
+      57
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c028",
+        "start": 5,
+        "end": 16,
+        "similarity_loo": 0.39910865669009926
+      },
+      {
+        "word": "hope",
+        "id": "c028",
+        "start": 16,
+        "end": 23,
+        "similarity_loo": 0.47517953846862265
+      },
+      {
+        "word": "you",
+        "id": "c028",
+        "start": 23,
+        "end": 31,
+        "similarity_loo": 0.6158519381592078
+      },
+      {
+        "word": "like",
+        "id": "c028",
+        "start": 31,
+        "end": 40,
+        "similarity_loo": 0.4831139211118846
+      },
+      {
+        "word": "my",
+        "id": "c028",
+        "start": 40,
+        "end": 48,
+        "similarity_loo": 0.48885426453861636
+      },
+      {
+        "word": "help",
+        "id": "c028",
+        "start": 48,
+        "end": 57,
+        "similarity_loo": 0.376362053988864
+      }
+    ]
+  },
+  "c029": {
+    "old_boundaries": [
+      3,
+      20,
+      23,
+      31,
+      42,
+      52,
+      60,
+      67,
+      81
+    ],
+    "new_segments": [
+      {
+        "word": "tell",
+        "id": "c029",
+        "start": 3,
+        "end": 19,
+        "similarity_loo": 0.4325643132350073
+      },
+      {
+        "word": "my",
+        "id": "c029",
+        "start": 19,
+        "end": 23,
+        "similarity_loo": 0.3821518991622056
+      },
+      {
+        "word": "nurse",
+        "id": "c029",
+        "start": 23,
+        "end": 31,
+        "similarity_loo": 0.4283940887420037
+      },
+      {
+        "word": "i",
+        "id": "c029",
+        "start": 31,
+        "end": 38,
+        "similarity_loo": 0.32113605827116753
+      },
+      {
+        "word": "do",
+        "id": "c029",
+        "start": 38,
+        "end": 50,
+        "similarity_loo": 0.40628647051741507
+      },
+      {
+        "word": "not",
+        "id": "c029",
+        "start": 50,
+        "end": 60,
+        "similarity_loo": 0.32505308561823065
+      },
+      {
+        "word": "feel",
+        "id": "c029",
+        "start": 60,
+        "end": 67,
+        "similarity_loo": 0.4416488477748781
+      },
+      {
+        "word": "comfortable",
+        "id": "c029",
+        "start": 67,
+        "end": 81,
+        "similarity_loo": 0.549578728018797
+      }
+    ]
+  },
+  "c030": {
+    "old_boundaries": [
+      3,
+      22,
+      29,
+      35,
+      46
+    ],
+    "new_segments": [
+      {
+        "word": "what",
+        "id": "c030",
+        "start": 3,
+        "end": 20,
+        "similarity_loo": 0.4389920360438496
+      },
+      {
+        "word": "do",
+        "id": "c030",
+        "start": 20,
+        "end": 30,
+        "similarity_loo": 0.5227866476051871
+      },
+      {
+        "word": "they",
+        "id": "c030",
+        "start": 30,
+        "end": 36,
+        "similarity_loo": 0.36182426898854386
+      },
+      {
+        "word": "have",
+        "id": "c030",
+        "start": 36,
+        "end": 46,
+        "similarity_loo": 0.32493119350583355
+      }
+    ]
+  },
+  "c031": {
+    "old_boundaries": [
+      2,
+      13,
+      20,
+      26,
+      37
+    ],
+    "new_segments": [
+      {
+        "word": "how",
+        "id": "c031",
+        "start": 2,
+        "end": 14,
+        "similarity_loo": 0.4698983771772953
+      },
+      {
+        "word": "do",
+        "id": "c031",
+        "start": 14,
+        "end": 21,
+        "similarity_loo": 0.4001371273807821
+      },
+      {
+        "word": "you",
+        "id": "c031",
+        "start": 21,
+        "end": 26,
+        "similarity_loo": 0.45985044838852523
+      },
+      {
+        "word": "like",
+        "id": "c031",
+        "start": 26,
+        "end": 37,
+        "similarity_loo": 0.4114124072643968
+      }
+    ]
+  },
+  "c032": {
+    "old_boundaries": [
+      4,
+      25,
+      33,
+      46
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c032",
+        "start": 4,
+        "end": 27,
+        "similarity_loo": 0.488056912897866
+      },
+      {
+        "word": "do",
+        "id": "c032",
+        "start": 27,
+        "end": 35,
+        "similarity_loo": 0.4827737905342645
+      },
+      {
+        "word": "good",
+        "id": "c032",
+        "start": 35,
+        "end": 46,
+        "similarity_loo": 0.4952739017618895
+      }
+    ]
+  },
+  "c033": {
+    "old_boundaries": [
+      3,
+      22,
+      28,
+      33,
+      48
+    ],
+    "new_segments": [
+      {
+        "word": "where",
+        "id": "c033",
+        "start": 3,
+        "end": 23,
+        "similarity_loo": 0.43737081711139014
+      },
+      {
+        "word": "is",
+        "id": "c033",
+        "start": 23,
+        "end": 29,
+        "similarity_loo": 0.2951491717263316
+      },
+      {
+        "word": "it",
+        "id": "c033",
+        "start": 29,
+        "end": 34,
+        "similarity_loo": 0.32549325727370515
+      },
+      {
+        "word": "going",
+        "id": "c033",
+        "start": 34,
+        "end": 48,
+        "similarity_loo": 0.4197336949287132
+      }
+    ]
+  },
+  "c034": {
+    "old_boundaries": [
+      2,
+      12,
+      23,
+      29,
+      39
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c034",
+        "start": 2,
+        "end": 13,
+        "similarity_loo": 0.4601184508040034
+      },
+      {
+        "word": "are",
+        "id": "c034",
+        "start": 13,
+        "end": 22,
+        "similarity_loo": 0.5294119441924903
+      },
+      {
+        "word": "that",
+        "id": "c034",
+        "start": 22,
+        "end": 28,
+        "similarity_loo": 0.33475764870771474
+      },
+      {
+        "word": "bad",
+        "id": "c034",
+        "start": 28,
+        "end": 39,
+        "similarity_loo": 0.4092402478386833
+      }
+    ]
+  },
+  "c035": {
+    "old_boundaries": [
+      3,
+      17,
+      25,
+      32,
+      42,
+      49,
+      58,
+      64,
+      77
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c035",
+        "start": 3,
+        "end": 18,
+        "similarity_loo": 0.5149092668434926
+      },
+      {
+        "word": "hope",
+        "id": "c035",
+        "start": 18,
+        "end": 26,
+        "similarity_loo": 0.42898356684374755
+      },
+      {
+        "word": "they",
+        "id": "c035",
+        "start": 26,
+        "end": 32,
+        "similarity_loo": 0.3540832015145996
+      },
+      {
+        "word": "do",
+        "id": "c035",
+        "start": 32,
+        "end": 41,
+        "similarity_loo": 0.5881613504140343
+      },
+      {
+        "word": "not",
+        "id": "c035",
+        "start": 41,
+        "end": 49,
+        "similarity_loo": 0.4640760554388166
+      },
+      {
+        "word": "need",
+        "id": "c035",
+        "start": 49,
+        "end": 57,
+        "similarity_loo": 0.3449075806337422
+      },
+      {
+        "word": "my",
+        "id": "c035",
+        "start": 57,
+        "end": 65,
+        "similarity_loo": 0.4220730288265399
+      },
+      {
+        "word": "music",
+        "id": "c035",
+        "start": 65,
+        "end": 77,
+        "similarity_loo": 0.45456081430507916
+      }
+    ]
+  },
+  "c036": {
+    "old_boundaries": [
+      2,
+      17,
+      31,
+      38,
+      50
+    ],
+    "new_segments": [
+      {
+        "word": "is",
+        "id": "c036",
+        "start": 2,
+        "end": 18,
+        "similarity_loo": 0.47010935050476227
+      },
+      {
+        "word": "it",
+        "id": "c036",
+        "start": 18,
+        "end": 31,
+        "similarity_loo": 0.526583306394804
+      },
+      {
+        "word": "that",
+        "id": "c036",
+        "start": 31,
+        "end": 38,
+        "similarity_loo": 0.3628027800367167
+      },
+      {
+        "word": "bad",
+        "id": "c036",
+        "start": 38,
+        "end": 50,
+        "similarity_loo": 0.38561795814613964
+      }
+    ]
+  },
+  "c038": {
+    "old_boundaries": [
+      2,
+      19,
+      24,
+      33,
+      47
+    ],
+    "new_segments": [
+      {
+        "word": "how",
+        "id": "c038",
+        "start": 2,
+        "end": 17,
+        "similarity_loo": 0.4584852965953282
+      },
+      {
+        "word": "do",
+        "id": "c038",
+        "start": 17,
+        "end": 25,
+        "similarity_loo": 0.4923041943384697
+      },
+      {
+        "word": "you",
+        "id": "c038",
+        "start": 25,
+        "end": 34,
+        "similarity_loo": 0.45394342851878033
+      },
+      {
+        "word": "clean",
+        "id": "c038",
+        "start": 34,
+        "end": 47,
+        "similarity_loo": 0.4416984061395619
+      }
+    ]
+  },
+  "c039": {
+    "old_boundaries": [
+      9,
+      20,
+      27,
+      35,
+      43,
+      51,
+      64
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c039",
+        "start": 9,
+        "end": 20,
+        "similarity_loo": 0.49116847547275144
+      },
+      {
+        "word": "hope",
+        "id": "c039",
+        "start": 20,
+        "end": 28,
+        "similarity_loo": 0.5033918067735591
+      },
+      {
+        "word": "you",
+        "id": "c039",
+        "start": 28,
+        "end": 35,
+        "similarity_loo": 0.6182818624439246
+      },
+      {
+        "word": "like",
+        "id": "c039",
+        "start": 35,
+        "end": 44,
+        "similarity_loo": 0.544398467761874
+      },
+      {
+        "word": "my",
+        "id": "c039",
+        "start": 44,
+        "end": 50,
+        "similarity_loo": 0.5367045044390981
+      },
+      {
+        "word": "music",
+        "id": "c039",
+        "start": 50,
+        "end": 64,
+        "similarity_loo": 0.4353083373345954
+      }
+    ]
+  },
+  "c040": {
+    "old_boundaries": [
+      5,
+      18,
+      25,
+      31,
+      43
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c040",
+        "start": 5,
+        "end": 17,
+        "similarity_loo": 0.40723112147152474
+      },
+      {
+        "word": "like",
+        "id": "c040",
+        "start": 17,
+        "end": 26,
+        "similarity_loo": 0.4308463246096224
+      },
+      {
+        "word": "my",
+        "id": "c040",
+        "start": 26,
+        "end": 32,
+        "similarity_loo": 0.44292372443393807
+      },
+      {
+        "word": "nurse",
+        "id": "c040",
+        "start": 32,
+        "end": 43,
+        "similarity_loo": 0.4055250849869415
+      }
+    ]
+  },
+  "c041": {
+    "old_boundaries": [
+      2,
+      15,
+      23,
+      32,
+      41
+    ],
+    "new_segments": [
+      {
+        "word": "hope",
+        "id": "c041",
+        "start": 2,
+        "end": 14,
+        "similarity_loo": 0.3048940822212275
+      },
+      {
+        "word": "you",
+        "id": "c041",
+        "start": 14,
+        "end": 23,
+        "similarity_loo": 0.4385845719527554
+      },
+      {
+        "word": "do",
+        "id": "c041",
+        "start": 23,
+        "end": 32,
+        "similarity_loo": 0.4904270348885202
+      },
+      {
+        "word": "it",
+        "id": "c041",
+        "start": 32,
+        "end": 41,
+        "similarity_loo": 0.40046236845125704
+      }
+    ]
+  },
+  "c042": {
+    "old_boundaries": [
+      3,
+      13,
+      21,
+      33
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c042",
+        "start": 3,
+        "end": 14,
+        "similarity_loo": 0.40374097656768115
+      },
+      {
+        "word": "are",
+        "id": "c042",
+        "start": 14,
+        "end": 21,
+        "similarity_loo": 0.5536655675563161
+      },
+      {
+        "word": "tired",
+        "id": "c042",
+        "start": 21,
+        "end": 33,
+        "similarity_loo": 0.4
+      }
+    ]
+  },
+  "c045": {
+    "old_boundaries": [
+      2,
+      13,
+      22,
+      24,
+      35
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c045",
+        "start": 2,
+        "end": 12,
+        "similarity_loo": 0.42157712561613964
+      },
+      {
+        "word": "like",
+        "id": "c045",
+        "start": 12,
+        "end": 20,
+        "similarity_loo": 0.4560079093797088
+      },
+      {
+        "word": "it",
+        "id": "c045",
+        "start": 20,
+        "end": 24,
+        "similarity_loo": 0.09719449923974313
+      },
+      {
+        "word": "here",
+        "id": "c045",
+        "start": 24,
+        "end": 35,
+        "similarity_loo": 0.6293232456644929
+      }
+    ]
+  },
+  "c046": {
+    "old_boundaries": [
+      2,
+      10,
+      18,
+      26,
+      35,
+      44,
+      54
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c046",
+        "start": 2,
+        "end": 9,
+        "similarity_loo": 0.5068259078194048
+      },
+      {
+        "word": "hope",
+        "id": "c046",
+        "start": 9,
+        "end": 19,
+        "similarity_loo": 0.5081326473201269
+      },
+      {
+        "word": "they",
+        "id": "c046",
+        "start": 19,
+        "end": 26,
+        "similarity_loo": 0.3455117388489908
+      },
+      {
+        "word": "are",
+        "id": "c046",
+        "start": 26,
+        "end": 35,
+        "similarity_loo": 0.45345590998302915
+      },
+      {
+        "word": "right",
+        "id": "c046",
+        "start": 35,
+        "end": 43,
+        "similarity_loo": 0.34850721110218164
+      },
+      {
+        "word": "here",
+        "id": "c046",
+        "start": 43,
+        "end": 54,
+        "similarity_loo": 0.5451458743302198
+      }
+    ]
+  },
+  "c047": {
+    "old_boundaries": [
+      3,
+      25,
+      33,
+      41,
+      54
+    ],
+    "new_segments": [
+      {
+        "word": "family",
+        "id": "c047",
+        "start": 3,
+        "end": 25,
+        "similarity_loo": 0.44371735801698275
+      },
+      {
+        "word": "is",
+        "id": "c047",
+        "start": 25,
+        "end": 33,
+        "similarity_loo": 0.5015716750133727
+      },
+      {
+        "word": "not",
+        "id": "c047",
+        "start": 33,
+        "end": 41,
+        "similarity_loo": 0.4443778113271835
+      },
+      {
+        "word": "okay",
+        "id": "c047",
+        "start": 41,
+        "end": 54,
+        "similarity_loo": 0.5145351362675035
+      }
+    ]
+  },
+  "c048": {
+    "old_boundaries": [
+      3,
+      18,
+      30,
+      34,
+      40,
+      46,
+      58
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c048",
+        "start": 3,
+        "end": 20,
+        "similarity_loo": 0.360901126864021
+      },
+      {
+        "word": "hope",
+        "id": "c048",
+        "start": 20,
+        "end": 30,
+        "similarity_loo": 0.4948337062873269
+      },
+      {
+        "word": "i",
+        "id": "c048",
+        "start": 30,
+        "end": 34,
+        "similarity_loo": 0.44908533085065766
+      },
+      {
+        "word": "am",
+        "id": "c048",
+        "start": 34,
+        "end": 41,
+        "similarity_loo": 0.30183736978772335
+      },
+      {
+        "word": "right",
+        "id": "c048",
+        "start": 41,
+        "end": 49,
+        "similarity_loo": 0.4442343882025892
+      },
+      {
+        "word": "here",
+        "id": "c048",
+        "start": 49,
+        "end": 58,
+        "similarity_loo": 0.5843920365085384
+      }
+    ]
+  },
+  "c049": {
+    "old_boundaries": [
+      3,
+      25,
+      38
+    ],
+    "new_segments": [
+      {
+        "word": "hello",
+        "id": "c049",
+        "start": 3,
+        "end": 25,
+        "similarity_loo": 0.4
+      },
+      {
+        "word": "you",
+        "id": "c049",
+        "start": 25,
+        "end": 38,
+        "similarity_loo": 0.33282605635178136
+      }
+    ]
+  },
+  "c050": {
+    "old_boundaries": [
+      3,
+      25,
+      29,
+      39,
+      47,
+      56,
+      62,
+      69,
+      83
+    ],
+    "new_segments": [
+      {
+        "word": "tell",
+        "id": "c050",
+        "start": 3,
+        "end": 27,
+        "similarity_loo": 0.34258619204372354
+      },
+      {
+        "word": "my",
+        "id": "c050",
+        "start": 27,
+        "end": 31,
+        "similarity_loo": 0.4159136811330223
+      },
+      {
+        "word": "nurse",
+        "id": "c050",
+        "start": 31,
+        "end": 39,
+        "similarity_loo": 0.4153921680768708
+      },
+      {
+        "word": "they",
+        "id": "c050",
+        "start": 39,
+        "end": 47,
+        "similarity_loo": 0.36272424430794303
+      },
+      {
+        "word": "do",
+        "id": "c050",
+        "start": 47,
+        "end": 55,
+        "similarity_loo": 0.5681593497779659
+      },
+      {
+        "word": "not",
+        "id": "c050",
+        "start": 55,
+        "end": 60,
+        "similarity_loo": 0.3991729710796854
+      },
+      {
+        "word": "feel",
+        "id": "c050",
+        "start": 60,
+        "end": 68,
+        "similarity_loo": 0.47406116661694564
+      },
+      {
+        "word": "thirsty",
+        "id": "c050",
+        "start": 68,
+        "end": 83,
+        "similarity_loo": 0.43245481196168795
+      }
+    ]
+  },
+  "c051": {
+    "old_boundaries": [
+      2,
+      12,
+      22,
+      32
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c051",
+        "start": 2,
+        "end": 13,
+        "similarity_loo": 0.48425983957872276
+      },
+      {
+        "word": "need",
+        "id": "c051",
+        "start": 13,
+        "end": 23,
+        "similarity_loo": 0.3748554287620066
+      },
+      {
+        "word": "that",
+        "id": "c051",
+        "start": 23,
+        "end": 32,
+        "similarity_loo": 0.17722136663874744
+      }
+    ]
+  },
+  "c052": {
+    "old_boundaries": [
+      3,
+      24,
+      32,
+      40,
+      52
+    ],
+    "new_segments": [
+      {
+        "word": "where",
+        "id": "c052",
+        "start": 3,
+        "end": 25,
+        "similarity_loo": 0.4323468978854064
+      },
+      {
+        "word": "are",
+        "id": "c052",
+        "start": 25,
+        "end": 33,
+        "similarity_loo": 0.5729864501614341
+      },
+      {
+        "word": "they",
+        "id": "c052",
+        "start": 33,
+        "end": 38,
+        "similarity_loo": 0.3547889253508992
+      },
+      {
+        "word": "not",
+        "id": "c052",
+        "start": 38,
+        "end": 52,
+        "similarity_loo": 0.2346349760189968
+      }
+    ]
+  },
+  "c053": {
+    "old_boundaries": [
+      2,
+      20,
+      34,
+      47
+    ],
+    "new_segments": [
+      {
+        "word": "how",
+        "id": "c053",
+        "start": 2,
+        "end": 23,
+        "similarity_loo": 0.3301381181595396
+      },
+      {
+        "word": "are",
+        "id": "c053",
+        "start": 23,
+        "end": 35,
+        "similarity_loo": 0.5908403196682426
+      },
+      {
+        "word": "they",
+        "id": "c053",
+        "start": 35,
+        "end": 47,
+        "similarity_loo": 0.2449995975546932
+      }
+    ]
+  },
+  "c054": {
+    "old_boundaries": [
+      3,
+      25,
+      32,
+      40,
+      48,
+      53,
+      65
+    ],
+    "new_segments": [
+      {
+        "word": "what",
+        "id": "c054",
+        "start": 3,
+        "end": 24,
+        "similarity_loo": 0.38349109283984795
+      },
+      {
+        "word": "do",
+        "id": "c054",
+        "start": 24,
+        "end": 30,
+        "similarity_loo": 0.4897790222410091
+      },
+      {
+        "word": "i",
+        "id": "c054",
+        "start": 30,
+        "end": 38,
+        "similarity_loo": 0.5074125833356519
+      },
+      {
+        "word": "tell",
+        "id": "c054",
+        "start": 38,
+        "end": 48,
+        "similarity_loo": 0.4665079660811111
+      },
+      {
+        "word": "my",
+        "id": "c054",
+        "start": 48,
+        "end": 54,
+        "similarity_loo": 0.4572497384671784
+      },
+      {
+        "word": "nurse",
+        "id": "c054",
+        "start": 54,
+        "end": 65,
+        "similarity_loo": 0.43669553918696163
+      }
+    ]
+  },
+  "c055": {
+    "old_boundaries": [
+      2,
+      14,
+      24,
+      35,
+      41,
+      53
+    ],
+    "new_segments": [
+      {
+        "word": "do",
+        "id": "c055",
+        "start": 2,
+        "end": 14,
+        "similarity_loo": 0.3847242364475248
+      },
+      {
+        "word": "i",
+        "id": "c055",
+        "start": 14,
+        "end": 25,
+        "similarity_loo": 0.4511441091624397
+      },
+      {
+        "word": "tell",
+        "id": "c055",
+        "start": 25,
+        "end": 35,
+        "similarity_loo": 0.45371616616857785
+      },
+      {
+        "word": "my",
+        "id": "c055",
+        "start": 35,
+        "end": 40,
+        "similarity_loo": 0.4951276637129459
+      },
+      {
+        "word": "nurse",
+        "id": "c055",
+        "start": 40,
+        "end": 53,
+        "similarity_loo": 0.4278985492260647
+      }
+    ]
+  },
+  "c056": {
+    "old_boundaries": [
+      2,
+      23,
+      31,
+      39,
+      48,
+      61
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c056",
+        "start": 2,
+        "end": 23,
+        "similarity_loo": 0.42557216269463893
+      },
+      {
+        "word": "do",
+        "id": "c056",
+        "start": 23,
+        "end": 32,
+        "similarity_loo": 0.5363726907703339
+      },
+      {
+        "word": "not",
+        "id": "c056",
+        "start": 32,
+        "end": 40,
+        "similarity_loo": 0.37996961341462454
+      },
+      {
+        "word": "need",
+        "id": "c056",
+        "start": 40,
+        "end": 47,
+        "similarity_loo": 0.4152127053971137
+      },
+      {
+        "word": "faith",
+        "id": "c056",
+        "start": 47,
+        "end": 61,
+        "similarity_loo": 0.45082604852200436
+      }
+    ]
+  },
+  "c057": {
+    "old_boundaries": [
+      2,
+      15,
+      20,
+      26,
+      37
+    ],
+    "new_segments": [
+      {
+        "word": "how",
+        "id": "c057",
+        "start": 2,
+        "end": 13,
+        "similarity_loo": 0.5170913865750789
+      },
+      {
+        "word": "are",
+        "id": "c057",
+        "start": 13,
+        "end": 20,
+        "similarity_loo": 0.4397961281185557
+      },
+      {
+        "word": "you",
+        "id": "c057",
+        "start": 20,
+        "end": 26,
+        "similarity_loo": 0.4227329388667257
+      },
+      {
+        "word": "here",
+        "id": "c057",
+        "start": 26,
+        "end": 37,
+        "similarity_loo": 0.5649350052081419
+      }
+    ]
+  },
+  "c058": {
+    "old_boundaries": [
+      3,
+      14,
+      24,
+      31,
+      41,
+      48,
+      62
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c058",
+        "start": 3,
+        "end": 14,
+        "similarity_loo": 0.4108499092196077
+      },
+      {
+        "word": "do",
+        "id": "c058",
+        "start": 14,
+        "end": 25,
+        "similarity_loo": 0.5562463440133207
+      },
+      {
+        "word": "not",
+        "id": "c058",
+        "start": 25,
+        "end": 32,
+        "similarity_loo": 0.4283213834820272
+      },
+      {
+        "word": "have",
+        "id": "c058",
+        "start": 32,
+        "end": 41,
+        "similarity_loo": 0.3829639928387012
+      },
+      {
+        "word": "my",
+        "id": "c058",
+        "start": 41,
+        "end": 48,
+        "similarity_loo": 0.4401025979812206
+      },
+      {
+        "word": "computer",
+        "id": "c058",
+        "start": 48,
+        "end": 62,
+        "similarity_loo": 0.4
+      }
+    ]
+  },
+  "c059": {
+    "old_boundaries": [
+      2,
+      23,
+      31,
+      41
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c059",
+        "start": 2,
+        "end": 21,
+        "similarity_loo": 0.4713737160443656
+      },
+      {
+        "word": "are",
+        "id": "c059",
+        "start": 21,
+        "end": 31,
+        "similarity_loo": 0.5308034570504887
+      },
+      {
+        "word": "up",
+        "id": "c059",
+        "start": 31,
+        "end": 41,
+        "similarity_loo": 0.5525381675326091
+      }
+    ]
+  },
+  "c060": {
+    "old_boundaries": [
+      3,
+      13,
+      17,
+      23,
+      32,
+      42
+    ],
+    "new_segments": [
+      {
+        "word": "yes",
+        "id": "c060",
+        "start": 3,
+        "end": 13,
+        "similarity_loo": 0.4
+      },
+      {
+        "word": "i",
+        "id": "c060",
+        "start": 13,
+        "end": 17,
+        "similarity_loo": 0.25311007813878394
+      },
+      {
+        "word": "am",
+        "id": "c060",
+        "start": 17,
+        "end": 22,
+        "similarity_loo": 0.3115172112099557
+      },
+      {
+        "word": "very",
+        "id": "c060",
+        "start": 22,
+        "end": 32,
+        "similarity_loo": 0.5788528774679667
+      },
+      {
+        "word": "good",
+        "id": "c060",
+        "start": 32,
+        "end": 42,
+        "similarity_loo": 0.35979307273061073
+      }
+    ]
+  },
+  "c061": {
+    "old_boundaries": [
+      3,
+      25,
+      30,
+      39,
+      46,
+      62
+    ],
+    "new_segments": [
+      {
+        "word": "do",
+        "id": "c061",
+        "start": 3,
+        "end": 26,
+        "similarity_loo": 0.4292876429175833
+      },
+      {
+        "word": "i",
+        "id": "c061",
+        "start": 26,
+        "end": 32,
+        "similarity_loo": 0.3373142489131622
+      },
+      {
+        "word": "have",
+        "id": "c061",
+        "start": 32,
+        "end": 40,
+        "similarity_loo": 0.4008634708629007
+      },
+      {
+        "word": "my",
+        "id": "c061",
+        "start": 40,
+        "end": 46,
+        "similarity_loo": 0.43265298299761634
+      },
+      {
+        "word": "glasses",
+        "id": "c061",
+        "start": 46,
+        "end": 62,
+        "similarity_loo": 0.41271117186432765
+      }
+    ]
+  },
+  "c062": {
+    "old_boundaries": [
+      2,
+      10,
+      19,
+      23,
+      32,
+      47
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c062",
+        "start": 2,
+        "end": 11,
+        "similarity_loo": 0.4403339279778161
+      },
+      {
+        "word": "hope",
+        "id": "c062",
+        "start": 11,
+        "end": 18,
+        "similarity_loo": 0.5029267823605219
+      },
+      {
+        "word": "they",
+        "id": "c062",
+        "start": 18,
+        "end": 23,
+        "similarity_loo": 0.306881203514232
+      },
+      {
+        "word": "are",
+        "id": "c062",
+        "start": 23,
+        "end": 32,
+        "similarity_loo": 0.5198740467885898
+      },
+      {
+        "word": "closer",
+        "id": "c062",
+        "start": 32,
+        "end": 47,
+        "similarity_loo": 0.4
+      }
+    ]
+  },
+  "c063": {
+    "old_boundaries": [
+      8,
+      29,
+      39,
+      48,
+      58,
+      71
+    ],
+    "new_segments": [
+      {
+        "word": "do",
+        "id": "c063",
+        "start": 8,
+        "end": 28,
+        "similarity_loo": 0.4694339756739821
+      },
+      {
+        "word": "you",
+        "id": "c063",
+        "start": 28,
+        "end": 39,
+        "similarity_loo": 0.4859802485078229
+      },
+      {
+        "word": "need",
+        "id": "c063",
+        "start": 39,
+        "end": 50,
+        "similarity_loo": 0.3848800623420534
+      },
+      {
+        "word": "help",
+        "id": "c063",
+        "start": 50,
+        "end": 60,
+        "similarity_loo": 0.4115151290615182
+      },
+      {
+        "word": "here",
+        "id": "c063",
+        "start": 60,
+        "end": 71,
+        "similarity_loo": 0.6738018343941032
+      }
+    ]
+  },
+  "c064": {
+    "old_boundaries": [
+      3,
+      18,
+      29,
+      41
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c064",
+        "start": 3,
+        "end": 18,
+        "similarity_loo": 0.45086550365420186
+      },
+      {
+        "word": "need",
+        "id": "c064",
+        "start": 18,
+        "end": 27,
+        "similarity_loo": 0.3781247528732951
+      },
+      {
+        "word": "help",
+        "id": "c064",
+        "start": 27,
+        "end": 41,
+        "similarity_loo": 0.3860765750074848
+      }
+    ]
+  },
+  "c065": {
+    "old_boundaries": [
+      3,
+      23,
+      29,
+      43
+    ],
+    "new_segments": [
+      {
+        "word": "family",
+        "id": "c065",
+        "start": 3,
+        "end": 22,
+        "similarity_loo": 0.48359409801123693
+      },
+      {
+        "word": "is",
+        "id": "c065",
+        "start": 22,
+        "end": 27,
+        "similarity_loo": 0.31282942241402223
+      },
+      {
+        "word": "okay",
+        "id": "c065",
+        "start": 27,
+        "end": 43,
+        "similarity_loo": 0.403141910809067
+      }
+    ]
+  },
+  "c066": {
+    "old_boundaries": [
+      2,
+      14,
+      19,
+      29,
+      43
+    ],
+    "new_segments": [
+      {
+        "word": "are",
+        "id": "c066",
+        "start": 2,
+        "end": 15,
+        "similarity_loo": 0.48757118363395335
+      },
+      {
+        "word": "they",
+        "id": "c066",
+        "start": 15,
+        "end": 19,
+        "similarity_loo": 0.29414345071500675
+      },
+      {
+        "word": "very",
+        "id": "c066",
+        "start": 19,
+        "end": 30,
+        "similarity_loo": 0.5807541389839304
+      },
+      {
+        "word": "thirsty",
+        "id": "c066",
+        "start": 30,
+        "end": 43,
+        "similarity_loo": 0.4359305837215298
+      }
+    ]
+  },
+  "c067": {
+    "old_boundaries": [
+      6,
+      18,
+      27,
+      34,
+      41,
+      55
+    ],
+    "new_segments": [
+      {
+        "word": "my",
+        "id": "c067",
+        "start": 6,
+        "end": 19,
+        "similarity_loo": 0.3988306142614618
+      },
+      {
+        "word": "faith",
+        "id": "c067",
+        "start": 19,
+        "end": 28,
+        "similarity_loo": 0.2474999592330585
+      },
+      {
+        "word": "is",
+        "id": "c067",
+        "start": 28,
+        "end": 34,
+        "similarity_loo": 0.4832955895581412
+      },
+      {
+        "word": "my",
+        "id": "c067",
+        "start": 34,
+        "end": 41,
+        "similarity_loo": 0.4416736388648357
+      },
+      {
+        "word": "success",
+        "id": "c067",
+        "start": 41,
+        "end": 55,
+        "similarity_loo": 0.4
+      }
+    ]
+  },
+  "c068": {
+    "old_boundaries": [
+      4,
+      20,
+      29,
+      38,
+      46,
+      60
+    ],
+    "new_segments": [
+      {
+        "word": "my",
+        "id": "c068",
+        "start": 4,
+        "end": 20,
+        "similarity_loo": 0.4232521684993099
+      },
+      {
+        "word": "nurse",
+        "id": "c068",
+        "start": 20,
+        "end": 29,
+        "similarity_loo": 0.47223488731317664
+      },
+      {
+        "word": "is",
+        "id": "c068",
+        "start": 29,
+        "end": 40,
+        "similarity_loo": 0.3588928633179389
+      },
+      {
+        "word": "not",
+        "id": "c068",
+        "start": 40,
+        "end": 48,
+        "similarity_loo": 0.4257396099509507
+      },
+      {
+        "word": "going",
+        "id": "c068",
+        "start": 48,
+        "end": 60,
+        "similarity_loo": 0.4839668888842297
+      }
+    ]
+  },
+  "c069": {
+    "old_boundaries": [
+      3,
+      27,
+      38,
+      53
+    ],
+    "new_segments": [
+      {
+        "word": "what",
+        "id": "c069",
+        "start": 3,
+        "end": 27,
+        "similarity_loo": 0.4047362939637056
+      },
+      {
+        "word": "is",
+        "id": "c069",
+        "start": 27,
+        "end": 38,
+        "similarity_loo": 0.44508072855046427
+      },
+      {
+        "word": "hungry",
+        "id": "c069",
+        "start": 38,
+        "end": 53,
+        "similarity_loo": 0.5530456792462826
+      }
+    ]
+  },
+  "c070": {
+    "old_boundaries": [
+      2,
+      16,
+      27
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c070",
+        "start": 2,
+        "end": 15,
+        "similarity_loo": 0.3769966084817245
+      },
+      {
+        "word": "do",
+        "id": "c070",
+        "start": 15,
+        "end": 27,
+        "similarity_loo": 0.4059133098157613
+      }
+    ]
+  },
+  "c071": {
+    "old_boundaries": [
+      3,
+      18,
+      22,
+      31,
+      41,
+      51,
+      56,
+      74
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c071",
+        "start": 3,
+        "end": 16,
+        "similarity_loo": 0.5485216971030733
+      },
+      {
+        "word": "hope",
+        "id": "c071",
+        "start": 16,
+        "end": 24,
+        "similarity_loo": 0.5168248332026901
+      },
+      {
+        "word": "you",
+        "id": "c071",
+        "start": 24,
+        "end": 31,
+        "similarity_loo": 0.5255703478481845
+      },
+      {
+        "word": "have",
+        "id": "c071",
+        "start": 31,
+        "end": 38,
+        "similarity_loo": 0.22402039569000645
+      },
+      {
+        "word": "very",
+        "id": "c071",
+        "start": 38,
+        "end": 52,
+        "similarity_loo": 0.5315279088040177
+      },
+      {
+        "word": "good",
+        "id": "c071",
+        "start": 52,
+        "end": 57,
+        "similarity_loo": 0.24528022239529923
+      },
+      {
+        "word": "family",
+        "id": "c071",
+        "start": 57,
+        "end": 74,
+        "similarity_loo": 0.4350752969308659
+      }
+    ]
+  },
+  "c072": {
+    "old_boundaries": [
+      2,
+      25,
+      34,
+      46
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c072",
+        "start": 2,
+        "end": 23,
+        "similarity_loo": 0.42967899366971946
+      },
+      {
+        "word": "are",
+        "id": "c072",
+        "start": 23,
+        "end": 34,
+        "similarity_loo": 0.5975237658759296
+      },
+      {
+        "word": "okay",
+        "id": "c072",
+        "start": 34,
+        "end": 46,
+        "similarity_loo": 0.5271689695076074
+      }
+    ]
+  },
+  "c073": {
+    "old_boundaries": [
+      2,
+      14,
+      29
+    ],
+    "new_segments": [
+      {
+        "word": "my",
+        "id": "c073",
+        "start": 2,
+        "end": 14,
+        "similarity_loo": 0.35746507221201856
+      },
+      {
+        "word": "glasses",
+        "id": "c073",
+        "start": 14,
+        "end": 29,
+        "similarity_loo": 0.40383686998912366
+      }
+    ]
+  },
+  "c074": {
+    "old_boundaries": [
+      2,
+      14,
+      25,
+      30,
+      40
+    ],
+    "new_segments": [
+      {
+        "word": "you",
+        "id": "c074",
+        "start": 2,
+        "end": 16,
+        "similarity_loo": 0.47599489546572393
+      },
+      {
+        "word": "are",
+        "id": "c074",
+        "start": 16,
+        "end": 23,
+        "similarity_loo": 0.6085057117137523
+      },
+      {
+        "word": "no",
+        "id": "c074",
+        "start": 23,
+        "end": 32,
+        "similarity_loo": 0.2807355663762817
+      },
+      {
+        "word": "good",
+        "id": "c074",
+        "start": 32,
+        "end": 40,
+        "similarity_loo": 0.33601269362024877
+      }
+    ]
+  },
+  "c075": {
+    "old_boundaries": [
+      3,
+      18,
+      26,
+      38
+    ],
+    "new_segments": [
+      {
+        "word": "they",
+        "id": "c075",
+        "start": 3,
+        "end": 19,
+        "similarity_loo": 0.4148779357130531
+      },
+      {
+        "word": "need",
+        "id": "c075",
+        "start": 19,
+        "end": 28,
+        "similarity_loo": 0.40544404707472936
+      },
+      {
+        "word": "not",
+        "id": "c075",
+        "start": 28,
+        "end": 38,
+        "similarity_loo": 0.330420756380462
+      }
+    ]
+  },
+  "c076": {
+    "old_boundaries": [
+      3,
+      20,
+      27,
+      36,
+      39,
+      52,
+      72
+    ],
+    "new_segments": [
+      {
+        "word": "no",
+        "id": "c076",
+        "start": 3,
+        "end": 16,
+        "similarity_loo": -76923076.64368217
+      },
+      {
+        "word": "you",
+        "id": "c076",
+        "start": 16,
+        "end": 28,
+        "similarity_loo": 0.2881426019515414
+      },
+      {
+        "word": "are",
+        "id": "c076",
+        "start": 28,
+        "end": 36,
+        "similarity_loo": 0.5088218341342203
+      },
+      {
+        "word": "not",
+        "id": "c076",
+        "start": 36,
+        "end": 40,
+        "similarity_loo": 0.306458273857043
+      },
+      {
+        "word": "going",
+        "id": "c076",
+        "start": 40,
+        "end": 54,
+        "similarity_loo": 0.42341223687070273
+      },
+      {
+        "word": "outside",
+        "id": "c076",
+        "start": 54,
+        "end": 72,
+        "similarity_loo": 0.1864099027246527
+      }
+    ]
+  },
+  "c077": {
+    "old_boundaries": [
+      3,
+      24,
+      33,
+      41,
+      52,
+      63
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c077",
+        "start": 3,
+        "end": 24,
+        "similarity_loo": 0.46288907739441254
+      },
+      {
+        "word": "need",
+        "id": "c077",
+        "start": 24,
+        "end": 34,
+        "similarity_loo": 0.47767044697228256
+      },
+      {
+        "word": "it",
+        "id": "c077",
+        "start": 34,
+        "end": 42,
+        "similarity_loo": 0.4892140825271939
+      },
+      {
+        "word": "right",
+        "id": "c077",
+        "start": 42,
+        "end": 51,
+        "similarity_loo": 0.4657902251533563
+      },
+      {
+        "word": "here",
+        "id": "c077",
+        "start": 51,
+        "end": 63,
+        "similarity_loo": 0.6220368030601935
+      }
+    ]
+  },
+  "c078": {
+    "old_boundaries": [
+      3,
+      20,
+      33,
+      40,
+      52,
+      61,
+      70,
+      81
+    ],
+    "new_segments": [
+      {
+        "word": "i",
+        "id": "c078",
+        "start": 3,
+        "end": 20,
+        "similarity_loo": 0.5194733061253493
+      },
+      {
+        "word": "hope",
+        "id": "c078",
+        "start": 20,
+        "end": 32,
+        "similarity_loo": 0.4573138191643321
+      },
+      {
+        "word": "my",
+        "id": "c078",
+        "start": 32,
+        "end": 39,
+        "similarity_loo": 0.37593619203718665
+      },
+      {
+        "word": "family",
+        "id": "c078",
+        "start": 39,
+        "end": 53,
+        "similarity_loo": 0.4548305288599519
+      },
+      {
+        "word": "is",
+        "id": "c078",
+        "start": 53,
+        "end": 62,
+        "similarity_loo": 0.49820013276227215
+      },
+      {
+        "word": "right",
+        "id": "c078",
+        "start": 62,
+        "end": 71,
+        "similarity_loo": 0.44749680808890036
+      },
+      {
+        "word": "here",
+        "id": "c078",
+        "start": 71,
+        "end": 81,
+        "similarity_loo": 0.6974444085808459
+      }
+    ]
+  },
+  "c079": {
+    "old_boundaries": [
+      2,
+      19,
+      25,
+      31,
+      45
+    ],
+    "new_segments": [
+      {
+        "word": "where",
+        "id": "c079",
+        "start": 2,
+        "end": 18,
+        "similarity_loo": 0.44921395872920156
+      },
+      {
+        "word": "is",
+        "id": "c079",
+        "start": 18,
+        "end": 25,
+        "similarity_loo": 0.4068094205840875
+      },
+      {
+        "word": "my",
+        "id": "c079",
+        "start": 25,
+        "end": 31,
+        "similarity_loo": 0.4334853697674571
+      },
+      {
+        "word": "faith",
+        "id": "c079",
+        "start": 31,
+        "end": 45,
+        "similarity_loo": 0.44421656619670247
+      }
+    ]
+  }
+}

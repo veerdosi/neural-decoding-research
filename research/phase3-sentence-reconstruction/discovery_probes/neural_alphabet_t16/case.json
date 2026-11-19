@@ -1,0 +1,25 @@
+{
+  "mechanism": "Unsupervised neural alphabet + in-context grammar induction",
+  "hypothesis": "Language-like discrete sequences may expose structure that general symbolic reasoning learns more effectively than raw-vector arithmetic.",
+  "competing_explanation": "Unlabeled clustering may reflect generic task phase instead of reusable linguistic units.",
+  "query_ids": [
+    "te7fda903",
+    "t196443a7",
+    "t0ba95c98",
+    "te1c6177b",
+    "td4202301",
+    "ta84f22ff",
+    "tc14fc0db",
+    "t49dd1ce6"
+  ],
+  "calibration_n": 80,
+  "query_n": 8,
+  "source_case": "sentences_t16_fresh_dev",
+  "clusters": 64,
+  "evaluation_role": "Development probe, same8 recordings",
+  "tool_access": false,
+  "name": "neural_alphabet_t16",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "prompt_sha256": "dec7c847a03aa26eed9211c1953588de4f0e3db750d31933c5f921def5e0e5a3"
+}

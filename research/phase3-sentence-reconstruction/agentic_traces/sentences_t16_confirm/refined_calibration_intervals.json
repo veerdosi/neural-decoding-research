@@ -1,0 +1,2006 @@
+[
+  {
+    "word": "tell",
+    "id": "c000",
+    "start": 3,
+    "end": 18
+  },
+  {
+    "word": "my",
+    "id": "c000",
+    "start": 18,
+    "end": 27
+  },
+  {
+    "word": "family",
+    "id": "c000",
+    "start": 27,
+    "end": 38
+  },
+  {
+    "word": "they",
+    "id": "c000",
+    "start": 38,
+    "end": 50
+  },
+  {
+    "word": "feel",
+    "id": "c000",
+    "start": 50,
+    "end": 56
+  },
+  {
+    "word": "thirsty",
+    "id": "c000",
+    "start": 56,
+    "end": 67
+  },
+  {
+    "word": "i",
+    "id": "c001",
+    "start": 2,
+    "end": 10
+  },
+  {
+    "word": "am",
+    "id": "c001",
+    "start": 10,
+    "end": 18
+  },
+  {
+    "word": "clean",
+    "id": "c001",
+    "start": 18,
+    "end": 30
+  },
+  {
+    "word": "i",
+    "id": "c002",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "word": "hope",
+    "id": "c002",
+    "start": 18,
+    "end": 26
+  },
+  {
+    "word": "you",
+    "id": "c002",
+    "start": 26,
+    "end": 37
+  },
+  {
+    "word": "like",
+    "id": "c002",
+    "start": 37,
+    "end": 48
+  },
+  {
+    "word": "music",
+    "id": "c002",
+    "start": 48,
+    "end": 62
+  },
+  {
+    "word": "is",
+    "id": "c003",
+    "start": 5,
+    "end": 24
+  },
+  {
+    "word": "it",
+    "id": "c003",
+    "start": 24,
+    "end": 39
+  },
+  {
+    "word": "that",
+    "id": "c003",
+    "start": 39,
+    "end": 44
+  },
+  {
+    "word": "good",
+    "id": "c003",
+    "start": 44,
+    "end": 55
+  },
+  {
+    "word": "do",
+    "id": "c004",
+    "start": 3,
+    "end": 14
+  },
+  {
+    "word": "what",
+    "id": "c004",
+    "start": 14,
+    "end": 23
+  },
+  {
+    "word": "please",
+    "id": "c004",
+    "start": 23,
+    "end": 35
+  },
+  {
+    "word": "you",
+    "id": "c005",
+    "start": 3,
+    "end": 17
+  },
+  {
+    "word": "hope",
+    "id": "c005",
+    "start": 17,
+    "end": 29
+  },
+  {
+    "word": "my",
+    "id": "c005",
+    "start": 29,
+    "end": 36
+  },
+  {
+    "word": "nurse",
+    "id": "c005",
+    "start": 36,
+    "end": 49
+  },
+  {
+    "word": "is",
+    "id": "c005",
+    "start": 49,
+    "end": 54
+  },
+  {
+    "word": "here",
+    "id": "c005",
+    "start": 54,
+    "end": 68
+  },
+  {
+    "word": "they",
+    "id": "c006",
+    "start": 5,
+    "end": 23
+  },
+  {
+    "word": "do",
+    "id": "c006",
+    "start": 23,
+    "end": 34
+  },
+  {
+    "word": "not",
+    "id": "c006",
+    "start": 34,
+    "end": 41
+  },
+  {
+    "word": "have",
+    "id": "c006",
+    "start": 41,
+    "end": 48
+  },
+  {
+    "word": "hope",
+    "id": "c006",
+    "start": 48,
+    "end": 59
+  },
+  {
+    "word": "you",
+    "id": "c007",
+    "start": 3,
+    "end": 21
+  },
+  {
+    "word": "clean",
+    "id": "c007",
+    "start": 21,
+    "end": 29
+  },
+  {
+    "word": "it",
+    "id": "c007",
+    "start": 29,
+    "end": 35
+  },
+  {
+    "word": "up",
+    "id": "c007",
+    "start": 35,
+    "end": 44
+  },
+  {
+    "word": "you",
+    "id": "c008",
+    "start": 2,
+    "end": 12
+  },
+  {
+    "word": "hope",
+    "id": "c008",
+    "start": 12,
+    "end": 20
+  },
+  {
+    "word": "my",
+    "id": "c008",
+    "start": 20,
+    "end": 26
+  },
+  {
+    "word": "nurse",
+    "id": "c008",
+    "start": 26,
+    "end": 36
+  },
+  {
+    "word": "is",
+    "id": "c008",
+    "start": 36,
+    "end": 40
+  },
+  {
+    "word": "going",
+    "id": "c008",
+    "start": 40,
+    "end": 54
+  },
+  {
+    "word": "coming",
+    "id": "c009",
+    "start": 3,
+    "end": 17
+  },
+  {
+    "word": "outside",
+    "id": "c009",
+    "start": 17,
+    "end": 34
+  },
+  {
+    "word": "is",
+    "id": "c009",
+    "start": 34,
+    "end": 40
+  },
+  {
+    "word": "very",
+    "id": "c009",
+    "start": 40,
+    "end": 49
+  },
+  {
+    "word": "good",
+    "id": "c009",
+    "start": 49,
+    "end": 58
+  },
+  {
+    "word": "you",
+    "id": "c010",
+    "start": 2,
+    "end": 20
+  },
+  {
+    "word": "feel",
+    "id": "c010",
+    "start": 20,
+    "end": 25
+  },
+  {
+    "word": "comfortable",
+    "id": "c010",
+    "start": 25,
+    "end": 42
+  },
+  {
+    "word": "what",
+    "id": "c011",
+    "start": 4,
+    "end": 23
+  },
+  {
+    "word": "do",
+    "id": "c011",
+    "start": 23,
+    "end": 31
+  },
+  {
+    "word": "they",
+    "id": "c011",
+    "start": 31,
+    "end": 42
+  },
+  {
+    "word": "do",
+    "id": "c011",
+    "start": 42,
+    "end": 54
+  },
+  {
+    "word": "i",
+    "id": "c012",
+    "start": 3,
+    "end": 20
+  },
+  {
+    "word": "tell",
+    "id": "c012",
+    "start": 20,
+    "end": 31
+  },
+  {
+    "word": "you",
+    "id": "c012",
+    "start": 31,
+    "end": 40
+  },
+  {
+    "word": "i",
+    "id": "c012",
+    "start": 40,
+    "end": 44
+  },
+  {
+    "word": "am",
+    "id": "c012",
+    "start": 44,
+    "end": 52
+  },
+  {
+    "word": "thirsty",
+    "id": "c012",
+    "start": 52,
+    "end": 65
+  },
+  {
+    "word": "is",
+    "id": "c013",
+    "start": 5,
+    "end": 17
+  },
+  {
+    "word": "my",
+    "id": "c013",
+    "start": 17,
+    "end": 24
+  },
+  {
+    "word": "nurse",
+    "id": "c013",
+    "start": 24,
+    "end": 35
+  },
+  {
+    "word": "comfortable",
+    "id": "c013",
+    "start": 35,
+    "end": 53
+  },
+  {
+    "word": "how",
+    "id": "c014",
+    "start": 2,
+    "end": 17
+  },
+  {
+    "word": "they",
+    "id": "c014",
+    "start": 17,
+    "end": 24
+  },
+  {
+    "word": "do",
+    "id": "c014",
+    "start": 24,
+    "end": 31
+  },
+  {
+    "word": "it",
+    "id": "c014",
+    "start": 31,
+    "end": 40
+  },
+  {
+    "word": "they",
+    "id": "c015",
+    "start": 3,
+    "end": 21
+  },
+  {
+    "word": "need",
+    "id": "c015",
+    "start": 21,
+    "end": 30
+  },
+  {
+    "word": "it",
+    "id": "c015",
+    "start": 30,
+    "end": 39
+  },
+  {
+    "word": "going",
+    "id": "c015",
+    "start": 39,
+    "end": 50
+  },
+  {
+    "word": "up",
+    "id": "c015",
+    "start": 50,
+    "end": 59
+  },
+  {
+    "word": "i",
+    "id": "c016",
+    "start": 4,
+    "end": 20
+  },
+  {
+    "word": "am",
+    "id": "c016",
+    "start": 20,
+    "end": 29
+  },
+  {
+    "word": "hungry",
+    "id": "c016",
+    "start": 29,
+    "end": 46
+  },
+  {
+    "word": "you",
+    "id": "c017",
+    "start": 3,
+    "end": 16
+  },
+  {
+    "word": "feel",
+    "id": "c017",
+    "start": 16,
+    "end": 24
+  },
+  {
+    "word": "it",
+    "id": "c017",
+    "start": 24,
+    "end": 33
+  },
+  {
+    "word": "that",
+    "id": "c018",
+    "start": 3,
+    "end": 13
+  },
+  {
+    "word": "is",
+    "id": "c018",
+    "start": 13,
+    "end": 19
+  },
+  {
+    "word": "bad",
+    "id": "c018",
+    "start": 19,
+    "end": 29
+  },
+  {
+    "word": "my",
+    "id": "c019",
+    "start": 3,
+    "end": 13
+  },
+  {
+    "word": "family",
+    "id": "c019",
+    "start": 13,
+    "end": 24
+  },
+  {
+    "word": "is",
+    "id": "c019",
+    "start": 24,
+    "end": 31
+  },
+  {
+    "word": "that",
+    "id": "c019",
+    "start": 31,
+    "end": 35
+  },
+  {
+    "word": "good",
+    "id": "c019",
+    "start": 35,
+    "end": 46
+  },
+  {
+    "word": "do",
+    "id": "c021",
+    "start": 13,
+    "end": 30
+  },
+  {
+    "word": "that",
+    "id": "c021",
+    "start": 30,
+    "end": 36
+  },
+  {
+    "word": "right",
+    "id": "c021",
+    "start": 36,
+    "end": 49
+  },
+  {
+    "word": "what",
+    "id": "c022",
+    "start": 3,
+    "end": 27
+  },
+  {
+    "word": "do",
+    "id": "c022",
+    "start": 27,
+    "end": 36
+  },
+  {
+    "word": "you",
+    "id": "c022",
+    "start": 36,
+    "end": 45
+  },
+  {
+    "word": "clean",
+    "id": "c022",
+    "start": 45,
+    "end": 56
+  },
+  {
+    "word": "they",
+    "id": "c023",
+    "start": 3,
+    "end": 17
+  },
+  {
+    "word": "are",
+    "id": "c023",
+    "start": 17,
+    "end": 27
+  },
+  {
+    "word": "that",
+    "id": "c023",
+    "start": 27,
+    "end": 31
+  },
+  {
+    "word": "good",
+    "id": "c023",
+    "start": 31,
+    "end": 43
+  },
+  {
+    "word": "they",
+    "id": "c024",
+    "start": 3,
+    "end": 17
+  },
+  {
+    "word": "hope",
+    "id": "c024",
+    "start": 17,
+    "end": 26
+  },
+  {
+    "word": "you",
+    "id": "c024",
+    "start": 26,
+    "end": 33
+  },
+  {
+    "word": "are",
+    "id": "c024",
+    "start": 33,
+    "end": 39
+  },
+  {
+    "word": "right",
+    "id": "c024",
+    "start": 39,
+    "end": 47
+  },
+  {
+    "word": "here",
+    "id": "c024",
+    "start": 47,
+    "end": 58
+  },
+  {
+    "word": "bring",
+    "id": "c025",
+    "start": 8,
+    "end": 21
+  },
+  {
+    "word": "here",
+    "id": "c025",
+    "start": 21,
+    "end": 40
+  },
+  {
+    "word": "it",
+    "id": "c026",
+    "start": 2,
+    "end": 18
+  },
+  {
+    "word": "is",
+    "id": "c026",
+    "start": 18,
+    "end": 31
+  },
+  {
+    "word": "it",
+    "id": "c027",
+    "start": 2,
+    "end": 14
+  },
+  {
+    "word": "is",
+    "id": "c027",
+    "start": 14,
+    "end": 29
+  },
+  {
+    "word": "what",
+    "id": "c027",
+    "start": 29,
+    "end": 38
+  },
+  {
+    "word": "they",
+    "id": "c027",
+    "start": 38,
+    "end": 44
+  },
+  {
+    "word": "have",
+    "id": "c027",
+    "start": 44,
+    "end": 54
+  },
+  {
+    "word": "i",
+    "id": "c028",
+    "start": 5,
+    "end": 16
+  },
+  {
+    "word": "hope",
+    "id": "c028",
+    "start": 16,
+    "end": 23
+  },
+  {
+    "word": "you",
+    "id": "c028",
+    "start": 23,
+    "end": 31
+  },
+  {
+    "word": "like",
+    "id": "c028",
+    "start": 31,
+    "end": 40
+  },
+  {
+    "word": "my",
+    "id": "c028",
+    "start": 40,
+    "end": 48
+  },
+  {
+    "word": "help",
+    "id": "c028",
+    "start": 48,
+    "end": 57
+  },
+  {
+    "word": "tell",
+    "id": "c029",
+    "start": 3,
+    "end": 19
+  },
+  {
+    "word": "my",
+    "id": "c029",
+    "start": 19,
+    "end": 23
+  },
+  {
+    "word": "nurse",
+    "id": "c029",
+    "start": 23,
+    "end": 31
+  },
+  {
+    "word": "i",
+    "id": "c029",
+    "start": 31,
+    "end": 38
+  },
+  {
+    "word": "do",
+    "id": "c029",
+    "start": 38,
+    "end": 50
+  },
+  {
+    "word": "not",
+    "id": "c029",
+    "start": 50,
+    "end": 60
+  },
+  {
+    "word": "feel",
+    "id": "c029",
+    "start": 60,
+    "end": 67
+  },
+  {
+    "word": "comfortable",
+    "id": "c029",
+    "start": 67,
+    "end": 81
+  },
+  {
+    "word": "what",
+    "id": "c030",
+    "start": 3,
+    "end": 20
+  },
+  {
+    "word": "do",
+    "id": "c030",
+    "start": 20,
+    "end": 30
+  },
+  {
+    "word": "they",
+    "id": "c030",
+    "start": 30,
+    "end": 36
+  },
+  {
+    "word": "have",
+    "id": "c030",
+    "start": 36,
+    "end": 46
+  },
+  {
+    "word": "how",
+    "id": "c031",
+    "start": 2,
+    "end": 14
+  },
+  {
+    "word": "do",
+    "id": "c031",
+    "start": 14,
+    "end": 21
+  },
+  {
+    "word": "you",
+    "id": "c031",
+    "start": 21,
+    "end": 26
+  },
+  {
+    "word": "like",
+    "id": "c031",
+    "start": 26,
+    "end": 37
+  },
+  {
+    "word": "i",
+    "id": "c032",
+    "start": 4,
+    "end": 27
+  },
+  {
+    "word": "do",
+    "id": "c032",
+    "start": 27,
+    "end": 35
+  },
+  {
+    "word": "good",
+    "id": "c032",
+    "start": 35,
+    "end": 46
+  },
+  {
+    "word": "where",
+    "id": "c033",
+    "start": 3,
+    "end": 23
+  },
+  {
+    "word": "is",
+    "id": "c033",
+    "start": 23,
+    "end": 29
+  },
+  {
+    "word": "it",
+    "id": "c033",
+    "start": 29,
+    "end": 34
+  },
+  {
+    "word": "going",
+    "id": "c033",
+    "start": 34,
+    "end": 48
+  },
+  {
+    "word": "you",
+    "id": "c034",
+    "start": 2,
+    "end": 13
+  },
+  {
+    "word": "are",
+    "id": "c034",
+    "start": 13,
+    "end": 22
+  },
+  {
+    "word": "that",
+    "id": "c034",
+    "start": 22,
+    "end": 28
+  },
+  {
+    "word": "bad",
+    "id": "c034",
+    "start": 28,
+    "end": 39
+  },
+  {
+    "word": "i",
+    "id": "c035",
+    "start": 3,
+    "end": 18
+  },
+  {
+    "word": "hope",
+    "id": "c035",
+    "start": 18,
+    "end": 26
+  },
+  {
+    "word": "they",
+    "id": "c035",
+    "start": 26,
+    "end": 32
+  },
+  {
+    "word": "do",
+    "id": "c035",
+    "start": 32,
+    "end": 41
+  },
+  {
+    "word": "not",
+    "id": "c035",
+    "start": 41,
+    "end": 49
+  },
+  {
+    "word": "need",
+    "id": "c035",
+    "start": 49,
+    "end": 57
+  },
+  {
+    "word": "my",
+    "id": "c035",
+    "start": 57,
+    "end": 65
+  },
+  {
+    "word": "music",
+    "id": "c035",
+    "start": 65,
+    "end": 77
+  },
+  {
+    "word": "is",
+    "id": "c036",
+    "start": 2,
+    "end": 18
+  },
+  {
+    "word": "it",
+    "id": "c036",
+    "start": 18,
+    "end": 31
+  },
+  {
+    "word": "that",
+    "id": "c036",
+    "start": 31,
+    "end": 38
+  },
+  {
+    "word": "bad",
+    "id": "c036",
+    "start": 38,
+    "end": 50
+  },
+  {
+    "word": "how",
+    "id": "c038",
+    "start": 2,
+    "end": 17
+  },
+  {
+    "word": "do",
+    "id": "c038",
+    "start": 17,
+    "end": 25
+  },
+  {
+    "word": "you",
+    "id": "c038",
+    "start": 25,
+    "end": 34
+  },
+  {
+    "word": "clean",
+    "id": "c038",
+    "start": 34,
+    "end": 47
+  },
+  {
+    "word": "i",
+    "id": "c039",
+    "start": 9,
+    "end": 20
+  },
+  {
+    "word": "hope",
+    "id": "c039",
+    "start": 20,
+    "end": 28
+  },
+  {
+    "word": "you",
+    "id": "c039",
+    "start": 28,
+    "end": 35
+  },
+  {
+    "word": "like",
+    "id": "c039",
+    "start": 35,
+    "end": 44
+  },
+  {
+    "word": "my",
+    "id": "c039",
+    "start": 44,
+    "end": 50
+  },
+  {
+    "word": "music",
+    "id": "c039",
+    "start": 50,
+    "end": 64
+  },
+  {
+    "word": "they",
+    "id": "c040",
+    "start": 5,
+    "end": 17
+  },
+  {
+    "word": "like",
+    "id": "c040",
+    "start": 17,
+    "end": 26
+  },
+  {
+    "word": "my",
+    "id": "c040",
+    "start": 26,
+    "end": 32
+  },
+  {
+    "word": "nurse",
+    "id": "c040",
+    "start": 32,
+    "end": 43
+  },
+  {
+    "word": "hope",
+    "id": "c041",
+    "start": 2,
+    "end": 14
+  },
+  {
+    "word": "you",
+    "id": "c041",
+    "start": 14,
+    "end": 23
+  },
+  {
+    "word": "do",
+    "id": "c041",
+    "start": 23,
+    "end": 32
+  },
+  {
+    "word": "it",
+    "id": "c041",
+    "start": 32,
+    "end": 41
+  },
+  {
+    "word": "they",
+    "id": "c042",
+    "start": 3,
+    "end": 14
+  },
+  {
+    "word": "are",
+    "id": "c042",
+    "start": 14,
+    "end": 21
+  },
+  {
+    "word": "tired",
+    "id": "c042",
+    "start": 21,
+    "end": 33
+  },
+  {
+    "word": "you",
+    "id": "c045",
+    "start": 2,
+    "end": 12
+  },
+  {
+    "word": "like",
+    "id": "c045",
+    "start": 12,
+    "end": 20
+  },
+  {
+    "word": "it",
+    "id": "c045",
+    "start": 20,
+    "end": 24
+  },
+  {
+    "word": "here",
+    "id": "c045",
+    "start": 24,
+    "end": 35
+  },
+  {
+    "word": "i",
+    "id": "c046",
+    "start": 2,
+    "end": 9
+  },
+  {
+    "word": "hope",
+    "id": "c046",
+    "start": 9,
+    "end": 19
+  },
+  {
+    "word": "they",
+    "id": "c046",
+    "start": 19,
+    "end": 26
+  },
+  {
+    "word": "are",
+    "id": "c046",
+    "start": 26,
+    "end": 35
+  },
+  {
+    "word": "right",
+    "id": "c046",
+    "start": 35,
+    "end": 43
+  },
+  {
+    "word": "here",
+    "id": "c046",
+    "start": 43,
+    "end": 54
+  },
+  {
+    "word": "family",
+    "id": "c047",
+    "start": 3,
+    "end": 25
+  },
+  {
+    "word": "is",
+    "id": "c047",
+    "start": 25,
+    "end": 33
+  },
+  {
+    "word": "not",
+    "id": "c047",
+    "start": 33,
+    "end": 41
+  },
+  {
+    "word": "okay",
+    "id": "c047",
+    "start": 41,
+    "end": 54
+  },
+  {
+    "word": "you",
+    "id": "c048",
+    "start": 3,
+    "end": 20
+  },
+  {
+    "word": "hope",
+    "id": "c048",
+    "start": 20,
+    "end": 30
+  },
+  {
+    "word": "i",
+    "id": "c048",
+    "start": 30,
+    "end": 34
+  },
+  {
+    "word": "am",
+    "id": "c048",
+    "start": 34,
+    "end": 41
+  },
+  {
+    "word": "right",
+    "id": "c048",
+    "start": 41,
+    "end": 49
+  },
+  {
+    "word": "here",
+    "id": "c048",
+    "start": 49,
+    "end": 58
+  },
+  {
+    "word": "hello",
+    "id": "c049",
+    "start": 3,
+    "end": 25
+  },
+  {
+    "word": "you",
+    "id": "c049",
+    "start": 25,
+    "end": 38
+  },
+  {
+    "word": "tell",
+    "id": "c050",
+    "start": 3,
+    "end": 27
+  },
+  {
+    "word": "my",
+    "id": "c050",
+    "start": 27,
+    "end": 31
+  },
+  {
+    "word": "nurse",
+    "id": "c050",
+    "start": 31,
+    "end": 39
+  },
+  {
+    "word": "they",
+    "id": "c050",
+    "start": 39,
+    "end": 47
+  },
+  {
+    "word": "do",
+    "id": "c050",
+    "start": 47,
+    "end": 55
+  },
+  {
+    "word": "not",
+    "id": "c050",
+    "start": 55,
+    "end": 60
+  },
+  {
+    "word": "feel",
+    "id": "c050",
+    "start": 60,
+    "end": 68
+  },
+  {
+    "word": "thirsty",
+    "id": "c050",
+    "start": 68,
+    "end": 83
+  },
+  {
+    "word": "i",
+    "id": "c051",
+    "start": 2,
+    "end": 13
+  },
+  {
+    "word": "need",
+    "id": "c051",
+    "start": 13,
+    "end": 23
+  },
+  {
+    "word": "that",
+    "id": "c051",
+    "start": 23,
+    "end": 32
+  },
+  {
+    "word": "where",
+    "id": "c052",
+    "start": 3,
+    "end": 25
+  },
+  {
+    "word": "are",
+    "id": "c052",
+    "start": 25,
+    "end": 33
+  },
+  {
+    "word": "they",
+    "id": "c052",
+    "start": 33,
+    "end": 38
+  },
+  {
+    "word": "not",
+    "id": "c052",
+    "start": 38,
+    "end": 52
+  },
+  {
+    "word": "how",
+    "id": "c053",
+    "start": 2,
+    "end": 23
+  },
+  {
+    "word": "are",
+    "id": "c053",
+    "start": 23,
+    "end": 35
+  },
+  {
+    "word": "they",
+    "id": "c053",
+    "start": 35,
+    "end": 47
+  },
+  {
+    "word": "what",
+    "id": "c054",
+    "start": 3,
+    "end": 24
+  },
+  {
+    "word": "do",
+    "id": "c054",
+    "start": 24,
+    "end": 30
+  },
+  {
+    "word": "i",
+    "id": "c054",
+    "start": 30,
+    "end": 38
+  },
+  {
+    "word": "tell",
+    "id": "c054",
+    "start": 38,
+    "end": 48
+  },
+  {
+    "word": "my",
+    "id": "c054",
+    "start": 48,
+    "end": 54
+  },
+  {
+    "word": "nurse",
+    "id": "c054",
+    "start": 54,
+    "end": 65
+  },
+  {
+    "word": "do",
+    "id": "c055",
+    "start": 2,
+    "end": 14
+  },
+  {
+    "word": "i",
+    "id": "c055",
+    "start": 14,
+    "end": 25
+  },
+  {
+    "word": "tell",
+    "id": "c055",
+    "start": 25,
+    "end": 35
+  },
+  {
+    "word": "my",
+    "id": "c055",
+    "start": 35,
+    "end": 40
+  },
+  {
+    "word": "nurse",
+    "id": "c055",
+    "start": 40,
+    "end": 53
+  },
+  {
+    "word": "you",
+    "id": "c056",
+    "start": 2,
+    "end": 23
+  },
+  {
+    "word": "do",
+    "id": "c056",
+    "start": 23,
+    "end": 32
+  },
+  {
+    "word": "not",
+    "id": "c056",
+    "start": 32,
+    "end": 40
+  },
+  {
+    "word": "need",
+    "id": "c056",
+    "start": 40,
+    "end": 47
+  },
+  {
+    "word": "faith",
+    "id": "c056",
+    "start": 47,
+    "end": 61
+  },
+  {
+    "word": "how",
+    "id": "c057",
+    "start": 2,
+    "end": 13
+  },
+  {
+    "word": "are",
+    "id": "c057",
+    "start": 13,
+    "end": 20
+  },
+  {
+    "word": "you",
+    "id": "c057",
+    "start": 20,
+    "end": 26
+  },
+  {
+    "word": "here",
+    "id": "c057",
+    "start": 26,
+    "end": 37
+  },
+  {
+    "word": "i",
+    "id": "c058",
+    "start": 3,
+    "end": 14
+  },
+  {
+    "word": "do",
+    "id": "c058",
+    "start": 14,
+    "end": 25
+  },
+  {
+    "word": "not",
+    "id": "c058",
+    "start": 25,
+    "end": 32
+  },
+  {
+    "word": "have",
+    "id": "c058",
+    "start": 32,
+    "end": 41
+  },
+  {
+    "word": "my",
+    "id": "c058",
+    "start": 41,
+    "end": 48
+  },
+  {
+    "word": "computer",
+    "id": "c058",
+    "start": 48,
+    "end": 62
+  },
+  {
+    "word": "you",
+    "id": "c059",
+    "start": 2,
+    "end": 21
+  },
+  {
+    "word": "are",
+    "id": "c059",
+    "start": 21,
+    "end": 31
+  },
+  {
+    "word": "up",
+    "id": "c059",
+    "start": 31,
+    "end": 41
+  },
+  {
+    "word": "yes",
+    "id": "c060",
+    "start": 3,
+    "end": 13
+  },
+  {
+    "word": "i",
+    "id": "c060",
+    "start": 13,
+    "end": 17
+  },
+  {
+    "word": "am",
+    "id": "c060",
+    "start": 17,
+    "end": 22
+  },
+  {
+    "word": "very",
+    "id": "c060",
+    "start": 22,
+    "end": 32
+  },
+  {
+    "word": "good",
+    "id": "c060",
+    "start": 32,
+    "end": 42
+  },
+  {
+    "word": "do",
+    "id": "c061",
+    "start": 3,
+    "end": 26
+  },
+  {
+    "word": "i",
+    "id": "c061",
+    "start": 26,
+    "end": 32
+  },
+  {
+    "word": "have",
+    "id": "c061",
+    "start": 32,
+    "end": 40
+  },
+  {
+    "word": "my",
+    "id": "c061",
+    "start": 40,
+    "end": 46
+  },
+  {
+    "word": "glasses",
+    "id": "c061",
+    "start": 46,
+    "end": 62
+  },
+  {
+    "word": "i",
+    "id": "c062",
+    "start": 2,
+    "end": 11
+  },
+  {
+    "word": "hope",
+    "id": "c062",
+    "start": 11,
+    "end": 18
+  },
+  {
+    "word": "they",
+    "id": "c062",
+    "start": 18,
+    "end": 23
+  },
+  {
+    "word": "are",
+    "id": "c062",
+    "start": 23,
+    "end": 32
+  },
+  {
+    "word": "closer",
+    "id": "c062",
+    "start": 32,
+    "end": 47
+  },
+  {
+    "word": "do",
+    "id": "c063",
+    "start": 8,
+    "end": 28
+  },
+  {
+    "word": "you",
+    "id": "c063",
+    "start": 28,
+    "end": 39
+  },
+  {
+    "word": "need",
+    "id": "c063",
+    "start": 39,
+    "end": 50
+  },
+  {
+    "word": "help",
+    "id": "c063",
+    "start": 50,
+    "end": 60
+  },
+  {
+    "word": "here",
+    "id": "c063",
+    "start": 60,
+    "end": 71
+  },
+  {
+    "word": "they",
+    "id": "c064",
+    "start": 3,
+    "end": 18
+  },
+  {
+    "word": "need",
+    "id": "c064",
+    "start": 18,
+    "end": 27
+  },
+  {
+    "word": "help",
+    "id": "c064",
+    "start": 27,
+    "end": 41
+  },
+  {
+    "word": "family",
+    "id": "c065",
+    "start": 3,
+    "end": 22
+  },
+  {
+    "word": "is",
+    "id": "c065",
+    "start": 22,
+    "end": 27
+  },
+  {
+    "word": "okay",
+    "id": "c065",
+    "start": 27,
+    "end": 43
+  },
+  {
+    "word": "are",
+    "id": "c066",
+    "start": 2,
+    "end": 15
+  },
+  {
+    "word": "they",
+    "id": "c066",
+    "start": 15,
+    "end": 19
+  },
+  {
+    "word": "very",
+    "id": "c066",
+    "start": 19,
+    "end": 30
+  },
+  {
+    "word": "thirsty",
+    "id": "c066",
+    "start": 30,
+    "end": 43
+  },
+  {
+    "word": "my",
+    "id": "c067",
+    "start": 6,
+    "end": 19
+  },
+  {
+    "word": "faith",
+    "id": "c067",
+    "start": 19,
+    "end": 28
+  },
+  {
+    "word": "is",
+    "id": "c067",
+    "start": 28,
+    "end": 34
+  },
+  {
+    "word": "my",
+    "id": "c067",
+    "start": 34,
+    "end": 41
+  },
+  {
+    "word": "success",
+    "id": "c067",
+    "start": 41,
+    "end": 55
+  },
+  {
+    "word": "my",
+    "id": "c068",
+    "start": 4,
+    "end": 20
+  },
+  {
+    "word": "nurse",
+    "id": "c068",
+    "start": 20,
+    "end": 29
+  },
+  {
+    "word": "is",
+    "id": "c068",
+    "start": 29,
+    "end": 40
+  },
+  {
+    "word": "not",
+    "id": "c068",
+    "start": 40,
+    "end": 48
+  },
+  {
+    "word": "going",
+    "id": "c068",
+    "start": 48,
+    "end": 60
+  },
+  {
+    "word": "what",
+    "id": "c069",
+    "start": 3,
+    "end": 27
+  },
+  {
+    "word": "is",
+    "id": "c069",
+    "start": 27,
+    "end": 38
+  },
+  {
+    "word": "hungry",
+    "id": "c069",
+    "start": 38,
+    "end": 53
+  },
+  {
+    "word": "you",
+    "id": "c070",
+    "start": 2,
+    "end": 15
+  },
+  {
+    "word": "do",
+    "id": "c070",
+    "start": 15,
+    "end": 27
+  },
+  {
+    "word": "i",
+    "id": "c071",
+    "start": 3,
+    "end": 16
+  },
+  {
+    "word": "hope",
+    "id": "c071",
+    "start": 16,
+    "end": 24
+  },
+  {
+    "word": "you",
+    "id": "c071",
+    "start": 24,
+    "end": 31
+  },
+  {
+    "word": "have",
+    "id": "c071",
+    "start": 31,
+    "end": 38
+  },
+  {
+    "word": "very",
+    "id": "c071",
+    "start": 38,
+    "end": 52
+  },
+  {
+    "word": "good",
+    "id": "c071",
+    "start": 52,
+    "end": 57
+  },
+  {
+    "word": "family",
+    "id": "c071",
+    "start": 57,
+    "end": 74
+  },
+  {
+    "word": "you",
+    "id": "c072",
+    "start": 2,
+    "end": 23
+  },
+  {
+    "word": "are",
+    "id": "c072",
+    "start": 23,
+    "end": 34
+  },
+  {
+    "word": "okay",
+    "id": "c072",
+    "start": 34,
+    "end": 46
+  },
+  {
+    "word": "my",
+    "id": "c073",
+    "start": 2,
+    "end": 14
+  },
+  {
+    "word": "glasses",
+    "id": "c073",
+    "start": 14,
+    "end": 29
+  },
+  {
+    "word": "you",
+    "id": "c074",
+    "start": 2,
+    "end": 16
+  },
+  {
+    "word": "are",
+    "id": "c074",
+    "start": 16,
+    "end": 23
+  },
+  {
+    "word": "no",
+    "id": "c074",
+    "start": 23,
+    "end": 32
+  },
+  {
+    "word": "good",
+    "id": "c074",
+    "start": 32,
+    "end": 40
+  },
+  {
+    "word": "they",
+    "id": "c075",
+    "start": 3,
+    "end": 19
+  },
+  {
+    "word": "need",
+    "id": "c075",
+    "start": 19,
+    "end": 28
+  },
+  {
+    "word": "not",
+    "id": "c075",
+    "start": 28,
+    "end": 38
+  },
+  {
+    "word": "no",
+    "id": "c076",
+    "start": 3,
+    "end": 16
+  },
+  {
+    "word": "you",
+    "id": "c076",
+    "start": 16,
+    "end": 28
+  },
+  {
+    "word": "are",
+    "id": "c076",
+    "start": 28,
+    "end": 36
+  },
+  {
+    "word": "not",
+    "id": "c076",
+    "start": 36,
+    "end": 40
+  },
+  {
+    "word": "going",
+    "id": "c076",
+    "start": 40,
+    "end": 54
+  },
+  {
+    "word": "outside",
+    "id": "c076",
+    "start": 54,
+    "end": 72
+  },
+  {
+    "word": "i",
+    "id": "c077",
+    "start": 3,
+    "end": 24
+  },
+  {
+    "word": "need",
+    "id": "c077",
+    "start": 24,
+    "end": 34
+  },
+  {
+    "word": "it",
+    "id": "c077",
+    "start": 34,
+    "end": 42
+  },
+  {
+    "word": "right",
+    "id": "c077",
+    "start": 42,
+    "end": 51
+  },
+  {
+    "word": "here",
+    "id": "c077",
+    "start": 51,
+    "end": 63
+  },
+  {
+    "word": "i",
+    "id": "c078",
+    "start": 3,
+    "end": 20
+  },
+  {
+    "word": "hope",
+    "id": "c078",
+    "start": 20,
+    "end": 32
+  },
+  {
+    "word": "my",
+    "id": "c078",
+    "start": 32,
+    "end": 39
+  },
+  {
+    "word": "family",
+    "id": "c078",
+    "start": 39,
+    "end": 53
+  },
+  {
+    "word": "is",
+    "id": "c078",
+    "start": 53,
+    "end": 62
+  },
+  {
+    "word": "right",
+    "id": "c078",
+    "start": 62,
+    "end": 71
+  },
+  {
+    "word": "here",
+    "id": "c078",
+    "start": 71,
+    "end": 81
+  },
+  {
+    "word": "where",
+    "id": "c079",
+    "start": 2,
+    "end": 18
+  },
+  {
+    "word": "is",
+    "id": "c079",
+    "start": 18,
+    "end": 25
+  },
+  {
+    "word": "my",
+    "id": "c079",
+    "start": 25,
+    "end": 31
+  },
+  {
+    "word": "faith",
+    "id": "c079",
+    "start": 31,
+    "end": 45
+  }
+]

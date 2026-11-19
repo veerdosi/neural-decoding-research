@@ -1,0 +1,2494 @@
+[
+  {
+    "id": "c000",
+    "word": "tell",
+    "start": 2,
+    "end": 13,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c000",
+    "word": "my",
+    "start": 13,
+    "end": 22,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c000",
+    "word": "family",
+    "start": 22,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c000",
+    "word": "they",
+    "start": 39,
+    "end": 48,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c000",
+    "word": "feel",
+    "start": 48,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c000",
+    "word": "thirsty",
+    "start": 57,
+    "end": 70,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c001",
+    "word": "i",
+    "start": 2,
+    "end": 9,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c001",
+    "word": "am",
+    "start": 9,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c001",
+    "word": "clean",
+    "start": 18,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c002",
+    "word": "i",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c002",
+    "word": "hope",
+    "start": 18,
+    "end": 27,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c002",
+    "word": "you",
+    "start": 27,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c002",
+    "word": "like",
+    "start": 35,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c002",
+    "word": "music",
+    "start": 46,
+    "end": 63,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c003",
+    "word": "is",
+    "start": 2,
+    "end": 13,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c003",
+    "word": "it",
+    "start": 13,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c003",
+    "word": "that",
+    "start": 26,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c003",
+    "word": "good",
+    "start": 39,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c004",
+    "word": "do",
+    "start": 2,
+    "end": 11,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c004",
+    "word": "what",
+    "start": 11,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c004",
+    "word": "please",
+    "start": 23,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c005",
+    "word": "you",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c005",
+    "word": "hope",
+    "start": 16,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c005",
+    "word": "my",
+    "start": 28,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c005",
+    "word": "nurse",
+    "start": 35,
+    "end": 49,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c005",
+    "word": "is",
+    "start": 49,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c005",
+    "word": "here",
+    "start": 57,
+    "end": 67,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c006",
+    "word": "they",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c006",
+    "word": "do",
+    "start": 18,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c006",
+    "word": "not",
+    "start": 29,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c006",
+    "word": "have",
+    "start": 39,
+    "end": 48,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c006",
+    "word": "hope",
+    "start": 48,
+    "end": 59,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c007",
+    "word": "you",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c007",
+    "word": "clean",
+    "start": 15,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c007",
+    "word": "it",
+    "start": 29,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c007",
+    "word": "up",
+    "start": 36,
+    "end": 44,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c008",
+    "word": "you",
+    "start": 2,
+    "end": 12,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c008",
+    "word": "hope",
+    "start": 12,
+    "end": 22,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c008",
+    "word": "my",
+    "start": 22,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c008",
+    "word": "nurse",
+    "start": 28,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c008",
+    "word": "is",
+    "start": 36,
+    "end": 43,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c008",
+    "word": "going",
+    "start": 43,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c009",
+    "word": "coming",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c009",
+    "word": "outside",
+    "start": 15,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c009",
+    "word": "is",
+    "start": 33,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c009",
+    "word": "very",
+    "start": 41,
+    "end": 49,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c009",
+    "word": "good",
+    "start": 49,
+    "end": 59,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c010",
+    "word": "you",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c010",
+    "word": "feel",
+    "start": 17,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c010",
+    "word": "comfortable",
+    "start": 25,
+    "end": 43,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c011",
+    "word": "what",
+    "start": 2,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c011",
+    "word": "do",
+    "start": 19,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c011",
+    "word": "they",
+    "start": 29,
+    "end": 40,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c011",
+    "word": "do",
+    "start": 40,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c012",
+    "word": "i",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c012",
+    "word": "tell",
+    "start": 15,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c012",
+    "word": "you",
+    "start": 26,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c012",
+    "word": "i",
+    "start": 39,
+    "end": 44,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c012",
+    "word": "am",
+    "start": 44,
+    "end": 52,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c012",
+    "word": "thirsty",
+    "start": 52,
+    "end": 65,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c013",
+    "word": "is",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c013",
+    "word": "my",
+    "start": 15,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c013",
+    "word": "nurse",
+    "start": 24,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c013",
+    "word": "comfortable",
+    "start": 35,
+    "end": 53,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c014",
+    "word": "how",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c014",
+    "word": "they",
+    "start": 17,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c014",
+    "word": "do",
+    "start": 24,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c014",
+    "word": "it",
+    "start": 31,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c015",
+    "word": "they",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c015",
+    "word": "need",
+    "start": 15,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c015",
+    "word": "it",
+    "start": 25,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c015",
+    "word": "going",
+    "start": 34,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c015",
+    "word": "up",
+    "start": 47,
+    "end": 58,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c016",
+    "word": "i",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c016",
+    "word": "am",
+    "start": 15,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c016",
+    "word": "hungry",
+    "start": 28,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c017",
+    "word": "you",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c017",
+    "word": "feel",
+    "start": 15,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c017",
+    "word": "it",
+    "start": 24,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c018",
+    "word": "that",
+    "start": 2,
+    "end": 13,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c018",
+    "word": "is",
+    "start": 13,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c018",
+    "word": "bad",
+    "start": 20,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c019",
+    "word": "my",
+    "start": 2,
+    "end": 12,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c019",
+    "word": "family",
+    "start": 12,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c019",
+    "word": "is",
+    "start": 25,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c019",
+    "word": "that",
+    "start": 32,
+    "end": 37,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c019",
+    "word": "good",
+    "start": 37,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c020",
+    "word": "yes",
+    "start": 2,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c020",
+    "word": "i",
+    "start": 20,
+    "end": 27,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c020",
+    "word": "am",
+    "start": 27,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c020",
+    "word": "hungry",
+    "start": 39,
+    "end": 80,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c021",
+    "word": "do",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c021",
+    "word": "that",
+    "start": 18,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c021",
+    "word": "right",
+    "start": 36,
+    "end": 49,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c022",
+    "word": "what",
+    "start": 2,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c022",
+    "word": "do",
+    "start": 19,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c022",
+    "word": "you",
+    "start": 31,
+    "end": 43,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c022",
+    "word": "clean",
+    "start": 43,
+    "end": 56,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c023",
+    "word": "they",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c023",
+    "word": "are",
+    "start": 16,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c023",
+    "word": "that",
+    "start": 25,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c023",
+    "word": "good",
+    "start": 32,
+    "end": 44,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c024",
+    "word": "they",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c024",
+    "word": "hope",
+    "start": 18,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c024",
+    "word": "you",
+    "start": 26,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c024",
+    "word": "are",
+    "start": 34,
+    "end": 43,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c024",
+    "word": "right",
+    "start": 43,
+    "end": 51,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c024",
+    "word": "here",
+    "start": 51,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c025",
+    "word": "bring",
+    "start": 2,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c025",
+    "word": "here",
+    "start": 25,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c026",
+    "word": "it",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c026",
+    "word": "is",
+    "start": 16,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c027",
+    "word": "it",
+    "start": 2,
+    "end": 11,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c027",
+    "word": "is",
+    "start": 11,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c027",
+    "word": "what",
+    "start": 23,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c027",
+    "word": "they",
+    "start": 34,
+    "end": 44,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c027",
+    "word": "have",
+    "start": 44,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c028",
+    "word": "i",
+    "start": 2,
+    "end": 14,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c028",
+    "word": "hope",
+    "start": 14,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c028",
+    "word": "you",
+    "start": 23,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c028",
+    "word": "like",
+    "start": 32,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c028",
+    "word": "my",
+    "start": 41,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c028",
+    "word": "help",
+    "start": 46,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "tell",
+    "start": 2,
+    "end": 14,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "my",
+    "start": 14,
+    "end": 21,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "nurse",
+    "start": 21,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "i",
+    "start": 32,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "do",
+    "start": 42,
+    "end": 52,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "not",
+    "start": 52,
+    "end": 60,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "feel",
+    "start": 60,
+    "end": 67,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c029",
+    "word": "comfortable",
+    "start": 67,
+    "end": 82,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c030",
+    "word": "what",
+    "start": 2,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c030",
+    "word": "do",
+    "start": 19,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c030",
+    "word": "they",
+    "start": 26,
+    "end": 38,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c030",
+    "word": "have",
+    "start": 38,
+    "end": 48,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c031",
+    "word": "how",
+    "start": 2,
+    "end": 12,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c031",
+    "word": "do",
+    "start": 12,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c031",
+    "word": "you",
+    "start": 23,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c031",
+    "word": "like",
+    "start": 29,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c032",
+    "word": "i",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c032",
+    "word": "do",
+    "start": 18,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c032",
+    "word": "good",
+    "start": 30,
+    "end": 45,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c033",
+    "word": "where",
+    "start": 2,
+    "end": 21,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c033",
+    "word": "is",
+    "start": 21,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c033",
+    "word": "it",
+    "start": 29,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c033",
+    "word": "going",
+    "start": 34,
+    "end": 48,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c034",
+    "word": "you",
+    "start": 2,
+    "end": 14,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c034",
+    "word": "are",
+    "start": 14,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c034",
+    "word": "that",
+    "start": 24,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c034",
+    "word": "bad",
+    "start": 30,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "i",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "hope",
+    "start": 16,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "they",
+    "start": 24,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "do",
+    "start": 31,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "not",
+    "start": 39,
+    "end": 48,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "need",
+    "start": 48,
+    "end": 59,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "my",
+    "start": 59,
+    "end": 66,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c035",
+    "word": "music",
+    "start": 66,
+    "end": 77,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c036",
+    "word": "is",
+    "start": 2,
+    "end": 8,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c036",
+    "word": "it",
+    "start": 8,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c036",
+    "word": "that",
+    "start": 23,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c036",
+    "word": "bad",
+    "start": 36,
+    "end": 49,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c037",
+    "word": "how",
+    "start": 2,
+    "end": 62,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c037",
+    "word": "do",
+    "start": 62,
+    "end": 79,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c037",
+    "word": "you",
+    "start": 79,
+    "end": 89,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c037",
+    "word": "like",
+    "start": 89,
+    "end": 101,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c037",
+    "word": "that",
+    "start": 101,
+    "end": 112,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c038",
+    "word": "how",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c038",
+    "word": "do",
+    "start": 17,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c038",
+    "word": "you",
+    "start": 26,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c038",
+    "word": "clean",
+    "start": 33,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c039",
+    "word": "i",
+    "start": 2,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c039",
+    "word": "hope",
+    "start": 20,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c039",
+    "word": "you",
+    "start": 28,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c039",
+    "word": "like",
+    "start": 35,
+    "end": 44,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c039",
+    "word": "my",
+    "start": 44,
+    "end": 50,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c039",
+    "word": "music",
+    "start": 50,
+    "end": 64,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c040",
+    "word": "they",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c040",
+    "word": "like",
+    "start": 17,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c040",
+    "word": "my",
+    "start": 26,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c040",
+    "word": "nurse",
+    "start": 31,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c041",
+    "word": "hope",
+    "start": 2,
+    "end": 14,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c041",
+    "word": "you",
+    "start": 14,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c041",
+    "word": "do",
+    "start": 23,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c041",
+    "word": "it",
+    "start": 32,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c042",
+    "word": "they",
+    "start": 2,
+    "end": 13,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c042",
+    "word": "are",
+    "start": 13,
+    "end": 21,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c042",
+    "word": "tired",
+    "start": 21,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "no",
+    "start": 2,
+    "end": 11,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "my",
+    "start": 11,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "family",
+    "start": 20,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "is",
+    "start": 31,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "not",
+    "start": 35,
+    "end": 43,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "going",
+    "start": 43,
+    "end": 55,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c043",
+    "word": "here",
+    "start": 55,
+    "end": 61,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c044",
+    "word": "you",
+    "start": 2,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c044",
+    "word": "hope",
+    "start": 20,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c044",
+    "word": "they",
+    "start": 36,
+    "end": 45,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c044",
+    "word": "are",
+    "start": 45,
+    "end": 55,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c044",
+    "word": "right",
+    "start": 55,
+    "end": 64,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c044",
+    "word": "here",
+    "start": 64,
+    "end": 71,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c045",
+    "word": "you",
+    "start": 2,
+    "end": 12,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c045",
+    "word": "like",
+    "start": 12,
+    "end": 21,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c045",
+    "word": "it",
+    "start": 21,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c045",
+    "word": "here",
+    "start": 28,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c046",
+    "word": "i",
+    "start": 2,
+    "end": 11,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c046",
+    "word": "hope",
+    "start": 11,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c046",
+    "word": "they",
+    "start": 18,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c046",
+    "word": "are",
+    "start": 26,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c046",
+    "word": "right",
+    "start": 35,
+    "end": 45,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c046",
+    "word": "here",
+    "start": 45,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c047",
+    "word": "family",
+    "start": 2,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c047",
+    "word": "is",
+    "start": 25,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c047",
+    "word": "not",
+    "start": 33,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c047",
+    "word": "okay",
+    "start": 42,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c048",
+    "word": "you",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c048",
+    "word": "hope",
+    "start": 17,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c048",
+    "word": "i",
+    "start": 26,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c048",
+    "word": "am",
+    "start": 34,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c048",
+    "word": "right",
+    "start": 39,
+    "end": 49,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c048",
+    "word": "here",
+    "start": 49,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c049",
+    "word": "hello",
+    "start": 2,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c049",
+    "word": "you",
+    "start": 24,
+    "end": 38,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "tell",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "my",
+    "start": 18,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "nurse",
+    "start": 28,
+    "end": 38,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "they",
+    "start": 38,
+    "end": 45,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "do",
+    "start": 45,
+    "end": 52,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "not",
+    "start": 52,
+    "end": 60,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "feel",
+    "start": 60,
+    "end": 68,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c050",
+    "word": "thirsty",
+    "start": 68,
+    "end": 84,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c051",
+    "word": "i",
+    "start": 2,
+    "end": 12,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c051",
+    "word": "need",
+    "start": 12,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c051",
+    "word": "that",
+    "start": 20,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c052",
+    "word": "where",
+    "start": 2,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c052",
+    "word": "are",
+    "start": 23,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c052",
+    "word": "they",
+    "start": 33,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c052",
+    "word": "not",
+    "start": 41,
+    "end": 52,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c053",
+    "word": "how",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c053",
+    "word": "are",
+    "start": 18,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c053",
+    "word": "they",
+    "start": 26,
+    "end": 44,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c054",
+    "word": "what",
+    "start": 2,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c054",
+    "word": "do",
+    "start": 19,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c054",
+    "word": "i",
+    "start": 29,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c054",
+    "word": "tell",
+    "start": 36,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c054",
+    "word": "my",
+    "start": 46,
+    "end": 53,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c054",
+    "word": "nurse",
+    "start": 53,
+    "end": 65,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c055",
+    "word": "do",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c055",
+    "word": "i",
+    "start": 15,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c055",
+    "word": "tell",
+    "start": 24,
+    "end": 33,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c055",
+    "word": "my",
+    "start": 33,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c055",
+    "word": "nurse",
+    "start": 41,
+    "end": 54,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c056",
+    "word": "you",
+    "start": 2,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c056",
+    "word": "do",
+    "start": 19,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c056",
+    "word": "not",
+    "start": 29,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c056",
+    "word": "need",
+    "start": 36,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c056",
+    "word": "faith",
+    "start": 47,
+    "end": 60,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c057",
+    "word": "how",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c057",
+    "word": "are",
+    "start": 15,
+    "end": 21,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c057",
+    "word": "you",
+    "start": 21,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c057",
+    "word": "here",
+    "start": 28,
+    "end": 36,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c058",
+    "word": "i",
+    "start": 2,
+    "end": 14,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c058",
+    "word": "do",
+    "start": 14,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c058",
+    "word": "not",
+    "start": 23,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c058",
+    "word": "have",
+    "start": 30,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c058",
+    "word": "my",
+    "start": 41,
+    "end": 49,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c058",
+    "word": "computer",
+    "start": 49,
+    "end": 62,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c059",
+    "word": "you",
+    "start": 2,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c059",
+    "word": "are",
+    "start": 20,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c059",
+    "word": "up",
+    "start": 31,
+    "end": 41,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c060",
+    "word": "yes",
+    "start": 2,
+    "end": 12,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c060",
+    "word": "i",
+    "start": 12,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c060",
+    "word": "am",
+    "start": 19,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c060",
+    "word": "very",
+    "start": 23,
+    "end": 31,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c060",
+    "word": "good",
+    "start": 31,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c061",
+    "word": "do",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c061",
+    "word": "i",
+    "start": 17,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c061",
+    "word": "have",
+    "start": 25,
+    "end": 37,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c061",
+    "word": "my",
+    "start": 37,
+    "end": 45,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c061",
+    "word": "glasses",
+    "start": 45,
+    "end": 62,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c062",
+    "word": "i",
+    "start": 2,
+    "end": 11,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c062",
+    "word": "hope",
+    "start": 11,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c062",
+    "word": "they",
+    "start": 19,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c062",
+    "word": "are",
+    "start": 24,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c062",
+    "word": "closer",
+    "start": 32,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c063",
+    "word": "do",
+    "start": 2,
+    "end": 26,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c063",
+    "word": "you",
+    "start": 26,
+    "end": 38,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c063",
+    "word": "need",
+    "start": 38,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c063",
+    "word": "help",
+    "start": 47,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c063",
+    "word": "here",
+    "start": 57,
+    "end": 68,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c064",
+    "word": "they",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c064",
+    "word": "need",
+    "start": 17,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c064",
+    "word": "help",
+    "start": 28,
+    "end": 40,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c065",
+    "word": "family",
+    "start": 2,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c065",
+    "word": "is",
+    "start": 23,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c065",
+    "word": "okay",
+    "start": 30,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c066",
+    "word": "are",
+    "start": 2,
+    "end": 9,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c066",
+    "word": "they",
+    "start": 9,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c066",
+    "word": "very",
+    "start": 20,
+    "end": 28,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c066",
+    "word": "thirsty",
+    "start": 28,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c067",
+    "word": "my",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c067",
+    "word": "faith",
+    "start": 17,
+    "end": 27,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c067",
+    "word": "is",
+    "start": 27,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c067",
+    "word": "my",
+    "start": 34,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c067",
+    "word": "success",
+    "start": 42,
+    "end": 56,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c068",
+    "word": "my",
+    "start": 2,
+    "end": 18,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c068",
+    "word": "nurse",
+    "start": 18,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c068",
+    "word": "is",
+    "start": 30,
+    "end": 35,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c068",
+    "word": "not",
+    "start": 35,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c068",
+    "word": "going",
+    "start": 46,
+    "end": 61,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c069",
+    "word": "what",
+    "start": 2,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c069",
+    "word": "is",
+    "start": 25,
+    "end": 37,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c069",
+    "word": "hungry",
+    "start": 37,
+    "end": 53,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c070",
+    "word": "you",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c070",
+    "word": "do",
+    "start": 15,
+    "end": 27,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "i",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "hope",
+    "start": 17,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "you",
+    "start": 24,
+    "end": 32,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "have",
+    "start": 32,
+    "end": 43,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "very",
+    "start": 43,
+    "end": 50,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "good",
+    "start": 50,
+    "end": 57,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c071",
+    "word": "family",
+    "start": 57,
+    "end": 74,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c072",
+    "word": "you",
+    "start": 2,
+    "end": 27,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c072",
+    "word": "are",
+    "start": 27,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c072",
+    "word": "okay",
+    "start": 34,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c073",
+    "word": "my",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c073",
+    "word": "glasses",
+    "start": 16,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c074",
+    "word": "you",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c074",
+    "word": "are",
+    "start": 16,
+    "end": 23,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c074",
+    "word": "no",
+    "start": 23,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c074",
+    "word": "good",
+    "start": 30,
+    "end": 42,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c075",
+    "word": "they",
+    "start": 2,
+    "end": 15,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c075",
+    "word": "need",
+    "start": 15,
+    "end": 27,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c075",
+    "word": "not",
+    "start": 27,
+    "end": 38,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c076",
+    "word": "no",
+    "start": 2,
+    "end": 17,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c076",
+    "word": "you",
+    "start": 17,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c076",
+    "word": "are",
+    "start": 25,
+    "end": 34,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c076",
+    "word": "not",
+    "start": 34,
+    "end": 47,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c076",
+    "word": "going",
+    "start": 47,
+    "end": 58,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c076",
+    "word": "outside",
+    "start": 58,
+    "end": 73,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c077",
+    "word": "i",
+    "start": 2,
+    "end": 16,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c077",
+    "word": "need",
+    "start": 16,
+    "end": 25,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c077",
+    "word": "it",
+    "start": 25,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c077",
+    "word": "right",
+    "start": 39,
+    "end": 53,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c077",
+    "word": "here",
+    "start": 53,
+    "end": 62,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "i",
+    "start": 2,
+    "end": 20,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "hope",
+    "start": 20,
+    "end": 29,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "my",
+    "start": 29,
+    "end": 39,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "family",
+    "start": 39,
+    "end": 53,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "is",
+    "start": 53,
+    "end": 62,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "right",
+    "start": 62,
+    "end": 72,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c078",
+    "word": "here",
+    "start": 72,
+    "end": 80,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c079",
+    "word": "where",
+    "start": 2,
+    "end": 19,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c079",
+    "word": "is",
+    "start": 19,
+    "end": 24,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c079",
+    "word": "my",
+    "start": 24,
+    "end": 30,
+    "source": "manual approximate alignment interpretation"
+  },
+  {
+    "id": "c079",
+    "word": "faith",
+    "start": 30,
+    "end": 46,
+    "source": "manual approximate alignment interpretation"
+  }
+]

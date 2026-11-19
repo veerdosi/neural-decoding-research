@@ -1,0 +1,89 @@
+{
+  "case": "sentences_t16_fresh_dev",
+  "predictions": [
+    {
+      "id": "te7fda903",
+      "tokens": [
+        "do",
+        "that"
+      ]
+    },
+    {
+      "id": "t196443a7",
+      "tokens": [
+        "are",
+        "they",
+        "are",
+        "here"
+      ]
+    },
+    {
+      "id": "t0ba95c98",
+      "tokens": [
+        "you",
+        "are",
+        "bad"
+      ]
+    },
+    {
+      "id": "te1c6177b",
+      "tokens": [
+        "they",
+        "i",
+        "am",
+        "hungry"
+      ]
+    },
+    {
+      "id": "td4202301",
+      "tokens": [
+        "hope",
+        "you",
+        "my",
+        "music"
+      ]
+    },
+    {
+      "id": "ta84f22ff",
+      "tokens": [
+        "you",
+        "it",
+        "here"
+      ]
+    },
+    {
+      "id": "tc14fc0db",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "feel",
+        "comfortable"
+      ]
+    },
+    {
+      "id": "t49dd1ce6",
+      "tokens": [
+        "i",
+        "hope",
+        "do",
+        "not",
+        "need",
+        "family"
+      ]
+    }
+  ],
+  "configuration_sha256": "3e563a8107bdaa9967d79681203195ee23be7b6ef3542abcd0fcf54d134f0723",
+  "configuration_path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_configuration_lock.json",
+  "calibration_vocabulary_size": 49,
+  "decoding_parameters_retuned": false,
+  "query_labels_used": false,
+  "input_sha256": {
+    "inputs.json": "1c0268545f57f7f86afbbd2baf9ce7dc81d7ce9629559b945868fcdd296d9cee",
+    "neural_inputs.npz": "de42f18dfddd56756a31d5c917ad42ff7b2a7d48e099b29517e91b96e37d9438"
+  },
+  "workflow": "Fixed generic neural evidence generation and deterministic word assembly; no Sol at application or Sol-produced artifacts consumed. Numerical algorithm inventory was derived during development.",
+  "wall_seconds_end_to_end": 11.085683540994069,
+  "frozen_utc": "2026-11-19T01:48:04Z"
+}

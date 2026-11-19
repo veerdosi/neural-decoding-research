@@ -1,0 +1,233 @@
+{
+  "predictions": [
+    {
+      "id": "td133fe66",
+      "tokens": [
+        "what",
+        "is",
+        "that"
+      ]
+    },
+    {
+      "id": "t91b28a91",
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ]
+    },
+    {
+      "id": "ta8a65773",
+      "tokens": [
+        "what",
+        "is",
+        "right"
+      ]
+    },
+    {
+      "id": "tcd92c110",
+      "tokens": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ]
+    },
+    {
+      "id": "t7d52b265",
+      "tokens": [
+        "is",
+        "my",
+        "nurse",
+        "coming",
+        "here"
+      ]
+    },
+    {
+      "id": "t50600ea0",
+      "tokens": [
+        "music",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "t53cbb8ea",
+      "tokens": [
+        "how",
+        "do",
+        "you",
+        "have",
+        "faith"
+      ]
+    },
+    {
+      "id": "tf75891fc",
+      "tokens": [
+        "you",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ]
+    }
+  ],
+  "method": "Used temporal smoothing, cosine similarities, calibration-only unsupervised PCA, component removal/whitening, interval resampling, and slope-constrained subsequence DTW. Interpreted overlapping retrieved calibration examples to infer recurring phrases and their order, including have/no followed by music, music followed by is/here, and do/not followed by feel/hungry. No supervised encoder, labeled neural prototypes, or gradient updates were used. Reproducible scripts, retrieval scores, alignment paths, and inference_evidence.json remain in the directory.",
+  "limitations": "These are unverified best reconstructions. Variable timing, shared onset/offset responses, and weak short-word matches leave boundaries ambiguous. Confidence is particularly low for ta8a65773, t7d52b265, and t53cbb8ea. Competing readings include tell my nurse i am right here and they do not have faith for the latter two queries.",
+  "name": "sentences_agentic_dev",
+  "n": 8,
+  "exact_sentences": 2,
+  "word_error_rate": 0.2564102564102564,
+  "rows": [
+    {
+      "id": "td133fe66",
+      "trial": 123,
+      "prediction": [
+        "what",
+        "is",
+        "that"
+      ],
+      "truth": [
+        "what",
+        "good",
+        "is",
+        "that"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "t91b28a91",
+      "trial": 120,
+      "prediction": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ],
+      "truth": [
+        "please",
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "ta8a65773",
+      "trial": 124,
+      "prediction": [
+        "what",
+        "is",
+        "right"
+      ],
+      "truth": [
+        "how",
+        "is",
+        "it",
+        "right"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "tcd92c110",
+      "trial": 125,
+      "prediction": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ],
+      "truth": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t7d52b265",
+      "trial": 122,
+      "prediction": [
+        "is",
+        "my",
+        "nurse",
+        "coming",
+        "here"
+      ],
+      "truth": [
+        "yes",
+        "my",
+        "nurse",
+        "is",
+        "coming",
+        "here"
+      ],
+      "edit_distance": 2
+    },
+    {
+      "id": "t50600ea0",
+      "trial": 126,
+      "prediction": [
+        "music",
+        "is",
+        "here"
+      ],
+      "truth": [
+        "music",
+        "is",
+        "here"
+      ],
+      "edit_distance": 0
+    },
+    {
+      "id": "t53cbb8ea",
+      "trial": 127,
+      "prediction": [
+        "how",
+        "do",
+        "you",
+        "have",
+        "faith"
+      ],
+      "truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "nurse"
+      ],
+      "edit_distance": 3
+    },
+    {
+      "id": "tf75891fc",
+      "trial": 121,
+      "prediction": [
+        "you",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "truth": [
+        "i",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "edit_distance": 1
+    }
+  ]
+}

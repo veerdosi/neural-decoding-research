@@ -1,0 +1,30 @@
+{
+  "name": "neural_alphabet_t16",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "returncode": 0,
+  "wall_seconds": 407.7578990459442,
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/discovery_probes/neural_alphabet_t16",
+    "-s",
+    "workspace-write",
+    "-c",
+    "approval_policy=\"never\"",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/neural_alphabet_t16.json",
+    "-"
+  ],
+  "prompt_sha256": "dec7c847a03aa26eed9211c1953588de4f0e3db750d31933c5f921def5e0e5a3"
+}

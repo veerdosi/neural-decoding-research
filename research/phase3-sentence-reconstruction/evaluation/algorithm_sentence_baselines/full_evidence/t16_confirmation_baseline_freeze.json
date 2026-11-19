@@ -1,0 +1,60 @@
+{
+  "frozen_utc": "2026-11-19T01:54:52.837994+00:00",
+  "confirmation_target_text_read_by_this_agent": false,
+  "status": "Predictions locked; evaluation delegated to root",
+  "artifacts": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_configuration_lock.json",
+      "sha256": "3e563a8107bdaa9967d79681203195ee23be7b6ef3542abcd0fcf54d134f0723"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_fresh_dev_configuration_lock.json",
+      "sha256": "3ce9323783f3ed579b0ac4c895cdafc6c31775821ba9579346682a6bf9458650"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_confirm_predictions_locked.json",
+      "sha256": "30355d1d69ca2527b022012093a9dcd27dbd413104343b4ad578da2bb0c2a700"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/t16cal_sentences_t16_confirm_predictions_locked.json",
+      "sha256": "3f7a03da8139bb7672875f1861a1dc756b81bbd41cf334494d788beebce9f22a"
+    }
+  ],
+  "code_artifacts": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_full_evidence_comparison.py",
+      "sha256": "cfc207e767c345c91a1cf0e4189b1019a4bf2337322fb8f956d01939c5cca139"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_algorithm_comparison.py",
+      "sha256": "6a0833648b7d96d8a7638905aece6f2cdc71c786144f50e00289c6ee4a26093e"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_weak_word_baseline.py",
+      "sha256": "2ab89778ea28aaf552c4fb3437c601861bf6bf3149e0b36e1f8b87e921fbb137"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_dtw.c",
+      "sha256": "9558c7b4cf5f97b83499b0b78d4a7230c221b9eed673f2408b0baaa243b24a85"
+    }
+  ],
+  "numerical_environment": {
+    "python": "3.15.2 (main, Oct 25 2026, 16:57:51) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "platform": "macOS-27.2.1-arm64-arm-64bit-Mach-O",
+    "compiled_helper": "clang -O3 -std=c99 -dynamiclib; no external model libraries"
+  },
+  "not_read": "No confirmation sentenceText/targets or Sol confirmation outputs were read; only supplied neural arrays and input metadata.",
+  "shuffled_control_prediction_artifacts": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_sentences_t16_confirm_shuffle_predictions_locked.json",
+      "sha256": "ad85dd0188af65295dd29a55ba44a8b17a90e70ef60ce382d30cb107403fde1f"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/t16cal_sentences_t16_confirm_shuffle_predictions_locked.json",
+      "sha256": "337e4e1671d2c8e7a8438ea61d2ea924f4e0e2e15c213e2261fb9524be384fca"
+    }
+  ],
+  "control_status": "Both32 shuffled-control prediction sets locked; no target text read or scored"
+}

@@ -1,0 +1,128 @@
+{
+  "first": {
+    "n": 32,
+    "edits": 24,
+    "reference_words": 143,
+    "WER": 0.16783216783216784,
+    "exact": 18
+  },
+  "repeat": {
+    "n": 32,
+    "edits": 30,
+    "reference_words": 143,
+    "WER": 0.2097902097902098,
+    "exact": 15
+  },
+  "repeat_strict": {
+    "n": 30,
+    "edits": 28,
+    "reference_words": 137,
+    "WER": 0.20437956204379562,
+    "exact": 14
+  },
+  "repeat_vs_full_feature_numerical": {
+    "net_edit_reduction_with_sol": 21,
+    "WER_reduction_percentage_points": 14.685314685314685,
+    "descriptive_trial_bootstrap_95pct_percentage_points": [
+      8.0,
+      20.80536912751678
+    ],
+    "sol_lower_error_trials": 19,
+    "algorithm_lower_error_trials": 3,
+    "equal_error_trials": 10,
+    "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+  },
+  "identical_prompt_and_input_hashes": true,
+  "same_prediction_sequences": 20,
+  "both_exact": 15,
+  "scope": "Two independent model calls on the same32 recordings, not64 independent samples. Adaptive numerical procedures may differ.",
+  "shuffled": {
+    "nominal": {
+      "n": 32,
+      "edits": 141,
+      "reference_words": 143,
+      "WER": 0.986013986013986,
+      "exact": 0
+    },
+    "donor": {
+      "n": 32,
+      "edits": 29,
+      "reference_words": 143,
+      "WER": 0.20279720279720279,
+      "exact": 16
+    },
+    "scope": "Independent tool-assisted inference with duration-matched recordings reassigned; no target text supplied."
+  },
+  "text_only": {
+    "scores": {
+      "n": 32,
+      "edits": 44,
+      "reference_words": 143,
+      "WER": 0.3076923076923077,
+      "exact": 15
+    },
+    "final_neural_call_vs_text_only": {
+      "net_edit_reduction_with_sol": 20,
+      "WER_reduction_percentage_points": 13.986013986013987,
+      "descriptive_trial_bootstrap_95pct_percentage_points": [
+        3.225289495450786,
+        25.37313432835821
+      ],
+      "sol_lower_error_trials": 13,
+      "algorithm_lower_error_trials": 3,
+      "equal_error_trials": 16,
+      "scope": "Paired within one chronological recording block. Does not account for unknown serial dependencies or support population generalization."
+    },
+    "scope": "Post-inspection development comparison. Given last saved numerical word sequence and calibration transcripts, no query neural evidence. Inherits upstream Sol numerical construction; final-stage comparator only."
+  },
+  "call_costs": {
+    "sentences_t16_confirm": {
+      "wall_seconds": 1376.3414537906647,
+      "usage": [
+        {
+          "input_tokens": 2833327,
+          "cached_input_tokens": 2715008,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 45737,
+          "reasoning_output_tokens": 30720
+        }
+      ]
+    },
+    "sentences_t16_confirm_repeat": {
+      "wall_seconds": 1064.6228911876678,
+      "usage": [
+        {
+          "input_tokens": 3153320,
+          "cached_input_tokens": 3044736,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 38875,
+          "reasoning_output_tokens": 24291
+        }
+      ]
+    },
+    "sentences_t16_confirm_shuffle": {
+      "wall_seconds": 870.22043800354,
+      "usage": [
+        {
+          "input_tokens": 2344014,
+          "cached_input_tokens": 2209152,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 32184,
+          "reasoning_output_tokens": 17003
+        }
+      ]
+    },
+    "neural_text_correction_t16": {
+      "wall_seconds": 92.19869899749756,
+      "usage": [
+        {
+          "input_tokens": 17829,
+          "cached_input_tokens": 12160,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 3427,
+          "reasoning_output_tokens": 2588
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+calibration segmentation 1
+calibration segmentation 2
+calibration segmentation 3
+Saved algorithm-only reconstructions and evidence
+Refreshed template_inference.py
+Refreshed consensus_evidence.py
+Refreshed phrase_mosaic.py
+Refreshed compare_candidates.py
+Saved word DTW evidence
+Refreshed word_dtw_evidence.py
+Saved 16 interpreted reconstructions; IDs, vocabulary, and novel-combination constraint checked.
+Refreshed finalize_reconstruction.py

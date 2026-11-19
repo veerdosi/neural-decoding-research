@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "tb0b19ec8",
+    "tokens": [
+      "you",
+      "going"
+    ],
+    "intervals": [
+      {
+        "token": "you",
+        "start": 2,
+        "end": 13
+      },
+      {
+        "token": "going",
+        "start": 13,
+        "end": 25
+      }
+    ],
+    "interpretation": "You agrees across c005/c008/c034/c074; going is supported by c008/c033/c076. Okay remains a weaker final-word alternative."
+  },
+  {
+    "id": "t59dcd856",
+    "tokens": [
+      "i",
+      "hope",
+      "you",
+      "have",
+      "family"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 18
+      },
+      {
+        "token": "hope",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "token": "you",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "token": "have",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "token": "family",
+        "start": 36,
+        "end": 51
+      }
+    ],
+    "interpretation": "Overlapping i-hope sources; 18:36 matches hope-you-have in c071; family agrees across c000/c047/c065/c071/c078. The short you/have split is less certain."
+  },
+  {
+    "id": "tcd92c113",
+    "tokens": [
+      "that",
+      "is",
+      "okay"
+    ],
+    "intervals": [
+      {
+        "token": "that",
+        "start": 2,
+        "end": 12
+      },
+      {
+        "token": "is",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "token": "okay",
+        "start": 17,
+        "end": 33
+      }
+    ],
+    "interpretation": "Initial that matches c018; is matches c019/c065/c079; okay matches c047/c065/c072."
+  },
+  {
+    "id": "t1fe83bc3",
+    "tokens": [
+      "how",
+      "do",
+      "you",
+      "do",
+      "please"
+    ],
+    "intervals": [
+      {
+        "token": "how",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "token": "do",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "token": "you",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "token": "do",
+        "start": 18,
+        "end": 26
+      },
+      {
+        "token": "please",
+        "start": 26,
+        "end": 38
+      }
+    ],
+    "interpretation": "How agrees across c014/c031/c038/c057. The middle overlaps do and you-do in c041/c058. Please best matches c004. The short do-you split is uncertain; clean is a competing late transition match."
+  },
+  {
+    "id": "td28e3558",
+    "tokens": [
+      "my",
+      "it"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 15
+      },
+      {
+        "token": "it",
+        "start": 15,
+        "end": 26
+      }
+    ],
+    "interpretation": "Initial my best matches c073, with competing hungry-like local fragments in c016/c020/c069. Final it matches c014/c015/c041; glasses is a competing suffix. This is a low-confidence composition."
+  },
+  {
+    "id": "t6f0fdfe0",
+    "tokens": [
+      "where",
+      "is",
+      "my",
+      "music"
+    ],
+    "intervals": [
+      {
+        "token": "where",
+        "start": 2,
+        "end": 19
+      },
+      {
+        "token": "is",
+        "start": 19,
+        "end": 26
+      },
+      {
+        "token": "my",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "token": "music",
+        "start": 32,
+        "end": 49
+      }
+    ],
+    "interpretation": "Where/is agree with c033/c052/c079. My agrees across c013/c035/c039/c058/c079. Music agrees across c002/c035/c039."
+  },
+  {
+    "id": "t4539ffbe",
+    "tokens": [
+      "hope",
+      "they",
+      "feel",
+      "thirsty"
+    ],
+    "intervals": [
+      {
+        "token": "hope",
+        "start": 2,
+        "end": 9
+      },
+      {
+        "token": "they",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "token": "feel",
+        "start": 15,
+        "end": 23
+      },
+      {
+        "token": "thirsty",
+        "start": 23,
+        "end": 38
+      }
+    ],
+    "interpretation": "Early hope has cross-position matches in c024/c041/c078; subsequent they is brief. Feel matches c017/c029/c050 and thirsty matches c000/c012/c050/c066."
+  },
+  {
+    "id": "ta2aa0fcb",
+    "tokens": [
+      "is",
+      "it"
+    ],
+    "intervals": [
+      {
+        "token": "is",
+        "start": 2,
+        "end": 14
+      },
+      {
+        "token": "it",
+        "start": 14,
+        "end": 24
+      }
+    ],
+    "interpretation": "It-is and is-it templates are close; repeated is/it overlap supports both words. Exact it-is equals calibration c026 and is excluded by the supplied novelty constraint; order is therefore interpreted as is-it."
+  },
+  {
+    "id": "tf75891ff",
+    "tokens": [
+      "i",
+      "hope",
+      "need",
+      "my",
+      "music",
+      "are"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 14
+      },
+      {
+        "token": "hope",
+        "start": 14,
+        "end": 23
+      },
+      {
+        "token": "need",
+        "start": 23,
+        "end": 30
+      },
+      {
+        "token": "my",
+        "start": 30,
+        "end": 37
+      },
+      {
+        "token": "music",
+        "start": 37,
+        "end": 44
+      },
+      {
+        "token": "are",
+        "start": 44,
+        "end": 54
+      }
+    ],
+    "interpretation": "Need-my-music matches c035; final are agrees across c024/c053/c066/c072. No extra you was inserted: 21:31 need clearly outscored you in the targeted comparison. Unusual order preserved."
+  },
+  {
+    "id": "t514a6795",
+    "tokens": [
+      "is",
+      "it",
+      "what",
+      "you",
+      "do"
+    ],
+    "intervals": [
+      {
+        "token": "is",
+        "start": 18,
+        "end": 37
+      },
+      {
+        "token": "it",
+        "start": 37,
+        "end": 42
+      },
+      {
+        "token": "what",
+        "start": 42,
+        "end": 50
+      },
+      {
+        "token": "you",
+        "start": 50,
+        "end": 58
+      },
+      {
+        "token": "do",
+        "start": 58,
+        "end": 66
+      }
+    ],
+    "interpretation": "First approximately 18 bins have weak, inconsistent matches and are interpreted as leading pause. Is-it / it-is-what overlap appears in c003/c026/c027/c036; what has c004/c011/c069 interval support. Final you-do agrees with c011/c031/c063/c070/c071. What versus that and initial is/it order are uncertain."
+  },
+  {
+    "id": "t9ce92bac",
+    "tokens": [
+      "it",
+      "is",
+      "bad"
+    ],
+    "intervals": [
+      {
+        "token": "it",
+        "start": 2,
+        "end": 13
+      },
+      {
+        "token": "is",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "token": "bad",
+        "start": 19,
+        "end": 30
+      }
+    ],
+    "interpretation": "Initial it-is best matches c027; bad agrees across c018/c034/c036."
+  },
+  {
+    "id": "t3afd73b4",
+    "tokens": [
+      "yes",
+      "i",
+      "am",
+      "very",
+      "hungry"
+    ],
+    "intervals": [
+      {
+        "token": "yes",
+        "start": 2,
+        "end": 15
+      },
+      {
+        "token": "i",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "token": "am",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "token": "very",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "token": "hungry",
+        "start": 33,
+        "end": 45
+      }
+    ],
+    "interpretation": "Initial yes-i-am best matches c060 and has c020 overlap; very agrees across c009/c060/c066/c071; hungry agrees across c016/c020/c069."
+  },
+  {
+    "id": "tef9d94a6",
+    "tokens": [
+      "you",
+      "do",
+      "like",
+      "music"
+    ],
+    "intervals": [
+      {
+        "token": "you",
+        "start": 2,
+        "end": 16
+      },
+      {
+        "token": "do",
+        "start": 16,
+        "end": 24
+      },
+      {
+        "token": "like",
+        "start": 24,
+        "end": 35
+      },
+      {
+        "token": "music",
+        "start": 35,
+        "end": 47
+      }
+    ],
+    "interpretation": "You-do has a stronger full-prefix match to c056 than do-you to c063, although the ordering is ambiguous. Like and music agree across c002/c028/c035/c039."
+  },
+  {
+    "id": "t52b24bf6",
+    "tokens": [
+      "do",
+      "they",
+      "have",
+      "my",
+      "glasses"
+    ],
+    "intervals": [
+      {
+        "token": "do",
+        "start": 2,
+        "end": 18
+      },
+      {
+        "token": "they",
+        "start": 18,
+        "end": 23
+      },
+      {
+        "token": "have",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "token": "my",
+        "start": 26,
+        "end": 32
+      },
+      {
+        "token": "glasses",
+        "start": 32,
+        "end": 49
+      }
+    ],
+    "interpretation": "Do-they overlaps c011/c030; have is supported by c027/c030/c058; my by c028/c058/c078; glasses by c061/c073. The brief have span was merged by some algorithm-only paths."
+  },
+  {
+    "id": "t5f2d20a0",
+    "tokens": [
+      "you",
+      "hope",
+      "my",
+      "family",
+      "is",
+      "good"
+    ],
+    "intervals": [
+      {
+        "token": "you",
+        "start": 2,
+        "end": 15
+      },
+      {
+        "token": "hope",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "token": "my",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "token": "family",
+        "start": 25,
+        "end": 34
+      },
+      {
+        "token": "is",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "token": "good",
+        "start": 39,
+        "end": 51
+      }
+    ],
+    "interpretation": "You-hope matches c008; short my agrees across c008/c039/c058; family agrees across c000/c019/c043/c065/c078; is and good are independently supported."
+  },
+  {
+    "id": "t44bb2095",
+    "tokens": [
+      "my",
+      "nurse",
+      "is",
+      "very",
+      "tired"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 14
+      },
+      {
+        "token": "nurse",
+        "start": 14,
+        "end": 23
+      },
+      {
+        "token": "is",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "token": "very",
+        "start": 27,
+        "end": 36
+      },
+      {
+        "token": "tired",
+        "start": 36,
+        "end": 49
+      }
+    ],
+    "interpretation": "My-nurse-is overlaps c005/c008/c013/c068; very matches c009/c060/c066/c071; tired has strong c042 matches. Here is a weaker tail alternative in transferred votes."
+  },
+  {
+    "id": "te366b91c",
+    "tokens": [
+      "i",
+      "tell",
+      "no",
+      "family"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 11
+      },
+      {
+        "token": "tell",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "token": "no",
+        "start": 18,
+        "end": 27
+      },
+      {
+        "token": "family",
+        "start": 27,
+        "end": 46
+      }
+    ],
+    "interpretation": "Targeted 10:18 tell matched c012 more strongly than hope; 18:27 no matched c074, with they/hope as alternatives. Family agrees across many recordings. The broader vote path incorrectly merged tell/no into hope; unusual sequence retained."
+  },
+  {
+    "id": "ta8a65775",
+    "tokens": [
+      "i",
+      "hope",
+      "i",
+      "am",
+      "very",
+      "good",
+      "family"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 13
+      },
+      {
+        "token": "hope",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "token": "i",
+        "start": 23,
+        "end": 30
+      },
+      {
+        "token": "am",
+        "start": 30,
+        "end": 37
+      },
+      {
+        "token": "very",
+        "start": 37,
+        "end": 51
+      },
+      {
+        "token": "good",
+        "start": 51,
+        "end": 60
+      },
+      {
+        "token": "family",
+        "start": 60,
+        "end": 80
+      }
+    ],
+    "interpretation": "I-hope and final very-good-family strongly overlap c071 and other sources. Middle i-am has two independent phrase matches in c048/c060, stronger than you-have, they-are or you-are. The i/am split is approximate."
+  },
+  {
+    "id": "t8485b6b9",
+    "tokens": [
+      "how",
+      "tired",
+      "are",
+      "they"
+    ],
+    "intervals": [
+      {
+        "token": "how",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "token": "tired",
+        "start": 10,
+        "end": 21
+      },
+      {
+        "token": "are",
+        "start": 21,
+        "end": 30
+      },
+      {
+        "token": "they",
+        "start": 30,
+        "end": 38
+      }
+    ],
+    "interpretation": "How matches c014/c038/c057; tired has overlapping c042 matches around 14:25; are and they match c052/c053/c066. A simple how-are-they path merges an internal span and is also an exact calibration sentence, excluded by novelty."
+  },
+  {
+    "id": "t41450074",
+    "tokens": [
+      "they",
+      "like",
+      "it"
+    ],
+    "intervals": [
+      {
+        "token": "they",
+        "start": 2,
+        "end": 12
+      },
+      {
+        "token": "like",
+        "start": 12,
+        "end": 20
+      },
+      {
+        "token": "it",
+        "start": 20,
+        "end": 30
+      }
+    ],
+    "interpretation": "They agrees across c024/c064; like across c002/c028/c031/c039/c045; final it across c014/c017/c041. Up remains a weaker final-word alternative."
+  },
+  {
+    "id": "t53cbb8eb",
+    "tokens": [
+      "i",
+      "nurse",
+      "are",
+      "you"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "token": "nurse",
+        "start": 10,
+        "end": 19
+      },
+      {
+        "token": "are",
+        "start": 19,
+        "end": 27
+      },
+      {
+        "token": "you",
+        "start": 27,
+        "end": 41
+      }
+    ],
+    "interpretation": "Initial i is weak but supported by c012/c032/c039. Nurse agrees across c005/c029/c068; are across c052/c053/c072/c074; you best matches c012/c008/c044. No grammatical repair applied."
+  },
+  {
+    "id": "tbfeb0ff2",
+    "tokens": [
+      "i",
+      "hope",
+      "they",
+      "do",
+      "not",
+      "need",
+      "music"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 8
+      },
+      {
+        "token": "hope",
+        "start": 8,
+        "end": 16
+      },
+      {
+        "token": "they",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "token": "do",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "token": "not",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "token": "need",
+        "start": 32,
+        "end": 39
+      },
+      {
+        "token": "music",
+        "start": 39,
+        "end": 47
+      }
+    ],
+    "interpretation": "Prefix i-hope-they-do-not overlaps c035 and do-not overlaps c006/c050/c058. Need has c056/c075/c077 interval support. Music has c002/c035/c039 support. No my is added without a separate interval."
+  },
+  {
+    "id": "te3243945",
+    "tokens": [
+      "i",
+      "am",
+      "good",
+      "here"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 11
+      },
+      {
+        "token": "am",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "token": "good",
+        "start": 21,
+        "end": 27
+      },
+      {
+        "token": "here",
+        "start": 27,
+        "end": 35
+      }
+    ],
+    "interpretation": "Targeted prefix i-am from c001 outscored i-hope, i-need and i-tell. Good matches c003/c019/c023/c032/c074; here agrees across c005/c024/c044/c045/c048."
+  },
+  {
+    "id": "tca769afd",
+    "tokens": [
+      "it",
+      "is",
+      "hope",
+      "you",
+      "are",
+      "comfortable"
+    ],
+    "intervals": [
+      {
+        "token": "it",
+        "start": 2,
+        "end": 20
+      },
+      {
+        "token": "is",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "token": "hope",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "token": "you",
+        "start": 37,
+        "end": 43
+      },
+      {
+        "token": "are",
+        "start": 43,
+        "end": 49
+      },
+      {
+        "token": "comfortable",
+        "start": 49,
+        "end": 66
+      }
+    ],
+    "interpretation": "Initial it/is order remains uncertain. Is has internal c008/c067/c079 support. Hope-you-are overlaps c024/c044/c062; comfortable agrees strongly across c010/c013/c029. Weak trailing bins are treated as offset."
+  },
+  {
+    "id": "td133fe68",
+    "tokens": [
+      "my",
+      "family",
+      "is",
+      "not",
+      "very",
+      "tired"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 16
+      },
+      {
+        "token": "family",
+        "start": 16,
+        "end": 27
+      },
+      {
+        "token": "is",
+        "start": 27,
+        "end": 32
+      },
+      {
+        "token": "not",
+        "start": 32,
+        "end": 37
+      },
+      {
+        "token": "very",
+        "start": 37,
+        "end": 47
+      },
+      {
+        "token": "tired",
+        "start": 47,
+        "end": 61
+      }
+    ],
+    "interpretation": "My-family agrees across c000/c019/c043/c047/c065/c078. Targeted 26:38 is-not best matches c043. Very agrees across c009/c060/c066/c071. Tired has strong c042 matches; here is a competing tail alternative."
+  },
+  {
+    "id": "t588781f6",
+    "tokens": [
+      "my",
+      "not",
+      "here"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 19
+      },
+      {
+        "token": "not",
+        "start": 19,
+        "end": 25
+      },
+      {
+        "token": "here",
+        "start": 25,
+        "end": 35
+      }
+    ],
+    "interpretation": "Initial my best matches c073. Not agrees with c050/c058; like-it and do-not are alternatives for the middle interval. Here is very strongly supported by c024/c044/c048/c077/c078. Right was not supported by fixed-interval matching."
+  },
+  {
+    "id": "tced8ecfc",
+    "tokens": [
+      "i",
+      "like",
+      "my",
+      "comfortable",
+      "have"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 12
+      },
+      {
+        "token": "like",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "token": "my",
+        "start": 18,
+        "end": 24
+      },
+      {
+        "token": "comfortable",
+        "start": 24,
+        "end": 40
+      },
+      {
+        "token": "have",
+        "start": 40,
+        "end": 52
+      }
+    ],
+    "interpretation": "Initial i and like have strong local matches. 12:23 like-my best matches c028 with c039 support. Comfortable agrees across c010/c013/c029. Final have best matches c030 at 41:52, with help/am alternatives. The my and final word are low confidence; unusual ordering preserved."
+  },
+  {
+    "id": "t848cf4da",
+    "tokens": [
+      "i"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 23
+      }
+    ],
+    "interpretation": "A single stretched i best matches c077/c016/c032. Internal my-like fragments and i-am are alternatives, but the extra word is not resolved. No count was supplied; one word is the conservative best match."
+  },
+  {
+    "id": "td6e48564",
+    "tokens": [
+      "where",
+      "is",
+      "that"
+    ],
+    "intervals": [
+      {
+        "token": "where",
+        "start": 2,
+        "end": 15
+      },
+      {
+        "token": "is",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "token": "that",
+        "start": 21,
+        "end": 31
+      }
+    ],
+    "interpretation": "Where/is overlap c033/c052/c079. Final that strongly matches c051 and c037."
+  },
+  {
+    "id": "t0575fbc6",
+    "tokens": [
+      "my",
+      "hope",
+      "is",
+      "my",
+      "success"
+    ],
+    "intervals": [
+      {
+        "token": "my",
+        "start": 2,
+        "end": 11
+      },
+      {
+        "token": "hope",
+        "start": 11,
+        "end": 20
+      },
+      {
+        "token": "is",
+        "start": 20,
+        "end": 25
+      },
+      {
+        "token": "my",
+        "start": 25,
+        "end": 32
+      },
+      {
+        "token": "success",
+        "start": 32,
+        "end": 51
+      }
+    ],
+    "interpretation": "Initial my best matches c073. Hope has c002/c028/c046 support. Is-my-success matches c067, with internal my agreement from other recordings. Success occurs in only one calibration."
+  },
+  {
+    "id": "t6453e6ae",
+    "tokens": [
+      "i",
+      "do",
+      "not",
+      "have"
+    ],
+    "intervals": [
+      {
+        "token": "i",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "token": "do",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "token": "not",
+        "start": 16,
+        "end": 24
+      },
+      {
+        "token": "have",
+        "start": 24,
+        "end": 36
+      }
+    ],
+    "interpretation": "I-do-not-have overlaps c058 and do-not across c006/c035/c050/c056. Have versus is/up at the end is uncertain; multiple transferred paths support have."
+  },
+  {
+    "id": "t4d2d7415",
+    "tokens": [
+      "how",
+      "do",
+      "they",
+      "do",
+      "right"
+    ],
+    "intervals": [
+      {
+        "token": "how",
+        "start": 2,
+        "end": 20
+      },
+      {
+        "token": "do",
+        "start": 20,
+        "end": 24
+      },
+      {
+        "token": "they",
+        "start": 24,
+        "end": 30
+      },
+      {
+        "token": "do",
+        "start": 30,
+        "end": 38
+      },
+      {
+        "token": "right",
+        "start": 38,
+        "end": 52
+      }
+    ],
+    "interpretation": "How best matches c053/c038; a brief do appears before they. They-do overlaps c011/c014/c030/c041. Right best matches c021 with c024/c048 support. First how versus what is less certain."
+  }
+]

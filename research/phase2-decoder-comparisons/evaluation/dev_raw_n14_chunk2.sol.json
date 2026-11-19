@@ -1,0 +1,50 @@
+{
+  "name": "dev_raw_n14_chunk2",
+  "correct": 11,
+  "n": 14,
+  "accuracy": 0.7857142857142857,
+  "ci95_trial_descriptive": [
+    0.49202432295152815,
+    0.9534207121101327
+  ],
+  "prediction": [
+    3,
+    4,
+    3,
+    0,
+    6,
+    1,
+    2,
+    2,
+    5,
+    2,
+    1,
+    5,
+    1,
+    0
+  ],
+  "method_self_report": "Manually matched recurring participant-specific calibration patterns across both feature blocks, downweighting channels showing shared query shifts. Main uncertainty is substantial distribution shift and overlapping noisy word signatures.",
+  "block_accuracy": {
+    "17": 0.8,
+    "25": 0.7777777777777778
+  },
+  "per_word_accuracy": {
+    "ban": 1.0,
+    "choice": 1.0,
+    "day": 0.6666666666666666,
+    "feel": 1.0,
+    "though": 0.5,
+    "were": 0.5
+  },
+  "donor_word_accuracy": 0.7857142857142857,
+  "tool_calls": 0,
+  "usage": [
+    {
+      "input_tokens": 74130,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 25327,
+      "reasoning_output_tokens": 25104
+    }
+  ]
+}

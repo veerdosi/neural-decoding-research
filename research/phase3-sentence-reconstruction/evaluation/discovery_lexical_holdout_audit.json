@@ -1,0 +1,151 @@
+{
+  "calibration_word_types": 42,
+  "held_word_types": [
+    "comfortable",
+    "computer",
+    "family",
+    "glasses",
+    "hungry",
+    "music",
+    "outside",
+    "success"
+  ],
+  "calibration_trials": 168,
+  "query_trials": 16,
+  "whole_word_types_disjoint": true,
+  "trial_indices_disjoint": true,
+  "all_held_word_phonemes_present_in_calibration": true,
+  "phoneme_coverage": {
+    "comfortable": {
+      "pronunciations": [
+        [
+          "K",
+          "AH",
+          "M",
+          "F",
+          "ER",
+          "T",
+          "AH",
+          "B",
+          "AH",
+          "L"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "computer": {
+      "pronunciations": [
+        [
+          "K",
+          "AH",
+          "M",
+          "P",
+          "Y",
+          "UW",
+          "T",
+          "ER"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "family": {
+      "pronunciations": [
+        [
+          "F",
+          "AE",
+          "M",
+          "AH",
+          "L",
+          "IY"
+        ],
+        [
+          "F",
+          "AE",
+          "M",
+          "L",
+          "IY"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "glasses": {
+      "pronunciations": [
+        [
+          "G",
+          "L",
+          "AE",
+          "S",
+          "AH",
+          "Z"
+        ],
+        [
+          "G",
+          "L",
+          "AE",
+          "S",
+          "IH",
+          "Z"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "hungry": {
+      "pronunciations": [
+        [
+          "HH",
+          "AH",
+          "NG",
+          "G",
+          "R",
+          "IY"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "music": {
+      "pronunciations": [
+        [
+          "M",
+          "Y",
+          "UW",
+          "Z",
+          "IH",
+          "K"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "outside": {
+      "pronunciations": [
+        [
+          "AW",
+          "T",
+          "S",
+          "AY",
+          "D"
+        ]
+      ],
+      "uncovered_phones": []
+    },
+    "success": {
+      "pronunciations": [
+        [
+          "S",
+          "AH",
+          "K",
+          "S",
+          "EH",
+          "S"
+        ]
+      ],
+      "uncovered_phones": []
+    }
+  },
+  "query_metadata_has_no_word_labels": true,
+  "input_hashes_match_frozen_case": {
+    "inputs.json": true,
+    "neural_inputs.npz": true,
+    "cmudict.dict": true
+  },
+  "scope": "Single participant/date, cued attempted single words; known source vocabulary is a possible model prior. Absence from supplied calibration is not proof of absence from model pretraining. Block centering includes unlabeled data."
+}

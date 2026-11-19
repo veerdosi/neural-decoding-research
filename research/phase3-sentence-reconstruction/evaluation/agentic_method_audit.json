@@ -1,0 +1,526 @@
+{
+  "audit_version": 1,
+  "audited_utc": "2026-11-18T17:43:38.356630+00:00",
+  "experiment": "sentences_agentic_dev",
+  "scope": "Post-call audit of supplied prompt, completed Codex invocation/event trace, input artifacts, model-authored scripts, and independent source-data reconstruction. No model calls or predictions were performed by this audit; no sandbox inputs or research artifacts were edited.",
+  "verdict": {
+    "method_compliance": "supported_by_recorded_code_and_trace",
+    "query_target_leakage": "not_observed_in_inputs_or_logged_actions",
+    "separately_trained_supervised_decoder_or_encoder": "not_observed",
+    "network_or_browsing": "not_observed",
+    "complete_os_level_access_exclusion": "not_established_by_this_trace"
+  },
+  "summary": "The recorded method stays within permitted neural-only retrieval, unsupervised transformations/alignment, and Sol inference over labeled calibration context. All eight true full sentences are absent from calibration, including as contiguous spans of longer calibration transcripts. The input arrays exactly reproduce the declared label-free processing. The result is development evidence and uses transductive unlabeled block correction; it is not an untouched confirmation or a controlled ablation of tool use.",
+  "model": {
+    "name": "gpt-6.1-sol",
+    "reasoning_effort": "high",
+    "interface": "Authenticated Codex CLI exec",
+    "fine_tuning_or_gradient_updates_observed": false
+  },
+  "trace": {
+    "event_count": 61,
+    "event_types": {
+      "thread.started": 1,
+      "turn.started": 1,
+      "item.completed": 32,
+      "item.started": 26,
+      "turn.completed": 1
+    },
+    "unique_shell_commands": 26,
+    "command_event_count": 52,
+    "other_tool_item_types": [],
+    "initial_file_listing": [
+      "inputs.json",
+      "neural_inputs.npz"
+    ],
+    "initial_cwd": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox",
+    "cwd_changes_observed": false,
+    "research_report_or_evaluation_reads_observed": false,
+    "network_commands_or_network_libraries_observed": false,
+    "delegation_or_additional_model_calls_observed": false,
+    "commands": [
+      {
+        "id": "item_1",
+        "first_event_index_zero_based": 3,
+        "last_event_index_zero_based": 4,
+        "command_sha256": "8c5f8141b99a016e0c6c2f972f2666cde50593c403550e3c25e2d954cf189cbb"
+      },
+      {
+        "id": "item_2",
+        "first_event_index_zero_based": 5,
+        "last_event_index_zero_based": 6,
+        "command_sha256": "fb9b090ace2d15b3c5d5c37b70cb6b98cedb23d8627391caffa32cac77b055ca"
+      },
+      {
+        "id": "item_3",
+        "first_event_index_zero_based": 7,
+        "last_event_index_zero_based": 8,
+        "command_sha256": "4088349c1a54bfbe5d14ff71410fb4c400810117379a23ad255c3427a9a11589"
+      },
+      {
+        "id": "item_4",
+        "first_event_index_zero_based": 9,
+        "last_event_index_zero_based": 10,
+        "command_sha256": "3fbc745646627958ed110b94dcb904a154a2491be6f618d7f7449c48bb14ab32"
+      },
+      {
+        "id": "item_5",
+        "first_event_index_zero_based": 11,
+        "last_event_index_zero_based": 12,
+        "command_sha256": "abb3f2e6f95812cd9ba7381e7b24acaa1ef742e849a1a82025d0460a316d1507"
+      },
+      {
+        "id": "item_7",
+        "first_event_index_zero_based": 14,
+        "last_event_index_zero_based": 15,
+        "command_sha256": "5da9479f446dbd9fad17a38365e6c9e2850da222e6f13c8dd55265e7d31873b8"
+      },
+      {
+        "id": "item_8",
+        "first_event_index_zero_based": 16,
+        "last_event_index_zero_based": 35,
+        "command_sha256": "7d1934634bcfa1cd4c46a1e6228a6ef86661755f11e1c5bfeea5eaabbff35e86"
+      },
+      {
+        "id": "item_9",
+        "first_event_index_zero_based": 17,
+        "last_event_index_zero_based": 18,
+        "command_sha256": "77cb23903888c5cfeb235a5f9eadf2ed4a9bd0c225b72a4e033aa2afd946e54f"
+      },
+      {
+        "id": "item_10",
+        "first_event_index_zero_based": 19,
+        "last_event_index_zero_based": 20,
+        "command_sha256": "03979bb2b08f8230c94df7e638b69e8819f644f804613ed2a8fb8ef871e4b016"
+      },
+      {
+        "id": "item_11",
+        "first_event_index_zero_based": 21,
+        "last_event_index_zero_based": 22,
+        "command_sha256": "1c8f89dab7da62f9dd9d83e0b897b4535d63645e0ce36519077f96b9c9978b4e"
+      },
+      {
+        "id": "item_13",
+        "first_event_index_zero_based": 24,
+        "last_event_index_zero_based": 25,
+        "command_sha256": "6163f8cbf0c5c41ec2883947121b0a114fc678e8181c2e1aa3afdc8ab370f031"
+      },
+      {
+        "id": "item_14",
+        "first_event_index_zero_based": 26,
+        "last_event_index_zero_based": 27,
+        "command_sha256": "5c858396478481d1b73c6370d008ede6c47e80ca740f870e26c1466adb094515"
+      },
+      {
+        "id": "item_15",
+        "first_event_index_zero_based": 28,
+        "last_event_index_zero_based": 29,
+        "command_sha256": "bfb6bc216c0b94f46e30a5b056b9f5f13d9459351b0f5dc4f3e04ac9a24d3af1"
+      },
+      {
+        "id": "item_16",
+        "first_event_index_zero_based": 30,
+        "last_event_index_zero_based": 31,
+        "command_sha256": "a0adc71b1cb570746cff3b8d328414bb497f093bca3bcdd87c649c83ca802c51"
+      },
+      {
+        "id": "item_18",
+        "first_event_index_zero_based": 33,
+        "last_event_index_zero_based": 34,
+        "command_sha256": "e02d61d39c4db58f40d6a0845355c9336e45056c8fbb3902b056a1ae9636022b"
+      },
+      {
+        "id": "item_19",
+        "first_event_index_zero_based": 36,
+        "last_event_index_zero_based": 37,
+        "command_sha256": "0ab0d1b2606b4f1f5ea7ec4c989d652852cd7823f268d0f066fecf85b835849e"
+      },
+      {
+        "id": "item_20",
+        "first_event_index_zero_based": 38,
+        "last_event_index_zero_based": 39,
+        "command_sha256": "0619b99f4c6e7c9ef9710d428b87403d66f81491606612f9dda089070ed3c016"
+      },
+      {
+        "id": "item_21",
+        "first_event_index_zero_based": 40,
+        "last_event_index_zero_based": 41,
+        "command_sha256": "861ea371d2cab75a36642687c6b17c6cfa3e22a4c87eec31620bd50f52598e69"
+      },
+      {
+        "id": "item_22",
+        "first_event_index_zero_based": 42,
+        "last_event_index_zero_based": 43,
+        "command_sha256": "805729772461154a7a0bf071e267dddf67ab17701f4a82dacc9b94cd7087c003"
+      },
+      {
+        "id": "item_23",
+        "first_event_index_zero_based": 44,
+        "last_event_index_zero_based": 47,
+        "command_sha256": "09c1053b3611451f4bf0630f01a35c56faaa8a67068ef07fded07f8367c86da1"
+      },
+      {
+        "id": "item_24",
+        "first_event_index_zero_based": 45,
+        "last_event_index_zero_based": 46,
+        "command_sha256": "e1c800fd2fb7f7046d8757437da24fffda121b070e3325a9301d4440a9ef4221"
+      },
+      {
+        "id": "item_26",
+        "first_event_index_zero_based": 49,
+        "last_event_index_zero_based": 50,
+        "command_sha256": "5c7e0a06b0e866b75f64e637f00e69dd0be2adbdd74374b945a4d6c995c28bfa"
+      },
+      {
+        "id": "item_27",
+        "first_event_index_zero_based": 51,
+        "last_event_index_zero_based": 52,
+        "command_sha256": "13ce0133c10c0b36ac99b48ed70f3a3555c21039f41e307d7ecf8479fac1fa0d"
+      },
+      {
+        "id": "item_28",
+        "first_event_index_zero_based": 53,
+        "last_event_index_zero_based": 54,
+        "command_sha256": "093de0c0a848986ee4ca253accdb70c6ae8b18318fad419b2dd1306ac7af1af3"
+      },
+      {
+        "id": "item_29",
+        "first_event_index_zero_based": 55,
+        "last_event_index_zero_based": 56,
+        "command_sha256": "a149ec543fff6caae632dc6753164002c5185e15d4559f7764aefe89f9ca860a"
+      },
+      {
+        "id": "item_30",
+        "first_event_index_zero_based": 57,
+        "last_event_index_zero_based": 58,
+        "command_sha256": "fd368bce69f7c9961d0dc00685e985845d73921b9c4cd744877d89b126ab66d8"
+      }
+    ]
+  },
+  "file_access": {
+    "primary_data_reads": [
+      "inputs.json",
+      "neural_inputs.npz"
+    ],
+    "model_authored_local_code_read_or_imported": [
+      "edge_retrieval.py",
+      "finalize_evidence.py",
+      "inspect_intervals.py",
+      "local_dtw.py",
+      "local_retrieval.py",
+      "retrieval.py",
+      "show_local.py",
+      "variants.py"
+    ],
+    "local_intermediate_reads": [
+      "unsupervised_pca.npz",
+      "variant_retrieval.json",
+      "local_drop2.json",
+      "local_pca64drop2.json",
+      "local_pca32drop2.json",
+      "local_white.json",
+      "local_dtw_drop2.json"
+    ],
+    "local_output_files_written": [
+      "edge_drop2.json",
+      "edge_retrieval.py",
+      "finalize_evidence.py",
+      "global_retrieval.json",
+      "inference_evidence.json",
+      "inspect_drop2_c080_c083_c010_c072_c100.json",
+      "inspect_intervals.py",
+      "local_drop2.json",
+      "local_dtw.py",
+      "local_dtw_drop2.json",
+      "local_pca32drop2.json",
+      "local_pca64drop2.json",
+      "local_raw.json",
+      "local_retrieval.py",
+      "local_white.json",
+      "prefix_comparisons.json",
+      "reconstruction.json",
+      "retrieval.py",
+      "show_local.py",
+      "smoothed_pca.npz",
+      "unsupervised_pca.npz",
+      "variant_retrieval.json",
+      "variants.py"
+    ],
+    "intentional_data_reads_outside_cwd_observed": false,
+    "explicit_external_executable": "/opt/homebrew/Cellar/python@3.15/3.15.2/Frameworks/Python.framework/Versions/3.15/bin/python3.15",
+    "library_access_note": "The permitted Python interpreter, standard libraries, NumPy/SciPy, and shell startup may read files outside the data directory. The CLI workspace-write sandbox is not proof of cwd-only read confinement; no OS file-open or packet capture was supplied."
+  },
+  "input_checks": {
+    "frozen_hash_matches": {
+      "inputs.json": true,
+      "neural_inputs.npz": true
+    },
+    "npz_arrays": 128,
+    "npz_exact_expected_keys": true,
+    "npz_dtypes": [
+      "float64"
+    ],
+    "calibration_count": 120,
+    "calibration_unique_transcripts": 120,
+    "calibration_source_tokens_match": true,
+    "vocabulary_size": 50,
+    "query_metadata_keys": [
+      "duration_seconds",
+      "id",
+      "shape"
+    ],
+    "query_target_text_or_word_counts_present": false,
+    "query_duration_and_trajectory_length_present": true,
+    "train_test_trial_overlap": [],
+    "calibration_blocks": [
+      1,
+      4,
+      6
+    ],
+    "query_block": 8,
+    "independent_input_reconstruction_max_abs_error": 0.0,
+    "decodedSentenceText_nonempty_count": 0
+  },
+  "novel_sentence_checks": [
+    {
+      "query_id": "td133fe66",
+      "trial_zero_based": 123,
+      "target": [
+        "what",
+        "good",
+        "is",
+        "that"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "t91b28a91",
+      "trial_zero_based": 120,
+      "target": [
+        "please",
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "ta8a65773",
+      "trial_zero_based": 124,
+      "target": [
+        "how",
+        "is",
+        "it",
+        "right"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "tcd92c110",
+      "trial_zero_based": 125,
+      "target": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "t7d52b265",
+      "trial_zero_based": 122,
+      "target": [
+        "yes",
+        "my",
+        "nurse",
+        "is",
+        "coming",
+        "here"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "t50600ea0",
+      "trial_zero_based": 126,
+      "target": [
+        "music",
+        "is",
+        "here"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "t53cbb8ea",
+      "trial_zero_based": 127,
+      "target": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "nurse"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    },
+    {
+      "query_id": "tf75891fc",
+      "trial_zero_based": 121,
+      "target": [
+        "i",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "exact_calibration_transcript_matches": 0,
+      "contiguous_calibration_span_matches": []
+    }
+  ],
+  "numerical_method": {
+    "observed": [
+      "Gaussian temporal smoothing",
+      "Framewise vector normalization and cosine/Euclidean-style neural similarity",
+      "Calibration-only unsupervised covariance/PCA",
+      "Unsupervised component removal and eigenvalue-based whitening variants",
+      "Linear temporal resampling of actual recording intervals",
+      "Whole-recording, interval and prefix retrieval",
+      "Slope-constrained subsequence dynamic time warping",
+      "Sol interpretation/composition of retrieved labeled calibration transcripts"
+    ],
+    "saved_pca_mean_max_abs_error_against_calibration_only": 0.0,
+    "saved_pca_eigenvalue_max_abs_error_against_calibration_only": 8.881784197001252e-15,
+    "saved_pca_eigenpair_residual": 7.327471962526033e-15,
+    "supervised_model_fit_calls_observed": false,
+    "word_labeled_neural_template_averaging_observed": false,
+    "learned_word_emissions_or_segmenter_observed": false,
+    "retrieval_label_dependence": "Numerical similarities use trajectories rather than target labels. Calibration transcripts are printed beside retrieved IDs and interpreted by Sol. Some later candidate-ID subsets and prefix comparisons are selected after semantic inspection; the overall inference is context-aware, not a completely label-blind fixed pipeline. No transcript-driven numerical parameter fit or class prototype is observed.",
+    "final_prediction_provenance": "Sol wrote its inferred tokens into finalize_evidence.py in the final logged command, then emitted matching final response JSON. The initial directory had no prediction file. Sidecar predictions, reconstruction.json, and final response agree exactly."
+  },
+  "qualifications": [
+    {
+      "kind": "transductive_unlabeled_preprocessing",
+      "evidence": "agentic_sentence_study.py subtracts each full recording block mean before extracting trials. This includes all 40 block-8 recordings, not just the eight exposed development queries.",
+      "implication": "No word labels enter this correction, so this is not target-label leakage. Do not describe preprocessing as using only the eight exposed query recordings; preserve equivalent preprocessing access in comparisons and controls."
+    },
+    {
+      "kind": "query_inclusive_unsupervised_diagnostic",
+      "evidence": "Logged item_4 forms X=np.concatenate(list(raw.values())) and inspects its covariance eigenvalues, so that diagnostic includes the unlabeled query arrays. Saved PCA used by retrieval is subsequently computed from calibration only in variants.py and matches it numerically.",
+      "implication": "The model saw query distribution summaries as permitted inference-time information. Do not claim every calculation used calibration inputs only."
+    },
+    {
+      "kind": "development_status",
+      "evidence": "The eight trials are the same block-8 development set previously evaluated by the numerical-only sentence protocol. The new call lacks target text, but research design can be informed by earlier development results.",
+      "implication": "Fresh recordings and independent controls are needed for confirmation; this audit does not establish generalization."
+    },
+    {
+      "kind": "unmatched_prior_protocol_comparison",
+      "evidence": "The prior sentence protocol uses i6v 128 TX/power features, pre-go baseline subtraction, 24 relative-time samples and PCA32. This agentic protocol uses both arrays/256 features, block centering, nominal 100-ms frames, and adaptive retrieval/alignment.",
+      "implication": "The WER difference does not isolate a causal benefit of tools or reasoning by itself."
+    },
+    {
+      "kind": "trace_boundary",
+      "evidence": "The supplied event log is a Codex action trace, not a kernel file-access/network audit or a record of model pretraining.",
+      "implication": "No forbidden access is observed, but absolute absence of unlogged runtime reads, prior corpus familiarity, or semantic guessing cannot be proven here. Neural-dependence controls remain necessary."
+    }
+  ],
+  "evidence_artifacts": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/agentic_sentence_study.py",
+      "sha256": "ac221829ea32ab42c843acfdfde23c8e7464ad80e748f2663ae98cf6ce9a715b"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_study.py",
+      "sha256": "02c3f6ae92dad3a84980d4fda31e652a8de68d6881ae463f39b962112d90b3bb"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/prompts/sentences_agentic_dev.txt",
+      "sha256": "66f5f9ebc575f49829703defd5edd01c02dc86d55d5db80e2f337fd236bc96e0"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/cases/sentences_agentic_dev.json",
+      "sha256": "defebbf72977f588e004a65dcbeb471943f5df1222aecde738f0eb8add6a5ded"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/cases/sentences_agentic_dev.npz",
+      "sha256": "dc73870b97eaacfee64524c09a4aced1053c641abb6c15a3fdf93d460cd94de6"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_agentic_dev.invocation.json",
+      "sha256": "208398cc6daedd190f4ea69c74b165f80f5f24189c920db8830b9aa0d73d422a"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_agentic_dev.json",
+      "sha256": "a8b18e9996f4a8f6da02a686bf01afa1e6fc7d12cd9f42d44dbafaf883203dc2"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_agentic_dev.events.jsonl",
+      "sha256": "554848a1951f2fb2492a51d4e60ca09f2ed6c41b29a529ca538fd85feedfb4a7"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/inputs.json",
+      "sha256": "289bfddc561c17f0dea97683e89481ec513a506dd1740a8f76c737a3825823bf"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/neural_inputs.npz",
+      "sha256": "b221b5af30044bb95f9ae066d42be8c048a2c92940000f39a6f7de3883fb8954"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/unsupervised_pca.npz",
+      "sha256": "ce0c6ef000ce4f33c32e8ca3a6edcfc4d75a3ebdb896036dbd479afb0b24be1f"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/inference_evidence.json",
+      "sha256": "799199df2b39338bcaaf5343be13f04c1008a88662006e7980b60b2131f582c1"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/reconstruction.json",
+      "sha256": "4f98be012c923a9a7f58838bd5db22544d6dff9a22df54ac908f7c46826e5c11"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sources/t12.2023.11.28_attempted_50words.mat",
+      "sha256": "5293bdfd362d2a0be40fd3be55f7a7974bccf1f8d32ef50938f66c53452052e5"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/edge_retrieval.py",
+      "sha256": "821f14b0f985e1be2d3916af9845026d0acf85587606047389e7ce8c970d9f80"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/finalize_evidence.py",
+      "sha256": "4d05a0c8785fd5b32e770fdb29e33e378255b940c6dda4c1cba37e1f3544902e"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/inspect_intervals.py",
+      "sha256": "72d788490b087f696425e92169437edb803d316796f052c4166115b8c9cb6027"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_dtw.py",
+      "sha256": "f65b57d16e88366837ea67b6a0dec900ab3168af65c6b274b4c76328c167836a"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_retrieval.py",
+      "sha256": "4dba024b6b5172229d812c6fb1d30bb7e3adcdec2007e8faf89cfdefd4e6ee3d"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/retrieval.py",
+      "sha256": "c6e21170cefba6670942ce87fab7c4cbe2a98d756136e315874106a31dfc2b56"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/show_local.py",
+      "sha256": "a18003f57743cbea01de2297676e4a1b744e4525fa7a1dc13c4d9526198ddb06"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/variants.py",
+      "sha256": "1fc73825eee8300006e09813049f3e327c47e231b37f9e4fdad7634697b7b15f"
+    }
+  ]
+}

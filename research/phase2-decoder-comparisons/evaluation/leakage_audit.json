@@ -1,0 +1,70 @@
+{
+  "t12": {
+    "cue_order_pairs": [
+      {
+        "blocks": [
+          8,
+          9
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.16071428571428573
+      },
+      {
+        "blocks": [
+          8,
+          17
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.10714285714285714
+      },
+      {
+        "blocks": [
+          8,
+          25
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.10714285714285714
+      },
+      {
+        "blocks": [
+          9,
+          17
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.10714285714285714
+      },
+      {
+        "blocks": [
+          9,
+          25
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.14285714285714285
+      },
+      {
+        "blocks": [
+          17,
+          25
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.10714285714285714
+      }
+    ],
+    "calibration_evaluation_trial_overlap": 0,
+    "exact_feature_duplicates_between_calibration_and_evaluation": 0
+  },
+  "t16": {
+    "cue_order_pairs": [
+      {
+        "blocks": [
+          9,
+          17
+        ],
+        "identical_order": false,
+        "same_position_cue_fraction": 0.07142857142857142
+      }
+    ],
+    "calibration_evaluation_trial_overlap": 0,
+    "exact_feature_duplicates_between_calibration_and_evaluation": 0
+  }
+}

@@ -1,0 +1,117 @@
+c000 they:2-7 need:7-15 success:15-23
+c001 i:2-9 hope:9-17 they:17-24 feel:24-29 good:29-38
+c002 you:2-7 have:7-12 faith:12-21
+c003 have:2-9 faith:9-21
+c004 i:2-7 have:7-14 no:14-20 faith:20-31
+c005 i:2-8 hope:8-14 you:14-19 are:19-25 going:25-35
+c006 you:2-9 are:9-15 going:15-22
+c007 how:2-5 do:5-14 you:14-20 tell:20-25 that:25-33
+c008 i:2-10 am:10-14 very:14-22 good:22-30
+c009 they:2-8 need:8-10 it:10-18 coming:18-26 up:26-36
+c010 what:2-7 is:7-14 that:14-19 like:19-29
+c011 tell:2-8 my:8-17 nurse:17-21 i:21-34 am:34-40 not:40-47 hungry:47-58
+c012 am:2-6 i:6-14 coming:14-21 up:21-31
+c014 my:2-10 success:10-14 is:14-28 closer:28-31
+c015 they:2-10 feel:10-18 hungry:18-27
+c016 my:2-8 music:8-12 is:12-16 my:16-25 hope:25-33
+c017 they:2-6 tell:6-8 you:8-13 i:13-26 am:26-33 comfortable:33-44
+c018 no:2-6 they:6-13 are:13-20 not:20-26 going:26-35
+c019 you:2-8 are:8-13 going:13-22 outside:22-33
+c020 hope:2-10 they:10-16 feel:16-23 okay:23-32
+c021 how:2-7 do:7-10 they:10-18 help:18-26
+c022 i:2-6 need:6-12 my:12-20 nurse:20-27
+c023 do:2-7 you:7-14 need:14-19 help:19-26
+c024 you:2-8 what:8-16
+c025 hope:2-12 they:12-20 feel:20-29 right:29-39
+c026 you:2-9 are:9-14 outside:14-26
+c027 tell:2-8 my:8-16 family:16-22 they:22-29 are:29-35 hungry:35-45
+c028 music:2-14 please:14-21
+c029 hope:2-9 is:9-13 coming:13-22
+c030 they:2-9 are:9-15 not:15-24 clean:24-31
+c031 my:2-8 faith:8-11 is:11-20 right:20-23 here:23-33
+c032 my:2-9 family:9-14 is:14-19 not:19-25 going:25-34 outside:34-44
+c033 clean:2-7 here:7-18
+c035 how:2-7 bad:7-9 is:9-19 it:19-31 going:31-44
+c036 like:2-16 it:16-26 please:26-28
+c037 i:2-8 am:8-13 like:13-15 you:15-24
+c038 very:2-6 not:6-13 good:13-22
+c039 is:2-9 my:9-23 family:23-28 very:28-31 comfortable:31-42
+c040 i:2-8 hope:8-14 i:14-25 am:25-37 thirsty:37-52
+c041 i:2-7 like:7-13 music:13-24
+c042 what:2-10 do:10-18 you:18-24 feel:24-32 like:32-39
+c043 are:2-5 they:5-14 right:14-21
+c044 i:2-10 am:10-15 coming:15-27
+c045 do:2-6 you:6-17
+c046 what:2-6 do:6-10 you:10-15 tell:15-19 my:19-28 nurse:28-33
+c047 it:2-9 is:9-14 coming:14-22 here:22-32
+c048 you:2-9 feel:9-13 good:13-22
+c049 my:2-13 nurse:13-18 is:18-27 very:27-31 good:31-42
+c050 how:2-6 good:6-13 are:13-20 you:20-27
+c051 they:2-18 have:18-25 no:25-27 success:27-37
+c052 how:2-13 tired:13-20 are:20-28 you:28-38
+c053 where:2-4 are:4-7 they:7-17 going:17-23 here:23-36
+c054 you:2-8 clean:8-14 my:14-31 computer:31-42
+c055 where:2-4 you:4-11 need:11-19 it:19-27
+c056 i:2-8 hope:8-14 they:14-18 are:18-24 going:24-33
+c057 have:2-10 not:10-17
+c058 i:2-6 need:6-14 my:14-23 computer:23-25 right:25-29 here:29-41
+c059 i:2-8 hope:8-12 they:12-17 need:17-23 my:23-29 faith:29-37
+c060 how:2-8 do:8-13 you:13-18 do:18-24 it:24-30 right:30-35 here:35-46
+c061 what:2-6 do:6-12 they:12-18 tell:18-25 my:25-34 family:34-39
+c062 goodbye:2-10 what:10-20
+c063 you:2-6 need:6-12 my:12-19 glasses:19-22 right:22-24 here:24-40
+c064 do:2-11 i:11-16
+c065 have:2-7 it:7-15
+c066 what:2-7 do:7-12 i:12-18 have:18-25
+c067 what:2-8 is:8-16 okay:16-25
+c068 i:2-7 hope:7-15 you:15-22 do:22-30 okay:30-40
+c070 you:2-8 are:8-16 tired:16-21
+c071 how:2-9 thirsty:9-15 is:15-22 my:22-32 family:32-39
+c072 is:2-5 my:5-15 nurse:15-22 thirsty:22-35
+c073 what:2-8 do:8-11 they:11-18 do:18-25
+c074 they:2-8 have:8-13 no:13-19 need:19-28
+c075 you:2-5 need:5-7 it:7-15 here:15-26
+c076 my:2-10 glasses:10-13 are:13-21 right:21-27 here:27-35
+c077 i:2-7 clean:7-11 up:11-20
+c078 tell:2-9 my:9-15 family:15-19 i:19-28 am:28-34 comfortable:34-45
+c079 no:2-5 i:5-12 do:12-21 not:21-32 feel:32-41 very:41-45 comfortable:45-56
+c080 you:2-7 do:7-16 not:16-21 like:21-27 my:27-39 computer:39-46
+c081 i:2-7 need:7-14 music:14-23
+c082 how:2-5 do:5-11 you:11-21 do:21-27 what:27-35
+c083 i:2-5 hope:5-10 i:10-18 do:18-25 not:25-29 need:29-33 it:33-42
+c084 very:2-6 good:6-14 here:14-25
+c085 it:2-8 is:8-15 that:15-18 good:18-27
+c086 very:2-7 good:7-15 music:15-28
+c087 what:2-10 is:10-21 where:21-23
+c088 do:2-9 you:9-16 like:16-25 that:25-35
+c089 do:2-9 you:9-14 have:14-17 it:17-23 here:23-32
+c090 my:2-12 music:12-14 is:14-25 not:25-30 okay:30-36
+c091 is:2-6 my:6-17 family:17-24 good:24-34
+c092 my:2-9 nurse:9-16 is:16-26 not:26-34 very:34-39 tired:39-45
+c093 no:2-5 music:5-12 here:12-23
+c094 here:2-12 is:12-21 what:21-26
+c095 i:2-10 am:10-16 that:16-23 bad:23-25
+c096 i:2-9 like:9-14 how:14-18 they:18-25 tell:25-28 it:28-38
+c097 i:2-8 hope:8-15 you:15-21 have:21-27 hope:27-38
+c098 here:2-4 is:4-13 that:13-20
+c099 i:2-9 hope:9-14 they:14-20 are:20-24 thirsty:24-34
+c100 nurse:2-6 is:6-14 here:14-26
+c101 tell:2-8 my:8-15 family:15-20 they:20-24 do:24-36 not:36-45 feel:45-54 hungry:54-63
+c102 you:2-7 do:7-12 it:12-19
+c103 that:2-6 is:6-14 not:14-21 comfortable:21-33
+c104 they:2-7 do:7-13 it:13-23
+c105 bring:2-6 up:6-19
+c106 where:2-4 is:4-12 hope:12-21
+c107 that:2-4 is:4-11 here:11-20
+c108 you:2-9 hope:9-15 my:15-22 family:22-25 is:25-30 here:30-41
+c109 tell:2-13 my:13-29 family:29-41 hello:41-43
+c110 you:2-6 need:6-12 my:12-19 faith:19-28
+c111 they:2-6 do:6-14 not:14-18 like:18-24 my:24-33 family:33-40
+c112 please:2-4 have:4-14 faith:14-25
+c113 yes:2-4 like:4-14 that:14-23
+c114 tell:2-8 my:8-15 family:15-19 i:19-29 am:29-35 not:35-41 comfortable:41-53
+c115 my:2-11 family:11-17 is:17-26 not:26-35 very:35-37 hungry:37-48
+c116 not:2-13 very:13-20 bad:20-22
+c117 they:2-8 hope:8-16 i:16-24 have:24-28 my:28-43 glasses:43-47
+c118 it:2-10 is:10-20 that:20-25 bad:25-27
+c119 they:2-6 are:6-12 you:12-21

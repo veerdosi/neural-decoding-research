@@ -1,0 +1,119 @@
+{
+  "scope": "Same eight previously evaluated development recordings; one Sol call; exploratory comparison only",
+  "sol": {
+    "exact_sentences": 2,
+    "word_errors": 10,
+    "reference_words": 39,
+    "wer": 0.2564102564102564
+  },
+  "algorithm_only": {
+    "matched_dtw_compositor": {
+      "n": 8,
+      "exact_sentences": 1,
+      "edits": 14,
+      "reference_words": 39,
+      "wer": 0.358974358974359
+    },
+    "nearest_whole_recording_dtw": {
+      "n": 8,
+      "exact_sentences": 0,
+      "edits": 26,
+      "reference_words": 39,
+      "wer": 0.6666666666666666
+    },
+    "matched_dtw_text_splice": {
+      "n": 8,
+      "exact_sentences": 0,
+      "edits": 17,
+      "reference_words": 39,
+      "wer": 0.4358974358974359
+    }
+  },
+  "primary_paired_comparison": {
+    "additional_edits_removed_by_sol": 4,
+    "wer_reduction_percentage_points": 10.256410256410257,
+    "descriptive_paired_utterance_bootstrap_95pct_percentage_points": [
+      -2.7027027027027026,
+      20.0
+    ],
+    "bootstrap_replicates": 20000,
+    "bootstrap_caution": "This resamples eight utterances within one recording block; it is descriptive, cannot estimate between-block/participant variation, and is not population-level evidence.",
+    "per_query": [
+      {
+        "id": "td133fe66",
+        "reference_words": 4,
+        "algorithm_edit_distance": 1,
+        "sol_edit_distance": 1,
+        "edit_reduction_with_sol": 0
+      },
+      {
+        "id": "t91b28a91",
+        "reference_words": 8,
+        "algorithm_edit_distance": 3,
+        "sol_edit_distance": 1,
+        "edit_reduction_with_sol": 2
+      },
+      {
+        "id": "ta8a65773",
+        "reference_words": 4,
+        "algorithm_edit_distance": 3,
+        "sol_edit_distance": 2,
+        "edit_reduction_with_sol": 1
+      },
+      {
+        "id": "tcd92c110",
+        "reference_words": 4,
+        "algorithm_edit_distance": 1,
+        "sol_edit_distance": 0,
+        "edit_reduction_with_sol": 1
+      },
+      {
+        "id": "t7d52b265",
+        "reference_words": 6,
+        "algorithm_edit_distance": 3,
+        "sol_edit_distance": 2,
+        "edit_reduction_with_sol": 1
+      },
+      {
+        "id": "t50600ea0",
+        "reference_words": 3,
+        "algorithm_edit_distance": 0,
+        "sol_edit_distance": 0,
+        "edit_reduction_with_sol": 0
+      },
+      {
+        "id": "t53cbb8ea",
+        "reference_words": 5,
+        "algorithm_edit_distance": 2,
+        "sol_edit_distance": 3,
+        "edit_reduction_with_sol": -1
+      },
+      {
+        "id": "tf75891fc",
+        "reference_words": 5,
+        "algorithm_edit_distance": 1,
+        "sol_edit_distance": 1,
+        "edit_reduction_with_sol": 0
+      }
+    ]
+  },
+  "text_splice_target_coverage": {
+    "n": 8,
+    "targets_in_full_calibration_candidate_bank": 0,
+    "note": "Coverage checked only after configuration/prediction locks and final evaluation; not used to tune the candidate generator."
+  },
+  "retrieval_recurrence_validation": {
+    "checks": 12,
+    "max_similarity_difference_from_recorded_Sol_evidence": 0.0,
+    "all_alignment_paths_identical": true
+  },
+  "runtime": {
+    "algorithm_assembly_seconds": 0.17320141699747182,
+    "calibration_selection_seconds": 6.957011166989105,
+    "splice_selection_seconds": 0.8735656249918975,
+    "sol_wall_seconds": 635.6669962406158,
+    "caution": "The 0.17-s assembly time excludes neural-retrieval evidence generation. Sol wall time includes its adaptive retrieval/tool work; these are not matched end-to-end costs."
+  },
+  "interpretation": "The frozen neural retrieval evidence supports substantial novel-sentence assembly without an LLM. Sol reduced four additional edit errors in this small development set. The result does not establish a distinctive neural-decoding paradigm, robust superiority, or a causal benefit of internal reasoning alone. The deterministic word-boundary estimator is deliberately explicit and imperfect; a stronger algorithmic assembler may close the remaining gap.",
+  "separation": "No conventional decoder weights, predictions, or output files were written into a Sol sandbox; only outputs/.../code and outputs/.../evaluation/algorithm_sentence_baselines were written."
+}

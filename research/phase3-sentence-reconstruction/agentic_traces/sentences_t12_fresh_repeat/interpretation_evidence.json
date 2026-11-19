@@ -1,0 +1,4102 @@
+[
+  {
+    "id": "tda989373",
+    "final_interpreted_tokens": [
+      "they",
+      "need",
+      "what"
+    ],
+    "subjective_confidence": "low",
+    "interpretation": "Initial they has multiple matches (c104, c101, c009). The 2:17 they-need alignment to c009 narrowly exceeds they-do to c101. Terminal what has c082/c062 suffix support; that is close.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "they",
+        "need",
+        "what"
+      ],
+      "score": 4.203507671650645,
+      "matches": [
+        {
+          "id": "c009",
+          "start": 2,
+          "end": 13,
+          "query_start": 2,
+          "query_end": 17,
+          "tokens": [
+            "they",
+            "need"
+          ],
+          "similarity": 0.22013490610970066
+        },
+        {
+          "id": "c082",
+          "start": 27,
+          "end": 35,
+          "query_start": 17,
+          "query_end": 24,
+          "tokens": [
+            "what"
+          ],
+          "similarity": 0.18592629714359082
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "they",
+          "need",
+          "what"
+        ],
+        "score": 4.203507671650645,
+        "matches": [
+          {
+            "id": "c009",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "they",
+              "need"
+            ],
+            "similarity": 0.22013490610970066
+          },
+          {
+            "id": "c082",
+            "start": 27,
+            "end": 35,
+            "query_start": 17,
+            "query_end": 24,
+            "tokens": [
+              "what"
+            ],
+            "similarity": 0.18592629714359082
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "do",
+          "what"
+        ],
+        "score": 4.184658630125535,
+        "matches": [
+          {
+            "id": "c101",
+            "start": 18,
+            "end": 31,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "they",
+              "do"
+            ],
+            "similarity": 0.21887830334135996
+          },
+          {
+            "id": "c082",
+            "start": 27,
+            "end": 35,
+            "query_start": 17,
+            "query_end": 24,
+            "tokens": [
+              "what"
+            ],
+            "similarity": 0.18592629714359082
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "need",
+          "that"
+        ],
+        "score": 4.159371971672245,
+        "matches": [
+          {
+            "id": "c009",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "they",
+              "need"
+            ],
+            "similarity": 0.22013490610970066
+          },
+          {
+            "id": "c007",
+            "start": 25,
+            "end": 33,
+            "query_start": 17,
+            "query_end": 24,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.17962119714667654
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "do",
+          "that"
+        ],
+        "score": 4.1520654804981385,
+        "matches": [
+          {
+            "id": "c101",
+            "start": 18,
+            "end": 31,
+            "query_start": 2,
+            "query_end": 18,
+            "tokens": [
+              "they",
+              "do"
+            ],
+            "similarity": 0.21781567834027535
+          },
+          {
+            "id": "c007",
+            "start": 25,
+            "end": 33,
+            "query_start": 18,
+            "query_end": 24,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.17783577117562221
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tdd25032b",
+    "final_interpreted_tokens": [
+      "tell",
+      "my",
+      "family",
+      "i",
+      "do",
+      "not",
+      "feel",
+      "thirsty"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "Tell-my-family is supported by c114/c027/c078 at query 2:22. I-do-not by c083/c079/c101 at 20:40. Feel by c020/c015/c001 around 40:56; thirsty by c072/c099 at 53:68. The repeated feel in the automatic unigram output is interpreted as one stretched word.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "do",
+        "not",
+        "feel",
+        "thirsty"
+      ],
+      "score": 15.481757377743783,
+      "matches": [
+        {
+          "id": "c109",
+          "start": 2,
+          "end": 7,
+          "query_start": 2,
+          "query_end": 6,
+          "tokens": [
+            "tell"
+          ],
+          "similarity": 0.2966570604131585
+        },
+        {
+          "id": "c027",
+          "start": 6,
+          "end": 18,
+          "query_start": 6,
+          "query_end": 21,
+          "tokens": [
+            "my",
+            "family"
+          ],
+          "similarity": 0.2655905386023366
+        },
+        {
+          "id": "c079",
+          "start": 6,
+          "end": 27,
+          "query_start": 21,
+          "query_end": 44,
+          "tokens": [
+            "i",
+            "do",
+            "not"
+          ],
+          "similarity": 0.2864680158934413
+        },
+        {
+          "id": "c020",
+          "start": 12,
+          "end": 22,
+          "query_start": 44,
+          "query_end": 55,
+          "tokens": [
+            "feel"
+          ],
+          "similarity": 0.20489015377874653
+        },
+        {
+          "id": "c072",
+          "start": 17,
+          "end": 35,
+          "query_start": 55,
+          "query_end": 68,
+          "tokens": [
+            "thirsty"
+          ],
+          "similarity": 0.18990115384159556
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "not",
+          "feel",
+          "thirsty"
+        ],
+        "score": 15.481757377743783,
+        "matches": [
+          {
+            "id": "c109",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "tell"
+            ],
+            "similarity": 0.2966570604131585
+          },
+          {
+            "id": "c027",
+            "start": 6,
+            "end": 18,
+            "query_start": 6,
+            "query_end": 21,
+            "tokens": [
+              "my",
+              "family"
+            ],
+            "similarity": 0.2655905386023366
+          },
+          {
+            "id": "c079",
+            "start": 6,
+            "end": 27,
+            "query_start": 21,
+            "query_end": 44,
+            "tokens": [
+              "i",
+              "do",
+              "not"
+            ],
+            "similarity": 0.2864680158934413
+          },
+          {
+            "id": "c020",
+            "start": 12,
+            "end": 22,
+            "query_start": 44,
+            "query_end": 55,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.20489015377874653
+          },
+          {
+            "id": "c072",
+            "start": 17,
+            "end": 35,
+            "query_start": 55,
+            "query_end": 68,
+            "tokens": [
+              "thirsty"
+            ],
+            "similarity": 0.18990115384159556
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "family",
+          "i",
+          "do",
+          "not",
+          "feel",
+          "thirsty"
+        ],
+        "score": 15.442708623570326,
+        "matches": [
+          {
+            "id": "c032",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 7,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.30092210201110625
+          },
+          {
+            "id": "c027",
+            "start": 9,
+            "end": 18,
+            "query_start": 7,
+            "query_end": 20,
+            "tokens": [
+              "family"
+            ],
+            "similarity": 0.2737490293621922
+          },
+          {
+            "id": "c079",
+            "start": 6,
+            "end": 27,
+            "query_start": 20,
+            "query_end": 44,
+            "tokens": [
+              "i",
+              "do",
+              "not"
+            ],
+            "similarity": 0.27736891834580607
+          },
+          {
+            "id": "c020",
+            "start": 12,
+            "end": 22,
+            "query_start": 44,
+            "query_end": 55,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.20489015377874653
+          },
+          {
+            "id": "c072",
+            "start": 17,
+            "end": 35,
+            "query_start": 55,
+            "query_end": 68,
+            "tokens": [
+              "thirsty"
+            ],
+            "similarity": 0.18990115384159556
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "they",
+          "do",
+          "not",
+          "feel",
+          "thirsty"
+        ],
+        "score": 15.259631728165338,
+        "matches": [
+          {
+            "id": "c109",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "tell"
+            ],
+            "similarity": 0.2966570604131585
+          },
+          {
+            "id": "c027",
+            "start": 6,
+            "end": 18,
+            "query_start": 6,
+            "query_end": 21,
+            "tokens": [
+              "my",
+              "family"
+            ],
+            "similarity": 0.2655905386023366
+          },
+          {
+            "id": "c101",
+            "start": 18,
+            "end": 23,
+            "query_start": 21,
+            "query_end": 27,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.37108659803662886
+          },
+          {
+            "id": "c079",
+            "start": 12,
+            "end": 27,
+            "query_start": 27,
+            "query_end": 44,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.2553011251618195
+          },
+          {
+            "id": "c020",
+            "start": 12,
+            "end": 22,
+            "query_start": 44,
+            "query_end": 55,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.20489015377874653
+          },
+          {
+            "id": "c072",
+            "start": 17,
+            "end": 35,
+            "query_start": 55,
+            "query_end": 68,
+            "tokens": [
+              "thirsty"
+            ],
+            "similarity": 0.18990115384159556
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "i",
+          "do",
+          "not",
+          "feel",
+          "hungry"
+        ],
+        "score": 14.880688341455071,
+        "matches": [
+          {
+            "id": "c109",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "tell"
+            ],
+            "similarity": 0.2966570604131585
+          },
+          {
+            "id": "c027",
+            "start": 6,
+            "end": 18,
+            "query_start": 6,
+            "query_end": 21,
+            "tokens": [
+              "my",
+              "family"
+            ],
+            "similarity": 0.2655905386023366
+          },
+          {
+            "id": "c079",
+            "start": 6,
+            "end": 27,
+            "query_start": 21,
+            "query_end": 45,
+            "tokens": [
+              "i",
+              "do",
+              "not"
+            ],
+            "similarity": 0.2749292930335562
+          },
+          {
+            "id": "c020",
+            "start": 12,
+            "end": 22,
+            "query_start": 45,
+            "query_end": 57,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.2120735284077936
+          },
+          {
+            "id": "c015",
+            "start": 18,
+            "end": 27,
+            "query_start": 57,
+            "query_end": 68,
+            "tokens": [
+              "hungry"
+            ],
+            "similarity": 0.14245605882441073
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t5ee44a7f",
+    "final_interpreted_tokens": [
+      "my",
+      "music",
+      "is",
+      "here"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "My-music prefix matches c016 at 2:15, with music also localized using c041/c093. Is/here overlaps c047/c100/c093. Here is strongly supported by numerous suffix references. Bring is a confusable singleton; full prefix favors my music.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "my",
+        "music",
+        "is",
+        "here"
+      ],
+      "score": 5.711192181246695,
+      "matches": [
+        {
+          "id": "c016",
+          "start": 2,
+          "end": 12,
+          "query_start": 2,
+          "query_end": 15,
+          "tokens": [
+            "my",
+            "music"
+          ],
+          "similarity": 0.22397815203209043
+        },
+        {
+          "id": "c108",
+          "start": 28,
+          "end": 33,
+          "query_start": 15,
+          "query_end": 21,
+          "tokens": [
+            "is"
+          ],
+          "similarity": 0.20664316683297415
+        },
+        {
+          "id": "c047",
+          "start": 24,
+          "end": 32,
+          "query_start": 21,
+          "query_end": 30,
+          "tokens": [
+            "here"
+          ],
+          "similarity": 0.23995746709240823
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "my",
+          "music",
+          "is",
+          "here"
+        ],
+        "score": 5.711192181246695,
+        "matches": [
+          {
+            "id": "c016",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 15,
+            "tokens": [
+              "my",
+              "music"
+            ],
+            "similarity": 0.22397815203209043
+          },
+          {
+            "id": "c108",
+            "start": 28,
+            "end": 33,
+            "query_start": 15,
+            "query_end": 21,
+            "tokens": [
+              "is"
+            ],
+            "similarity": 0.20664316683297415
+          },
+          {
+            "id": "c047",
+            "start": 24,
+            "end": 32,
+            "query_start": 21,
+            "query_end": 30,
+            "tokens": [
+              "here"
+            ],
+            "similarity": 0.23995746709240823
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "music",
+          "is",
+          "right",
+          "here"
+        ],
+        "score": 5.449380897329649,
+        "matches": [
+          {
+            "id": "c016",
+            "start": 2,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "my",
+              "music",
+              "is"
+            ],
+            "similarity": 0.2142736953519
+          },
+          {
+            "id": "c058",
+            "start": 26,
+            "end": 33,
+            "query_start": 17,
+            "query_end": 23,
+            "tokens": [
+              "right"
+            ],
+            "similarity": 0.17843331824720207
+          },
+          {
+            "id": "c076",
+            "start": 27,
+            "end": 35,
+            "query_start": 23,
+            "query_end": 30,
+            "tokens": [
+              "here"
+            ],
+            "similarity": 0.252096508223991
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "music",
+          "they",
+          "are",
+          "here"
+        ],
+        "score": 5.4344527778180955,
+        "matches": [
+          {
+            "id": "c016",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 15,
+            "tokens": [
+              "my",
+              "music"
+            ],
+            "similarity": 0.22397815203209043
+          },
+          {
+            "id": "c056",
+            "start": 13,
+            "end": 17,
+            "query_start": 15,
+            "query_end": 19,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.18824488653576818
+          },
+          {
+            "id": "c027",
+            "start": 26,
+            "end": 31,
+            "query_start": 19,
+            "query_end": 23,
+            "tokens": [
+              "are"
+            ],
+            "similarity": 0.2012704244224776
+          },
+          {
+            "id": "c076",
+            "start": 27,
+            "end": 35,
+            "query_start": 23,
+            "query_end": 30,
+            "tokens": [
+              "here"
+            ],
+            "similarity": 0.252096508223991
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "music",
+          "here"
+        ],
+        "score": 5.17703894489061,
+        "matches": [
+          {
+            "id": "c016",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 16,
+            "tokens": [
+              "my",
+              "music"
+            ],
+            "similarity": 0.21132470086582927
+          },
+          {
+            "id": "c093",
+            "start": 14,
+            "end": 23,
+            "query_start": 16,
+            "query_end": 30,
+            "tokens": [
+              "here"
+            ],
+            "similarity": 0.18703522376921428
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tdf8f9fae",
+    "final_interpreted_tokens": [
+      "i",
+      "hope",
+      "they",
+      "have"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "I-hope prefix c001/c005/c097; they specifically c025 9:15 and c001 13:18 at query 11:18. Terminal have is the strongest reverse-edge match to c066, 0.26 for five bins. No extra object inferred.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "have"
+      ],
+      "score": 4.751214281002284,
+      "matches": [
+        {
+          "id": "c001",
+          "start": 2,
+          "end": 13,
+          "query_start": 2,
+          "query_end": 12,
+          "tokens": [
+            "i",
+            "hope"
+          ],
+          "similarity": 0.22996174548035664
+        },
+        {
+          "id": "c025",
+          "start": 9,
+          "end": 15,
+          "query_start": 12,
+          "query_end": 18,
+          "tokens": [
+            "they"
+          ],
+          "similarity": 0.2700843759864751
+        },
+        {
+          "id": "c066",
+          "start": 17,
+          "end": 25,
+          "query_start": 18,
+          "query_end": 25,
+          "tokens": [
+            "have"
+          ],
+          "similarity": 0.20444151003998104
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "they",
+          "have"
+        ],
+        "score": 4.751214281002284,
+        "matches": [
+          {
+            "id": "c001",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 12,
+            "tokens": [
+              "i",
+              "hope"
+            ],
+            "similarity": 0.22996174548035664
+          },
+          {
+            "id": "c025",
+            "start": 9,
+            "end": 15,
+            "query_start": 12,
+            "query_end": 18,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.2700843759864751
+          },
+          {
+            "id": "c066",
+            "start": 17,
+            "end": 25,
+            "query_start": 18,
+            "query_end": 25,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.20444151003998104
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "you",
+          "have"
+        ],
+        "score": 4.466923803874568,
+        "matches": [
+          {
+            "id": "c001",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 14,
+            "tokens": [
+              "i",
+              "hope"
+            ],
+            "similarity": 0.23049709778901314
+          },
+          {
+            "id": "c097",
+            "start": 13,
+            "end": 20,
+            "query_start": 14,
+            "query_end": 20,
+            "tokens": [
+              "you"
+            ],
+            "similarity": 0.1807525990156839
+          },
+          {
+            "id": "c066",
+            "start": 17,
+            "end": 25,
+            "query_start": 20,
+            "query_end": 25,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.24328860726246143
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "i",
+          "have"
+        ],
+        "score": 4.319786223668453,
+        "matches": [
+          {
+            "id": "c001",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 15,
+            "tokens": [
+              "i",
+              "hope"
+            ],
+            "similarity": 0.22763978723401862
+          },
+          {
+            "id": "c008",
+            "start": 2,
+            "end": 7,
+            "query_start": 15,
+            "query_end": 20,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.14880519066278075
+          },
+          {
+            "id": "c066",
+            "start": 17,
+            "end": 25,
+            "query_start": 20,
+            "query_end": 25,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.24328860726246143
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "they",
+          "feel"
+        ],
+        "score": 3.857470641123047,
+        "matches": [
+          {
+            "id": "c001",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 12,
+            "tokens": [
+              "i",
+              "hope"
+            ],
+            "similarity": 0.22996174548035664
+          },
+          {
+            "id": "c025",
+            "start": 9,
+            "end": 27,
+            "query_start": 12,
+            "query_end": 25,
+            "tokens": [
+              "they",
+              "feel"
+            ],
+            "similarity": 0.15060409125534466
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t4f16b000",
+    "final_interpreted_tokens": [
+      "goodbye",
+      "coming"
+    ],
+    "subjective_confidence": "very low",
+    "interpretation": "Goodbye prefix c062 is the strongest longer anchored match. Coming is supported by c047 internal interval and scores best as an extracted exemplar; faith and please have competing suffix evidence. This is a weak two-word interpretation.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "goodbye",
+        "coming"
+      ],
+      "score": 3.458533308896474,
+      "matches": [
+        {
+          "id": "c062",
+          "start": 2,
+          "end": 10,
+          "query_start": 2,
+          "query_end": 11,
+          "tokens": [
+            "goodbye"
+          ],
+          "similarity": 0.21696853186611625
+        },
+        {
+          "id": "c047",
+          "start": 14,
+          "end": 24,
+          "query_start": 11,
+          "query_end": 21,
+          "tokens": [
+            "coming"
+          ],
+          "similarity": 0.19058165221014273
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "goodbye",
+          "coming"
+        ],
+        "score": 3.458533308896474,
+        "matches": [
+          {
+            "id": "c062",
+            "start": 2,
+            "end": 10,
+            "query_start": 2,
+            "query_end": 11,
+            "tokens": [
+              "goodbye"
+            ],
+            "similarity": 0.21696853186611625
+          },
+          {
+            "id": "c047",
+            "start": 14,
+            "end": 24,
+            "query_start": 11,
+            "query_end": 21,
+            "tokens": [
+              "coming"
+            ],
+            "similarity": 0.19058165221014273
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "goodbye",
+          "faith"
+        ],
+        "score": 3.269461163602536,
+        "matches": [
+          {
+            "id": "c062",
+            "start": 2,
+            "end": 10,
+            "query_start": 2,
+            "query_end": 12,
+            "tokens": [
+              "goodbye"
+            ],
+            "similarity": 0.19718714646530147
+          },
+          {
+            "id": "c112",
+            "start": 17,
+            "end": 25,
+            "query_start": 12,
+            "query_end": 21,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.18862107766105793
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "are",
+          "they",
+          "coming"
+        ],
+        "score": 3.2135595972128597,
+        "matches": [
+          {
+            "id": "c043",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 8,
+            "tokens": [
+              "are"
+            ],
+            "similarity": 0.22957563183957952
+          },
+          {
+            "id": "c020",
+            "start": 7,
+            "end": 12,
+            "query_start": 8,
+            "query_end": 12,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.16443554557515597
+          },
+          {
+            "id": "c047",
+            "start": 14,
+            "end": 24,
+            "query_start": 12,
+            "query_end": 21,
+            "tokens": [
+              "coming"
+            ],
+            "similarity": 0.1975959582083065
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "goodbye",
+          "please"
+        ],
+        "score": 3.2078895262837754,
+        "matches": [
+          {
+            "id": "c062",
+            "start": 2,
+            "end": 10,
+            "query_start": 2,
+            "query_end": 11,
+            "tokens": [
+              "goodbye"
+            ],
+            "similarity": 0.21696853186611625
+          },
+          {
+            "id": "c028",
+            "start": 9,
+            "end": 21,
+            "query_start": 11,
+            "query_end": 21,
+            "tokens": [
+              "please"
+            ],
+            "similarity": 0.16551727394887292
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t40a0a424",
+    "final_interpreted_tokens": [
+      "no",
+      "they",
+      "do",
+      "not",
+      "feel",
+      "comfortable"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "No-they c018 is slightly stronger than no-I c079 at 2:11. Do-not c080/c083/c079 overlaps 11:22. Feel c020 at 22:31 and comfortable c017/c114/c039 at 31:47. Adding very lowers the composed evidence score; short-word ambiguity remains.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "no",
+        "they",
+        "do",
+        "not",
+        "feel",
+        "comfortable"
+      ],
+      "score": 11.535042054209093,
+      "matches": [
+        {
+          "id": "c018",
+          "start": 2,
+          "end": 12,
+          "query_start": 2,
+          "query_end": 11,
+          "tokens": [
+            "no",
+            "they"
+          ],
+          "similarity": 0.3100289048964328
+        },
+        {
+          "id": "c080",
+          "start": 6,
+          "end": 19,
+          "query_start": 11,
+          "query_end": 22,
+          "tokens": [
+            "do",
+            "not"
+          ],
+          "similarity": 0.23973646788785785
+        },
+        {
+          "id": "c020",
+          "start": 12,
+          "end": 22,
+          "query_start": 22,
+          "query_end": 31,
+          "tokens": [
+            "feel"
+          ],
+          "similarity": 0.2040122710209414
+        },
+        {
+          "id": "c017",
+          "start": 29,
+          "end": 44,
+          "query_start": 31,
+          "query_end": 47,
+          "tokens": [
+            "comfortable"
+          ],
+          "similarity": 0.316973145261643
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "no",
+          "they",
+          "do",
+          "not",
+          "feel",
+          "comfortable"
+        ],
+        "score": 11.535042054209093,
+        "matches": [
+          {
+            "id": "c018",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 11,
+            "tokens": [
+              "no",
+              "they"
+            ],
+            "similarity": 0.3100289048964328
+          },
+          {
+            "id": "c080",
+            "start": 6,
+            "end": 19,
+            "query_start": 11,
+            "query_end": 22,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.23973646788785785
+          },
+          {
+            "id": "c020",
+            "start": 12,
+            "end": 22,
+            "query_start": 22,
+            "query_end": 31,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.2040122710209414
+          },
+          {
+            "id": "c017",
+            "start": 29,
+            "end": 44,
+            "query_start": 31,
+            "query_end": 47,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.316973145261643
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "no",
+          "they",
+          "do",
+          "not",
+          "have",
+          "very",
+          "comfortable"
+        ],
+        "score": 11.491086526853758,
+        "matches": [
+          {
+            "id": "c018",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 11,
+            "tokens": [
+              "no",
+              "they"
+            ],
+            "similarity": 0.3100289048964328
+          },
+          {
+            "id": "c080",
+            "start": 6,
+            "end": 19,
+            "query_start": 11,
+            "query_end": 21,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.24426284603643877
+          },
+          {
+            "id": "c003",
+            "start": 2,
+            "end": 7,
+            "query_start": 21,
+            "query_end": 25,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.256311934395154
+          },
+          {
+            "id": "c079",
+            "start": 33,
+            "end": 43,
+            "query_start": 25,
+            "query_end": 32,
+            "tokens": [
+              "very"
+            ],
+            "similarity": 0.19925043779296384
+          },
+          {
+            "id": "c017",
+            "start": 29,
+            "end": 44,
+            "query_start": 32,
+            "query_end": 47,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.3225464746860075
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "no",
+          "i",
+          "do",
+          "not",
+          "feel",
+          "comfortable"
+        ],
+        "score": 11.391879787321582,
+        "matches": [
+          {
+            "id": "c079",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 11,
+            "tokens": [
+              "no",
+              "i"
+            ],
+            "similarity": 0.29412198635337605
+          },
+          {
+            "id": "c080",
+            "start": 6,
+            "end": 19,
+            "query_start": 11,
+            "query_end": 22,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.23973646788785785
+          },
+          {
+            "id": "c020",
+            "start": 12,
+            "end": 22,
+            "query_start": 22,
+            "query_end": 31,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.2040122710209414
+          },
+          {
+            "id": "c017",
+            "start": 29,
+            "end": 44,
+            "query_start": 31,
+            "query_end": 47,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.316973145261643
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "no",
+          "they",
+          "do",
+          "not",
+          "have",
+          "comfortable"
+        ],
+        "score": 11.332642733559553,
+        "matches": [
+          {
+            "id": "c018",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 11,
+            "tokens": [
+              "no",
+              "they"
+            ],
+            "similarity": 0.3100289048964328
+          },
+          {
+            "id": "c080",
+            "start": 6,
+            "end": 19,
+            "query_start": 11,
+            "query_end": 22,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.23973646788785785
+          },
+          {
+            "id": "c003",
+            "start": 2,
+            "end": 7,
+            "query_start": 22,
+            "query_end": 29,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.22657457354856952
+          },
+          {
+            "id": "c017",
+            "start": 29,
+            "end": 44,
+            "query_start": 29,
+            "query_end": 47,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.28440330154917964
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tf256b8ed",
+    "final_interpreted_tokens": [
+      "tell",
+      "my",
+      "nurse",
+      "is",
+      "very",
+      "good"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "Tell-my-nurse matches c011 at 2:16, supplemented by c049/c072 nurse matches. Query 16:21 matches is in c071; 21:39 matches very-good in c008/c049. No sufficiently supported I-am is inserted.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "tell",
+        "my",
+        "nurse",
+        "is",
+        "very",
+        "good"
+      ],
+      "score": 8.45058927423476,
+      "matches": [
+        {
+          "id": "c011",
+          "start": 2,
+          "end": 19,
+          "query_start": 2,
+          "query_end": 16,
+          "tokens": [
+            "tell",
+            "my",
+            "nurse"
+          ],
+          "similarity": 0.24311443387622023
+        },
+        {
+          "id": "c071",
+          "start": 14,
+          "end": 19,
+          "query_start": 16,
+          "query_end": 21,
+          "tokens": [
+            "is"
+          ],
+          "similarity": 0.2186969668368454
+        },
+        {
+          "id": "c008",
+          "start": 13,
+          "end": 30,
+          "query_start": 21,
+          "query_end": 39,
+          "tokens": [
+            "very",
+            "good"
+          ],
+          "similarity": 0.25297235365463616
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "nurse",
+          "is",
+          "very",
+          "good"
+        ],
+        "score": 8.45058927423476,
+        "matches": [
+          {
+            "id": "c011",
+            "start": 2,
+            "end": 19,
+            "query_start": 2,
+            "query_end": 16,
+            "tokens": [
+              "tell",
+              "my",
+              "nurse"
+            ],
+            "similarity": 0.24311443387622023
+          },
+          {
+            "id": "c071",
+            "start": 14,
+            "end": 19,
+            "query_start": 16,
+            "query_end": 21,
+            "tokens": [
+              "is"
+            ],
+            "similarity": 0.2186969668368454
+          },
+          {
+            "id": "c008",
+            "start": 13,
+            "end": 30,
+            "query_start": 21,
+            "query_end": 39,
+            "tokens": [
+              "very",
+              "good"
+            ],
+            "similarity": 0.25297235365463616
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "nurse",
+          "very",
+          "good"
+        ],
+        "score": 8.369438200654429,
+        "matches": [
+          {
+            "id": "c011",
+            "start": 2,
+            "end": 9,
+            "query_start": 2,
+            "query_end": 10,
+            "tokens": [
+              "tell",
+              "my"
+            ],
+            "similarity": 0.2504451127790863
+          },
+          {
+            "id": "c049",
+            "start": 5,
+            "end": 15,
+            "query_start": 10,
+            "query_end": 21,
+            "tokens": [
+              "nurse"
+            ],
+            "similarity": 0.2193068120580262
+          },
+          {
+            "id": "c008",
+            "start": 13,
+            "end": 30,
+            "query_start": 21,
+            "query_end": 39,
+            "tokens": [
+              "very",
+              "good"
+            ],
+            "similarity": 0.25297235365463616
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "nurse",
+          "is",
+          "very",
+          "good"
+        ],
+        "score": 8.034019201442053,
+        "matches": [
+          {
+            "id": "c032",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 7,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.2198697885285699
+          },
+          {
+            "id": "c011",
+            "start": 9,
+            "end": 19,
+            "query_start": 7,
+            "query_end": 16,
+            "tokens": [
+              "nurse"
+            ],
+            "similarity": 0.23196478431461393
+          },
+          {
+            "id": "c071",
+            "start": 14,
+            "end": 19,
+            "query_start": 16,
+            "query_end": 21,
+            "tokens": [
+              "is"
+            ],
+            "similarity": 0.2186969668368454
+          },
+          {
+            "id": "c008",
+            "start": 13,
+            "end": 30,
+            "query_start": 21,
+            "query_end": 39,
+            "tokens": [
+              "very",
+              "good"
+            ],
+            "similarity": 0.25297235365463616
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "nurse",
+          "i",
+          "feel",
+          "good"
+        ],
+        "score": 7.813135924457063,
+        "matches": [
+          {
+            "id": "c011",
+            "start": 2,
+            "end": 19,
+            "query_start": 2,
+            "query_end": 18,
+            "tokens": [
+              "tell",
+              "my",
+              "nurse"
+            ],
+            "similarity": 0.23992632166964342
+          },
+          {
+            "id": "c058",
+            "start": 2,
+            "end": 5,
+            "query_start": 18,
+            "query_end": 21,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.12976561016853164
+          },
+          {
+            "id": "c025",
+            "start": 15,
+            "end": 27,
+            "query_start": 21,
+            "query_end": 29,
+            "tokens": [
+              "feel"
+            ],
+            "similarity": 0.17610490722866287
+          },
+          {
+            "id": "c008",
+            "start": 22,
+            "end": 30,
+            "query_start": 29,
+            "query_end": 39,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.29761786894078707
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t12be1627",
+    "final_interpreted_tokens": [
+      "i",
+      "like",
+      "it"
+    ],
+    "subjective_confidence": "low",
+    "interpretation": "I-like is retrieved as a contiguous prefix from c041 and like independently from c036/c111/c088. Terminal it has c065/c083 suffix support. Initial they is a close competing interpretation, largely driven by c009.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "i",
+        "like",
+        "it"
+      ],
+      "score": 2.9355383233444616,
+      "matches": [
+        {
+          "id": "c041",
+          "start": 2,
+          "end": 12,
+          "query_start": 2,
+          "query_end": 13,
+          "tokens": [
+            "i",
+            "like"
+          ],
+          "similarity": 0.18485689416092843
+        },
+        {
+          "id": "c065",
+          "start": 8,
+          "end": 15,
+          "query_start": 13,
+          "query_end": 21,
+          "tokens": [
+            "it"
+          ],
+          "similarity": 0.1627640609467811
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "they",
+          "like",
+          "it"
+        ],
+        "score": 3.01895109567873,
+        "matches": [
+          {
+            "id": "c009",
+            "start": 2,
+            "end": 9,
+            "query_start": 2,
+            "query_end": 8,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.21223206195560745
+          },
+          {
+            "id": "c111",
+            "start": 17,
+            "end": 23,
+            "query_start": 8,
+            "query_end": 14,
+            "tokens": [
+              "like"
+            ],
+            "similarity": 0.19577536598155887
+          },
+          {
+            "id": "c083",
+            "start": 35,
+            "end": 42,
+            "query_start": 14,
+            "query_end": 21,
+            "tokens": [
+              "it"
+            ],
+            "similarity": 0.16727236115081892
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "like",
+          "tired"
+        ],
+        "score": 3.0139928561179694,
+        "matches": [
+          {
+            "id": "c097",
+            "start": 2,
+            "end": 6,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.20095218303547857
+          },
+          {
+            "id": "c041",
+            "start": 5,
+            "end": 12,
+            "query_start": 6,
+            "query_end": 14,
+            "tokens": [
+              "like"
+            ],
+            "similarity": 0.1892398445298737
+          },
+          {
+            "id": "c070",
+            "start": 16,
+            "end": 21,
+            "query_start": 14,
+            "query_end": 21,
+            "tokens": [
+              "tired"
+            ],
+            "similarity": 0.18518076681958073
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "like",
+          "it"
+        ],
+        "score": 2.9355383233444616,
+        "matches": [
+          {
+            "id": "c041",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 13,
+            "tokens": [
+              "i",
+              "like"
+            ],
+            "similarity": 0.18485689416092843
+          },
+          {
+            "id": "c065",
+            "start": 8,
+            "end": 15,
+            "query_start": 13,
+            "query_end": 21,
+            "tokens": [
+              "it"
+            ],
+            "similarity": 0.1627640609467811
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "bring",
+          "up"
+        ],
+        "score": 2.893064503932093,
+        "matches": [
+          {
+            "id": "c009",
+            "start": 2,
+            "end": 9,
+            "query_start": 2,
+            "query_end": 9,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.2122295424516847
+          },
+          {
+            "id": "c105",
+            "start": 2,
+            "end": 19,
+            "query_start": 9,
+            "query_end": 21,
+            "tokens": [
+              "bring",
+              "up"
+            ],
+            "similarity": 0.15062147556419164
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t42cfafec",
+    "final_interpreted_tokens": [
+      "i",
+      "hope",
+      "you",
+      "have",
+      "faith"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "I-hope from c001/c040; hope-you from c097; you-have-faith from c002 and have-faith from c003/c112. Have is brief and was swallowed by the faith interval in some automatic assemblies. Repeated phrase overlaps support retaining it.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "i",
+        "hope",
+        "you",
+        "have",
+        "faith"
+      ],
+      "score": 6.429635610007159,
+      "matches": [
+        {
+          "id": "c040",
+          "start": 2,
+          "end": 9,
+          "query_start": 2,
+          "query_end": 7,
+          "tokens": [
+            "i"
+          ],
+          "similarity": 0.24529273998040385
+        },
+        {
+          "id": "c097",
+          "start": 6,
+          "end": 20,
+          "query_start": 7,
+          "query_end": 18,
+          "tokens": [
+            "hope",
+            "you"
+          ],
+          "similarity": 0.21484311446236815
+        },
+        {
+          "id": "c074",
+          "start": 9,
+          "end": 13,
+          "query_start": 18,
+          "query_end": 21,
+          "tokens": [
+            "have"
+          ],
+          "similarity": 0.210062828309825
+        },
+        {
+          "id": "c002",
+          "start": 11,
+          "end": 21,
+          "query_start": 21,
+          "query_end": 31,
+          "tokens": [
+            "faith"
+          ],
+          "similarity": 0.30097091660896147
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "i",
+          "faith"
+        ],
+        "score": 6.528908153479397,
+        "matches": [
+          {
+            "id": "c001",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 13,
+            "tokens": [
+              "i",
+              "hope"
+            ],
+            "similarity": 0.23043028012890046
+          },
+          {
+            "id": "c117",
+            "start": 13,
+            "end": 20,
+            "query_start": 13,
+            "query_end": 20,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.19861927615548144
+          },
+          {
+            "id": "c002",
+            "start": 11,
+            "end": 21,
+            "query_start": 20,
+            "query_end": 31,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.291258194452102
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "you",
+          "faith"
+        ],
+        "score": 6.521733105314659,
+        "matches": [
+          {
+            "id": "c040",
+            "start": 2,
+            "end": 9,
+            "query_start": 2,
+            "query_end": 7,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.24529273998040385
+          },
+          {
+            "id": "c097",
+            "start": 6,
+            "end": 20,
+            "query_start": 7,
+            "query_end": 20,
+            "tokens": [
+              "hope",
+              "you"
+            ],
+            "similarity": 0.20703302049534755
+          },
+          {
+            "id": "c002",
+            "start": 11,
+            "end": 21,
+            "query_start": 20,
+            "query_end": 31,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.291258194452102
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "you",
+          "have",
+          "faith"
+        ],
+        "score": 6.429635610007159,
+        "matches": [
+          {
+            "id": "c040",
+            "start": 2,
+            "end": 9,
+            "query_start": 2,
+            "query_end": 7,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.24529273998040385
+          },
+          {
+            "id": "c097",
+            "start": 6,
+            "end": 20,
+            "query_start": 7,
+            "query_end": 18,
+            "tokens": [
+              "hope",
+              "you"
+            ],
+            "similarity": 0.21484311446236815
+          },
+          {
+            "id": "c074",
+            "start": 9,
+            "end": 13,
+            "query_start": 18,
+            "query_end": 21,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.210062828309825
+          },
+          {
+            "id": "c002",
+            "start": 11,
+            "end": 21,
+            "query_start": 21,
+            "query_end": 31,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.30097091660896147
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "i",
+          "hope",
+          "i",
+          "have",
+          "faith"
+        ],
+        "score": 6.29234383960914,
+        "matches": [
+          {
+            "id": "c001",
+            "start": 2,
+            "end": 13,
+            "query_start": 2,
+            "query_end": 13,
+            "tokens": [
+              "i",
+              "hope"
+            ],
+            "similarity": 0.23043028012890046
+          },
+          {
+            "id": "c117",
+            "start": 13,
+            "end": 20,
+            "query_start": 13,
+            "query_end": 19,
+            "tokens": [
+              "i"
+            ],
+            "similarity": 0.19855655383536727
+          },
+          {
+            "id": "c074",
+            "start": 9,
+            "end": 13,
+            "query_start": 19,
+            "query_end": 22,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.2060741645675155
+          },
+          {
+            "id": "c002",
+            "start": 11,
+            "end": 21,
+            "query_start": 22,
+            "query_end": 31,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.30533877127516507
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "te3715f88",
+    "final_interpreted_tokens": [
+      "need",
+      "my",
+      "family",
+      "good"
+    ],
+    "subjective_confidence": "low",
+    "interpretation": "Initial need matches c110 6:12 and c063 5:11, narrowly exceeding tell in c114; my matches c061/c027/c078, family c101/c039/c108, and good c091/c008. Need-my-family-good has the best scored supported composition. Tell-my-family-good remains close.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "need",
+        "my",
+        "family",
+        "good"
+      ],
+      "score": 7.2156614336948675,
+      "matches": [
+        {
+          "id": "c110",
+          "start": 6,
+          "end": 12,
+          "query_start": 2,
+          "query_end": 9,
+          "tokens": [
+            "need"
+          ],
+          "similarity": 0.24351724607527328
+        },
+        {
+          "id": "c061",
+          "start": 21,
+          "end": 26,
+          "query_start": 9,
+          "query_end": 14,
+          "tokens": [
+            "my"
+          ],
+          "similarity": 0.29317245234229017
+        },
+        {
+          "id": "c101",
+          "start": 8,
+          "end": 18,
+          "query_start": 14,
+          "query_end": 24,
+          "tokens": [
+            "family"
+          ],
+          "similarity": 0.24064065096144666
+        },
+        {
+          "id": "c091",
+          "start": 23,
+          "end": 34,
+          "query_start": 24,
+          "query_end": 34,
+          "tokens": [
+            "good"
+          ],
+          "similarity": 0.2438771939842037
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "need",
+          "my",
+          "family",
+          "good"
+        ],
+        "score": 7.2156614336948675,
+        "matches": [
+          {
+            "id": "c110",
+            "start": 6,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 9,
+            "tokens": [
+              "need"
+            ],
+            "similarity": 0.24351724607527328
+          },
+          {
+            "id": "c061",
+            "start": 21,
+            "end": 26,
+            "query_start": 9,
+            "query_end": 14,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.29317245234229017
+          },
+          {
+            "id": "c101",
+            "start": 8,
+            "end": 18,
+            "query_start": 14,
+            "query_end": 24,
+            "tokens": [
+              "family"
+            ],
+            "similarity": 0.24064065096144666
+          },
+          {
+            "id": "c091",
+            "start": 23,
+            "end": 34,
+            "query_start": 24,
+            "query_end": 34,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.2438771939842037
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "you",
+          "need",
+          "my",
+          "family",
+          "good"
+        ],
+        "score": 7.054464496480031,
+        "matches": [
+          {
+            "id": "c110",
+            "start": 2,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 9,
+            "tokens": [
+              "you",
+              "need"
+            ],
+            "similarity": 0.22048911218743947
+          },
+          {
+            "id": "c061",
+            "start": 21,
+            "end": 26,
+            "query_start": 9,
+            "query_end": 14,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.29317245234229017
+          },
+          {
+            "id": "c101",
+            "start": 8,
+            "end": 18,
+            "query_start": 14,
+            "query_end": 24,
+            "tokens": [
+              "family"
+            ],
+            "similarity": 0.24064065096144666
+          },
+          {
+            "id": "c091",
+            "start": 23,
+            "end": 34,
+            "query_start": 24,
+            "query_end": 34,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.2438771939842037
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "tell",
+          "my",
+          "family",
+          "good"
+        ],
+        "score": 7.00793846046356,
+        "matches": [
+          {
+            "id": "c114",
+            "start": 2,
+            "end": 6,
+            "query_start": 2,
+            "query_end": 8,
+            "tokens": [
+              "tell"
+            ],
+            "similarity": 0.21781338638693568
+          },
+          {
+            "id": "c061",
+            "start": 21,
+            "end": 26,
+            "query_start": 8,
+            "query_end": 14,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.27597994878090715
+          },
+          {
+            "id": "c101",
+            "start": 8,
+            "end": 18,
+            "query_start": 14,
+            "query_end": 24,
+            "tokens": [
+              "family"
+            ],
+            "similarity": 0.24064065096144666
+          },
+          {
+            "id": "c091",
+            "start": 23,
+            "end": 34,
+            "query_start": 24,
+            "query_end": 34,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.2438771939842037
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "need",
+          "my",
+          "family",
+          "is",
+          "good"
+        ],
+        "score": 6.760302124949798,
+        "matches": [
+          {
+            "id": "c110",
+            "start": 6,
+            "end": 12,
+            "query_start": 2,
+            "query_end": 9,
+            "tokens": [
+              "need"
+            ],
+            "similarity": 0.24351724607527328
+          },
+          {
+            "id": "c061",
+            "start": 21,
+            "end": 26,
+            "query_start": 9,
+            "query_end": 14,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.29317245234229017
+          },
+          {
+            "id": "c101",
+            "start": 8,
+            "end": 18,
+            "query_start": 14,
+            "query_end": 23,
+            "tokens": [
+              "family"
+            ],
+            "similarity": 0.24427345577777188
+          },
+          {
+            "id": "c032",
+            "start": 13,
+            "end": 18,
+            "query_start": 23,
+            "query_end": 26,
+            "tokens": [
+              "is"
+            ],
+            "similarity": 0.15331776545919767
+          },
+          {
+            "id": "c091",
+            "start": 23,
+            "end": 34,
+            "query_start": 26,
+            "query_end": 34,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.24142559279173675
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tb8083852",
+    "final_interpreted_tokens": [
+      "family",
+      "is",
+      "not",
+      "good"
+    ],
+    "subjective_confidence": "very low",
+    "interpretation": "First interval matches medial family in c027/c108/c101; an additional initial my has little support. Is-not is strong in c090 at query 7:20, and good in c048/c091 at 20:30. Thirsty and my can produce higher isolated-template scores at the beginning, but are not consistent across the original interval retrievals.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "family",
+        "is",
+        "not",
+        "good"
+      ],
+      "score": 5.879824850584431,
+      "matches": [
+        {
+          "id": "c108",
+          "start": 18,
+          "end": 28,
+          "query_start": 2,
+          "query_end": 9,
+          "tokens": [
+            "family"
+          ],
+          "similarity": 0.18076558989807648
+        },
+        {
+          "id": "c090",
+          "start": 13,
+          "end": 27,
+          "query_start": 9,
+          "query_end": 20,
+          "tokens": [
+            "is",
+            "not"
+          ],
+          "similarity": 0.25771371172592505
+        },
+        {
+          "id": "c048",
+          "start": 12,
+          "end": 22,
+          "query_start": 20,
+          "query_end": 30,
+          "tokens": [
+            "good"
+          ],
+          "similarity": 0.23796148923127197
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "thirsty",
+          "is",
+          "not",
+          "good"
+        ],
+        "score": 6.179525675724076,
+        "matches": [
+          {
+            "id": "c071",
+            "start": 7,
+            "end": 14,
+            "query_start": 2,
+            "query_end": 7,
+            "tokens": [
+              "thirsty"
+            ],
+            "similarity": 0.1984275996463865
+          },
+          {
+            "id": "c090",
+            "start": 13,
+            "end": 27,
+            "query_start": 7,
+            "query_end": 20,
+            "tokens": [
+              "is",
+              "not"
+            ],
+            "similarity": 0.2621363680907249
+          },
+          {
+            "id": "c048",
+            "start": 12,
+            "end": 22,
+            "query_start": 20,
+            "query_end": 30,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.23796148923127197
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "is",
+          "not",
+          "good"
+        ],
+        "score": 6.055832612801319,
+        "matches": [
+          {
+            "id": "c046",
+            "start": 20,
+            "end": 24,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.19582144586627162
+          },
+          {
+            "id": "c090",
+            "start": 13,
+            "end": 27,
+            "query_start": 6,
+            "query_end": 20,
+            "tokens": [
+              "is",
+              "not"
+            ],
+            "similarity": 0.24949513835882234
+          },
+          {
+            "id": "c048",
+            "start": 12,
+            "end": 22,
+            "query_start": 20,
+            "query_end": 30,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.23796148923127197
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "family",
+          "is",
+          "not",
+          "good"
+        ],
+        "score": 5.879824850584431,
+        "matches": [
+          {
+            "id": "c108",
+            "start": 18,
+            "end": 28,
+            "query_start": 2,
+            "query_end": 9,
+            "tokens": [
+              "family"
+            ],
+            "similarity": 0.18076558989807648
+          },
+          {
+            "id": "c090",
+            "start": 13,
+            "end": 27,
+            "query_start": 9,
+            "query_end": 20,
+            "tokens": [
+              "is",
+              "not"
+            ],
+            "similarity": 0.25771371172592505
+          },
+          {
+            "id": "c048",
+            "start": 12,
+            "end": 22,
+            "query_start": 20,
+            "query_end": 30,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.23796148923127197
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "music",
+          "is",
+          "not",
+          "good"
+        ],
+        "score": 5.585212756966559,
+        "matches": [
+          {
+            "id": "c090",
+            "start": 2,
+            "end": 27,
+            "query_start": 2,
+            "query_end": 20,
+            "tokens": [
+              "my",
+              "music",
+              "is",
+              "not"
+            ],
+            "similarity": 0.2003109924807689
+          },
+          {
+            "id": "c048",
+            "start": 12,
+            "end": 22,
+            "query_start": 20,
+            "query_end": 30,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.23796148923127197
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t9024802d",
+    "final_interpreted_tokens": [
+      "do",
+      "not",
+      "need",
+      "it"
+    ],
+    "subjective_confidence": "low",
+    "interpretation": "Do-not is a strong medial match to c111 5:17, at query 2:15. Need-it matches c083 29:42 in the second half; final it has c104/c083 support. Like-that and right-here are competing but weaker compositions.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "do",
+        "not",
+        "need",
+        "it"
+      ],
+      "score": 6.019522244702422,
+      "matches": [
+        {
+          "id": "c111",
+          "start": 5,
+          "end": 17,
+          "query_start": 2,
+          "query_end": 17,
+          "tokens": [
+            "do",
+            "not"
+          ],
+          "similarity": 0.274970762035514
+        },
+        {
+          "id": "c083",
+          "start": 29,
+          "end": 42,
+          "query_start": 17,
+          "query_end": 29,
+          "tokens": [
+            "need",
+            "it"
+          ],
+          "similarity": 0.19124673451414267
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "do",
+          "not",
+          "need",
+          "it"
+        ],
+        "score": 6.019522244702422,
+        "matches": [
+          {
+            "id": "c111",
+            "start": 5,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.274970762035514
+          },
+          {
+            "id": "c083",
+            "start": 29,
+            "end": 42,
+            "query_start": 17,
+            "query_end": 29,
+            "tokens": [
+              "need",
+              "it"
+            ],
+            "similarity": 0.19124673451414267
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "do",
+          "not",
+          "right",
+          "here"
+        ],
+        "score": 5.952990192821189,
+        "matches": [
+          {
+            "id": "c111",
+            "start": 5,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 16,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.28192898852574816
+          },
+          {
+            "id": "c031",
+            "start": 17,
+            "end": 33,
+            "query_start": 16,
+            "query_end": 29,
+            "tokens": [
+              "right",
+              "here"
+            ],
+            "similarity": 0.1850757194969781
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "do",
+          "not",
+          "need",
+          "it"
+        ],
+        "score": 5.908647825313192,
+        "matches": [
+          {
+            "id": "c111",
+            "start": 2,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "they",
+              "do",
+              "not"
+            ],
+            "similarity": 0.2675791340762321
+          },
+          {
+            "id": "c083",
+            "start": 29,
+            "end": 42,
+            "query_start": 17,
+            "query_end": 29,
+            "tokens": [
+              "need",
+              "it"
+            ],
+            "similarity": 0.19124673451414267
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "do",
+          "not",
+          "need",
+          "that"
+        ],
+        "score": 5.856291547699962,
+        "matches": [
+          {
+            "id": "c111",
+            "start": 5,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "do",
+              "not"
+            ],
+            "similarity": 0.274970762035514
+          },
+          {
+            "id": "c083",
+            "start": 29,
+            "end": 35,
+            "query_start": 17,
+            "query_end": 22,
+            "tokens": [
+              "need"
+            ],
+            "similarity": 0.239914522079805
+          },
+          {
+            "id": "c088",
+            "start": 24,
+            "end": 35,
+            "query_start": 22,
+            "query_end": 29,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.16173678668117542
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t2b08e042",
+    "final_interpreted_tokens": [
+      "my",
+      "faith",
+      "they",
+      "are",
+      "good"
+    ],
+    "subjective_confidence": "very low",
+    "interpretation": "My-faith matches c031, with faith independently supported by c003/c112. Nurse in c049 is confusable. Middle they-are matches c056 13:23 and are in c005/c006; good has c008/c049 suffix support. Retain the two short middle words based on overlapping phrase evidence despite nonstandard syntax; is and are alone remain alternatives.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "my",
+        "faith",
+        "they",
+        "are",
+        "good"
+      ],
+      "score": 5.758270466976074,
+      "matches": [
+        {
+          "id": "c090",
+          "start": 2,
+          "end": 5,
+          "query_start": 2,
+          "query_end": 5,
+          "tokens": [
+            "my"
+          ],
+          "similarity": 0.3235407135968475
+        },
+        {
+          "id": "c031",
+          "start": 5,
+          "end": 12,
+          "query_start": 5,
+          "query_end": 13,
+          "tokens": [
+            "faith"
+          ],
+          "similarity": 0.30495391870826294
+        },
+        {
+          "id": "c056",
+          "start": 13,
+          "end": 23,
+          "query_start": 13,
+          "query_end": 20,
+          "tokens": [
+            "they",
+            "are"
+          ],
+          "similarity": 0.2108949071676546
+        },
+        {
+          "id": "c008",
+          "start": 22,
+          "end": 30,
+          "query_start": 20,
+          "query_end": 28,
+          "tokens": [
+            "good"
+          ],
+          "similarity": 0.20896907829323083
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "my",
+          "faith",
+          "they",
+          "good"
+        ],
+        "score": 5.796906669637071,
+        "matches": [
+          {
+            "id": "c090",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 5,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.3235407135968475
+          },
+          {
+            "id": "c031",
+            "start": 5,
+            "end": 12,
+            "query_start": 5,
+            "query_end": 13,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.30495391870826294
+          },
+          {
+            "id": "c056",
+            "start": 13,
+            "end": 17,
+            "query_start": 13,
+            "query_end": 18,
+            "tokens": [
+              "they"
+            ],
+            "similarity": 0.23086326842156227
+          },
+          {
+            "id": "c008",
+            "start": 22,
+            "end": 30,
+            "query_start": 18,
+            "query_end": 28,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.20323368370726136
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "nurse",
+          "are",
+          "good"
+        ],
+        "score": 5.7729499036691845,
+        "matches": [
+          {
+            "id": "c090",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 5,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.3235407135968475
+          },
+          {
+            "id": "c049",
+            "start": 5,
+            "end": 15,
+            "query_start": 5,
+            "query_end": 15,
+            "tokens": [
+              "nurse"
+            ],
+            "similarity": 0.2842169179686056
+          },
+          {
+            "id": "c005",
+            "start": 19,
+            "end": 23,
+            "query_start": 15,
+            "query_end": 19,
+            "tokens": [
+              "are"
+            ],
+            "similarity": 0.2182763911856258
+          },
+          {
+            "id": "c008",
+            "start": 22,
+            "end": 30,
+            "query_start": 19,
+            "query_end": 28,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.20967255760556472
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "faith",
+          "they",
+          "are",
+          "good"
+        ],
+        "score": 5.758270466976074,
+        "matches": [
+          {
+            "id": "c090",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 5,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.3235407135968475
+          },
+          {
+            "id": "c031",
+            "start": 5,
+            "end": 12,
+            "query_start": 5,
+            "query_end": 13,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.30495391870826294
+          },
+          {
+            "id": "c056",
+            "start": 13,
+            "end": 23,
+            "query_start": 13,
+            "query_end": 20,
+            "tokens": [
+              "they",
+              "are"
+            ],
+            "similarity": 0.2108949071676546
+          },
+          {
+            "id": "c008",
+            "start": 22,
+            "end": 30,
+            "query_start": 20,
+            "query_end": 28,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.20896907829323083
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "my",
+          "faith",
+          "are",
+          "good"
+        ],
+        "score": 5.679999606228831,
+        "matches": [
+          {
+            "id": "c090",
+            "start": 2,
+            "end": 5,
+            "query_start": 2,
+            "query_end": 5,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.3235407135968475
+          },
+          {
+            "id": "c031",
+            "start": 5,
+            "end": 12,
+            "query_start": 5,
+            "query_end": 15,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.27492188822457037
+          },
+          {
+            "id": "c005",
+            "start": 19,
+            "end": 23,
+            "query_start": 15,
+            "query_end": 19,
+            "tokens": [
+              "are"
+            ],
+            "similarity": 0.2182763911856258
+          },
+          {
+            "id": "c008",
+            "start": 22,
+            "end": 30,
+            "query_start": 19,
+            "query_end": 28,
+            "tokens": [
+              "good"
+            ],
+            "similarity": 0.20967255760556472
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t62254eda",
+    "final_interpreted_tokens": [
+      "that",
+      "is",
+      "very",
+      "comfortable"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "Initial that/is is supported by c103/c107/c087 edges. Very-comfortable overlaps c079/c039/c115, with comfortable independently strong in c103/c114/c078. My is a brief competing local match; repeated prefix evidence favors is.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "that",
+        "is",
+        "very",
+        "comfortable"
+      ],
+      "score": 7.194888792930746,
+      "matches": [
+        {
+          "id": "c103",
+          "start": 2,
+          "end": 7,
+          "query_start": 2,
+          "query_end": 6,
+          "tokens": [
+            "that"
+          ],
+          "similarity": 0.28418595204383307
+        },
+        {
+          "id": "c100",
+          "start": 10,
+          "end": 16,
+          "query_start": 6,
+          "query_end": 10,
+          "tokens": [
+            "is"
+          ],
+          "similarity": 0.16560786158539395
+        },
+        {
+          "id": "c079",
+          "start": 33,
+          "end": 56,
+          "query_start": 10,
+          "query_end": 31,
+          "tokens": [
+            "very",
+            "comfortable"
+          ],
+          "similarity": 0.28551016849589705
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "that",
+          "my",
+          "very",
+          "comfortable"
+        ],
+        "score": 7.351135819517246,
+        "matches": [
+          {
+            "id": "c103",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 7,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.2706982276377584
+          },
+          {
+            "id": "c072",
+            "start": 5,
+            "end": 8,
+            "query_start": 7,
+            "query_end": 11,
+            "tokens": [
+              "my"
+            ],
+            "similarity": 0.20343642402956172
+          },
+          {
+            "id": "c079",
+            "start": 33,
+            "end": 56,
+            "query_start": 11,
+            "query_end": 31,
+            "tokens": [
+              "very",
+              "comfortable"
+            ],
+            "similarity": 0.28919494926051037
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "that",
+          "is",
+          "my",
+          "very",
+          "comfortable"
+        ],
+        "score": 7.274676355781512,
+        "matches": [
+          {
+            "id": "c103",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.28418595204383307
+          },
+          {
+            "id": "c072",
+            "start": 2,
+            "end": 8,
+            "query_start": 6,
+            "query_end": 11,
+            "tokens": [
+              "is",
+              "my"
+            ],
+            "similarity": 0.19080671247919448
+          },
+          {
+            "id": "c079",
+            "start": 33,
+            "end": 56,
+            "query_start": 11,
+            "query_end": 31,
+            "tokens": [
+              "very",
+              "comfortable"
+            ],
+            "similarity": 0.28919494926051037
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "that",
+          "very",
+          "comfortable"
+        ],
+        "score": 7.202910142189658,
+        "matches": [
+          {
+            "id": "c103",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 8,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.24111565170332833
+          },
+          {
+            "id": "c079",
+            "start": 33,
+            "end": 56,
+            "query_start": 8,
+            "query_end": 31,
+            "tokens": [
+              "very",
+              "comfortable"
+            ],
+            "similarity": 0.2676615753030299
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "that",
+          "is",
+          "very",
+          "comfortable"
+        ],
+        "score": 7.194888792930746,
+        "matches": [
+          {
+            "id": "c103",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "that"
+            ],
+            "similarity": 0.28418595204383307
+          },
+          {
+            "id": "c100",
+            "start": 10,
+            "end": 16,
+            "query_start": 6,
+            "query_end": 10,
+            "tokens": [
+              "is"
+            ],
+            "similarity": 0.16560786158539395
+          },
+          {
+            "id": "c079",
+            "start": 33,
+            "end": 56,
+            "query_start": 10,
+            "query_end": 31,
+            "tokens": [
+              "very",
+              "comfortable"
+            ],
+            "similarity": 0.28551016849589705
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t9db27598",
+    "final_interpreted_tokens": [
+      "is",
+      "my",
+      "nurse",
+      "not",
+      "comfortable"
+    ],
+    "subjective_confidence": "moderate",
+    "interpretation": "Is-my-nurse is strongly supported by c072 2:17, plus c011/c049 nurse intervals. Query 14:24 matches not-comfortable in c103. Comfortable has c017/c114 support. You at the beginning and absence of not remain close alternatives.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "is",
+        "my",
+        "nurse",
+        "not",
+        "comfortable"
+      ],
+      "score": 7.154077108046094,
+      "matches": [
+        {
+          "id": "c072",
+          "start": 2,
+          "end": 17,
+          "query_start": 2,
+          "query_end": 16,
+          "tokens": [
+            "is",
+            "my",
+            "nurse"
+          ],
+          "similarity": 0.2773375155026651
+        },
+        {
+          "id": "c103",
+          "start": 15,
+          "end": 19,
+          "query_start": 16,
+          "query_end": 21,
+          "tokens": [
+            "not"
+          ],
+          "similarity": 0.2776720109393112
+        },
+        {
+          "id": "c114",
+          "start": 40,
+          "end": 53,
+          "query_start": 21,
+          "query_end": 34,
+          "tokens": [
+            "comfortable"
+          ],
+          "similarity": 0.1909993720240174
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "you",
+          "nurse",
+          "not",
+          "comfortable"
+        ],
+        "score": 7.1669365607359605,
+        "matches": [
+          {
+            "id": "c048",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "you"
+            ],
+            "similarity": 0.3093265610626673
+          },
+          {
+            "id": "c072",
+            "start": 8,
+            "end": 17,
+            "query_start": 6,
+            "query_end": 16,
+            "tokens": [
+              "nurse"
+            ],
+            "similarity": 0.2858278425476509
+          },
+          {
+            "id": "c103",
+            "start": 15,
+            "end": 19,
+            "query_start": 16,
+            "query_end": 21,
+            "tokens": [
+              "not"
+            ],
+            "similarity": 0.2776720109393112
+          },
+          {
+            "id": "c114",
+            "start": 40,
+            "end": 53,
+            "query_start": 21,
+            "query_end": 34,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.1909993720240174
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "is",
+          "my",
+          "nurse",
+          "not",
+          "comfortable"
+        ],
+        "score": 7.154077108046094,
+        "matches": [
+          {
+            "id": "c072",
+            "start": 2,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 16,
+            "tokens": [
+              "is",
+              "my",
+              "nurse"
+            ],
+            "similarity": 0.2773375155026651
+          },
+          {
+            "id": "c103",
+            "start": 15,
+            "end": 19,
+            "query_start": 16,
+            "query_end": 21,
+            "tokens": [
+              "not"
+            ],
+            "similarity": 0.2776720109393112
+          },
+          {
+            "id": "c114",
+            "start": 40,
+            "end": 53,
+            "query_start": 21,
+            "query_end": 34,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.1909993720240174
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "you",
+          "my",
+          "nurse",
+          "not",
+          "comfortable"
+        ],
+        "score": 7.147115867101364,
+        "matches": [
+          {
+            "id": "c048",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 5,
+            "tokens": [
+              "you"
+            ],
+            "similarity": 0.29651730023139866
+          },
+          {
+            "id": "c072",
+            "start": 5,
+            "end": 17,
+            "query_start": 5,
+            "query_end": 16,
+            "tokens": [
+              "my",
+              "nurse"
+            ],
+            "similarity": 0.2896556432180351
+          },
+          {
+            "id": "c103",
+            "start": 15,
+            "end": 19,
+            "query_start": 16,
+            "query_end": 21,
+            "tokens": [
+              "not"
+            ],
+            "similarity": 0.2776720109393112
+          },
+          {
+            "id": "c114",
+            "start": 40,
+            "end": 53,
+            "query_start": 21,
+            "query_end": 34,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.1909993720240174
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "is",
+          "my",
+          "nurse",
+          "comfortable"
+        ],
+        "score": 6.895229287937438,
+        "matches": [
+          {
+            "id": "c072",
+            "start": 2,
+            "end": 17,
+            "query_start": 2,
+            "query_end": 17,
+            "tokens": [
+              "is",
+              "my",
+              "nurse"
+            ],
+            "similarity": 0.270293110158211
+          },
+          {
+            "id": "c017",
+            "start": 29,
+            "end": 44,
+            "query_start": 17,
+            "query_end": 34,
+            "tokens": [
+              "comfortable"
+            ],
+            "similarity": 0.19063721385672194
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tef25d0d3",
+    "final_interpreted_tokens": [
+      "they",
+      "do",
+      "not",
+      "have",
+      "faith"
+    ],
+    "subjective_confidence": "low",
+    "interpretation": "They-do matches c101 18:31 at query 2:12; not c079 at 12:20; have c117 at 20:24; faith c003 at 24:35, supplemented by c004/c112. How-do prefix and need in c075 are confusable; they-do-not has the stronger longer overlapping phrase evidence than selecting those words independently.",
+    "selected_candidate_numerical_evidence": {
+      "tokens": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "faith"
+      ],
+      "score": 6.89677328959397,
+      "matches": [
+        {
+          "id": "c101",
+          "start": 18,
+          "end": 31,
+          "query_start": 2,
+          "query_end": 12,
+          "tokens": [
+            "they",
+            "do"
+          ],
+          "similarity": 0.23979792459583937
+        },
+        {
+          "id": "c079",
+          "start": 18,
+          "end": 27,
+          "query_start": 12,
+          "query_end": 20,
+          "tokens": [
+            "not"
+          ],
+          "similarity": 0.22999721073446003
+        },
+        {
+          "id": "c117",
+          "start": 20,
+          "end": 25,
+          "query_start": 20,
+          "query_end": 24,
+          "tokens": [
+            "have"
+          ],
+          "similarity": 0.208956935975385
+        },
+        {
+          "id": "c003",
+          "start": 7,
+          "end": 21,
+          "query_start": 24,
+          "query_end": 35,
+          "tokens": [
+            "faith"
+          ],
+          "similarity": 0.23845351035075968
+        }
+      ]
+    },
+    "top_scored_alternatives": [
+      {
+        "tokens": [
+          "how",
+          "need",
+          "not",
+          "have",
+          "faith"
+        ],
+        "score": 6.992883146398929,
+        "matches": [
+          {
+            "id": "c082",
+            "start": 2,
+            "end": 7,
+            "query_start": 2,
+            "query_end": 8,
+            "tokens": [
+              "how"
+            ],
+            "similarity": 0.2317313117406107
+          },
+          {
+            "id": "c075",
+            "start": 5,
+            "end": 10,
+            "query_start": 8,
+            "query_end": 13,
+            "tokens": [
+              "need"
+            ],
+            "similarity": 0.32565190455122817
+          },
+          {
+            "id": "c079",
+            "start": 18,
+            "end": 27,
+            "query_start": 13,
+            "query_end": 20,
+            "tokens": [
+              "not"
+            ],
+            "similarity": 0.21648848506274684
+          },
+          {
+            "id": "c117",
+            "start": 20,
+            "end": 25,
+            "query_start": 20,
+            "query_end": 24,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.208956935975385
+          },
+          {
+            "id": "c003",
+            "start": 7,
+            "end": 21,
+            "query_start": 24,
+            "query_end": 35,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.23845351035075968
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "do",
+          "not",
+          "feel",
+          "faith"
+        ],
+        "score": 6.936643196831486,
+        "matches": [
+          {
+            "id": "c101",
+            "start": 18,
+            "end": 31,
+            "query_start": 2,
+            "query_end": 12,
+            "tokens": [
+              "they",
+              "do"
+            ],
+            "similarity": 0.23979792459583937
+          },
+          {
+            "id": "c079",
+            "start": 18,
+            "end": 33,
+            "query_start": 12,
+            "query_end": 25,
+            "tokens": [
+              "not",
+              "feel"
+            ],
+            "similarity": 0.21102503655914923
+          },
+          {
+            "id": "c003",
+            "start": 7,
+            "end": 21,
+            "query_start": 25,
+            "query_end": 35,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.2395338475604153
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "they",
+          "do",
+          "not",
+          "have",
+          "faith"
+        ],
+        "score": 6.89677328959397,
+        "matches": [
+          {
+            "id": "c101",
+            "start": 18,
+            "end": 31,
+            "query_start": 2,
+            "query_end": 12,
+            "tokens": [
+              "they",
+              "do"
+            ],
+            "similarity": 0.23979792459583937
+          },
+          {
+            "id": "c079",
+            "start": 18,
+            "end": 27,
+            "query_start": 12,
+            "query_end": 20,
+            "tokens": [
+              "not"
+            ],
+            "similarity": 0.22999721073446003
+          },
+          {
+            "id": "c117",
+            "start": 20,
+            "end": 25,
+            "query_start": 20,
+            "query_end": 24,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.208956935975385
+          },
+          {
+            "id": "c003",
+            "start": 7,
+            "end": 21,
+            "query_start": 24,
+            "query_end": 35,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.23845351035075968
+          }
+        ]
+      },
+      {
+        "tokens": [
+          "how",
+          "do",
+          "not",
+          "have",
+          "faith"
+        ],
+        "score": 6.847283451074208,
+        "matches": [
+          {
+            "id": "c007",
+            "start": 2,
+            "end": 6,
+            "query_start": 2,
+            "query_end": 6,
+            "tokens": [
+              "how"
+            ],
+            "similarity": 0.24091664032134846
+          },
+          {
+            "id": "c101",
+            "start": 23,
+            "end": 31,
+            "query_start": 6,
+            "query_end": 12,
+            "tokens": [
+              "do"
+            ],
+            "similarity": 0.26413714102553965
+          },
+          {
+            "id": "c079",
+            "start": 18,
+            "end": 27,
+            "query_start": 12,
+            "query_end": 20,
+            "tokens": [
+              "not"
+            ],
+            "similarity": 0.22999721073446003
+          },
+          {
+            "id": "c117",
+            "start": 20,
+            "end": 25,
+            "query_start": 20,
+            "query_end": 24,
+            "tokens": [
+              "have"
+            ],
+            "similarity": 0.208956935975385
+          },
+          {
+            "id": "c003",
+            "start": 7,
+            "end": 21,
+            "query_start": 24,
+            "query_end": 35,
+            "tokens": [
+              "faith"
+            ],
+            "similarity": 0.23845351035075968
+          }
+        ]
+      }
+    ]
+  }
+]

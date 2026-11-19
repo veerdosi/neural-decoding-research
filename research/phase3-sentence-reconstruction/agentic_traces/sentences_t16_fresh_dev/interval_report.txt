@@ -1,0 +1,103 @@
+
+QUERY te7fda903
+2 10 0.46 c055:2-7 do i tell my nurse | 0.41 c004:2-10 do what please | 0.40 c061:3-8 do i have my glasses | 0.37 c005:2-13 you hope my nurse is here | 0.36 c034:3-7 you are that bad
+5 13 0.49 c055:4-11 do i tell my nurse | 0.40 c004:5-12 do what please | 0.40 c058:10-21 i do not have my computer | 0.36 c037:72-79 how do you like that | 0.34 c038:17-22 how do you clean
+8 16 0.45 c058:17-22 i do not have my computer | 0.44 c055:6-13 do i tell my nurse | 0.43 c031:17-21 how do you like | 0.42 c037:75-81 how do you like that | 0.42 c050:48-53 tell my nurse they do not feel thirsty
+11 19 0.45 c058:19-23 i do not have my computer | 0.43 c050:50-54 tell my nurse they do not feel thirsty | 0.42 c031:18-22 how do you like | 0.41 c076:9-13 no you are not going outside | 0.41 c007:16-20 you clean it up
+14 22 0.39 c070:11-15 you do | 0.37 c039:31-37 i hope you like my music | 0.34 c007:17-21 you clean it up | 0.32 c035:37-41 i hope they do not need my music | 0.31 c058:20-24 i do not have my computer
+17 25 0.33 c039:33-38 i hope you like my music | 0.30 c007:31-36 you clean it up | 0.30 c023:37-43 they are that good | 0.29 c070:12-16 you do | 0.28 c056:22-26 you do not need faith
+20 28 0.32 c018:15-23 that is bad | 0.32 c034:26-33 you are that bad | 0.31 c058:33-37 i do not have my computer | 0.31 c067:48-52 my faith is my success | 0.30 c037:102-106 how do you like that
+23 31 0.45 c037:101-110 how do you like that | 0.34 c052:38-47 where are they not | 0.33 c034:28-35 you are that bad | 0.33 c036:37-48 is it that bad | 0.31 c018:18-25 that is bad
+26 34 0.54 c037:105-112 how do you like that | 0.40 c052:42-50 where are they not | 0.40 c051:23-30 i need that | 0.39 c036:43-51 is it that bad | 0.32 c014:30-36 how they do it
+29 37 0.39 c079:39-47 where is my faith | 0.38 c014:32-40 how they do it | 0.38 c041:36-42 hope you do it | 0.38 c051:26-32 i need that | 0.34 c052:45-53 where are they not
+
+QUERY t196443a7
+2 10 0.67 c066:5-9 are they very thirsty | 0.53 c023:20-24 they are that good | 0.52 c046:29-33 i hope they are right here | 0.51 c034:15-19 you are that bad | 0.49 c052:25-29 where are they not
+5 13 0.63 c066:6-13 are they very thirsty | 0.53 c034:16-20 you are that bad | 0.50 c023:21-25 they are that good | 0.49 c053:27-32 how are they | 0.49 c072:27-31 you are okay
+8 16 0.45 c066:8-17 are they very thirsty | 0.36 c052:27-34 where are they not | 0.35 c012:28-34 i tell you i am thirsty | 0.35 c057:16-21 how are you here | 0.34 c072:27-36 you are okay
+11 19 0.41 c007:13-20 you clean it up | 0.38 c012:29-40 i tell you i am thirsty | 0.35 c070:4-16 you do | 0.33 c044:25-38 you hope they are right here | 0.33 c075:17-29 they need not
+14 22 0.37 c033:39-43 where is it going | 0.35 c028:15-19 i hope you like my help | 0.35 c044:31-41 you hope they are right here | 0.35 c043:17-22 no my family is not going here | 0.35 c030:26-35 what do they have
+17 25 0.41 c033:39-43 where is it going | 0.37 c043:18-22 no my family is not going here | 0.36 c066:33-37 are they very thirsty | 0.35 c028:15-19 i hope you like my help | 0.31 c050:72-78 tell my nurse they do not feel thirsty
+20 28 0.40 c028:15-19 i hope you like my help | 0.39 c066:33-37 are they very thirsty | 0.38 c073:21-25 my glasses | 0.36 c039:20-24 i hope you like my music | 0.36 c033:38-42 where is it going
+23 31 0.38 c062:31-40 i hope they are closer | 0.36 c033:38-42 where is it going | 0.35 c028:16-20 i hope you like my help | 0.32 c073:21-25 my glasses | 0.32 c071:50-54 i hope you have very good family
+26 34 0.43 c062:34-43 i hope they are closer | 0.37 c058:51-60 i do not have my computer | 0.37 c029:20-29 tell my nurse i do not feel comfortable | 0.35 c013:38-43 is my nurse comfortable | 0.33 c052:27-31 where are they not
+29 37 0.45 c058:56-61 i do not have my computer | 0.42 c062:38-45 i hope they are closer | 0.40 c052:27-31 where are they not | 0.40 c029:25-29 tell my nurse i do not feel comfortable | 0.39 c005:41-45 you hope my nurse is here
+
+QUERY t0ba95c98
+2 10 0.37 c010:9-16 you feel comfortable | 0.37 c072:9-21 you are okay | 0.36 c057:16-24 how are you here | 0.36 c037:59-63 how do you like that | 0.35 c022:29-36 what do you clean
+5 13 0.53 c072:13-25 you are okay | 0.46 c032:29-34 i do good | 0.45 c010:11-19 you feel comfortable | 0.45 c022:32-37 what do you clean | 0.43 c056:25-32 you do not need faith
+8 16 0.56 c072:20-27 you are okay | 0.45 c074:13-19 you are no good | 0.45 c059:20-26 you are up | 0.43 c078:25-29 i hope my family is right here | 0.42 c032:31-35 i do good
+11 19 0.41 c059:21-35 you are up | 0.40 c072:23-28 you are okay | 0.37 c046:28-32 i hope they are right here | 0.35 c074:15-21 you are no good | 0.35 c024:33-37 they hope you are right here
+14 22 0.43 c018:18-24 that is bad | 0.36 c036:37-45 is it that bad | 0.36 c027:46-50 it is what they have | 0.36 c037:100-109 how do you like that | 0.35 c067:35-41 my faith is my success
+17 25 0.55 c018:20-27 that is bad | 0.41 c037:105-109 how do you like that | 0.37 c034:30-38 you are that bad | 0.36 c027:47-51 it is what they have | 0.33 c036:40-48 is it that bad
+20 28 0.47 c018:23-29 that is bad | 0.34 c037:106-112 how do you like that | 0.33 c010:22-26 you feel comfortable | 0.33 c034:33-40 you are that bad | 0.32 c032:41-47 i do good
+
+QUERY te1c6177b
+2 10 0.36 c076:2-10 no you are not going outside | 0.35 c047:39-46 family is not okay | 0.33 c072:31-41 you are okay | 0.30 c060:2-6 yes i am very good | 0.29 c056:47-52 you do not need faith
+5 13 0.41 c002:21-25 i hope you like music | 0.39 c010:13-17 you feel comfortable | 0.39 c005:20-24 you hope my nurse is here | 0.38 c040:10-18 they like my nurse | 0.38 c076:5-14 no you are not going outside
+8 16 0.42 c055:9-18 do i tell my nurse | 0.40 c043:10-19 no my family is not going here | 0.40 c040:12-23 they like my nurse | 0.39 c002:22-26 i hope you like music | 0.38 c054:25-36 what do i tell my nurse
+11 19 0.38 c020:22-29 yes i am hungry | 0.36 c043:13-25 no my family is not going here | 0.34 c048:23-37 you hope i am right here | 0.34 c016:20-26 i am hungry | 0.33 c055:15-19 do i tell my nurse
+14 22 0.47 c048:28-41 you hope i am right here | 0.42 c020:25-31 yes i am hungry | 0.40 c060:17-23 yes i am very good | 0.37 c001:8-17 i am clean | 0.34 c078:67-78 i hope my family is right here
+17 25 0.44 c048:34-44 you hope i am right here | 0.36 c052:20-26 where are they not | 0.35 c060:19-25 yes i am very good | 0.34 c050:62-69 tell my nurse they do not feel thirsty | 0.32 c020:26-37 yes i am hungry
+20 28 0.37 c050:65-71 tell my nurse they do not feel thirsty | 0.33 c076:61-69 no you are not going outside | 0.33 c023:24-30 they are that good | 0.32 c029:43-56 tell my nurse i do not feel comfortable | 0.31 c048:38-48 you hope i am right here
+23 31 0.35 c068:43-50 my nurse is not going | 0.33 c021:28-39 do that right | 0.32 c032:19-28 i do good | 0.31 c078:14-22 i hope my family is right here | 0.31 c002:13-22 i hope you like music
+26 34 0.45 c068:45-55 my nurse is not going | 0.36 c016:32-37 i am hungry | 0.35 c010:22-30 you feel comfortable | 0.35 c020:70-74 yes i am hungry | 0.33 c021:32-42 do that right
+29 37 0.58 c020:71-76 yes i am hungry | 0.52 c016:31-40 i am hungry | 0.49 c069:39-48 what is hungry | 0.42 c068:50-56 my nurse is not going
+32 40 0.69 c020:72-78 yes i am hungry | 0.65 c016:35-42 i am hungry | 0.57 c069:44-49 what is hungry | 0.49 c004:25-29 do what please | 0.45 c066:35-40 are they very thirsty
+35 43 0.55 c020:74-81 yes i am hungry | 0.49 c016:37-46 i am hungry | 0.48 c004:26-32 do what please | 0.47 c069:45-54 what is hungry | 0.46 c071:67-76 i hope you have very good family
+
+QUERY td4202301
+2 10 0.41 c016:29-33 i am hungry | 0.39 c072:23-27 you are okay | 0.39 c075:2-7 they need not | 0.37 c032:20-24 i do good | 0.36 c041:2-12 hope you do it
+5 13 0.43 c041:6-16 hope you do it | 0.41 c016:30-34 i am hungry | 0.38 c020:40-49 yes i am hungry | 0.38 c068:49-54 my nurse is not going | 0.38 c078:23-27 i hope my family is right here
+8 16 0.49 c041:11-20 hope you do it | 0.35 c068:50-56 my nurse is not going | 0.34 c049:23-30 hello you | 0.33 c022:32-41 what do you clean | 0.33 c071:19-27 i hope you have very good family
+11 19 0.45 c041:14-23 hope you do it | 0.41 c002:27-36 i hope you like music | 0.39 c039:28-34 i hope you like my music | 0.38 c071:22-30 i hope you have very good family | 0.36 c005:10-18 you hope my nurse is here
+14 22 0.50 c028:25-32 i hope you like my help | 0.48 c041:18-24 hope you do it | 0.46 c002:31-38 i hope you like music | 0.43 c055:8-15 do i tell my nurse | 0.42 c011:27-31 what do they do
+17 25 0.53 c028:28-38 i hope you like my help | 0.48 c035:38-43 i hope they do not need my music | 0.45 c058:21-26 i do not have my computer | 0.41 c045:10-18 you like it here | 0.41 c055:11-15 do i tell my nurse
+20 28 0.41 c028:32-41 i hope you like my help | 0.38 c045:13-22 you like it here | 0.38 c035:60-67 i hope they do not need my music | 0.37 c058:41-45 i do not have my computer | 0.34 c012:38-45 i tell you i am thirsty
+23 31 0.50 c039:48-56 i hope you like my music | 0.44 c035:62-71 i hope they do not need my music | 0.40 c070:2-10 you do | 0.37 c077:21-32 i need it right here | 0.35 c008:48-52 you hope my nurse is going
+26 34 0.53 c039:51-59 i hope you like my music | 0.52 c035:65-74 i hope they do not need my music | 0.41 c070:6-10 you do | 0.39 c073:21-25 my glasses | 0.38 c066:35-39 are they very thirsty
+29 37 0.54 c035:70-76 i hope they do not need my music | 0.51 c039:55-61 i hope you like my music | 0.40 c066:35-39 are they very thirsty | 0.39 c073:21-25 my glasses | 0.37 c008:48-52 you hope my nurse is going
+32 40 0.46 c035:72-79 i hope they do not need my music | 0.40 c039:57-64 i hope you like my music | 0.34 c066:36-44 are they very thirsty | 0.31 c012:58-62 i tell you i am thirsty | 0.30 c061:55-61 do i have my glasses
+
+QUERY ta84f22ff
+2 10 0.49 c045:3-12 you like it here | 0.47 c008:2-11 you hope my nurse is going | 0.39 c007:9-17 you clean it up | 0.37 c017:4-11 you feel it | 0.37 c005:3-17 you hope my nurse is here
+5 13 0.56 c008:6-13 you hope my nurse is going | 0.55 c007:12-21 you clean it up | 0.52 c045:7-14 you like it here | 0.49 c017:7-14 you feel it | 0.46 c039:29-36 i hope you like my music
+8 16 0.43 c039:32-37 i hope you like my music | 0.42 c007:15-24 you clean it up | 0.39 c008:8-16 you hope my nurse is going | 0.38 c028:27-31 i hope you like my help | 0.37 c017:10-15 you feel it
+11 19 0.31 c061:33-39 do i have my glasses | 0.30 c003:38-45 is it that good | 0.30 c039:34-39 i hope you like my music | 0.29 c007:32-40 you clean it up | 0.29 c017:12-27 you feel it
+14 22 0.35 c061:35-41 do i have my glasses | 0.32 c060:17-21 yes i am very good | 0.32 c033:28-32 where is it going | 0.31 c063:55-59 do you need help here | 0.30 c024:9-13 they hope you are right here
+17 25 0.42 c063:56-60 do you need help here | 0.39 c077:48-54 i need it right here | 0.37 c075:2-6 they need not | 0.35 c016:28-32 i am hungry | 0.34 c073:27-31 my glasses
+20 28 0.55 c077:49-58 i need it right here | 0.51 c063:56-64 do you need help here | 0.50 c046:42-49 i hope they are right here | 0.49 c078:68-76 i hope my family is right here | 0.48 c024:46-53 they hope you are right here
+23 31 0.64 c046:44-52 i hope they are right here | 0.62 c024:49-54 they hope you are right here | 0.61 c078:71-79 i hope my family is right here | 0.60 c077:53-60 i need it right here | 0.58 c063:59-66 do you need help here
+26 34 0.64 c045:27-34 you like it here | 0.62 c078:74-81 i hope my family is right here | 0.61 c046:47-53 i hope they are right here | 0.61 c063:62-69 do you need help here | 0.60 c024:51-57 they hope you are right here
+
+QUERY tc14fc0db
+2 10 0.47 c046:3-12 i hope they are right here | 0.39 c002:11-21 i hope you like music | 0.36 c028:7-11 i hope you like my help | 0.36 c031:3-10 how do you like | 0.36 c071:4-9 i hope you have very good family
+5 13 0.54 c002:15-24 i hope you like music | 0.52 c046:7-15 i hope they are right here | 0.41 c053:41-45 how are they | 0.41 c039:16-25 i hope you like my music | 0.41 c062:7-16 i hope they are closer
+8 16 0.53 c002:19-27 i hope you like music | 0.53 c046:10-19 i hope they are right here | 0.47 c005:19-27 you hope my nurse is here | 0.46 c062:10-19 i hope they are closer | 0.43 c076:53-57 no you are not going outside
+11 19 0.52 c002:23-29 i hope you like music | 0.51 c046:13-24 i hope they are right here | 0.49 c062:14-21 i hope they are closer | 0.48 c035:21-28 i hope they do not need my music | 0.45 c039:23-30 i hope you like my music
+14 22 0.40 c046:17-28 i hope they are right here | 0.40 c027:36-40 it is what they have | 0.40 c011:22-29 what do they do | 0.39 c035:24-30 i hope they do not need my music | 0.38 c062:17-24 i hope they are closer
+17 25 0.40 c042:9-18 they are tired | 0.39 c046:21-32 i hope they are right here | 0.38 c062:19-29 i hope they are closer | 0.34 c023:13-24 they are that good | 0.31 c024:26-37 they hope you are right here
+20 28 0.55 c042:13-20 they are tired | 0.47 c062:23-31 i hope they are closer | 0.41 c023:20-24 they are that good | 0.40 c072:25-32 you are okay | 0.40 c074:16-23 you are no good
+23 31 0.52 c062:27-32 i hope they are closer | 0.50 c042:16-21 they are tired | 0.47 c072:27-35 you are okay | 0.46 c053:28-35 how are they | 0.45 c059:27-32 you are up
+26 34 0.57 c029:66-72 tell my nurse i do not feel comfortable | 0.51 c013:34-41 is my nurse comfortable | 0.47 c010:23-32 you feel comfortable | 0.45 c072:30-34 you are okay | 0.44 c062:29-33 i hope they are closer
+29 37 0.73 c029:68-74 tell my nurse i do not feel comfortable | 0.69 c013:36-46 is my nurse comfortable | 0.64 c010:27-34 you feel comfortable
+32 40 0.75 c029:70-76 tell my nurse i do not feel comfortable | 0.73 c010:29-38 you feel comfortable | 0.71 c013:39-48 is my nurse comfortable
+35 43 0.68 c010:33-40 you feel comfortable | 0.62 c029:72-80 tell my nurse i do not feel comfortable | 0.61 c013:44-50 is my nurse comfortable
+
+QUERY t49dd1ce6
+2 10 0.55 c071:4-10 i hope you have very good family | 0.54 c078:8-14 i hope my family is right here | 0.52 c046:3-11 i hope they are right here | 0.47 c035:10-15 i hope they do not need my music
+5 13 0.52 c046:6-15 i hope they are right here | 0.48 c039:15-24 i hope you like my music | 0.48 c062:6-16 i hope they are closer | 0.47 c078:10-26 i hope my family is right here | 0.44 c071:6-20 i hope you have very good family
+8 16 0.44 c062:9-19 i hope they are closer | 0.42 c024:18-27 they hope you are right here | 0.39 c046:9-19 i hope they are right here | 0.39 c039:18-28 i hope you like my music | 0.32 c028:14-23 i hope you like my help
+11 19 0.40 c062:14-20 i hope they are closer | 0.33 c024:20-31 they hope you are right here | 0.32 c035:21-28 i hope they do not need my music | 0.31 c032:31-35 i do good | 0.31 c019:2-6 my family is that good
+14 22 0.37 c008:42-49 you hope my nurse is going | 0.35 c014:17-23 how they do it | 0.35 c032:31-35 i do good | 0.34 c024:14-19 they hope you are right here | 0.32 c019:2-6 my family is that good
+17 25 0.44 c014:19-28 how they do it | 0.41 c050:42-51 tell my nurse they do not feel thirsty | 0.39 c008:46-50 you hope my nurse is going | 0.36 c030:24-28 what do they have | 0.35 c032:32-36 i do good
+20 28 0.53 c050:45-55 tell my nurse they do not feel thirsty | 0.46 c014:23-30 how they do it | 0.45 c030:25-29 what do they have | 0.42 c011:26-30 what do they do | 0.40 c058:17-23 i do not have my computer
+23 31 0.54 c050:49-58 tell my nurse they do not feel thirsty | 0.42 c058:18-30 i do not have my computer | 0.40 c014:26-32 how they do it | 0.39 c054:27-31 what do i tell my nurse | 0.39 c035:34-48 i hope they do not need my music
+26 34 0.43 c050:52-62 tell my nurse they do not feel thirsty | 0.35 c056:34-43 you do not need faith | 0.33 c035:41-52 i hope they do not need my music | 0.32 c068:43-49 my nurse is not going | 0.30 c047:35-42 family is not okay
+29 37 0.41 c056:37-46 you do not need faith | 0.33 c035:46-55 i hope they do not need my music | 0.33 c004:19-27 do what please | 0.31 c070:2-9 you do | 0.30 c001:14-26 i am clean
+32 40 0.38 c015:23-32 they need it going up | 0.37 c075:21-28 they need not | 0.37 c051:16-22 i need that | 0.37 c070:4-14 you do | 0.36 c056:41-49 you do not need faith
+35 43 0.40 c020:57-64 yes i am hungry | 0.38 c078:31-35 i hope my family is right here | 0.33 c006:56-60 they do not have hope | 0.32 c035:53-65 i hope they do not need my music | 0.29 c039:43-49 i hope you like my music
+38 46 0.45 c020:59-67 yes i am hungry | 0.41 c043:17-24 no my family is not going here | 0.35 c039:45-51 i hope you like my music | 0.33 c078:31-44 i hope my family is right here | 0.32 c046:39-43 i hope they are right here
+41 49 0.45 c071:60-65 i hope you have very good family | 0.41 c000:27-31 tell my family they feel thirsty | 0.40 c043:19-28 no my family is not going here | 0.36 c078:42-46 i hope my family is right here | 0.36 c019:12-21 my family is that good
+44 52 0.50 c071:61-68 i hope you have very good family | 0.42 c047:12-22 family is not okay | 0.41 c078:42-51 i hope my family is right here | 0.40 c000:28-33 tell my family they feel thirsty | 0.37 c065:9-18 family is okay
+47 55 0.49 c071:63-72 i hope you have very good family | 0.43 c047:16-25 family is not okay | 0.38 c065:12-21 family is okay | 0.37 c078:46-53 i hope my family is right here | 0.30 c022:49-53 what do you clean

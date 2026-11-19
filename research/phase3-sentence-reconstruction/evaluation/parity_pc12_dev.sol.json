@@ -1,0 +1,65 @@
+{
+  "name": "parity_pc12_dev",
+  "n": 8,
+  "exact_sequence_correct": 8,
+  "exact_sequence_accuracy": 1.0,
+  "token_accuracy": 1.0,
+  "position_accuracy": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "prediction_bits": [
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "method_self_report": "Compared successive temporal patterns with calibration, emphasizing the third coordinate\u2019s generally positive up and negative right responses while allowing timing shifts. Used other coordinates as supporting evidence. The first word of q57189db9 is most uncertain because its early response is weak and mixed.",
+  "donor_exact_accuracy": 1.0,
+  "usage": [
+    {
+      "input_tokens": 35523,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 4953,
+      "reasoning_output_tokens": 4745
+    }
+  ]
+}

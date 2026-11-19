@@ -1,0 +1,1893 @@
+{
+  "c000": [
+    {
+      "token": "tell",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "my",
+      "start": 17,
+      "end": 24
+    },
+    {
+      "token": "family",
+      "start": 24,
+      "end": 36
+    },
+    {
+      "token": "they",
+      "start": 36,
+      "end": 45
+    },
+    {
+      "token": "feel",
+      "start": 45,
+      "end": 54
+    },
+    {
+      "token": "thirsty",
+      "start": 54,
+      "end": 69
+    }
+  ],
+  "c001": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 8
+    },
+    {
+      "token": "am",
+      "start": 8,
+      "end": 17
+    },
+    {
+      "token": "clean",
+      "start": 17,
+      "end": 29
+    }
+  ],
+  "c002": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "hope",
+      "start": 17,
+      "end": 27
+    },
+    {
+      "token": "you",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "token": "like",
+      "start": 35,
+      "end": 47
+    },
+    {
+      "token": "music",
+      "start": 47,
+      "end": 64
+    }
+  ],
+  "c003": [
+    {
+      "token": "is",
+      "start": 2,
+      "end": 25
+    },
+    {
+      "token": "it",
+      "start": 25,
+      "end": 36
+    },
+    {
+      "token": "that",
+      "start": 36,
+      "end": 45
+    },
+    {
+      "token": "good",
+      "start": 45,
+      "end": 54
+    }
+  ],
+  "c004": [
+    {
+      "token": "do",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "what",
+      "start": 13,
+      "end": 23
+    },
+    {
+      "token": "please",
+      "start": 23,
+      "end": 35
+    }
+  ],
+  "c005": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 18
+    },
+    {
+      "token": "hope",
+      "start": 18,
+      "end": 29
+    },
+    {
+      "token": "my",
+      "start": 29,
+      "end": 38
+    },
+    {
+      "token": "nurse",
+      "start": 38,
+      "end": 48
+    },
+    {
+      "token": "is",
+      "start": 48,
+      "end": 57
+    },
+    {
+      "token": "here",
+      "start": 57,
+      "end": 68
+    }
+  ],
+  "c006": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 19
+    },
+    {
+      "token": "do",
+      "start": 19,
+      "end": 28
+    },
+    {
+      "token": "not",
+      "start": 28,
+      "end": 36
+    },
+    {
+      "token": "have",
+      "start": 36,
+      "end": 47
+    },
+    {
+      "token": "hope",
+      "start": 47,
+      "end": 58
+    }
+  ],
+  "c007": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 16
+    },
+    {
+      "token": "clean",
+      "start": 16,
+      "end": 28
+    },
+    {
+      "token": "it",
+      "start": 28,
+      "end": 37
+    },
+    {
+      "token": "up",
+      "start": 37,
+      "end": 44
+    }
+  ],
+  "c008": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 12
+    },
+    {
+      "token": "hope",
+      "start": 12,
+      "end": 21
+    },
+    {
+      "token": "my",
+      "start": 21,
+      "end": 27
+    },
+    {
+      "token": "nurse",
+      "start": 27,
+      "end": 36
+    },
+    {
+      "token": "is",
+      "start": 36,
+      "end": 43
+    },
+    {
+      "token": "going",
+      "start": 43,
+      "end": 55
+    }
+  ],
+  "c009": [
+    {
+      "token": "coming",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "outside",
+      "start": 17,
+      "end": 30
+    },
+    {
+      "token": "is",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "token": "very",
+      "start": 39,
+      "end": 49
+    },
+    {
+      "token": "good",
+      "start": 49,
+      "end": 59
+    }
+  ],
+  "c010": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "feel",
+      "start": 17,
+      "end": 26
+    },
+    {
+      "token": "comfortable",
+      "start": 26,
+      "end": 43
+    }
+  ],
+  "c011": [
+    {
+      "token": "what",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "do",
+      "start": 24,
+      "end": 33
+    },
+    {
+      "token": "they",
+      "start": 33,
+      "end": 44
+    },
+    {
+      "token": "do",
+      "start": 44,
+      "end": 55
+    }
+  ],
+  "c012": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "tell",
+      "start": 14,
+      "end": 28
+    },
+    {
+      "token": "you",
+      "start": 28,
+      "end": 40
+    },
+    {
+      "token": "i",
+      "start": 40,
+      "end": 45
+    },
+    {
+      "token": "am",
+      "start": 45,
+      "end": 52
+    },
+    {
+      "token": "thirsty",
+      "start": 52,
+      "end": 65
+    }
+  ],
+  "c013": [
+    {
+      "token": "is",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "my",
+      "start": 17,
+      "end": 25
+    },
+    {
+      "token": "nurse",
+      "start": 25,
+      "end": 36
+    },
+    {
+      "token": "comfortable",
+      "start": 36,
+      "end": 53
+    }
+  ],
+  "c014": [
+    {
+      "token": "how",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "they",
+      "start": 17,
+      "end": 24
+    },
+    {
+      "token": "do",
+      "start": 24,
+      "end": 32
+    },
+    {
+      "token": "it",
+      "start": 32,
+      "end": 39
+    }
+  ],
+  "c015": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "need",
+      "start": 14,
+      "end": 25
+    },
+    {
+      "token": "it",
+      "start": 25,
+      "end": 33
+    },
+    {
+      "token": "going",
+      "start": 33,
+      "end": 45
+    },
+    {
+      "token": "up",
+      "start": 45,
+      "end": 59
+    }
+  ],
+  "c016": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 20
+    },
+    {
+      "token": "am",
+      "start": 20,
+      "end": 31
+    },
+    {
+      "token": "hungry",
+      "start": 31,
+      "end": 46
+    }
+  ],
+  "c017": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "feel",
+      "start": 14,
+      "end": 25
+    },
+    {
+      "token": "it",
+      "start": 25,
+      "end": 33
+    }
+  ],
+  "c018": [
+    {
+      "token": "that",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "is",
+      "start": 14,
+      "end": 20
+    },
+    {
+      "token": "bad",
+      "start": 20,
+      "end": 32
+    }
+  ],
+  "c019": [
+    {
+      "token": "my",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "family",
+      "start": 13,
+      "end": 26
+    },
+    {
+      "token": "is",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "token": "that",
+      "start": 31,
+      "end": 37
+    },
+    {
+      "token": "good",
+      "start": 37,
+      "end": 47
+    }
+  ],
+  "c021": [
+    {
+      "token": "do",
+      "start": 2,
+      "end": 19
+    },
+    {
+      "token": "that",
+      "start": 19,
+      "end": 34
+    },
+    {
+      "token": "right",
+      "start": 34,
+      "end": 49
+    }
+  ],
+  "c022": [
+    {
+      "token": "what",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "do",
+      "start": 24,
+      "end": 33
+    },
+    {
+      "token": "you",
+      "start": 33,
+      "end": 43
+    },
+    {
+      "token": "clean",
+      "start": 43,
+      "end": 56
+    }
+  ],
+  "c023": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 18
+    },
+    {
+      "token": "are",
+      "start": 18,
+      "end": 26
+    },
+    {
+      "token": "that",
+      "start": 26,
+      "end": 33
+    },
+    {
+      "token": "good",
+      "start": 33,
+      "end": 44
+    }
+  ],
+  "c024": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 16
+    },
+    {
+      "token": "hope",
+      "start": 16,
+      "end": 25
+    },
+    {
+      "token": "you",
+      "start": 25,
+      "end": 33
+    },
+    {
+      "token": "are",
+      "start": 33,
+      "end": 41
+    },
+    {
+      "token": "right",
+      "start": 41,
+      "end": 49
+    },
+    {
+      "token": "here",
+      "start": 49,
+      "end": 57
+    }
+  ],
+  "c025": [
+    {
+      "token": "bring",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "here",
+      "start": 24,
+      "end": 40
+    }
+  ],
+  "c026": [
+    {
+      "token": "it",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "is",
+      "start": 17,
+      "end": 31
+    }
+  ],
+  "c027": [
+    {
+      "token": "it",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "is",
+      "start": 15,
+      "end": 28
+    },
+    {
+      "token": "what",
+      "start": 28,
+      "end": 38
+    },
+    {
+      "token": "they",
+      "start": 38,
+      "end": 45
+    },
+    {
+      "token": "have",
+      "start": 45,
+      "end": 54
+    }
+  ],
+  "c028": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "hope",
+      "start": 13,
+      "end": 22
+    },
+    {
+      "token": "you",
+      "start": 22,
+      "end": 29
+    },
+    {
+      "token": "like",
+      "start": 29,
+      "end": 38
+    },
+    {
+      "token": "my",
+      "start": 38,
+      "end": 45
+    },
+    {
+      "token": "help",
+      "start": 45,
+      "end": 56
+    }
+  ],
+  "c029": [
+    {
+      "token": "tell",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "my",
+      "start": 15,
+      "end": 22
+    },
+    {
+      "token": "nurse",
+      "start": 22,
+      "end": 32
+    },
+    {
+      "token": "i",
+      "start": 32,
+      "end": 40
+    },
+    {
+      "token": "do",
+      "start": 40,
+      "end": 48
+    },
+    {
+      "token": "not",
+      "start": 48,
+      "end": 57
+    },
+    {
+      "token": "feel",
+      "start": 57,
+      "end": 66
+    },
+    {
+      "token": "comfortable",
+      "start": 66,
+      "end": 81
+    }
+  ],
+  "c030": [
+    {
+      "token": "what",
+      "start": 2,
+      "end": 21
+    },
+    {
+      "token": "do",
+      "start": 21,
+      "end": 29
+    },
+    {
+      "token": "they",
+      "start": 29,
+      "end": 36
+    },
+    {
+      "token": "have",
+      "start": 36,
+      "end": 48
+    }
+  ],
+  "c031": [
+    {
+      "token": "how",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "do",
+      "start": 13,
+      "end": 21
+    },
+    {
+      "token": "you",
+      "start": 21,
+      "end": 27
+    },
+    {
+      "token": "like",
+      "start": 27,
+      "end": 36
+    }
+  ],
+  "c032": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 26
+    },
+    {
+      "token": "do",
+      "start": 26,
+      "end": 36
+    },
+    {
+      "token": "good",
+      "start": 36,
+      "end": 45
+    }
+  ],
+  "c033": [
+    {
+      "token": "where",
+      "start": 2,
+      "end": 22
+    },
+    {
+      "token": "is",
+      "start": 22,
+      "end": 29
+    },
+    {
+      "token": "it",
+      "start": 29,
+      "end": 35
+    },
+    {
+      "token": "going",
+      "start": 35,
+      "end": 48
+    }
+  ],
+  "c034": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "are",
+      "start": 15,
+      "end": 23
+    },
+    {
+      "token": "that",
+      "start": 23,
+      "end": 30
+    },
+    {
+      "token": "bad",
+      "start": 30,
+      "end": 41
+    }
+  ],
+  "c035": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "hope",
+      "start": 15,
+      "end": 24
+    },
+    {
+      "token": "they",
+      "start": 24,
+      "end": 31
+    },
+    {
+      "token": "do",
+      "start": 31,
+      "end": 39
+    },
+    {
+      "token": "not",
+      "start": 39,
+      "end": 47
+    },
+    {
+      "token": "need",
+      "start": 47,
+      "end": 56
+    },
+    {
+      "token": "my",
+      "start": 56,
+      "end": 64
+    },
+    {
+      "token": "music",
+      "start": 64,
+      "end": 77
+    }
+  ],
+  "c036": [
+    {
+      "token": "is",
+      "start": 2,
+      "end": 18
+    },
+    {
+      "token": "it",
+      "start": 18,
+      "end": 30
+    },
+    {
+      "token": "that",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "token": "bad",
+      "start": 39,
+      "end": 50
+    }
+  ],
+  "c038": [
+    {
+      "token": "how",
+      "start": 2,
+      "end": 23
+    },
+    {
+      "token": "do",
+      "start": 23,
+      "end": 30
+    },
+    {
+      "token": "you",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "token": "clean",
+      "start": 35,
+      "end": 47
+    }
+  ],
+  "c039": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 19
+    },
+    {
+      "token": "hope",
+      "start": 19,
+      "end": 27
+    },
+    {
+      "token": "you",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "token": "like",
+      "start": 35,
+      "end": 43
+    },
+    {
+      "token": "my",
+      "start": 43,
+      "end": 50
+    },
+    {
+      "token": "music",
+      "start": 50,
+      "end": 64
+    }
+  ],
+  "c040": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 20
+    },
+    {
+      "token": "like",
+      "start": 20,
+      "end": 27
+    },
+    {
+      "token": "my",
+      "start": 27,
+      "end": 35
+    },
+    {
+      "token": "nurse",
+      "start": 35,
+      "end": 47
+    }
+  ],
+  "c041": [
+    {
+      "token": "hope",
+      "start": 2,
+      "end": 19
+    },
+    {
+      "token": "you",
+      "start": 19,
+      "end": 25
+    },
+    {
+      "token": "do",
+      "start": 25,
+      "end": 33
+    },
+    {
+      "token": "it",
+      "start": 33,
+      "end": 41
+    }
+  ],
+  "c042": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "are",
+      "start": 13,
+      "end": 21
+    },
+    {
+      "token": "tired",
+      "start": 21,
+      "end": 33
+    }
+  ],
+  "c043": [
+    {
+      "token": "no",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "my",
+      "start": 13,
+      "end": 20
+    },
+    {
+      "token": "family",
+      "start": 20,
+      "end": 32
+    },
+    {
+      "token": "is",
+      "start": 32,
+      "end": 38
+    },
+    {
+      "token": "not",
+      "start": 38,
+      "end": 46
+    },
+    {
+      "token": "going",
+      "start": 46,
+      "end": 55
+    },
+    {
+      "token": "here",
+      "start": 55,
+      "end": 63
+    }
+  ],
+  "c044": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 29
+    },
+    {
+      "token": "hope",
+      "start": 29,
+      "end": 43
+    },
+    {
+      "token": "they",
+      "start": 43,
+      "end": 49
+    },
+    {
+      "token": "are",
+      "start": 49,
+      "end": 57
+    },
+    {
+      "token": "right",
+      "start": 57,
+      "end": 64
+    },
+    {
+      "token": "here",
+      "start": 64,
+      "end": 72
+    }
+  ],
+  "c045": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "like",
+      "start": 13,
+      "end": 21
+    },
+    {
+      "token": "it",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "token": "here",
+      "start": 26,
+      "end": 36
+    }
+  ],
+  "c046": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 9
+    },
+    {
+      "token": "hope",
+      "start": 9,
+      "end": 18
+    },
+    {
+      "token": "they",
+      "start": 18,
+      "end": 25
+    },
+    {
+      "token": "are",
+      "start": 25,
+      "end": 34
+    },
+    {
+      "token": "right",
+      "start": 34,
+      "end": 44
+    },
+    {
+      "token": "here",
+      "start": 44,
+      "end": 54
+    }
+  ],
+  "c047": [
+    {
+      "token": "family",
+      "start": 2,
+      "end": 26
+    },
+    {
+      "token": "is",
+      "start": 26,
+      "end": 33
+    },
+    {
+      "token": "not",
+      "start": 33,
+      "end": 40
+    },
+    {
+      "token": "okay",
+      "start": 40,
+      "end": 54
+    }
+  ],
+  "c048": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "hope",
+      "start": 24,
+      "end": 29
+    },
+    {
+      "token": "i",
+      "start": 29,
+      "end": 33
+    },
+    {
+      "token": "am",
+      "start": 33,
+      "end": 41
+    },
+    {
+      "token": "right",
+      "start": 41,
+      "end": 50
+    },
+    {
+      "token": "here",
+      "start": 50,
+      "end": 59
+    }
+  ],
+  "c049": [
+    {
+      "token": "hello",
+      "start": 2,
+      "end": 25
+    },
+    {
+      "token": "you",
+      "start": 25,
+      "end": 38
+    }
+  ],
+  "c050": [
+    {
+      "token": "tell",
+      "start": 2,
+      "end": 16
+    },
+    {
+      "token": "my",
+      "start": 16,
+      "end": 28
+    },
+    {
+      "token": "nurse",
+      "start": 28,
+      "end": 38
+    },
+    {
+      "token": "they",
+      "start": 38,
+      "end": 46
+    },
+    {
+      "token": "do",
+      "start": 46,
+      "end": 53
+    },
+    {
+      "token": "not",
+      "start": 53,
+      "end": 61
+    },
+    {
+      "token": "feel",
+      "start": 61,
+      "end": 67
+    },
+    {
+      "token": "thirsty",
+      "start": 67,
+      "end": 83
+    }
+  ],
+  "c051": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "need",
+      "start": 14,
+      "end": 22
+    },
+    {
+      "token": "that",
+      "start": 22,
+      "end": 32
+    }
+  ],
+  "c052": [
+    {
+      "token": "where",
+      "start": 2,
+      "end": 23
+    },
+    {
+      "token": "are",
+      "start": 23,
+      "end": 33
+    },
+    {
+      "token": "they",
+      "start": 33,
+      "end": 40
+    },
+    {
+      "token": "not",
+      "start": 40,
+      "end": 51
+    }
+  ],
+  "c053": [
+    {
+      "token": "how",
+      "start": 2,
+      "end": 22
+    },
+    {
+      "token": "are",
+      "start": 22,
+      "end": 34
+    },
+    {
+      "token": "they",
+      "start": 34,
+      "end": 44
+    }
+  ],
+  "c054": [
+    {
+      "token": "what",
+      "start": 2,
+      "end": 23
+    },
+    {
+      "token": "do",
+      "start": 23,
+      "end": 32
+    },
+    {
+      "token": "i",
+      "start": 32,
+      "end": 39
+    },
+    {
+      "token": "tell",
+      "start": 39,
+      "end": 48
+    },
+    {
+      "token": "my",
+      "start": 48,
+      "end": 54
+    },
+    {
+      "token": "nurse",
+      "start": 54,
+      "end": 66
+    }
+  ],
+  "c055": [
+    {
+      "token": "do",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "i",
+      "start": 15,
+      "end": 25
+    },
+    {
+      "token": "tell",
+      "start": 25,
+      "end": 34
+    },
+    {
+      "token": "my",
+      "start": 34,
+      "end": 41
+    },
+    {
+      "token": "nurse",
+      "start": 41,
+      "end": 55
+    }
+  ],
+  "c056": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "do",
+      "start": 24,
+      "end": 31
+    },
+    {
+      "token": "not",
+      "start": 31,
+      "end": 39
+    },
+    {
+      "token": "need",
+      "start": 39,
+      "end": 47
+    },
+    {
+      "token": "faith",
+      "start": 47,
+      "end": 60
+    }
+  ],
+  "c057": [
+    {
+      "token": "how",
+      "start": 2,
+      "end": 13
+    },
+    {
+      "token": "are",
+      "start": 13,
+      "end": 20
+    },
+    {
+      "token": "you",
+      "start": 20,
+      "end": 27
+    },
+    {
+      "token": "here",
+      "start": 27,
+      "end": 36
+    }
+  ],
+  "c058": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "do",
+      "start": 14,
+      "end": 23
+    },
+    {
+      "token": "not",
+      "start": 23,
+      "end": 32
+    },
+    {
+      "token": "have",
+      "start": 32,
+      "end": 40
+    },
+    {
+      "token": "my",
+      "start": 40,
+      "end": 48
+    },
+    {
+      "token": "computer",
+      "start": 48,
+      "end": 62
+    }
+  ],
+  "c059": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "are",
+      "start": 24,
+      "end": 30
+    },
+    {
+      "token": "up",
+      "start": 30,
+      "end": 41
+    }
+  ],
+  "c060": [
+    {
+      "token": "yes",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "i",
+      "start": 14,
+      "end": 19
+    },
+    {
+      "token": "am",
+      "start": 19,
+      "end": 23
+    },
+    {
+      "token": "very",
+      "start": 23,
+      "end": 30
+    },
+    {
+      "token": "good",
+      "start": 30,
+      "end": 43
+    }
+  ],
+  "c061": [
+    {
+      "token": "do",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "i",
+      "start": 15,
+      "end": 24
+    },
+    {
+      "token": "have",
+      "start": 24,
+      "end": 36
+    },
+    {
+      "token": "my",
+      "start": 36,
+      "end": 45
+    },
+    {
+      "token": "glasses",
+      "start": 45,
+      "end": 62
+    }
+  ],
+  "c062": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 10
+    },
+    {
+      "token": "hope",
+      "start": 10,
+      "end": 19
+    },
+    {
+      "token": "they",
+      "start": 19,
+      "end": 26
+    },
+    {
+      "token": "are",
+      "start": 26,
+      "end": 33
+    },
+    {
+      "token": "closer",
+      "start": 33,
+      "end": 47
+    }
+  ],
+  "c063": [
+    {
+      "token": "do",
+      "start": 2,
+      "end": 26
+    },
+    {
+      "token": "you",
+      "start": 26,
+      "end": 35
+    },
+    {
+      "token": "need",
+      "start": 35,
+      "end": 47
+    },
+    {
+      "token": "help",
+      "start": 47,
+      "end": 59
+    },
+    {
+      "token": "here",
+      "start": 59,
+      "end": 70
+    }
+  ],
+  "c064": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "need",
+      "start": 15,
+      "end": 25
+    },
+    {
+      "token": "help",
+      "start": 25,
+      "end": 39
+    }
+  ],
+  "c065": [
+    {
+      "token": "family",
+      "start": 2,
+      "end": 23
+    },
+    {
+      "token": "is",
+      "start": 23,
+      "end": 29
+    },
+    {
+      "token": "okay",
+      "start": 29,
+      "end": 46
+    }
+  ],
+  "c066": [
+    {
+      "token": "are",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "they",
+      "start": 14,
+      "end": 21
+    },
+    {
+      "token": "very",
+      "start": 21,
+      "end": 29
+    },
+    {
+      "token": "thirsty",
+      "start": 29,
+      "end": 43
+    }
+  ],
+  "c067": [
+    {
+      "token": "my",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "faith",
+      "start": 17,
+      "end": 27
+    },
+    {
+      "token": "is",
+      "start": 27,
+      "end": 34
+    },
+    {
+      "token": "my",
+      "start": 34,
+      "end": 42
+    },
+    {
+      "token": "success",
+      "start": 42,
+      "end": 57
+    }
+  ],
+  "c068": [
+    {
+      "token": "my",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "nurse",
+      "start": 17,
+      "end": 30
+    },
+    {
+      "token": "is",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "token": "not",
+      "start": 39,
+      "end": 47
+    },
+    {
+      "token": "going",
+      "start": 47,
+      "end": 61
+    }
+  ],
+  "c069": [
+    {
+      "token": "what",
+      "start": 2,
+      "end": 28
+    },
+    {
+      "token": "is",
+      "start": 28,
+      "end": 39
+    },
+    {
+      "token": "hungry",
+      "start": 39,
+      "end": 54
+    }
+  ],
+  "c070": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 16
+    },
+    {
+      "token": "do",
+      "start": 16,
+      "end": 27
+    }
+  ],
+  "c071": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 14
+    },
+    {
+      "token": "hope",
+      "start": 14,
+      "end": 23
+    },
+    {
+      "token": "you",
+      "start": 23,
+      "end": 31
+    },
+    {
+      "token": "have",
+      "start": 31,
+      "end": 41
+    },
+    {
+      "token": "very",
+      "start": 41,
+      "end": 51
+    },
+    {
+      "token": "good",
+      "start": 51,
+      "end": 57
+    },
+    {
+      "token": "family",
+      "start": 57,
+      "end": 76
+    }
+  ],
+  "c072": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 24
+    },
+    {
+      "token": "are",
+      "start": 24,
+      "end": 34
+    },
+    {
+      "token": "okay",
+      "start": 34,
+      "end": 48
+    }
+  ],
+  "c073": [
+    {
+      "token": "my",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "glasses",
+      "start": 15,
+      "end": 30
+    }
+  ],
+  "c074": [
+    {
+      "token": "you",
+      "start": 2,
+      "end": 15
+    },
+    {
+      "token": "are",
+      "start": 15,
+      "end": 23
+    },
+    {
+      "token": "no",
+      "start": 23,
+      "end": 30
+    },
+    {
+      "token": "good",
+      "start": 30,
+      "end": 42
+    }
+  ],
+  "c075": [
+    {
+      "token": "they",
+      "start": 2,
+      "end": 17
+    },
+    {
+      "token": "need",
+      "start": 17,
+      "end": 26
+    },
+    {
+      "token": "not",
+      "start": 26,
+      "end": 39
+    }
+  ],
+  "c076": [
+    {
+      "token": "no",
+      "start": 2,
+      "end": 11
+    },
+    {
+      "token": "you",
+      "start": 11,
+      "end": 23
+    },
+    {
+      "token": "are",
+      "start": 23,
+      "end": 37
+    },
+    {
+      "token": "not",
+      "start": 37,
+      "end": 47
+    },
+    {
+      "token": "going",
+      "start": 47,
+      "end": 58
+    },
+    {
+      "token": "outside",
+      "start": 58,
+      "end": 73
+    }
+  ],
+  "c077": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 26
+    },
+    {
+      "token": "need",
+      "start": 26,
+      "end": 33
+    },
+    {
+      "token": "it",
+      "start": 33,
+      "end": 41
+    },
+    {
+      "token": "right",
+      "start": 41,
+      "end": 53
+    },
+    {
+      "token": "here",
+      "start": 53,
+      "end": 63
+    }
+  ],
+  "c078": [
+    {
+      "token": "i",
+      "start": 2,
+      "end": 18
+    },
+    {
+      "token": "hope",
+      "start": 18,
+      "end": 30
+    },
+    {
+      "token": "my",
+      "start": 30,
+      "end": 39
+    },
+    {
+      "token": "family",
+      "start": 39,
+      "end": 55
+    },
+    {
+      "token": "is",
+      "start": 55,
+      "end": 63
+    },
+    {
+      "token": "right",
+      "start": 63,
+      "end": 71
+    },
+    {
+      "token": "here",
+      "start": 71,
+      "end": 81
+    }
+  ],
+  "c079": [
+    {
+      "token": "where",
+      "start": 2,
+      "end": 18
+    },
+    {
+      "token": "is",
+      "start": 18,
+      "end": 24
+    },
+    {
+      "token": "my",
+      "start": 24,
+      "end": 31
+    },
+    {
+      "token": "faith",
+      "start": 31,
+      "end": 46
+    }
+  ]
+}

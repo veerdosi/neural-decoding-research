@@ -1,0 +1,20 @@
+{
+  "pilot": {
+    "calibration_n": 98,
+    "evaluation_n": 98,
+    "vocabulary_n": 7,
+    "Sol_correct": 52,
+    "no_signal_correct": 14,
+    "nominal_shuffle_correct": 16,
+    "source_report": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_decoding_pilot/report.md",
+    "report_sha256": "847fcb20cf3dd501d8f13ebfab32754434eb8f60636a20529e8801d86bbef41f"
+  },
+  "comparison": {
+    "T12_examples_per_word": 14,
+    "Sol_mean_accuracy": 0.561,
+    "aligned_LDA_accuracy": 0.592,
+    "scope": "Matched calibration/features/evaluation. Sol mean across original/repeat calls; aligned LDA uses unlabelled query-mean alignment. No broad classifier superiority established.",
+    "source_report": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_decoding_phase2/report.md",
+    "report_sha256": "8e2ddc1939f34bdc1d98d29bb7b18006bf8d80bea9349f3dad3453b7ca05496b"
+  }
+}

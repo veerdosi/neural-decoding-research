@@ -1,0 +1,30 @@
+{
+  "name": "neural_evidence_fusion_t16",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "returncode": 0,
+  "wall_seconds": 234.7537009716034,
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/discovery_probes/neural_evidence_fusion_t16",
+    "-s",
+    "workspace-write",
+    "-c",
+    "approval_policy=\"never\"",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/neural_evidence_fusion_t16.json",
+    "-"
+  ],
+  "prompt_sha256": "dd4626e7cb45a0540011d4f586e48039a96029d4d2b1c6097a0853fba4eeea47"
+}

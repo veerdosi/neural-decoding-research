@@ -1,0 +1,22 @@
+{
+  "8": {
+    "n": 49,
+    "mean_vector_rms_in_calibration_sd": 0.13800256896759,
+    "within_block_feature_sd_rms": 0.95656214271596
+  },
+  "9": {
+    "n": 49,
+    "mean_vector_rms_in_calibration_sd": 0.13800256896759933,
+    "within_block_feature_sd_rms": 1.0131590624250635
+  },
+  "17": {
+    "n": 49,
+    "mean_vector_rms_in_calibration_sd": 0.7001397373761953,
+    "within_block_feature_sd_rms": 1.0186733061858444
+  },
+  "25": {
+    "n": 49,
+    "mean_vector_rms_in_calibration_sd": 1.0500773026845482,
+    "within_block_feature_sd_rms": 1.0165335361920766
+  }
+}

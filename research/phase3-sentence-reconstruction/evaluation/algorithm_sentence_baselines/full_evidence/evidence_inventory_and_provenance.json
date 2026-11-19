@@ -1,0 +1,106 @@
+{
+  "frozen_replay_consumed_artifacts": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/inputs.json",
+      "sha256": "289bfddc561c17f0dea97683e89481ec513a506dd1740a8f76c737a3825823bf"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/neural_inputs.npz",
+      "sha256": "b221b5af30044bb95f9ae066d42be8c048a2c92940000f39a6f7de3883fb8954"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/unsupervised_pca.npz",
+      "sha256": "ce0c6ef000ce4f33c32e8ca3a6edcfc4d75a3ebdb896036dbd479afb0b24be1f"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/global_retrieval.json",
+      "sha256": "e6a36a53d17242775e091ba65541b9389d3631c0b695d15f6d58957fa1c97f92"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/variant_retrieval.json",
+      "sha256": "7422d12214f0dfe61e9f3abab9857031b9281cd20195d757fc3f461574efcf49"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_drop2.json",
+      "sha256": "72c35fa194119f2505388f576dba1ed08c6613fc810c1a5f08e131cda264bc8f"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_white.json",
+      "sha256": "a04fab51187fa840a47585a9582d3d304633eea25716754be5e5166e90e64975"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_raw.json",
+      "sha256": "3c158643aac385f5c213e465cc0fadddb460acbb94459e4a4282b95a4a5d8bbd"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_pca64drop2.json",
+      "sha256": "2c75efa18d0409e190ea79846dc7f290b857e43cb5165c269349f0abe11da49b"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_pca32drop2.json",
+      "sha256": "c1734d045f62fb728426f7f436cc5c604fc7a22cef94f01245b00b5a6c05c7f0"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/local_dtw_drop2.json",
+      "sha256": "b37a1f3141fd556e46a3192e8475b46801ef5f40f26ff2f494093bc0c3b74214"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/edge_drop2.json",
+      "sha256": "798ae4b7cfae7253e3f045a132ceb124c3d90c7e6ea73abd8fea758a8c00b3fa"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/inspect_drop2_c080_c083_c010_c072_c100.json",
+      "sha256": "5f6db57355ec8dc3e05e8f5e7a01b42d1360090ebc3326cd87bd2bd1dfff1ed1"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/agentic_neural_sandbox/prefix_comparisons.json",
+      "sha256": "18c86923bb07b8ccacd6c2a9f318c1293d73da104862d1332aa8168d600c91b9"
+    }
+  ],
+  "excluded_hypothesis_and_prediction_artifacts": [
+    "inference_evidence.json",
+    "reconstruction.json",
+    "finalize_evidence.py",
+    "model commentary and hypotheses"
+  ],
+  "generic_application_reads": [
+    "Case inputs.json",
+    "Case neural_inputs.npz",
+    "Calibration-only generic configuration lock"
+  ],
+  "diagnostics_not_directly_word_scored": [
+    "All-data covariance eigenvalue/norm printouts",
+    "A few projected PC trajectories printed during inspection",
+    "smoothed_pca.npz diagnostic (not loaded by the actual retrieval helpers)"
+  ],
+  "query_prefix_comparisons": "Query-specific twelve-frame subset numerically duplicates full edge retrieval; calibration prefix scores/path contexts are included separately.",
+  "current_code": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_algorithm_comparison.py",
+      "sha256": "6a0833648b7d96d8a7638905aece6f2cdc71c786144f50e00289c6ee4a26093e"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_full_evidence_comparison.py",
+      "sha256": "88878f462069560c5adc29bb19f974aee7effc9e6e2949cf8670eeb21ea1b056"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_dtw.c",
+      "sha256": "9558c7b4cf5f97b83499b0b78d4a7230c221b9eed673f2408b0baaa243b24a85"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/code/sentence_weak_word_baseline.py",
+      "sha256": "2ab89778ea28aaf552c4fb3437c601861bf6bf3149e0b36e1f8b87e921fbb137"
+    }
+  ],
+  "locks": [
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/configuration_lock.json",
+      "sha256": "02f7f73945b3f1de6712f27f6b29637d049326a3baf7d926d48db0738e4915e1"
+    },
+    {
+      "path": "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/evaluation/algorithm_sentence_baselines/full_evidence/generic_configuration_lock.json",
+      "sha256": "3e563a8107bdaa9967d79681203195ee23be7b6ef3542abcd0fcf54d134f0723"
+    }
+  ],
+  "separation": "No baseline output or learned word decoder has been written into a Sol sandbox."
+}

@@ -1,0 +1,365 @@
+{
+  "name": "sentences_agentic_dev",
+  "n": 8,
+  "exact_sentences": 2,
+  "word_error_rate": 0.2564102564102564,
+  "strict_novel_sequence_n": 8,
+  "strict_novel_sequence_exact": 2,
+  "strict_novel_sequence_WER": 0.2564102564102564,
+  "whole_calibration_copy_oracle_edits": 19,
+  "whole_calibration_copy_oracle_WER": 0.48717948717948717,
+  "oracle_scope": "Oracle uses true query text only after prediction for descriptive attribution; never a usable decoder or a model input. It cannot be used to tune the method.",
+  "rows": [
+    {
+      "id": "td133fe66",
+      "trial": 123,
+      "truth": [
+        "what",
+        "good",
+        "is",
+        "that"
+      ],
+      "prediction": [
+        "what",
+        "is",
+        "that"
+      ],
+      "edits": 1,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "what"
+          ],
+          "calibration_index": 10
+        },
+        {
+          "tokens": [
+            "good"
+          ],
+          "calibration_index": 1
+        },
+        {
+          "tokens": [
+            "is",
+            "that"
+          ],
+          "calibration_index": 10
+        }
+      ]
+    },
+    {
+      "id": "t91b28a91",
+      "trial": 120,
+      "truth": [
+        "please",
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ],
+      "prediction": [
+        "tell",
+        "my",
+        "family",
+        "i",
+        "need",
+        "my",
+        "computer"
+      ],
+      "edits": 1,
+      "exact": false,
+      "calibration_copy_oracle_edits": 4,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 4,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "please"
+          ],
+          "calibration_index": 28
+        },
+        {
+          "tokens": [
+            "tell",
+            "my",
+            "family"
+          ],
+          "calibration_index": 27
+        },
+        {
+          "tokens": [
+            "i",
+            "need",
+            "my",
+            "computer"
+          ],
+          "calibration_index": 58
+        }
+      ]
+    },
+    {
+      "id": "ta8a65773",
+      "trial": 124,
+      "truth": [
+        "how",
+        "is",
+        "it",
+        "right"
+      ],
+      "prediction": [
+        "what",
+        "is",
+        "right"
+      ],
+      "edits": 2,
+      "exact": false,
+      "calibration_copy_oracle_edits": 2,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "how"
+          ],
+          "calibration_index": 7
+        },
+        {
+          "tokens": [
+            "is"
+          ],
+          "calibration_index": 10
+        },
+        {
+          "tokens": [
+            "it",
+            "right"
+          ],
+          "calibration_index": 60
+        }
+      ]
+    },
+    {
+      "id": "tcd92c110",
+      "trial": 125,
+      "truth": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ],
+      "prediction": [
+        "i",
+        "have",
+        "no",
+        "music"
+      ],
+      "edits": 0,
+      "exact": true,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "i",
+            "have"
+          ],
+          "calibration_index": 4
+        },
+        {
+          "tokens": [
+            "no",
+            "music"
+          ],
+          "calibration_index": 93
+        }
+      ]
+    },
+    {
+      "id": "t7d52b265",
+      "trial": 122,
+      "truth": [
+        "yes",
+        "my",
+        "nurse",
+        "is",
+        "coming",
+        "here"
+      ],
+      "prediction": [
+        "is",
+        "my",
+        "nurse",
+        "coming",
+        "here"
+      ],
+      "edits": 2,
+      "exact": false,
+      "calibration_copy_oracle_edits": 3,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "yes"
+          ],
+          "calibration_index": 113
+        },
+        {
+          "tokens": [
+            "my",
+            "nurse"
+          ],
+          "calibration_index": 11
+        },
+        {
+          "tokens": [
+            "is",
+            "coming",
+            "here"
+          ],
+          "calibration_index": 47
+        }
+      ]
+    },
+    {
+      "id": "t50600ea0",
+      "trial": 126,
+      "truth": [
+        "music",
+        "is",
+        "here"
+      ],
+      "prediction": [
+        "music",
+        "is",
+        "here"
+      ],
+      "edits": 0,
+      "exact": true,
+      "calibration_copy_oracle_edits": 1,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 2,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "music"
+          ],
+          "calibration_index": 16
+        },
+        {
+          "tokens": [
+            "is",
+            "here"
+          ],
+          "calibration_index": 100
+        }
+      ]
+    },
+    {
+      "id": "t53cbb8ea",
+      "trial": 127,
+      "truth": [
+        "they",
+        "do",
+        "not",
+        "have",
+        "nurse"
+      ],
+      "prediction": [
+        "how",
+        "do",
+        "you",
+        "have",
+        "faith"
+      ],
+      "edits": 3,
+      "exact": false,
+      "calibration_copy_oracle_edits": 3,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 3,
+      "minimum_calibration_fragments": 3,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "they",
+            "do",
+            "not"
+          ],
+          "calibration_index": 101
+        },
+        {
+          "tokens": [
+            "have"
+          ],
+          "calibration_index": 2
+        },
+        {
+          "tokens": [
+            "nurse"
+          ],
+          "calibration_index": 11
+        }
+      ]
+    },
+    {
+      "id": "tf75891fc",
+      "trial": 121,
+      "truth": [
+        "i",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "prediction": [
+        "you",
+        "do",
+        "not",
+        "feel",
+        "hungry"
+      ],
+      "edits": 1,
+      "exact": false,
+      "calibration_copy_oracle_edits": 3,
+      "complete_target_is_calibration_span": false,
+      "longest_seen_span_words": 4,
+      "minimum_calibration_fragments": 2,
+      "one_minimum_cover": [
+        {
+          "tokens": [
+            "i"
+          ],
+          "calibration_index": 1
+        },
+        {
+          "tokens": [
+            "do",
+            "not",
+            "feel",
+            "hungry"
+          ],
+          "calibration_index": 101
+        }
+      ]
+    }
+  ],
+  "conditional_algorithm_outputs": {},
+  "provenance_wording": {
+    "calibration_word_boundaries": "Inferred by procedures, not independently observed ground truth.",
+    "human_interpretation": "Where model-authored files call the final choices human interpretation, that is inaccurate wording: the Codex event trace records Sol writing those choices; no human supplied the predictions."
+  }
+}

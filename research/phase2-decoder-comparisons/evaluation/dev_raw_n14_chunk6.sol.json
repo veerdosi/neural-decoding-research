@@ -1,0 +1,51 @@
+{
+  "name": "dev_raw_n14_chunk6",
+  "correct": 10,
+  "n": 14,
+  "accuracy": 0.7142857142857143,
+  "ci95_trial_descriptive": [
+    0.4189647428163385,
+    0.9161106816928725
+  ],
+  "prediction": [
+    1,
+    2,
+    1,
+    5,
+    6,
+    5,
+    1,
+    4,
+    2,
+    0,
+    1,
+    2,
+    4,
+    1
+  ],
+  "method_self_report": "Compared recurring, label-specific feature patterns in calibration, downweighting extreme deviations shared across queries. Main uncertainty is noise and an apparent calibration-to-query distribution shift; no label-count constraint was imposed.",
+  "block_accuracy": {
+    "17": 0.6,
+    "25": 0.7777777777777778
+  },
+  "per_word_accuracy": {
+    "ban": 0.5,
+    "choice": 1.0,
+    "day": 1.0,
+    "feel": 0.0,
+    "kite": 0.6666666666666666,
+    "though": 1.0,
+    "were": 1.0
+  },
+  "donor_word_accuracy": 0.7142857142857143,
+  "tool_calls": 0,
+  "usage": [
+    {
+      "input_tokens": 73494,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 15030,
+      "reasoning_output_tokens": 14800
+    }
+  ]
+}

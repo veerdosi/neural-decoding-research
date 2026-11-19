@@ -1,0 +1,369 @@
+{
+  "predictions": [
+    {
+      "id": "qd5000c63",
+      "word": "coupler",
+      "phonemes": "K AH P L ER"
+    },
+    {
+      "id": "qdb657327",
+      "word": "guided",
+      "phonemes": "G AY D AH D"
+    },
+    {
+      "id": "q3a6a7b9d",
+      "word": "guided",
+      "phonemes": "G AY D AH D"
+    },
+    {
+      "id": "q9d4f6db6",
+      "word": "shady",
+      "phonemes": "SH EY D IY"
+    },
+    {
+      "id": "qd6dfa4d3",
+      "word": "excite",
+      "phonemes": "IH K S AY T"
+    },
+    {
+      "id": "qc3b19e62",
+      "word": "coupler",
+      "phonemes": "K AH P L ER"
+    },
+    {
+      "id": "q8adf658a",
+      "word": "cowbell",
+      "phonemes": "K AW B EH L"
+    },
+    {
+      "id": "q6f863fa0",
+      "word": "cases",
+      "phonemes": "K EY S AH Z"
+    },
+    {
+      "id": "q94a15367",
+      "word": "excite",
+      "phonemes": "IH K S AY T"
+    },
+    {
+      "id": "q6c758802",
+      "word": "dismay",
+      "phonemes": "D IH S M EY"
+    },
+    {
+      "id": "qa9e976f9",
+      "word": "dismay",
+      "phonemes": "D IH S M EY"
+    },
+    {
+      "id": "qc491a219",
+      "word": "critic",
+      "phonemes": "K R IH T IH K"
+    },
+    {
+      "id": "q79c21683",
+      "word": "shady",
+      "phonemes": "SH EY D IY"
+    },
+    {
+      "id": "q84a6723d",
+      "word": "addition",
+      "phonemes": "AH D IH SH AH N"
+    },
+    {
+      "id": "qba60129d",
+      "word": "supine",
+      "phonemes": "S AH P AY N"
+    },
+    {
+      "id": "q0a47e660",
+      "word": "critic",
+      "phonemes": "K R IH T IH K"
+    }
+  ],
+  "method": {
+    "hypothesis": "Ordered phonemes contribute shared articulatory components to neural trajectories, permitting transfer to new phoneme combinations.",
+    "analysis": "Fitted compositional phoneme/articulatory ridge models using calibration neural activity only. Tested with entire word types withheld, then searched all 134860 supplied dictionary pronunciations. Final choices incorporate linguistic judgment and tentative evidence of repeated query words.",
+    "validation": "Across 42 held-out calibration types, the ensemble achieved median pronunciation rank 38.5; 11/42 ranked within the top 10. Contrast transfer was partial, with both successes and failures.",
+    "evidence": [
+      "analysis_report.md",
+      "calibration_contrast_evidence.json",
+      "final_validation.json",
+      "final_fitted_model.npz",
+      "algorithm_only_outputs.json",
+      "human_conclusions.json",
+      "final_predictions.json"
+    ]
+  },
+  "limitations": [
+    "All predictions have low confidence. The recordings do not uniquely identify exact words.",
+    "Final choices differ from raw algorithm rankings; alternatives and reasons are preserved separately.",
+    "Pronunciation variants, uncalibrated phonemes, timing, and inferred repetitions introduce uncertainty. Addition and edition are homophones.",
+    "Validation was exploratory and reused for model selection; it does not establish query accuracy. No external neural decoder, network, or delegates were used."
+  ],
+  "name": "unseen_word_phonetics_t12",
+  "n": 16,
+  "exact": 0,
+  "WER": 1.0,
+  "rows": [
+    {
+      "id": "qd5000c63",
+      "prediction": [
+        "coupler"
+      ],
+      "truth": [
+        "computer"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "qdb657327",
+      "prediction": [
+        "guided"
+      ],
+      "truth": [
+        "outside"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q3a6a7b9d",
+      "prediction": [
+        "guided"
+      ],
+      "truth": [
+        "outside"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q9d4f6db6",
+      "prediction": [
+        "shady"
+      ],
+      "truth": [
+        "hungry"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "qd6dfa4d3",
+      "prediction": [
+        "excite"
+      ],
+      "truth": [
+        "success"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "qc3b19e62",
+      "prediction": [
+        "coupler"
+      ],
+      "truth": [
+        "computer"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q8adf658a",
+      "prediction": [
+        "cowbell"
+      ],
+      "truth": [
+        "comfortable"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q6f863fa0",
+      "prediction": [
+        "cases"
+      ],
+      "truth": [
+        "glasses"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q94a15367",
+      "prediction": [
+        "excite"
+      ],
+      "truth": [
+        "success"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q6c758802",
+      "prediction": [
+        "dismay"
+      ],
+      "truth": [
+        "family"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "qa9e976f9",
+      "prediction": [
+        "dismay"
+      ],
+      "truth": [
+        "family"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "qc491a219",
+      "prediction": [
+        "critic"
+      ],
+      "truth": [
+        "music"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q79c21683",
+      "prediction": [
+        "shady"
+      ],
+      "truth": [
+        "hungry"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q84a6723d",
+      "prediction": [
+        "addition"
+      ],
+      "truth": [
+        "glasses"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "qba60129d",
+      "prediction": [
+        "supine"
+      ],
+      "truth": [
+        "comfortable"
+      ],
+      "edit_distance": 1
+    },
+    {
+      "id": "q0a47e660",
+      "prediction": [
+        "critic"
+      ],
+      "truth": [
+        "music"
+      ],
+      "edit_distance": 1
+    }
+  ],
+  "tool_item_types": [
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution",
+    "command_execution"
+  ],
+  "usage": [
+    {
+      "input_tokens": 3753340,
+      "cached_input_tokens": 3535104,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 47169,
+      "reasoning_output_tokens": 24224
+    }
+  ]
+}

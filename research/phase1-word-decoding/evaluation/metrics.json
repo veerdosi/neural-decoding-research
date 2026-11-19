@@ -1,0 +1,919 @@
+{
+  "conditions": {
+    "no_neural": {
+      "n": 98,
+      "correct": 14,
+      "accuracy": 0.14285714285714285,
+      "exact_binomial_95_ci": [
+        0.08035951259180198,
+        0.228060496922308
+      ],
+      "binomial_p_gt_chance_descriptive": 0.543818443607077,
+      "block_restricted_permutation_p": 1.0,
+      "block_accuracy": {
+        "17": 0.14285714285714285,
+        "25": 0.14285714285714285
+      },
+      "per_word_accuracy": {
+        "ban": 1.0,
+        "choice": 0.0,
+        "day": 0.0,
+        "feel": 0.0,
+        "kite": 0.0,
+        "though": 0.0,
+        "were": 0.0
+      },
+      "prediction_counts": {
+        "ban": 98
+      },
+      "method": "Calibration word frequencies are tied. With query recordings withheld and IDs uninformative, used ban as an arbitrary fixed tie-break. Every prediction is a prior-only guess with no query-specific evidence.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 22275,
+          "cached_input_tokens": 12160,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 1508,
+          "reasoning_output_tokens": 226
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "pca12_icl": {
+      "n": 98,
+      "correct": 31,
+      "accuracy": 0.3163265306122449,
+      "exact_binomial_95_ci": [
+        0.22605903231461663,
+        0.41803984098733343
+      ],
+      "binomial_p_gt_chance_descriptive": 9.891148321272066e-06,
+      "block_restricted_permutation_p": 4.999750012499375e-05,
+      "block_accuracy": {
+        "17": 0.40816326530612246,
+        "25": 0.22448979591836735
+      },
+      "per_word_accuracy": {
+        "ban": 0.8571428571428571,
+        "choice": 0.5,
+        "day": 0.5714285714285714,
+        "feel": 0.14285714285714285,
+        "kite": 0.07142857142857142,
+        "though": 0.07142857142857142,
+        "were": 0.0
+      },
+      "prediction_counts": {
+        "kite": 1,
+        "day": 40,
+        "ban": 34,
+        "choice": 20,
+        "feel": 2,
+        "though": 1
+      },
+      "method": "Approximate variance-scaled comparisons with calibration word centers and nearby examples, without label-count constraints. Main uncertainty comes from overlapping clusters and the substantial difference between calibration and query distributions.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 27240,
+          "cached_input_tokens": 27008,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 27475,
+          "reasoning_output_tokens": 25994
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          12,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          6,
+          7,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          4,
+          8,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          5,
+          2,
+          5,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          8,
+          3,
+          2,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          11,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          3,
+          11,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "chance_permutation_p_bonferroni_3_representations": 0.00014999250037498125
+    },
+    "pca12_shuffled": {
+      "n": 98,
+      "correct": 16,
+      "accuracy": 0.16326530612244897,
+      "exact_binomial_95_ci": [
+        0.0962986541661762,
+        0.25155043299964086
+      ],
+      "binomial_p_gt_chance_descriptive": 0.32251917146664283,
+      "block_restricted_permutation_p": 0.30573471326433677,
+      "block_accuracy": {
+        "17": 0.1836734693877551,
+        "25": 0.14285714285714285
+      },
+      "per_word_accuracy": {
+        "ban": 0.42857142857142855,
+        "choice": 0.14285714285714285,
+        "day": 0.42857142857142855,
+        "feel": 0.14285714285714285,
+        "kite": 0.0,
+        "though": 0.0,
+        "were": 0.0
+      },
+      "prediction_counts": {
+        "day": 38,
+        "choice": 23,
+        "ban": 33,
+        "feel": 2,
+        "kite": 1,
+        "though": 1
+      },
+      "method": "Manually compared queries with participant-specific calibration centers using approximate within-class variance weighting and nearby examples, without balancing labels. Main uncertainty is overlapping noisy classes and the apparent shift between query and calibration coordinates.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 27240,
+          "cached_input_tokens": 12160,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 30513,
+          "reasoning_output_tokens": 29230
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          6,
+          3,
+          4,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          4,
+          2,
+          8,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          5,
+          6,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          7,
+          3,
+          1,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          4,
+          4,
+          6,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          4,
+          7,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          6,
+          2,
+          6,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "accuracy_against_actual_recording_donor_label": 0.32653061224489793
+    },
+    "raw128_icl": {
+      "n": 98,
+      "correct": 52,
+      "accuracy": 0.5306122448979592,
+      "exact_binomial_95_ci": [
+        0.42710954779748056,
+        0.6322154907985552
+      ],
+      "binomial_p_gt_chance_descriptive": 2.3435473429109894e-19,
+      "block_restricted_permutation_p": 4.999750012499375e-05,
+      "block_accuracy": {
+        "17": 0.5918367346938775,
+        "25": 0.46938775510204084
+      },
+      "per_word_accuracy": {
+        "ban": 0.6428571428571429,
+        "choice": 0.7857142857142857,
+        "day": 0.35714285714285715,
+        "feel": 0.5714285714285714,
+        "kite": 0.35714285714285715,
+        "though": 0.2857142857142857,
+        "were": 0.7142857142857143
+      },
+      "prediction_counts": {
+        "kite": 6,
+        "day": 21,
+        "feel": 9,
+        "ban": 11,
+        "choice": 13,
+        "were": 31,
+        "though": 7
+      },
+      "method": "Manually matched recurring calibration patterns across both feature blocks, downweighting extreme dimensions and apparent shared query shifts without imposing label counts. Main uncertainty is noise and substantial calibration-to-query distribution shift.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 118156,
+          "cached_input_tokens": 118016,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 26911,
+          "reasoning_output_tokens": 25629
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          9,
+          0,
+          2,
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          11,
+          1,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          5,
+          0,
+          1,
+          0,
+          8
+        ],
+        [
+          0,
+          0,
+          1,
+          8,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          4,
+          0,
+          5,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          4,
+          0,
+          0,
+          4,
+          6
+        ],
+        [
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          10
+        ]
+      ],
+      "chance_permutation_p_bonferroni_3_representations": 0.00014999250037498125
+    },
+    "raw128_shuffled": {
+      "n": 98,
+      "correct": 16,
+      "accuracy": 0.16326530612244897,
+      "exact_binomial_95_ci": [
+        0.0962986541661762,
+        0.25155043299964086
+      ],
+      "binomial_p_gt_chance_descriptive": 0.32251917146664283,
+      "block_restricted_permutation_p": 0.31968401579921,
+      "block_accuracy": {
+        "17": 0.1836734693877551,
+        "25": 0.14285714285714285
+      },
+      "per_word_accuracy": {
+        "ban": 0.07142857142857142,
+        "choice": 0.07142857142857142,
+        "day": 0.2857142857142857,
+        "feel": 0.35714285714285715,
+        "kite": 0.14285714285714285,
+        "though": 0.0,
+        "were": 0.21428571428571427
+      },
+      "prediction_counts": {
+        "day": 22,
+        "ban": 11,
+        "were": 24,
+        "feel": 11,
+        "choice": 15,
+        "though": 6,
+        "kite": 9
+      },
+      "method": "Compared recurring participant-specific calibration patterns, emphasizing agreement between count and power features without label-count constraints. Noise and substantial query-to-calibration feature shifts make several assignments uncertain.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 118156,
+          "cached_input_tokens": 118016,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 24947,
+          "reasoning_output_tokens": 23670
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          1,
+          3,
+          3,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          7,
+          1,
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          1,
+          4,
+          2,
+          0,
+          2,
+          5
+        ],
+        [
+          2,
+          3,
+          0,
+          5,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          4,
+          1,
+          2,
+          1,
+          4
+        ],
+        [
+          2,
+          3,
+          2,
+          1,
+          2,
+          0,
+          4
+        ],
+        [
+          4,
+          3,
+          2,
+          0,
+          1,
+          1,
+          3
+        ]
+      ],
+      "accuracy_against_actual_recording_donor_label": 0.5714285714285714
+    },
+    "raw128_zero_shot": {
+      "n": 98,
+      "correct": 14,
+      "accuracy": 0.14285714285714285,
+      "exact_binomial_95_ci": [
+        0.08035951259180198,
+        0.228060496922308
+      ],
+      "binomial_p_gt_chance_descriptive": 0.543818443607077,
+      "block_restricted_permutation_p": 1.0,
+      "block_accuracy": {
+        "17": 0.14285714285714285,
+        "25": 0.14285714285714285
+      },
+      "per_word_accuracy": {
+        "ban": 1.0,
+        "choice": 0.0,
+        "day": 0.0,
+        "feel": 0.0,
+        "kite": 0.0,
+        "though": 0.0,
+        "were": 0.0
+      },
+      "prediction_counts": {
+        "ban": 98
+      },
+      "method": "Used ban as an arbitrary fixed guess for every query, without imposing label counts. No supplied information maps neural features or clusters to word identities, so these commitments are unsupported guesses.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 67245,
+          "cached_input_tokens": 12160,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 1978,
+          "reasoning_output_tokens": 699
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          14,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "similarity_icl": {
+      "n": 98,
+      "correct": 38,
+      "accuracy": 0.3877551020408163,
+      "exact_binomial_95_ci": [
+        0.2909710235339555,
+        0.4915138149012148
+      ],
+      "binomial_p_gt_chance_descriptive": 2.146776472715536e-09,
+      "block_restricted_permutation_p": 4.999750012499375e-05,
+      "block_accuracy": {
+        "17": 0.4897959183673469,
+        "25": 0.2857142857142857
+      },
+      "per_word_accuracy": {
+        "ban": 0.9285714285714286,
+        "choice": 0.6428571428571429,
+        "day": 0.42857142857142855,
+        "feel": 0.14285714285714285,
+        "kite": 0.21428571428571427,
+        "though": 0.2857142857142857,
+        "were": 0.07142857142857142
+      },
+      "prediction_counts": {
+        "kite": 4,
+        "day": 19,
+        "ban": 30,
+        "choice": 29,
+        "were": 1,
+        "though": 13,
+        "feel": 2
+      },
+      "method": "For each query independently, summed exp(-(distance-minimum_distance)/0.15) across neighbors sharing each word and selected the largest total. The bandwidth is heuristic; mixed labels and several near-ties are the main uncertainties. No label-count constraints were used.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 33394,
+          "cached_input_tokens": 12160,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 10845,
+          "reasoning_output_tokens": 9549
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          13,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          9,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          4,
+          6,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          4,
+          3,
+          1,
+          2,
+          0,
+          4,
+          0
+        ],
+        [
+          5,
+          4,
+          2,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          7,
+          3,
+          0,
+          0,
+          4,
+          0
+        ],
+        [
+          3,
+          2,
+          4,
+          0,
+          0,
+          4,
+          1
+        ]
+      ],
+      "chance_permutation_p_bonferroni_3_representations": 0.00014999250037498125
+    },
+    "similarity_shuffled": {
+      "n": 98,
+      "correct": 17,
+      "accuracy": 0.17346938775510204,
+      "exact_binomial_95_ci": [
+        0.10442432476174203,
+        0.263149690021351
+      ],
+      "binomial_p_gt_chance_descriptive": 0.23015216204595723,
+      "block_restricted_permutation_p": 0.2176891155442228,
+      "block_accuracy": {
+        "17": 0.20408163265306123,
+        "25": 0.14285714285714285
+      },
+      "per_word_accuracy": {
+        "ban": 0.35714285714285715,
+        "choice": 0.2857142857142857,
+        "day": 0.21428571428571427,
+        "feel": 0.14285714285714285,
+        "kite": 0.14285714285714285,
+        "though": 0.07142857142857142,
+        "were": 0.0
+      },
+      "prediction_counts": {
+        "day": 23,
+        "ban": 29,
+        "choice": 28,
+        "feel": 2,
+        "though": 10,
+        "kite": 5,
+        "were": 1
+      },
+      "method": "For each query independently, summed exp(-(distance - minimum_distance)/0.2) by calibration word across its 12 neighbors and selected the largest total. No label-count constraints were used. Noisy mixed-label neighborhoods and small winning margins are the main uncertainty.",
+      "tool_calls": 0,
+      "usage": [
+        {
+          "input_tokens": 33394,
+          "cached_input_tokens": 12160,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 11649,
+          "reasoning_output_tokens": 10151
+        }
+      ],
+      "confusion_matrix_rows_truth_cols_pred": [
+        [
+          5,
+          6,
+          2,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          4,
+          4,
+          5,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          3,
+          5,
+          3,
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          7,
+          3,
+          0,
+          2,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          4,
+          0,
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          7,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          5,
+          4,
+          2,
+          0,
+          0,
+          3,
+          0
+        ]
+      ],
+      "accuracy_against_actual_recording_donor_label": 0.3673469387755102
+    }
+  },
+  "comparisons": {
+    "pca12_icl_vs_no_neural": {
+      "accuracy_difference": 0.17346938775510207,
+      "discordant_real_only_correct": 19,
+      "discordant_control_only_correct": 2,
+      "mcnemar_exact_one_sided_p_descriptive": 0.000110626220703125
+    },
+    "pca12_icl_vs_pca12_shuffled": {
+      "accuracy_difference": 0.15306122448979595,
+      "discordant_real_only_correct": 21,
+      "discordant_control_only_correct": 6,
+      "mcnemar_exact_one_sided_p_descriptive": 0.0029623061418533325
+    },
+    "raw128_icl_vs_no_neural": {
+      "accuracy_difference": 0.38775510204081637,
+      "discordant_real_only_correct": 43,
+      "discordant_control_only_correct": 5,
+      "mcnemar_exact_one_sided_p_descriptive": 6.840242150474297e-09
+    },
+    "raw128_icl_vs_pca12_icl": {
+      "accuracy_difference": 0.2142857142857143,
+      "discordant_real_only_correct": 33,
+      "discordant_control_only_correct": 12,
+      "mcnemar_exact_one_sided_p_descriptive": 0.001229450161048362
+    },
+    "raw128_icl_vs_raw128_shuffled": {
+      "accuracy_difference": 0.3673469387755103,
+      "discordant_real_only_correct": 44,
+      "discordant_control_only_correct": 8,
+      "mcnemar_exact_one_sided_p_descriptive": 2.0196608696565477e-07
+    },
+    "similarity_icl_vs_no_neural": {
+      "accuracy_difference": 0.24489795918367346,
+      "discordant_real_only_correct": 25,
+      "discordant_control_only_correct": 1,
+      "mcnemar_exact_one_sided_p_descriptive": 4.023313522338867e-07
+    },
+    "similarity_icl_vs_similarity_shuffled": {
+      "accuracy_difference": 0.21428571428571427,
+      "discordant_real_only_correct": 28,
+      "discordant_control_only_correct": 7,
+      "mcnemar_exact_one_sided_p_descriptive": 0.0002541302237659693
+    },
+    "similarity_icl_vs_raw128_icl": {
+      "accuracy_difference": -0.1428571428571429,
+      "discordant_real_only_correct": 15,
+      "discordant_control_only_correct": 29,
+      "mcnemar_exact_one_sided_p_descriptive": 0.9886855793970426
+    }
+  },
+  "uncertainty_note": "Binomial CIs and McNemar are descriptive: trials share recording blocks and model calls. Only two test blocks; no participant-level generalization claim."
+}

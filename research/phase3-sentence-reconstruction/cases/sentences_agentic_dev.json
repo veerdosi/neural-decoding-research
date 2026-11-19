@@ -1,0 +1,23 @@
+{
+  "name": "sentences_agentic_dev",
+  "query_ids": [
+    "td133fe66",
+    "t91b28a91",
+    "ta8a65773",
+    "tcd92c110",
+    "t7d52b265",
+    "t50600ea0",
+    "t53cbb8ea",
+    "tf75891fc"
+  ],
+  "query_n": 8,
+  "calibration_n": 120,
+  "split": "development",
+  "input_sha256": {
+    "inputs.json": "289bfddc561c17f0dea97683e89481ec513a506dd1740a8f76c737a3825823bf",
+    "neural_inputs.npz": "b221b5af30044bb95f9ae066d42be8c048a2c92940000f39a6f7de3883fb8954"
+  },
+  "preprocessing": "128 TX and 128 log1p spike-power channels (both available arrays); label-free within-block mean correction and calibration-only standardization. No projection/encoder.",
+  "tools_permitted": "Neural-only retrieval/alignment and reasoning, no supervised model fitting",
+  "prompt_sha256": "66f5f9ebc575f49829703defd5edd01c02dc86d55d5db80e2f337fd236bc96e0"
+}

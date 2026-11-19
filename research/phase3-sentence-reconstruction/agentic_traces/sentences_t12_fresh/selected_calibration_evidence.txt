@@ -1,0 +1,96 @@
+
+ c031
+(2, 8) 0.22 c013:4-8 my nurse is not good | 0.20 c003:8-12 have faith | 0.20 c071:10-14 how thirsty is my family | 0.19 c000:19-23 they need success
+(5, 11) 0.23 c027:13-17 tell my family they are hungry | 0.20 c013:5-11 my nurse is not good | 0.20 c025:4-8 hope they feel right | 0.20 c000:15-19 they need success
+(8, 14) 0.30 c014:11-17 my success is closer | 0.29 c106:17-21 where is hope | 0.25 c021:10-14 how do they help | 0.22 c087:16-21 what is where
+(11, 17) 0.28 c092:24-28 my nurse is not very tired | 0.24 c099:20-24 i hope they are thirsty | 0.24 c014:14-18 my success is closer | 0.21 c111:28-32 they do not like my family
+(14, 20) 0.22 c067:11-16 what is okay | 0.22 c009:19-23 they need it coming up | 0.22 c069:23-27 my nurse is like that | 0.21 c042:22-26 what do you feel like
+(17, 23) 0.26 c083:30-34 i hope i do not need it | 0.24 c019:14-19 you are going outside | 0.23 c095:20-24 i am that bad | 0.23 c108:22-28 you hope my family is here
+(20, 26) 0.27 c076:25-30 my glasses are right here | 0.26 c034:19-23 you are right here | 0.25 c083:32-38 i hope i do not need it | 0.24 c058:33-37 i need my computer right here
+(23, 29) 0.34 c089:23-28 do you have it here | 0.31 c063:33-38 you need my glasses right here | 0.29 c034:20-24 you are right here | 0.28 c075:19-23 you need it here
+(26, 32) 0.35 c063:35-39 you need my glasses right here | 0.26 c075:21-26 you need it here | 0.24 c084:18-22 very good here | 0.24 c119:15-19 they are you
+
+ c049
+(2, 8) 0.29 c072:10-14 is my nurse thirsty | 0.27 c076:2-6 my glasses are right here | 0.27 c013:3-7 my nurse is not good | 0.25 c069:3-7 my nurse is like that
+(5, 11) 0.31 c013:5-9 my nurse is not good | 0.28 c072:11-18 is my nurse thirsty | 0.25 c003:5-14 have faith | 0.25 c112:15-19 please have faith
+(8, 14) 0.25 c069:10-14 my nurse is like that | 0.25 c013:6-12 my nurse is not good | 0.24 c063:17-21 you need my glasses right here | 0.23 c054:10-14 you clean my computer
+(11, 17) 0.24 c115:11-15 my family is not very hungry | 0.22 c071:14-18 how thirsty is my family | 0.22 c095:13-17 i am that bad | 0.21 c069:11-15 my nurse is like that
+(14, 20) 0.21 c039:16-20 is my family very comfortable | 0.20 c053:14-18 where are they going here | 0.18 c069:38-42 my nurse is like that | 0.15 c067:21-25 what is okay
+(17, 23) 0.21 c039:18-22 is my family very comfortable | 0.21 c025:14-21 hope they feel right | 0.21 c020:12-16 hope they feel okay | 0.20 c028:10-14 music please
+(20, 26) 0.32 c020:14-18 hope they feel okay | 0.32 c079:34-38 no i do not feel very comfortable | 0.29 c025:18-22 hope they feel right | 0.25 c028:11-15 music please
+(23, 29) 0.33 c020:15-19 hope they feel okay | 0.29 c001:19-23 i hope they feel good | 0.27 c005:20-24 i hope you are going | 0.26 c079:35-39 no i do not feel very comfortable
+(26, 32) 0.29 c005:20-24 i hope you are going | 0.27 c020:16-20 hope they feel okay | 0.27 c001:20-24 i hope they feel good | 0.24 c008:19-23 i am very good
+(29, 35) 0.27 c008:20-27 i am very good | 0.24 c005:15-19 i hope you are going | 0.23 c048:13-17 you feel good | 0.23 c119:12-17 they are you
+(32, 38) 0.32 c008:24-29 i am very good | 0.29 c091:26-32 is my family good | 0.29 c035:35-40 how bad is it going | 0.28 c028:13-17 music please
+(35, 41) 0.29 c091:29-33 is my family good | 0.25 c018:30-34 no they are not going | 0.25 c035:37-43 how bad is it going | 0.24 c030:24-28 they are not clean
+
+ c011
+(2, 8) 0.27 c109:6-10 tell my family hello | 0.24 c054:2-6 you clean my computer | 0.24 c027:5-9 tell my family they are hungry | 0.20 c062:3-8 goodbye what
+(5, 11) 0.21 c027:6-10 tell my family they are hungry | 0.20 c117:24-30 they hope i have my glasses | 0.17 c109:8-14 tell my family hello | 0.17 c017:2-6 they tell you i am comfortable
+(8, 14) 0.21 c069:3-7 my nurse is like that | 0.20 c076:2-8 my glasses are right here | 0.20 c013:3-7 my nurse is not good | 0.20 c046:21-28 what do you tell my nurse
+(11, 17) 0.29 c013:4-10 my nurse is not good | 0.26 c046:25-29 what do you tell my nurse | 0.25 c069:4-11 my nurse is like that | 0.24 c101:28-32 tell my family they do not feel hungry
+(14, 20) 0.30 c013:7-12 my nurse is not good | 0.25 c069:9-13 my nurse is like that | 0.22 c079:5-9 no i do not feel very comfortable | 0.22 c114:13-18 tell my family i am not comfortable
+(17, 23) 0.36 c114:15-19 tell my family i am not comfortable | 0.35 c079:7-11 no i do not feel very comfortable | 0.30 c092:12-16 my nurse is not very tired | 0.30 c101:17-21 tell my family they do not feel hungry
+(20, 26) 0.33 c114:17-21 tell my family i am not comfortable | 0.33 c079:8-12 no i do not feel very comfortable | 0.28 c017:13-19 they tell you i am comfortable | 0.27 c101:18-22 tell my family they do not feel hungry
+(23, 29) 0.28 c017:16-21 they tell you i am comfortable | 0.28 c051:3-7 they have no success | 0.27 c114:18-22 tell my family i am not comfortable | 0.25 c117:15-19 they hope i have my glasses
+(26, 32) 0.29 c114:22-28 tell my family i am not comfortable | 0.29 c040:17-21 i hope i am thirsty | 0.28 c080:30-34 you do not like my computer | 0.27 c027:10-14 tell my family they are hungry
+(29, 35) 0.35 c040:19-24 i hope i am thirsty | 0.31 c037:4-8 i am like you | 0.30 c025:3-7 hope they feel right | 0.29 c114:25-29 tell my family i am not comfortable
+(32, 38) 0.30 c040:21-26 i hope i am thirsty | 0.28 c037:6-10 i am like you | 0.28 c029:15-21 hope is coming | 0.26 c044:9-13 i am coming
+(35, 41) 0.25 c037:8-12 i am like you | 0.23 c029:17-21 hope is coming | 0.21 c051:10-17 they have no success | 0.21 c075:4-13 you need it here
+(38, 44) 0.27 c027:29-33 tell my family they are hungry | 0.27 c035:26-30 how bad is it going | 0.27 c067:4-8 what is okay | 0.25 c037:9-13 i am like you
+(41, 47) 0.26 c035:28-37 how bad is it going | 0.25 c115:30-34 my family is not very hungry | 0.24 c027:29-35 tell my family they are hungry | 0.23 c056:18-22 i hope they are going
+(44, 50) 0.25 c015:17-22 they feel hungry | 0.25 c027:31-40 tell my family they are hungry | 0.25 c115:32-42 my family is not very hungry | 0.24 c079:45-50 no i do not feel very comfortable
+(47, 53) 0.37 c027:37-41 tell my family they are hungry | 0.31 c115:39-43 my family is not very hungry | 0.28 c015:19-23 they feel hungry | 0.28 c079:47-51 no i do not feel very comfortable
+(50, 56) 0.29 c027:38-45 tell my family they are hungry | 0.27 c103:23-27 that is not comfortable | 0.27 c114:49-53 tell my family i am not comfortable | 0.26 c101:59-63 tell my family they do not feel hungry
+
+ c072
+(2, 8) 0.25 c078:3-8 tell my family i am comfortable | 0.22 c061:20-27 what do they tell my family | 0.22 c101:2-8 tell my family they do not feel hungry | 0.20 c089:2-6 do you have it here
+(5, 11) 0.25 c078:6-10 tell my family i am comfortable | 0.23 c111:24-28 they do not like my family | 0.23 c027:7-11 tell my family they are hungry | 0.22 c101:5-10 tell my family they do not feel hungry
+(8, 14) 0.28 c049:3-8 my nurse is very good | 0.25 c013:3-7 my nurse is not good | 0.22 c011:11-15 tell my nurse i am not hungry | 0.22 c003:9-13 have faith
+(11, 17) 0.29 c049:5-10 my nurse is very good | 0.26 c003:10-14 have faith | 0.24 c112:15-20 please have faith | 0.24 c079:33-37 no i do not feel very comfortable
+(14, 20) 0.23 c028:12-17 music please | 0.22 c079:35-40 no i do not feel very comfortable | 0.22 c069:9-14 my nurse is like that | 0.21 c004:22-29 i have no faith
+(17, 23) 0.20 c079:25-29 no i do not feel very comfortable | 0.19 c004:21-25 i have no faith | 0.18 c071:7-12 how thirsty is my family | 0.18 c069:31-35 my nurse is like that
+(20, 26) 0.28 c004:21-25 i have no faith | 0.27 c069:31-35 my nurse is like that | 0.24 c003:9-13 have faith | 0.23 c028:10-14 music please
+(23, 29) 0.27 c099:24-31 i hope they are thirsty | 0.26 c003:10-14 have faith | 0.26 c051:26-30 they have no success | 0.25 c017:35-39 they tell you i am comfortable
+(26, 32) 0.28 c040:43-47 i hope i am thirsty | 0.24 c099:28-32 i hope they are thirsty | 0.23 c097:31-35 i hope you have hope | 0.23 c039:31-40 is my family very comfortable
+(29, 35) 0.20 c097:32-38 i hope you have hope | 0.20 c054:35-39 you clean my computer | 0.18 c024:2-6 you what | 0.18 c050:23-27 how good are you
+
+ c039
+(2, 8) 0.25 c032:3-7 my family is not going outside | 0.24 c091:2-8 is my family good | 0.24 c093:3-7 no music here | 0.22 c078:3-8 tell my family i am comfortable
+(5, 11) 0.30 c109:11-15 tell my family hello | 0.27 c027:7-11 tell my family they are hungry | 0.25 c116:6-10 not very bad | 0.25 c101:5-9 tell my family they do not feel hungry
+(8, 14) 0.32 c027:8-15 tell my family they are hungry | 0.28 c109:12-16 tell my family hello | 0.28 c032:2-8 my family is not going outside | 0.27 c046:19-23 what do you tell my nurse
+(11, 17) 0.27 c027:12-18 tell my family they are hungry | 0.26 c012:14-19 am i coming up | 0.25 c101:12-16 tell my family they do not feel hungry | 0.25 c115:8-12 my family is not very hungry
+(14, 20) 0.20 c049:10-20 my nurse is very good | 0.19 c101:12-16 tell my family they do not feel hungry | 0.18 c114:13-17 tell my family i am not comfortable | 0.18 c071:8-12 how thirsty is my family
+(17, 23) 0.25 c112:13-17 please have faith | 0.25 c071:9-13 how thirsty is my family | 0.25 c020:12-16 hope they feel okay | 0.24 c099:24-29 i hope they are thirsty
+(20, 26) 0.35 c000:15-19 they need success | 0.33 c019:13-17 you are going outside | 0.33 c067:15-21 what is okay | 0.31 c041:15-19 i like music
+(23, 29) 0.31 c101:46-50 tell my family they do not feel hungry | 0.28 c067:19-23 what is okay | 0.28 c000:16-20 they need success | 0.27 c063:21-26 you need my glasses right here
+(26, 32) 0.27 c015:14-21 they feel hungry | 0.27 c079:41-47 no i do not feel very comfortable | 0.20 c101:47-57 tell my family they do not feel hungry | 0.19 c114:36-43 tell my family i am not comfortable
+(29, 35) 0.39 c079:44-51 no i do not feel very comfortable | 0.37 c017:34-39 they tell you i am comfortable | 0.34 c114:40-49 tell my family i am not comfortable | 0.33 c103:20-29 that is not comfortable
+(32, 38) 0.45 c017:36-40 they tell you i am comfortable | 0.44 c079:48-52 no i do not feel very comfortable | 0.43 c103:25-29 that is not comfortable | 0.42 c114:45-49 tell my family i am not comfortable
+(35, 41) 0.36 c103:26-32 that is not comfortable | 0.36 c017:38-42 they tell you i am comfortable | 0.32 c114:46-50 tell my family i am not comfortable | 0.31 c079:49-55 no i do not feel very comfortable
+
+ c090
+(2, 8) 0.23 c081:3-7 i need music | 0.22 c013:4-8 my nurse is not good | 0.22 c017:27-31 they tell you i am comfortable | 0.21 c093:4-8 no music here
+(5, 11) 0.23 c039:10-15 is my family very comfortable | 0.23 c058:17-21 i need my computer right here | 0.22 c079:44-48 no i do not feel very comfortable | 0.22 c078:33-37 tell my family i am comfortable
+(8, 14) 0.24 c117:10-14 they hope i have my glasses | 0.23 c032:8-13 my family is not going outside | 0.22 c027:15-20 tell my family they are hungry | 0.19 c016:9-13 my music is my hope
+(11, 17) 0.26 c115:12-16 my family is not very hungry | 0.23 c117:11-17 they hope i have my glasses | 0.23 c032:10-16 my family is not going outside | 0.21 c005:10-14 i hope you are going
+(14, 20) 0.26 c083:15-19 i hope i do not need it | 0.22 c007:8-12 how do you tell that | 0.21 c032:13-18 my family is not going outside | 0.21 c067:5-10 what is okay
+(17, 23) 0.26 c101:28-32 tell my family they do not feel hungry | 0.25 c032:15-21 my family is not going outside | 0.24 c111:9-13 they do not like my family | 0.24 c013:16-22 my nurse is not good
+(20, 26) 0.26 c032:18-23 my family is not going outside | 0.25 c067:8-12 what is okay | 0.24 c038:9-13 very not good | 0.21 c111:11-15 they do not like my family
+(23, 29) 0.29 c067:9-16 what is okay | 0.26 c035:29-36 how bad is it going | 0.24 c010:19-23 what is that like | 0.23 c085:17-21 it is that good
+(26, 32) 0.29 c067:13-20 what is okay | 0.27 c027:35-40 tell my family they are hungry | 0.26 c035:33-37 how bad is it going | 0.26 c068:31-38 i hope you do okay
+(29, 35) 0.28 c067:17-21 what is okay | 0.25 c027:38-42 tell my family they are hungry | 0.22 c049:24-28 my nurse is very good | 0.22 c050:20-24 how good are you
+
+ c109
+(2, 8) 0.25 c015:2-6 they feel hungry | 0.25 c011:2-6 tell my nurse i am not hungry | 0.24 c032:2-6 my family is not going outside | 0.21 c110:2-6 you need my faith
+(5, 11) 0.28 c011:2-7 tell my nurse i am not hungry | 0.28 c061:21-25 what do they tell my family | 0.26 c032:3-7 my family is not going outside | 0.25 c078:5-9 tell my family i am comfortable
+(8, 14) 0.26 c078:6-10 tell my family i am comfortable | 0.25 c039:4-9 is my family very comfortable | 0.24 c061:22-29 what do they tell my family | 0.23 c032:4-8 my family is not going outside
+(11, 17) 0.29 c039:6-12 is my family very comfortable | 0.27 c091:8-12 is my family good | 0.22 c114:9-13 tell my family i am not comfortable | 0.21 c061:27-31 what do they tell my family
+(14, 20) 0.25 c091:10-14 is my family good | 0.21 c012:3-8 am i coming up | 0.21 c042:17-21 what do you feel like | 0.20 c061:28-32 what do they tell my family
+(17, 23) 0.27 c061:29-33 what do they tell my family | 0.26 c091:11-18 is my family good | 0.25 c040:21-25 i hope i am thirsty | 0.24 c079:44-48 no i do not feel very comfortable
+(20, 26) 0.35 c079:45-50 no i do not feel very comfortable | 0.33 c027:13-17 tell my family they are hungry | 0.31 c061:31-35 what do they tell my family | 0.30 c040:22-26 i hope i am thirsty
+(23, 29) 0.23 c115:39-46 my family is not very hungry | 0.23 c008:15-21 i am very good | 0.23 c079:47-56 no i do not feel very comfortable | 0.23 c020:4-8 hope they feel okay
+(26, 32) 0.22 c008:19-23 i am very good | 0.21 c011:43-47 tell my nurse i am not hungry | 0.21 c068:25-32 i hope you do okay | 0.21 c005:19-23 i hope you are going
+(29, 35) 0.22 c089:24-30 do you have it here | 0.22 c052:5-9 how tired are you | 0.22 c039:31-35 is my family very comfortable | 0.21 c082:16-20 how do you do what
+(32, 38) 0.29 c079:48-54 no i do not feel very comfortable | 0.28 c039:32-36 is my family very comfortable | 0.28 c103:24-29 that is not comfortable | 0.26 c114:43-51 tell my family i am not comfortable
+(35, 41) 0.24 c039:34-39 is my family very comfortable | 0.23 c054:34-38 you clean my computer | 0.23 c119:16-20 they are you | 0.22 c078:35-42 tell my family i am comfortable

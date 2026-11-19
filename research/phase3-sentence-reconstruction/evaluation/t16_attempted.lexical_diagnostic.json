@@ -1,0 +1,295 @@
+{
+  "source": "t16.2024.04.29_attempted_50words.mat",
+  "calibration_n": 80,
+  "development_n": 8,
+  "calibration_blocks": [
+    1,
+    4
+  ],
+  "development_block": 6,
+  "feedback_nonempty": 0,
+  "normalization": "Unlabeled per-block feature means, then calibration-only scaling inside each CV fold",
+  "role": "Independent supervised bag-of-words diagnostic; no fitted maps/predictions enter Sol input",
+  "results": {
+    "all_arrays": {
+      "calibration_only_cv_micro_F1": [
+        0.2656128507810843,
+        0.2656128507810843,
+        0.2656128507810843,
+        0.2656128507810843,
+        0.26204318936877075
+      ],
+      "selected_alpha": 0.1,
+      "bag_of_words_micro_F1": 0.463768115942029,
+      "prior_only_micro_F1": 0.34782608695652173,
+      "top_k_from_calibration_only": 4,
+      "rows": [
+        {
+          "trial": 80,
+          "predicted_unordered_words": [
+            "are",
+            "here",
+            "is",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "are",
+            "bad"
+          ]
+        },
+        {
+          "trial": 81,
+          "predicted_unordered_words": [
+            "hope",
+            "i",
+            "is",
+            "my"
+          ],
+          "target_words": [
+            "i",
+            "hope",
+            "they",
+            "are",
+            "comfortable"
+          ]
+        },
+        {
+          "trial": 82,
+          "predicted_unordered_words": [
+            "do",
+            "my",
+            "not",
+            "they"
+          ],
+          "target_words": [
+            "hope",
+            "you",
+            "like",
+            "music"
+          ]
+        },
+        {
+          "trial": 83,
+          "predicted_unordered_words": [
+            "am",
+            "i",
+            "is",
+            "you"
+          ],
+          "target_words": [
+            "no",
+            "i",
+            "am",
+            "not",
+            "hungry"
+          ]
+        },
+        {
+          "trial": 84,
+          "predicted_unordered_words": [
+            "do",
+            "hope",
+            "i",
+            "my"
+          ],
+          "target_words": [
+            "i",
+            "hope",
+            "they",
+            "do",
+            "not",
+            "need",
+            "my",
+            "family"
+          ]
+        },
+        {
+          "trial": 85,
+          "predicted_unordered_words": [
+            "are",
+            "do",
+            "that",
+            "you"
+          ],
+          "target_words": [
+            "do",
+            "you",
+            "have",
+            "that"
+          ]
+        },
+        {
+          "trial": 86,
+          "predicted_unordered_words": [
+            "are",
+            "here",
+            "is",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "have",
+            "it",
+            "here"
+          ]
+        },
+        {
+          "trial": 87,
+          "predicted_unordered_words": [
+            "are",
+            "hope",
+            "i",
+            "they"
+          ],
+          "target_words": [
+            "are",
+            "you",
+            "coming",
+            "closer"
+          ]
+        }
+      ]
+    },
+    "ventral_array": {
+      "calibration_only_cv_micro_F1": [
+        0.35388244857566975,
+        0.35388244857566975,
+        0.35388244857566975,
+        0.3537499116420443,
+        0.3472732734855446
+      ],
+      "selected_alpha": 0.1,
+      "bag_of_words_micro_F1": 0.5507246376811594,
+      "prior_only_micro_F1": 0.34782608695652173,
+      "top_k_from_calibration_only": 4,
+      "rows": [
+        {
+          "trial": 80,
+          "predicted_unordered_words": [
+            "are",
+            "here",
+            "that",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "are",
+            "bad"
+          ]
+        },
+        {
+          "trial": 81,
+          "predicted_unordered_words": [
+            "hope",
+            "i",
+            "my",
+            "they"
+          ],
+          "target_words": [
+            "i",
+            "hope",
+            "they",
+            "are",
+            "comfortable"
+          ]
+        },
+        {
+          "trial": 82,
+          "predicted_unordered_words": [
+            "do",
+            "hope",
+            "not",
+            "you"
+          ],
+          "target_words": [
+            "hope",
+            "you",
+            "like",
+            "music"
+          ]
+        },
+        {
+          "trial": 83,
+          "predicted_unordered_words": [
+            "am",
+            "i",
+            "is",
+            "you"
+          ],
+          "target_words": [
+            "no",
+            "i",
+            "am",
+            "not",
+            "hungry"
+          ]
+        },
+        {
+          "trial": 84,
+          "predicted_unordered_words": [
+            "hope",
+            "i",
+            "my",
+            "you"
+          ],
+          "target_words": [
+            "i",
+            "hope",
+            "they",
+            "do",
+            "not",
+            "need",
+            "my",
+            "family"
+          ]
+        },
+        {
+          "trial": 85,
+          "predicted_unordered_words": [
+            "do",
+            "need",
+            "that",
+            "you"
+          ],
+          "target_words": [
+            "do",
+            "you",
+            "have",
+            "that"
+          ]
+        },
+        {
+          "trial": 86,
+          "predicted_unordered_words": [
+            "here",
+            "is",
+            "it",
+            "you"
+          ],
+          "target_words": [
+            "you",
+            "have",
+            "it",
+            "here"
+          ]
+        },
+        {
+          "trial": 87,
+          "predicted_unordered_words": [
+            "are",
+            "my",
+            "they",
+            "thirsty"
+          ],
+          "target_words": [
+            "are",
+            "you",
+            "coming",
+            "closer"
+          ]
+        }
+      ]
+    }
+  }
+}

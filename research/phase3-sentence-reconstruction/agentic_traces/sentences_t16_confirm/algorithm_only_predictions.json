@@ -1,0 +1,2020 @@
+{
+  "tb0b19ec8": {
+    "tokens": [
+      "it",
+      "it"
+    ],
+    "segments": [
+      {
+        "word": "it",
+        "start": 1,
+        "end": 14,
+        "similarity": 0.5075836777687073,
+        "exemplar": {
+          "word": "it",
+          "id": "c026",
+          "start": 2,
+          "end": 18
+        }
+      },
+      {
+        "word": "it",
+        "start": 14,
+        "end": 24,
+        "similarity": 0.35634204745292664,
+        "exemplar": {
+          "word": "it",
+          "id": "c041",
+          "start": 33,
+          "end": 40
+        }
+      }
+    ],
+    "objective": 3.2120082855224608
+  },
+  "t59dcd856": {
+    "tokens": [
+      "you",
+      "you",
+      "like",
+      "music"
+    ],
+    "segments": [
+      {
+        "word": "you",
+        "start": 1,
+        "end": 19,
+        "similarity": 0.402477502822876,
+        "exemplar": {
+          "word": "you",
+          "id": "c056",
+          "start": 2,
+          "end": 24
+        }
+      },
+      {
+        "word": "you",
+        "start": 19,
+        "end": 23,
+        "similarity": 0.5529237389564514,
+        "exemplar": {
+          "word": "you",
+          "id": "c038",
+          "start": 25,
+          "end": 32
+        }
+      },
+      {
+        "word": "like",
+        "start": 23,
+        "end": 34,
+        "similarity": 0.49074164032936096,
+        "exemplar": {
+          "word": "like",
+          "id": "c002",
+          "start": 35,
+          "end": 45
+        }
+      },
+      {
+        "word": "music",
+        "start": 34,
+        "end": 46,
+        "similarity": 0.4739488959312439,
+        "exemplar": {
+          "word": "music",
+          "id": "c039",
+          "start": 52,
+          "end": 63
+        }
+      }
+    ],
+    "objective": 6.991834801435471
+  },
+  "tcd92c113": {
+    "tokens": [
+      "where",
+      "is",
+      "that"
+    ],
+    "segments": [
+      {
+        "word": "where",
+        "start": 1,
+        "end": 14,
+        "similarity": 0.4526884853839874,
+        "exemplar": {
+          "word": "where",
+          "id": "c033",
+          "start": 4,
+          "end": 21
+        }
+      },
+      {
+        "word": "is",
+        "start": 14,
+        "end": 20,
+        "similarity": 0.38184654712677,
+        "exemplar": {
+          "word": "is",
+          "id": "c033",
+          "start": 22,
+          "end": 28
+        }
+      },
+      {
+        "word": "that",
+        "start": 20,
+        "end": 32,
+        "similarity": 0.47620993852615356,
+        "exemplar": {
+          "word": "that",
+          "id": "c051",
+          "start": 22,
+          "end": 32
+        }
+      }
+    ],
+    "objective": 4.390548855066299
+  },
+  "t1fe83bc3": {
+    "tokens": [
+      "i",
+      "tell",
+      "it",
+      "good"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 10,
+        "similarity": 0.48131832480430603,
+        "exemplar": {
+          "word": "i",
+          "id": "c051",
+          "start": 2,
+          "end": 12
+        }
+      },
+      {
+        "word": "tell",
+        "start": 10,
+        "end": 19,
+        "similarity": 0.33581632375717163,
+        "exemplar": {
+          "word": "tell",
+          "id": "c012",
+          "start": 17,
+          "end": 29
+        }
+      },
+      {
+        "word": "it",
+        "start": 19,
+        "end": 23,
+        "similarity": 0.5052319765090942,
+        "exemplar": {
+          "word": "it",
+          "id": "c033",
+          "start": 28,
+          "end": 33
+        }
+      },
+      {
+        "word": "good",
+        "start": 23,
+        "end": 34,
+        "similarity": 0.3361442983150482,
+        "exemplar": {
+          "word": "good",
+          "id": "c074",
+          "start": 30,
+          "end": 40
+        }
+      }
+    ],
+    "objective": 2.5227270245552065
+  },
+  "td28e3558": {
+    "tokens": [
+      "you",
+      "music"
+    ],
+    "segments": [
+      {
+        "word": "you",
+        "start": 2,
+        "end": 12,
+        "similarity": 0.5096440315246582,
+        "exemplar": {
+          "word": "you",
+          "id": "c074",
+          "start": 3,
+          "end": 13
+        }
+      },
+      {
+        "word": "music",
+        "start": 12,
+        "end": 24,
+        "similarity": 0.27536752820014954,
+        "exemplar": {
+          "word": "music",
+          "id": "c039",
+          "start": 52,
+          "end": 63
+        }
+      }
+    ],
+    "objective": 1.8008506536483766
+  },
+  "t6f0fdfe0": {
+    "tokens": [
+      "i",
+      "hope",
+      "they",
+      "do",
+      "music"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 2,
+        "end": 10,
+        "similarity": 0.4766520857810974,
+        "exemplar": {
+          "word": "i",
+          "id": "c062",
+          "start": 2,
+          "end": 11
+        }
+      },
+      {
+        "word": "hope",
+        "start": 10,
+        "end": 15,
+        "similarity": 0.5492293834686279,
+        "exemplar": {
+          "word": "hope",
+          "id": "c046",
+          "start": 11,
+          "end": 17
+        }
+      },
+      {
+        "word": "they",
+        "start": 15,
+        "end": 20,
+        "similarity": 0.4009667932987213,
+        "exemplar": {
+          "word": "they",
+          "id": "c035",
+          "start": 25,
+          "end": 32
+        }
+      },
+      {
+        "word": "do",
+        "start": 20,
+        "end": 31,
+        "similarity": 0.4577828645706177,
+        "exemplar": {
+          "word": "do",
+          "id": "c050",
+          "start": 46,
+          "end": 57
+        }
+      },
+      {
+        "word": "music",
+        "start": 31,
+        "end": 48,
+        "similarity": 0.4010178744792938,
+        "exemplar": {
+          "word": "music",
+          "id": "c039",
+          "start": 50,
+          "end": 65
+        }
+      }
+    ],
+    "objective": 6.167112946510316
+  },
+  "t4539ffbe": {
+    "tokens": [
+      "my",
+      "it",
+      "here"
+    ],
+    "segments": [
+      {
+        "word": "my",
+        "start": 2,
+        "end": 19,
+        "similarity": 0.4281332194805145,
+        "exemplar": {
+          "word": "my",
+          "id": "c073",
+          "start": 2,
+          "end": 15
+        }
+      },
+      {
+        "word": "it",
+        "start": 19,
+        "end": 26,
+        "similarity": 0.3822218179702759,
+        "exemplar": {
+          "word": "it",
+          "id": "c045",
+          "start": 21,
+          "end": 25
+        }
+      },
+      {
+        "word": "here",
+        "start": 26,
+        "end": 36,
+        "similarity": 0.6460227966308594,
+        "exemplar": {
+          "word": "here",
+          "id": "c024",
+          "start": 50,
+          "end": 57
+        }
+      }
+    ],
+    "objective": 6.264045423269272
+  },
+  "ta2aa0fcb": {
+    "tokens": [
+      "they",
+      "like",
+      "it"
+    ],
+    "segments": [
+      {
+        "word": "they",
+        "start": 3,
+        "end": 12,
+        "similarity": 0.3667406439781189,
+        "exemplar": {
+          "word": "they",
+          "id": "c024",
+          "start": 4,
+          "end": 15
+        }
+      },
+      {
+        "word": "like",
+        "start": 12,
+        "end": 20,
+        "similarity": 0.4142614006996155,
+        "exemplar": {
+          "word": "like",
+          "id": "c039",
+          "start": 36,
+          "end": 42
+        }
+      },
+      {
+        "word": "it",
+        "start": 20,
+        "end": 28,
+        "similarity": 0.4219960570335388,
+        "exemplar": {
+          "word": "it",
+          "id": "c041",
+          "start": 32,
+          "end": 41
+        }
+      }
+    ],
+    "objective": 1.9907254576683042
+  },
+  "tf75891ff": {
+    "tokens": [
+      "my",
+      "family",
+      "is",
+      "not",
+      "very",
+      "tired"
+    ],
+    "segments": [
+      {
+        "word": "my",
+        "start": 3,
+        "end": 17,
+        "similarity": 0.4225044548511505,
+        "exemplar": {
+          "word": "my",
+          "id": "c073",
+          "start": 2,
+          "end": 14
+        }
+      },
+      {
+        "word": "family",
+        "start": 17,
+        "end": 24,
+        "similarity": 0.40901216864585876,
+        "exemplar": {
+          "word": "family",
+          "id": "c019",
+          "start": 15,
+          "end": 22
+        }
+      },
+      {
+        "word": "is",
+        "start": 24,
+        "end": 33,
+        "similarity": 0.34759432077407837,
+        "exemplar": {
+          "word": "is",
+          "id": "c067",
+          "start": 26,
+          "end": 35
+        }
+      },
+      {
+        "word": "not",
+        "start": 33,
+        "end": 39,
+        "similarity": 0.3215435743331909,
+        "exemplar": {
+          "word": "not",
+          "id": "c075",
+          "start": 27,
+          "end": 37
+        }
+      },
+      {
+        "word": "very",
+        "start": 39,
+        "end": 46,
+        "similarity": 0.5134504437446594,
+        "exemplar": {
+          "word": "very",
+          "id": "c009",
+          "start": 40,
+          "end": 48
+        }
+      },
+      {
+        "word": "tired",
+        "start": 46,
+        "end": 58,
+        "similarity": 0.4526512324810028,
+        "exemplar": {
+          "word": "tired",
+          "id": "c042",
+          "start": 21,
+          "end": 33
+        }
+      }
+    ],
+    "objective": 5.7117257773876196
+  },
+  "t514a6795": {
+    "tokens": [
+      "my",
+      "hope",
+      "is",
+      "my",
+      "success",
+      "they"
+    ],
+    "segments": [
+      {
+        "word": "my",
+        "start": 3,
+        "end": 13,
+        "similarity": 0.4249700903892517,
+        "exemplar": {
+          "word": "my",
+          "id": "c067",
+          "start": 6,
+          "end": 18
+        }
+      },
+      {
+        "word": "hope",
+        "start": 13,
+        "end": 19,
+        "similarity": 0.537217915058136,
+        "exemplar": {
+          "word": "hope",
+          "id": "c002",
+          "start": 20,
+          "end": 27
+        }
+      },
+      {
+        "word": "is",
+        "start": 19,
+        "end": 24,
+        "similarity": 0.46382078528404236,
+        "exemplar": {
+          "word": "is",
+          "id": "c008",
+          "start": 36,
+          "end": 40
+        }
+      },
+      {
+        "word": "my",
+        "start": 24,
+        "end": 31,
+        "similarity": 0.46891844272613525,
+        "exemplar": {
+          "word": "my",
+          "id": "c067",
+          "start": 34,
+          "end": 41
+        }
+      },
+      {
+        "word": "success",
+        "start": 31,
+        "end": 44,
+        "similarity": 0.5001852512359619,
+        "exemplar": {
+          "word": "success",
+          "id": "c067",
+          "start": 42,
+          "end": 54
+        }
+      },
+      {
+        "word": "they",
+        "start": 44,
+        "end": 49,
+        "similarity": 0.3376407325267792,
+        "exemplar": {
+          "word": "they",
+          "id": "c046",
+          "start": 19,
+          "end": 25
+        }
+      }
+    ],
+    "objective": 6.365153348445893
+  },
+  "t9ce92bac": {
+    "tokens": [
+      "my",
+      "it"
+    ],
+    "segments": [
+      {
+        "word": "my",
+        "start": 2,
+        "end": 14,
+        "similarity": 0.32913294434547424,
+        "exemplar": {
+          "word": "my",
+          "id": "c073",
+          "start": 3,
+          "end": 13
+        }
+      },
+      {
+        "word": "it",
+        "start": 14,
+        "end": 27,
+        "similarity": 0.3281709849834442,
+        "exemplar": {
+          "word": "it",
+          "id": "c014",
+          "start": 32,
+          "end": 39
+        }
+      }
+    ],
+    "objective": 0.8658181369304656
+  },
+  "t3afd73b4": {
+    "tokens": [
+      "i",
+      "nurse",
+      "are",
+      "do"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 3,
+        "end": 10,
+        "similarity": 0.34161028265953064,
+        "exemplar": {
+          "word": "i",
+          "id": "c012",
+          "start": 4,
+          "end": 15
+        }
+      },
+      {
+        "word": "nurse",
+        "start": 10,
+        "end": 22,
+        "similarity": 0.3343640863895416,
+        "exemplar": {
+          "word": "nurse",
+          "id": "c068",
+          "start": 19,
+          "end": 30
+        }
+      },
+      {
+        "word": "are",
+        "start": 22,
+        "end": 28,
+        "similarity": 0.5788515210151672,
+        "exemplar": {
+          "word": "are",
+          "id": "c052",
+          "start": 25,
+          "end": 31
+        }
+      },
+      {
+        "word": "do",
+        "start": 28,
+        "end": 39,
+        "similarity": 0.38856232166290283,
+        "exemplar": {
+          "word": "do",
+          "id": "c070",
+          "start": 17,
+          "end": 26
+        }
+      }
+    ],
+    "objective": 2.8509356796741487
+  },
+  "tef9d94a6": {
+    "tokens": [
+      "that",
+      "do",
+      "they",
+      "not",
+      "my",
+      "glasses"
+    ],
+    "segments": [
+      {
+        "word": "that",
+        "start": 3,
+        "end": 9,
+        "similarity": 0.33030498027801514,
+        "exemplar": {
+          "word": "that",
+          "id": "c023",
+          "start": 26,
+          "end": 31
+        }
+      },
+      {
+        "word": "do",
+        "start": 9,
+        "end": 18,
+        "similarity": 0.42445889115333557,
+        "exemplar": {
+          "word": "do",
+          "id": "c030",
+          "start": 23,
+          "end": 28
+        }
+      },
+      {
+        "word": "they",
+        "start": 18,
+        "end": 25,
+        "similarity": 0.38254889845848083,
+        "exemplar": {
+          "word": "they",
+          "id": "c052",
+          "start": 33,
+          "end": 39
+        }
+      },
+      {
+        "word": "not",
+        "start": 25,
+        "end": 29,
+        "similarity": 0.34678971767425537,
+        "exemplar": {
+          "word": "not",
+          "id": "c058",
+          "start": 25,
+          "end": 30
+        }
+      },
+      {
+        "word": "my",
+        "start": 29,
+        "end": 33,
+        "similarity": 0.5460344552993774,
+        "exemplar": {
+          "word": "my",
+          "id": "c078",
+          "start": 34,
+          "end": 39
+        }
+      },
+      {
+        "word": "glasses",
+        "start": 33,
+        "end": 46,
+        "similarity": 0.4982432425022125,
+        "exemplar": {
+          "word": "glasses",
+          "id": "c061",
+          "start": 47,
+          "end": 61
+        }
+      }
+    ],
+    "objective": 4.378261035680771
+  },
+  "t52b24bf6": {
+    "tokens": [
+      "you",
+      "hope",
+      "family",
+      "is",
+      "good"
+    ],
+    "segments": [
+      {
+        "word": "you",
+        "start": 4,
+        "end": 18,
+        "similarity": 0.41840386390686035,
+        "exemplar": {
+          "word": "you",
+          "id": "c008",
+          "start": 2,
+          "end": 14
+        }
+      },
+      {
+        "word": "hope",
+        "start": 18,
+        "end": 23,
+        "similarity": 0.48004454374313354,
+        "exemplar": {
+          "word": "hope",
+          "id": "c008",
+          "start": 14,
+          "end": 19
+        }
+      },
+      {
+        "word": "family",
+        "start": 23,
+        "end": 35,
+        "similarity": 0.39063596725463867,
+        "exemplar": {
+          "word": "family",
+          "id": "c019",
+          "start": 13,
+          "end": 24
+        }
+      },
+      {
+        "word": "is",
+        "start": 35,
+        "end": 39,
+        "similarity": 0.46698030829429626,
+        "exemplar": {
+          "word": "is",
+          "id": "c079",
+          "start": 20,
+          "end": 24
+        }
+      },
+      {
+        "word": "good",
+        "start": 39,
+        "end": 50,
+        "similarity": 0.4826798439025879,
+        "exemplar": {
+          "word": "good",
+          "id": "c023",
+          "start": 32,
+          "end": 42
+        }
+      }
+    ],
+    "objective": 5.672907936573029
+  },
+  "t5f2d20a0": {
+    "tokens": [
+      "my",
+      "nurse",
+      "it",
+      "very",
+      "tired"
+    ],
+    "segments": [
+      {
+        "word": "my",
+        "start": 2,
+        "end": 12,
+        "similarity": 0.43001317977905273,
+        "exemplar": {
+          "word": "my",
+          "id": "c073",
+          "start": 3,
+          "end": 13
+        }
+      },
+      {
+        "word": "nurse",
+        "start": 12,
+        "end": 23,
+        "similarity": 0.48148107528686523,
+        "exemplar": {
+          "word": "nurse",
+          "id": "c008",
+          "start": 24,
+          "end": 36
+        }
+      },
+      {
+        "word": "it",
+        "start": 23,
+        "end": 27,
+        "similarity": 0.5746994614601135,
+        "exemplar": {
+          "word": "it",
+          "id": "c033",
+          "start": 28,
+          "end": 33
+        }
+      },
+      {
+        "word": "very",
+        "start": 27,
+        "end": 36,
+        "similarity": 0.5240465402603149,
+        "exemplar": {
+          "word": "very",
+          "id": "c009",
+          "start": 39,
+          "end": 49
+        }
+      },
+      {
+        "word": "tired",
+        "start": 36,
+        "end": 46,
+        "similarity": 0.550856351852417,
+        "exemplar": {
+          "word": "tired",
+          "id": "c042",
+          "start": 21,
+          "end": 33
+        }
+      }
+    ],
+    "objective": 8.370203852653503
+  },
+  "t44bb2095": {
+    "tokens": [
+      "where",
+      "is",
+      "my",
+      "music"
+    ],
+    "segments": [
+      {
+        "word": "where",
+        "start": 2,
+        "end": 21,
+        "similarity": 0.37894198298454285,
+        "exemplar": {
+          "word": "where",
+          "id": "c079",
+          "start": 2,
+          "end": 20
+        }
+      },
+      {
+        "word": "is",
+        "start": 21,
+        "end": 25,
+        "similarity": 0.5314882397651672,
+        "exemplar": {
+          "word": "is",
+          "id": "c079",
+          "start": 20,
+          "end": 24
+        }
+      },
+      {
+        "word": "my",
+        "start": 25,
+        "end": 32,
+        "similarity": 0.4874964654445648,
+        "exemplar": {
+          "word": "my",
+          "id": "c079",
+          "start": 25,
+          "end": 31
+        }
+      },
+      {
+        "word": "music",
+        "start": 32,
+        "end": 48,
+        "similarity": 0.47440364956855774,
+        "exemplar": {
+          "word": "music",
+          "id": "c039",
+          "start": 51,
+          "end": 64
+        }
+      }
+    ],
+    "objective": 6.628784286975861
+  },
+  "te366b91c": {
+    "tokens": [
+      "i",
+      "hope",
+      "you",
+      "family"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 19,
+        "similarity": 0.44875580072402954,
+        "exemplar": {
+          "word": "i",
+          "id": "c062",
+          "start": 2,
+          "end": 10
+        }
+      },
+      {
+        "word": "hope",
+        "start": 19,
+        "end": 26,
+        "similarity": 0.48856717348098755,
+        "exemplar": {
+          "word": "hope",
+          "id": "c039",
+          "start": 21,
+          "end": 26
+        }
+      },
+      {
+        "word": "you",
+        "start": 26,
+        "end": 33,
+        "similarity": 0.35122424364089966,
+        "exemplar": {
+          "word": "you",
+          "id": "c038",
+          "start": 25,
+          "end": 32
+        }
+      },
+      {
+        "word": "family",
+        "start": 33,
+        "end": 51,
+        "similarity": 0.4795554578304291,
+        "exemplar": {
+          "word": "family",
+          "id": "c071",
+          "start": 55,
+          "end": 75
+        }
+      }
+    ],
+    "objective": 7.788142573833466
+  },
+  "ta8a65775": {
+    "tokens": [
+      "i",
+      "hope",
+      "need",
+      "my",
+      "do",
+      "are"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 2,
+        "end": 14,
+        "similarity": 0.44656458497047424,
+        "exemplar": {
+          "word": "i",
+          "id": "c062",
+          "start": 3,
+          "end": 9
+        }
+      },
+      {
+        "word": "hope",
+        "start": 14,
+        "end": 25,
+        "similarity": 0.3920992910861969,
+        "exemplar": {
+          "word": "hope",
+          "id": "c002",
+          "start": 18,
+          "end": 29
+        }
+      },
+      {
+        "word": "need",
+        "start": 25,
+        "end": 31,
+        "similarity": 0.4281007647514343,
+        "exemplar": {
+          "word": "need",
+          "id": "c075",
+          "start": 19,
+          "end": 25
+        }
+      },
+      {
+        "word": "my",
+        "start": 31,
+        "end": 38,
+        "similarity": 0.5283339619636536,
+        "exemplar": {
+          "word": "my",
+          "id": "c035",
+          "start": 57,
+          "end": 65
+        }
+      },
+      {
+        "word": "do",
+        "start": 38,
+        "end": 43,
+        "similarity": 0.4413939118385315,
+        "exemplar": {
+          "word": "do",
+          "id": "c014",
+          "start": 25,
+          "end": 30
+        }
+      },
+      {
+        "word": "are",
+        "start": 43,
+        "end": 52,
+        "similarity": 0.3987831473350525,
+        "exemplar": {
+          "word": "are",
+          "id": "c053",
+          "start": 21,
+          "end": 33
+        }
+      }
+    ],
+    "objective": 5.934827429056169
+  },
+  "t8485b6b9": {
+    "tokens": [
+      "they",
+      "feel",
+      "thirsty"
+    ],
+    "segments": [
+      {
+        "word": "they",
+        "start": 2,
+        "end": 17,
+        "similarity": 0.31468477845191956,
+        "exemplar": {
+          "word": "they",
+          "id": "c064",
+          "start": 4,
+          "end": 17
+        }
+      },
+      {
+        "word": "feel",
+        "start": 17,
+        "end": 24,
+        "similarity": 0.5251577496528625,
+        "exemplar": {
+          "word": "feel",
+          "id": "c050",
+          "start": 63,
+          "end": 68
+        }
+      },
+      {
+        "word": "thirsty",
+        "start": 24,
+        "end": 35,
+        "similarity": 0.47679683566093445,
+        "exemplar": {
+          "word": "thirsty",
+          "id": "c066",
+          "start": 30,
+          "end": 42
+        }
+      }
+    ],
+    "objective": 3.7411411166191106
+  },
+  "t41450074": {
+    "tokens": [
+      "it",
+      "my"
+    ],
+    "segments": [
+      {
+        "word": "it",
+        "start": 2,
+        "end": 13,
+        "similarity": 0.4455634355545044,
+        "exemplar": {
+          "word": "it",
+          "id": "c026",
+          "start": 3,
+          "end": 16
+        }
+      },
+      {
+        "word": "my",
+        "start": 13,
+        "end": 22,
+        "similarity": 0.43165236711502075,
+        "exemplar": {
+          "word": "my",
+          "id": "c055",
+          "start": 36,
+          "end": 40
+        }
+      }
+    ],
+    "objective": 2.6860690951347355
+  },
+  "t53cbb8eb": {
+    "tokens": [
+      "i",
+      "do",
+      "not",
+      "up"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 11,
+        "similarity": 0.45956140756607056,
+        "exemplar": {
+          "word": "i",
+          "id": "c046",
+          "start": 2,
+          "end": 11
+        }
+      },
+      {
+        "word": "do",
+        "start": 11,
+        "end": 16,
+        "similarity": 0.5679726004600525,
+        "exemplar": {
+          "word": "do",
+          "id": "c058",
+          "start": 15,
+          "end": 23
+        }
+      },
+      {
+        "word": "not",
+        "start": 16,
+        "end": 23,
+        "similarity": 0.4862011969089508,
+        "exemplar": {
+          "word": "not",
+          "id": "c058",
+          "start": 23,
+          "end": 32
+        }
+      },
+      {
+        "word": "up",
+        "start": 23,
+        "end": 35,
+        "similarity": 0.3290027976036072,
+        "exemplar": {
+          "word": "up",
+          "id": "c007",
+          "start": 34,
+          "end": 45
+        }
+      }
+    ],
+    "objective": 3.98691902756691
+  },
+  "tbfeb0ff2": {
+    "tokens": [
+      "i",
+      "they",
+      "family",
+      "hope"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 2,
+        "end": 16,
+        "similarity": 0.42674538493156433,
+        "exemplar": {
+          "word": "i",
+          "id": "c071",
+          "start": 4,
+          "end": 17
+        }
+      },
+      {
+        "word": "they",
+        "start": 16,
+        "end": 28,
+        "similarity": 0.40851375460624695,
+        "exemplar": {
+          "word": "they",
+          "id": "c066",
+          "start": 13,
+          "end": 20
+        }
+      },
+      {
+        "word": "family",
+        "start": 28,
+        "end": 41,
+        "similarity": 0.4444824457168579,
+        "exemplar": {
+          "word": "family",
+          "id": "c071",
+          "start": 57,
+          "end": 73
+        }
+      },
+      {
+        "word": "hope",
+        "start": 41,
+        "end": 45,
+        "similarity": 0.29889926314353943,
+        "exemplar": {
+          "word": "hope",
+          "id": "c039",
+          "start": 21,
+          "end": 26
+        }
+      }
+    ],
+    "objective": 4.900469291210175
+  },
+  "te3243945": {
+    "tokens": [
+      "how",
+      "are",
+      "are",
+      "they"
+    ],
+    "segments": [
+      {
+        "word": "how",
+        "start": 1,
+        "end": 14,
+        "similarity": 0.39651209115982056,
+        "exemplar": {
+          "word": "how",
+          "id": "c038",
+          "start": 2,
+          "end": 20
+        }
+      },
+      {
+        "word": "are",
+        "start": 14,
+        "end": 25,
+        "similarity": 0.39982709288597107,
+        "exemplar": {
+          "word": "are",
+          "id": "c072",
+          "start": 25,
+          "end": 34
+        }
+      },
+      {
+        "word": "are",
+        "start": 25,
+        "end": 30,
+        "similarity": 0.6109570264816284,
+        "exemplar": {
+          "word": "are",
+          "id": "c052",
+          "start": 25,
+          "end": 31
+        }
+      },
+      {
+        "word": "they",
+        "start": 30,
+        "end": 39,
+        "similarity": 0.3888738453388214,
+        "exemplar": {
+          "word": "they",
+          "id": "c053",
+          "start": 35,
+          "end": 46
+        }
+      }
+    ],
+    "objective": 4.307404947280884
+  },
+  "tca769afd": {
+    "tokens": [
+      "i",
+      "it",
+      "my",
+      "is",
+      "hope",
+      "do"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 3,
+        "end": 14,
+        "similarity": 0.23890644311904907,
+        "exemplar": {
+          "word": "i",
+          "id": "c012",
+          "start": 39,
+          "end": 44
+        }
+      },
+      {
+        "word": "it",
+        "start": 14,
+        "end": 34,
+        "similarity": 0.4173485338687897,
+        "exemplar": {
+          "word": "it",
+          "id": "c026",
+          "start": 3,
+          "end": 16
+        }
+      },
+      {
+        "word": "my",
+        "start": 34,
+        "end": 44,
+        "similarity": 0.3117598593235016,
+        "exemplar": {
+          "word": "my",
+          "id": "c067",
+          "start": 33,
+          "end": 42
+        }
+      },
+      {
+        "word": "is",
+        "start": 44,
+        "end": 51,
+        "similarity": 0.45660537481307983,
+        "exemplar": {
+          "word": "is",
+          "id": "c068",
+          "start": 30,
+          "end": 37
+        }
+      },
+      {
+        "word": "hope",
+        "start": 51,
+        "end": 56,
+        "similarity": 0.3882136940956116,
+        "exemplar": {
+          "word": "hope",
+          "id": "c041",
+          "start": 3,
+          "end": 14
+        }
+      },
+      {
+        "word": "do",
+        "start": 56,
+        "end": 67,
+        "similarity": 0.5516105890274048,
+        "exemplar": {
+          "word": "do",
+          "id": "c070",
+          "start": 16,
+          "end": 27
+        }
+      }
+    ],
+    "objective": 5.897562718391419
+  },
+  "td133fe68": {
+    "tokens": [
+      "i",
+      "like",
+      "help",
+      "comfortable",
+      "am",
+      "help"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 1,
+        "end": 13,
+        "similarity": 0.4730905592441559,
+        "exemplar": {
+          "word": "i",
+          "id": "c062",
+          "start": 2,
+          "end": 10
+        }
+      },
+      {
+        "word": "like",
+        "start": 13,
+        "end": 20,
+        "similarity": 0.5317248106002808,
+        "exemplar": {
+          "word": "like",
+          "id": "c028",
+          "start": 33,
+          "end": 40
+        }
+      },
+      {
+        "word": "help",
+        "start": 20,
+        "end": 25,
+        "similarity": 0.37539952993392944,
+        "exemplar": {
+          "word": "help",
+          "id": "c063",
+          "start": 49,
+          "end": 57
+        }
+      },
+      {
+        "word": "comfortable",
+        "start": 25,
+        "end": 39,
+        "similarity": 0.5412691831588745,
+        "exemplar": {
+          "word": "comfortable",
+          "id": "c013",
+          "start": 35,
+          "end": 52
+        }
+      },
+      {
+        "word": "am",
+        "start": 39,
+        "end": 47,
+        "similarity": 0.3415076732635498,
+        "exemplar": {
+          "word": "am",
+          "id": "c001",
+          "start": 9,
+          "end": 17
+        }
+      },
+      {
+        "word": "help",
+        "start": 47,
+        "end": 52,
+        "similarity": 0.31443095207214355,
+        "exemplar": {
+          "word": "help",
+          "id": "c064",
+          "start": 30,
+          "end": 40
+        }
+      }
+    ],
+    "objective": 7.008142745494843
+  },
+  "t588781f6": {
+    "tokens": [
+      "you",
+      "yes",
+      "i",
+      "very",
+      "hungry"
+    ],
+    "segments": [
+      {
+        "word": "you",
+        "start": 2,
+        "end": 9,
+        "similarity": 0.4348464906215668,
+        "exemplar": {
+          "word": "you",
+          "id": "c074",
+          "start": 3,
+          "end": 13
+        }
+      },
+      {
+        "word": "yes",
+        "start": 9,
+        "end": 14,
+        "similarity": 0.4522264003753662,
+        "exemplar": {
+          "word": "yes",
+          "id": "c060",
+          "start": 4,
+          "end": 12
+        }
+      },
+      {
+        "word": "i",
+        "start": 14,
+        "end": 21,
+        "similarity": 0.3248598575592041,
+        "exemplar": {
+          "word": "i",
+          "id": "c001",
+          "start": 3,
+          "end": 7
+        }
+      },
+      {
+        "word": "very",
+        "start": 21,
+        "end": 31,
+        "similarity": 0.4271588623523712,
+        "exemplar": {
+          "word": "very",
+          "id": "c066",
+          "start": 20,
+          "end": 28
+        }
+      },
+      {
+        "word": "hungry",
+        "start": 31,
+        "end": 43,
+        "similarity": 0.3932151794433594,
+        "exemplar": {
+          "word": "hungry",
+          "id": "c069",
+          "start": 39,
+          "end": 52
+        }
+      }
+    ],
+    "objective": 3.569247215986252
+  },
+  "tced8ecfc": {
+    "tokens": [
+      "how",
+      "do",
+      "they",
+      "do",
+      "right"
+    ],
+    "segments": [
+      {
+        "word": "how",
+        "start": 3,
+        "end": 19,
+        "similarity": 0.3943819999694824,
+        "exemplar": {
+          "word": "how",
+          "id": "c053",
+          "start": 2,
+          "end": 21
+        }
+      },
+      {
+        "word": "do",
+        "start": 19,
+        "end": 25,
+        "similarity": 0.3713826537132263,
+        "exemplar": {
+          "word": "do",
+          "id": "c014",
+          "start": 25,
+          "end": 30
+        }
+      },
+      {
+        "word": "they",
+        "start": 25,
+        "end": 29,
+        "similarity": 0.4466709792613983,
+        "exemplar": {
+          "word": "they",
+          "id": "c030",
+          "start": 29,
+          "end": 35
+        }
+      },
+      {
+        "word": "do",
+        "start": 29,
+        "end": 39,
+        "similarity": 0.44426727294921875,
+        "exemplar": {
+          "word": "do",
+          "id": "c014",
+          "start": 23,
+          "end": 32
+        }
+      },
+      {
+        "word": "right",
+        "start": 39,
+        "end": 52,
+        "similarity": 0.4406886398792267,
+        "exemplar": {
+          "word": "right",
+          "id": "c021",
+          "start": 37,
+          "end": 49
+        }
+      }
+    ],
+    "objective": 5.396716886758805
+  },
+  "t848cf4da": {
+    "tokens": [
+      "that",
+      "is",
+      "okay"
+    ],
+    "segments": [
+      {
+        "word": "that",
+        "start": 2,
+        "end": 13,
+        "similarity": 0.44748708605766296,
+        "exemplar": {
+          "word": "that",
+          "id": "c018",
+          "start": 3,
+          "end": 12
+        }
+      },
+      {
+        "word": "is",
+        "start": 13,
+        "end": 17,
+        "similarity": 0.5630874633789062,
+        "exemplar": {
+          "word": "is",
+          "id": "c079",
+          "start": 20,
+          "end": 24
+        }
+      },
+      {
+        "word": "okay",
+        "start": 17,
+        "end": 30,
+        "similarity": 0.5218135714530945,
+        "exemplar": {
+          "word": "okay",
+          "id": "c047",
+          "start": 41,
+          "end": 54
+        }
+      }
+    ],
+    "objective": 5.308284229040146
+  },
+  "td6e48564": {
+    "tokens": [
+      "it",
+      "is",
+      "bad"
+    ],
+    "segments": [
+      {
+        "word": "it",
+        "start": 1,
+        "end": 12,
+        "similarity": 0.5006052255630493,
+        "exemplar": {
+          "word": "it",
+          "id": "c027",
+          "start": 3,
+          "end": 11
+        }
+      },
+      {
+        "word": "is",
+        "start": 12,
+        "end": 19,
+        "similarity": 0.42208632826805115,
+        "exemplar": {
+          "word": "is",
+          "id": "c008",
+          "start": 36,
+          "end": 40
+        }
+      },
+      {
+        "word": "bad",
+        "start": 19,
+        "end": 29,
+        "similarity": 0.5568923354148865,
+        "exemplar": {
+          "word": "bad",
+          "id": "c034",
+          "start": 30,
+          "end": 38
+        }
+      }
+    ],
+    "objective": 5.280185133218765
+  },
+  "t0575fbc6": {
+    "tokens": [
+      "i",
+      "hope",
+      "my",
+      "am",
+      "very",
+      "good",
+      "family"
+    ],
+    "segments": [
+      {
+        "word": "i",
+        "start": 2,
+        "end": 14,
+        "similarity": 0.43656855821609497,
+        "exemplar": {
+          "word": "i",
+          "id": "c035",
+          "start": 4,
+          "end": 16
+        }
+      },
+      {
+        "word": "hope",
+        "start": 14,
+        "end": 23,
+        "similarity": 0.537071168422699,
+        "exemplar": {
+          "word": "hope",
+          "id": "c039",
+          "start": 19,
+          "end": 28
+        }
+      },
+      {
+        "word": "my",
+        "start": 23,
+        "end": 28,
+        "similarity": 0.3646531105041504,
+        "exemplar": {
+          "word": "my",
+          "id": "c028",
+          "start": 40,
+          "end": 47
+        }
+      },
+      {
+        "word": "am",
+        "start": 28,
+        "end": 37,
+        "similarity": 0.39591318368911743,
+        "exemplar": {
+          "word": "am",
+          "id": "c060",
+          "start": 18,
+          "end": 22
+        }
+      },
+      {
+        "word": "very",
+        "start": 37,
+        "end": 50,
+        "similarity": 0.48437705636024475,
+        "exemplar": {
+          "word": "very",
+          "id": "c009",
+          "start": 40,
+          "end": 48
+        }
+      },
+      {
+        "word": "good",
+        "start": 50,
+        "end": 59,
+        "similarity": 0.44581809639930725,
+        "exemplar": {
+          "word": "good",
+          "id": "c071",
+          "start": 51,
+          "end": 56
+        }
+      },
+      {
+        "word": "family",
+        "start": 59,
+        "end": 79,
+        "similarity": 0.5085076689720154,
+        "exemplar": {
+          "word": "family",
+          "id": "c071",
+          "start": 56,
+          "end": 74
+        }
+      }
+    ],
+    "objective": 12.838365399837492
+  },
+  "t6453e6ae": {
+    "tokens": [
+      "how",
+      "do",
+      "do",
+      "feel",
+      "please"
+    ],
+    "segments": [
+      {
+        "word": "how",
+        "start": 2,
+        "end": 10,
+        "similarity": 0.37548959255218506,
+        "exemplar": {
+          "word": "how",
+          "id": "c014",
+          "start": 2,
+          "end": 14
+        }
+      },
+      {
+        "word": "do",
+        "start": 10,
+        "end": 17,
+        "similarity": 0.3193769156932831,
+        "exemplar": {
+          "word": "do",
+          "id": "c014",
+          "start": 25,
+          "end": 30
+        }
+      },
+      {
+        "word": "do",
+        "start": 17,
+        "end": 23,
+        "similarity": 0.46117842197418213,
+        "exemplar": {
+          "word": "do",
+          "id": "c041",
+          "start": 24,
+          "end": 31
+        }
+      },
+      {
+        "word": "feel",
+        "start": 23,
+        "end": 27,
+        "similarity": 0.3925885260105133,
+        "exemplar": {
+          "word": "feel",
+          "id": "c029",
+          "start": 61,
+          "end": 66
+        }
+      },
+      {
+        "word": "please",
+        "start": 27,
+        "end": 38,
+        "similarity": 0.4400668740272522,
+        "exemplar": {
+          "word": "please",
+          "id": "c004",
+          "start": 23,
+          "end": 35
+        }
+      }
+    ],
+    "objective": 2.667715400457382
+  },
+  "t4d2d7415": {
+    "tokens": [
+      "it",
+      "is",
+      "hope",
+      "you",
+      "are",
+      "comfortable",
+      "my"
+    ],
+    "segments": [
+      {
+        "word": "it",
+        "start": 2,
+        "end": 19,
+        "similarity": 0.45207539200782776,
+        "exemplar": {
+          "word": "it",
+          "id": "c026",
+          "start": 3,
+          "end": 16
+        }
+      },
+      {
+        "word": "is",
+        "start": 19,
+        "end": 25,
+        "similarity": 0.3806774914264679,
+        "exemplar": {
+          "word": "is",
+          "id": "c008",
+          "start": 36,
+          "end": 40
+        }
+      },
+      {
+        "word": "hope",
+        "start": 25,
+        "end": 35,
+        "similarity": 0.4542026221752167,
+        "exemplar": {
+          "word": "hope",
+          "id": "c024",
+          "start": 17,
+          "end": 24
+        }
+      },
+      {
+        "word": "you",
+        "start": 35,
+        "end": 45,
+        "similarity": 0.4006108343601227,
+        "exemplar": {
+          "word": "you",
+          "id": "c024",
+          "start": 25,
+          "end": 33
+        }
+      },
+      {
+        "word": "are",
+        "start": 45,
+        "end": 49,
+        "similarity": 0.5321598649024963,
+        "exemplar": {
+          "word": "are",
+          "id": "c042",
+          "start": 14,
+          "end": 20
+        }
+      },
+      {
+        "word": "comfortable",
+        "start": 49,
+        "end": 64,
+        "similarity": 0.4974803030490875,
+        "exemplar": {
+          "word": "comfortable",
+          "id": "c010",
+          "start": 26,
+          "end": 41
+        }
+      },
+      {
+        "word": "my",
+        "start": 64,
+        "end": 68,
+        "similarity": 0.32300272583961487,
+        "exemplar": {
+          "word": "my",
+          "id": "c078",
+          "start": 34,
+          "end": 39
+        }
+      }
+    ],
+    "objective": 9.050336086750029
+  }
+}

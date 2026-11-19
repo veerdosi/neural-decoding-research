@@ -1,0 +1,1756 @@
+{
+  "tb0b19ec8": [
+    {
+      "word": "it",
+      "start": 1,
+      "end": 12,
+      "similarity": 0.560620343713535,
+      "exemplar": {
+        "id": "c026",
+        "word": "it",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "music",
+      "start": 12,
+      "end": 19,
+      "similarity": 0.38179436173212666,
+      "exemplar": {
+        "id": "c039",
+        "word": "music",
+        "start": 52,
+        "end": 62,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "it",
+      "start": 19,
+      "end": 24,
+      "similarity": 0.41895743742812347,
+      "exemplar": {
+        "id": "c041",
+        "word": "it",
+        "start": 34,
+        "end": 39,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t59dcd856": [
+    {
+      "word": "they",
+      "start": 1,
+      "end": 14,
+      "similarity": 0.4256618802066784,
+      "exemplar": {
+        "id": "c075",
+        "word": "they",
+        "start": 4,
+        "end": 13,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "you",
+      "start": 14,
+      "end": 21,
+      "similarity": 0.49400489070994574,
+      "exemplar": {
+        "id": "c022",
+        "word": "you",
+        "start": 33,
+        "end": 41,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "like",
+      "start": 21,
+      "end": 34,
+      "similarity": 0.48192445238804527,
+      "exemplar": {
+        "id": "c002",
+        "word": "like",
+        "start": 33,
+        "end": 46,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "music",
+      "start": 34,
+      "end": 46,
+      "similarity": 0.48376956045372493,
+      "exemplar": {
+        "id": "c039",
+        "word": "music",
+        "start": 52,
+        "end": 62,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "tcd92c113": [
+    {
+      "word": "where",
+      "start": 1,
+      "end": 14,
+      "similarity": 0.4592968872465014,
+      "exemplar": {
+        "id": "c079",
+        "word": "where",
+        "start": 4,
+        "end": 17,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 14,
+      "end": 19,
+      "similarity": 0.4016804142564772,
+      "exemplar": {
+        "id": "c033",
+        "word": "is",
+        "start": 23,
+        "end": 27,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "that",
+      "start": 19,
+      "end": 32,
+      "similarity": 0.46188311899699563,
+      "exemplar": {
+        "id": "c051",
+        "word": "that",
+        "start": 20,
+        "end": 32,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t1fe83bc3": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 12,
+      "similarity": 0.4500006850744478,
+      "exemplar": {
+        "id": "c051",
+        "word": "i",
+        "start": 2,
+        "end": 14,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "nurse",
+      "start": 12,
+      "end": 21,
+      "similarity": 0.34342085807769296,
+      "exemplar": {
+        "id": "c008",
+        "word": "nurse",
+        "start": 26,
+        "end": 36,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "that",
+      "start": 21,
+      "end": 28,
+      "similarity": 0.38250732308281704,
+      "exemplar": {
+        "id": "c019",
+        "word": "that",
+        "start": 32,
+        "end": 39,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "here",
+      "start": 28,
+      "end": 36,
+      "similarity": 0.3643252222033631,
+      "exemplar": {
+        "id": "c048",
+        "word": "here",
+        "start": 51,
+        "end": 55,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "td28e3558": [
+    {
+      "word": "you",
+      "start": 2,
+      "end": 13,
+      "similarity": 0.48072090759205355,
+      "exemplar": {
+        "id": "c074",
+        "word": "you",
+        "start": 4,
+        "end": 14,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "going",
+      "start": 13,
+      "end": 22,
+      "similarity": 0.38477558917029936,
+      "exemplar": {
+        "id": "c008",
+        "word": "going",
+        "start": 45,
+        "end": 52,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t6f0fdfe0": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 10,
+      "similarity": 0.45248000925838994,
+      "exemplar": {
+        "id": "c062",
+        "word": "i",
+        "start": 2,
+        "end": 11,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 10,
+      "end": 19,
+      "similarity": 0.441149013915056,
+      "exemplar": {
+        "id": "c039",
+        "word": "hope",
+        "start": 20,
+        "end": 30,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 19,
+      "end": 29,
+      "similarity": 0.4463457414641455,
+      "exemplar": {
+        "id": "c050",
+        "word": "do",
+        "start": 45,
+        "end": 54,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "music",
+      "start": 29,
+      "end": 48,
+      "similarity": 0.40130330237509837,
+      "exemplar": {
+        "id": "c039",
+        "word": "music",
+        "start": 48,
+        "end": 64,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t4539ffbe": [
+    {
+      "word": "my",
+      "start": 1,
+      "end": 20,
+      "similarity": 0.4074762312790285,
+      "exemplar": {
+        "id": "c073",
+        "word": "my",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "it",
+      "start": 20,
+      "end": 28,
+      "similarity": 0.4446947956465091,
+      "exemplar": {
+        "id": "c045",
+        "word": "it",
+        "start": 21,
+        "end": 28,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "here",
+      "start": 28,
+      "end": 36,
+      "similarity": 0.6438337290589837,
+      "exemplar": {
+        "id": "c024",
+        "word": "here",
+        "start": 51,
+        "end": 57,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "ta2aa0fcb": [
+    {
+      "word": "they",
+      "start": 1,
+      "end": 13,
+      "similarity": 0.34905011265394537,
+      "exemplar": {
+        "id": "c064",
+        "word": "they",
+        "start": 2,
+        "end": 17,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "like",
+      "start": 13,
+      "end": 20,
+      "similarity": 0.4167984476312364,
+      "exemplar": {
+        "id": "c039",
+        "word": "like",
+        "start": 37,
+        "end": 42,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "it",
+      "start": 20,
+      "end": 31,
+      "similarity": 0.38220970433657747,
+      "exemplar": {
+        "id": "c014",
+        "word": "it",
+        "start": 31,
+        "end": 41,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "tf75891ff": [
+    {
+      "word": "my",
+      "start": 2,
+      "end": 18,
+      "similarity": 0.4111380683971225,
+      "exemplar": {
+        "id": "c073",
+        "word": "my",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "family",
+      "start": 18,
+      "end": 25,
+      "similarity": 0.4120953319514887,
+      "exemplar": {
+        "id": "c043",
+        "word": "family",
+        "start": 22,
+        "end": 29,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 25,
+      "end": 34,
+      "similarity": 0.4106028344806527,
+      "exemplar": {
+        "id": "c043",
+        "word": "is",
+        "start": 31,
+        "end": 37,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "not",
+      "start": 34,
+      "end": 40,
+      "similarity": 0.3576493910013853,
+      "exemplar": {
+        "id": "c075",
+        "word": "not",
+        "start": 29,
+        "end": 36,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "very",
+      "start": 40,
+      "end": 47,
+      "similarity": 0.5387026307276986,
+      "exemplar": {
+        "id": "c071",
+        "word": "very",
+        "start": 43,
+        "end": 52,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "tired",
+      "start": 47,
+      "end": 57,
+      "similarity": 0.5220599046365584,
+      "exemplar": {
+        "id": "c042",
+        "word": "tired",
+        "start": 21,
+        "end": 33,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "are",
+      "start": 57,
+      "end": 62,
+      "similarity": 0.3258091113965022,
+      "exemplar": {
+        "id": "c052",
+        "word": "are",
+        "start": 25,
+        "end": 31,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t514a6795": [
+    {
+      "word": "my",
+      "start": 1,
+      "end": 13,
+      "similarity": 0.38182694786910254,
+      "exemplar": {
+        "id": "c073",
+        "word": "my",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 13,
+      "end": 18,
+      "similarity": 0.5726192835868789,
+      "exemplar": {
+        "id": "c002",
+        "word": "hope",
+        "start": 20,
+        "end": 25,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 18,
+      "end": 23,
+      "similarity": 0.44556669765605433,
+      "exemplar": {
+        "id": "c068",
+        "word": "is",
+        "start": 30,
+        "end": 37,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "my",
+      "start": 23,
+      "end": 32,
+      "similarity": 0.4624573046782527,
+      "exemplar": {
+        "id": "c067",
+        "word": "my",
+        "start": 32,
+        "end": 42,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "success",
+      "start": 32,
+      "end": 44,
+      "similarity": 0.5212166144858902,
+      "exemplar": {
+        "id": "c067",
+        "word": "success",
+        "start": 44,
+        "end": 54,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "they",
+      "start": 44,
+      "end": 49,
+      "similarity": 0.3366389865730822,
+      "exemplar": {
+        "id": "c046",
+        "word": "they",
+        "start": 20,
+        "end": 24,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t9ce92bac": [
+    {
+      "word": "hungry",
+      "start": 4,
+      "end": 17,
+      "similarity": 0.38001591282142855,
+      "exemplar": {
+        "id": "c016",
+        "word": "hungry",
+        "start": 30,
+        "end": 44,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "it",
+      "start": 17,
+      "end": 27,
+      "similarity": 0.3570700307154668,
+      "exemplar": {
+        "id": "c014",
+        "word": "it",
+        "start": 31,
+        "end": 39,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t3afd73b4": [
+    {
+      "word": "yes",
+      "start": 1,
+      "end": 10,
+      "similarity": 0.4057006501794768,
+      "exemplar": {
+        "id": "c020",
+        "word": "yes",
+        "start": 4,
+        "end": 18,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "nurse",
+      "start": 10,
+      "end": 22,
+      "similarity": 0.34541111178406236,
+      "exemplar": {
+        "id": "c068",
+        "word": "nurse",
+        "start": 18,
+        "end": 30,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "are",
+      "start": 22,
+      "end": 27,
+      "similarity": 0.5849980352719223,
+      "exemplar": {
+        "id": "c052",
+        "word": "are",
+        "start": 25,
+        "end": 31,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "you",
+      "start": 27,
+      "end": 35,
+      "similarity": 0.4785690177122235,
+      "exemplar": {
+        "id": "c012",
+        "word": "you",
+        "start": 28,
+        "end": 37,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "here",
+      "start": 35,
+      "end": 42,
+      "similarity": 0.2941108701856782,
+      "exemplar": {
+        "id": "c025",
+        "word": "here",
+        "start": 27,
+        "end": 40,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "tef9d94a6": [
+    {
+      "word": "tell",
+      "start": 1,
+      "end": 12,
+      "similarity": 0.3365234376891342,
+      "exemplar": {
+        "id": "c050",
+        "word": "tell",
+        "start": 4,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "they",
+      "start": 12,
+      "end": 26,
+      "similarity": 0.4505421219866569,
+      "exemplar": {
+        "id": "c030",
+        "word": "they",
+        "start": 24,
+        "end": 38,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "my",
+      "start": 26,
+      "end": 33,
+      "similarity": 0.4216400393814022,
+      "exemplar": {
+        "id": "c078",
+        "word": "my",
+        "start": 31,
+        "end": 37,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "glasses",
+      "start": 33,
+      "end": 47,
+      "similarity": 0.4938810523239449,
+      "exemplar": {
+        "id": "c061",
+        "word": "glasses",
+        "start": 47,
+        "end": 60,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t52b24bf6": [
+    {
+      "word": "you",
+      "start": 2,
+      "end": 17,
+      "similarity": 0.4157748785631357,
+      "exemplar": {
+        "id": "c008",
+        "word": "you",
+        "start": 2,
+        "end": 14,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 17,
+      "end": 22,
+      "similarity": 0.5157782303017822,
+      "exemplar": {
+        "id": "c008",
+        "word": "hope",
+        "start": 14,
+        "end": 20,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "family",
+      "start": 22,
+      "end": 35,
+      "similarity": 0.41940686398979976,
+      "exemplar": {
+        "id": "c043",
+        "word": "family",
+        "start": 18,
+        "end": 31,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 35,
+      "end": 40,
+      "similarity": 0.43474663498833427,
+      "exemplar": {
+        "id": "c079",
+        "word": "is",
+        "start": 19,
+        "end": 24,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "good",
+      "start": 40,
+      "end": 50,
+      "similarity": 0.5123596086152394,
+      "exemplar": {
+        "id": "c023",
+        "word": "good",
+        "start": 34,
+        "end": 42,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t5f2d20a0": [
+    {
+      "word": "my",
+      "start": 1,
+      "end": 15,
+      "similarity": 0.4011604882729678,
+      "exemplar": {
+        "id": "c073",
+        "word": "my",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "nurse",
+      "start": 15,
+      "end": 27,
+      "similarity": 0.505738334540318,
+      "exemplar": {
+        "id": "c008",
+        "word": "nurse",
+        "start": 28,
+        "end": 38,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "very",
+      "start": 27,
+      "end": 36,
+      "similarity": 0.5461489690949118,
+      "exemplar": {
+        "id": "c009",
+        "word": "very",
+        "start": 39,
+        "end": 49,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "tired",
+      "start": 36,
+      "end": 46,
+      "similarity": 0.5588092467907917,
+      "exemplar": {
+        "id": "c042",
+        "word": "tired",
+        "start": 21,
+        "end": 33,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t44bb2095": [
+    {
+      "word": "where",
+      "start": 1,
+      "end": 24,
+      "similarity": 0.46081447028284506,
+      "exemplar": {
+        "id": "c079",
+        "word": "where",
+        "start": 2,
+        "end": 21,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "my",
+      "start": 24,
+      "end": 30,
+      "similarity": 0.4979096476082597,
+      "exemplar": {
+        "id": "c079",
+        "word": "my",
+        "start": 24,
+        "end": 30,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "music",
+      "start": 30,
+      "end": 48,
+      "similarity": 0.49933663394897476,
+      "exemplar": {
+        "id": "c039",
+        "word": "music",
+        "start": 48,
+        "end": 64,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "te366b91c": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 21,
+      "similarity": 0.4340666667446264,
+      "exemplar": {
+        "id": "c078",
+        "word": "i",
+        "start": 2,
+        "end": 22,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 21,
+      "end": 26,
+      "similarity": 0.5363427658829907,
+      "exemplar": {
+        "id": "c002",
+        "word": "hope",
+        "start": 20,
+        "end": 25,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "you",
+      "start": 26,
+      "end": 34,
+      "similarity": 0.34200901793111604,
+      "exemplar": {
+        "id": "c071",
+        "word": "you",
+        "start": 24,
+        "end": 34,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "family",
+      "start": 34,
+      "end": 52,
+      "similarity": 0.47782149471503604,
+      "exemplar": {
+        "id": "c071",
+        "word": "family",
+        "start": 57,
+        "end": 76,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "ta8a65775": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 12,
+      "similarity": 0.4101556727306375,
+      "exemplar": {
+        "id": "c077",
+        "word": "i",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 12,
+      "end": 24,
+      "similarity": 0.4512031693568182,
+      "exemplar": {
+        "id": "c002",
+        "word": "hope",
+        "start": 16,
+        "end": 27,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "need",
+      "start": 24,
+      "end": 31,
+      "similarity": 0.3832686303401394,
+      "exemplar": {
+        "id": "c075",
+        "word": "need",
+        "start": 17,
+        "end": 25,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "my",
+      "start": 31,
+      "end": 42,
+      "similarity": 0.5054780990138055,
+      "exemplar": {
+        "id": "c035",
+        "word": "my",
+        "start": 59,
+        "end": 68,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "are",
+      "start": 42,
+      "end": 53,
+      "similarity": 0.4290450315181919,
+      "exemplar": {
+        "id": "c066",
+        "word": "are",
+        "start": 2,
+        "end": 9,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t8485b6b9": [
+    {
+      "word": "they",
+      "start": 2,
+      "end": 13,
+      "similarity": 0.3415724458021341,
+      "exemplar": {
+        "id": "c064",
+        "word": "they",
+        "start": 4,
+        "end": 15,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "it",
+      "start": 13,
+      "end": 18,
+      "similarity": 0.39458711309330546,
+      "exemplar": {
+        "id": "c015",
+        "word": "it",
+        "start": 27,
+        "end": 32,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "feel",
+      "start": 18,
+      "end": 24,
+      "similarity": 0.5323539499283745,
+      "exemplar": {
+        "id": "c050",
+        "word": "feel",
+        "start": 62,
+        "end": 66,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "thirsty",
+      "start": 24,
+      "end": 33,
+      "similarity": 0.5450731712676694,
+      "exemplar": {
+        "id": "c066",
+        "word": "thirsty",
+        "start": 30,
+        "end": 40,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "have",
+      "start": 33,
+      "end": 39,
+      "similarity": 0.30502357047073675,
+      "exemplar": {
+        "id": "c071",
+        "word": "have",
+        "start": 34,
+        "end": 41,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t41450074": [
+    {
+      "word": "it",
+      "start": 1,
+      "end": 13,
+      "similarity": 0.44231182222281196,
+      "exemplar": {
+        "id": "c026",
+        "word": "it",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "need",
+      "start": 13,
+      "end": 21,
+      "similarity": 0.42591182181400944,
+      "exemplar": {
+        "id": "c077",
+        "word": "need",
+        "start": 16,
+        "end": 25,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t53cbb8eb": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 10,
+      "similarity": 0.46881752563024204,
+      "exemplar": {
+        "id": "c046",
+        "word": "i",
+        "start": 2,
+        "end": 11,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 10,
+      "end": 18,
+      "similarity": 0.5260148478283562,
+      "exemplar": {
+        "id": "c058",
+        "word": "do",
+        "start": 14,
+        "end": 25,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "have",
+      "start": 18,
+      "end": 30,
+      "similarity": 0.3963208587482088,
+      "exemplar": {
+        "id": "c058",
+        "word": "have",
+        "start": 28,
+        "end": 41,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 30,
+      "end": 37,
+      "similarity": 0.35497593004446293,
+      "exemplar": {
+        "id": "c030",
+        "word": "do",
+        "start": 19,
+        "end": 26,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "tbfeb0ff2": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 8,
+      "similarity": 0.4379473406503179,
+      "exemplar": {
+        "id": "c001",
+        "word": "i",
+        "start": 2,
+        "end": 9,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "tell",
+      "start": 8,
+      "end": 18,
+      "similarity": 0.46155507823382014,
+      "exemplar": {
+        "id": "c012",
+        "word": "tell",
+        "start": 13,
+        "end": 26,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "no",
+      "start": 18,
+      "end": 28,
+      "similarity": 0.4427893507840632,
+      "exemplar": {
+        "id": "c074",
+        "word": "no",
+        "start": 23,
+        "end": 30,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "family",
+      "start": 28,
+      "end": 46,
+      "similarity": 0.4127689223776325,
+      "exemplar": {
+        "id": "c071",
+        "word": "family",
+        "start": 57,
+        "end": 74,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "te3243945": [
+    {
+      "word": "how",
+      "start": 1,
+      "end": 11,
+      "similarity": 0.4094381528960912,
+      "exemplar": {
+        "id": "c038",
+        "word": "how",
+        "start": 4,
+        "end": 15,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "tired",
+      "start": 11,
+      "end": 25,
+      "similarity": 0.42986945945469834,
+      "exemplar": {
+        "id": "c042",
+        "word": "tired",
+        "start": 19,
+        "end": 33,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "they",
+      "start": 25,
+      "end": 39,
+      "similarity": 0.44659699176793716,
+      "exemplar": {
+        "id": "c053",
+        "word": "they",
+        "start": 26,
+        "end": 44,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "tca769afd": [
+    {
+      "word": "yes",
+      "start": 1,
+      "end": 9,
+      "similarity": 0.2693242723421285,
+      "exemplar": {
+        "id": "c020",
+        "word": "yes",
+        "start": 4,
+        "end": 18,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "it",
+      "start": 9,
+      "end": 33,
+      "similarity": 0.40550376328174215,
+      "exemplar": {
+        "id": "c026",
+        "word": "it",
+        "start": 2,
+        "end": 16,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "my",
+      "start": 33,
+      "end": 44,
+      "similarity": 0.3159379900836444,
+      "exemplar": {
+        "id": "c067",
+        "word": "my",
+        "start": 32,
+        "end": 42,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 44,
+      "end": 51,
+      "similarity": 0.4515758920893623,
+      "exemplar": {
+        "id": "c068",
+        "word": "is",
+        "start": 30,
+        "end": 37,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 51,
+      "end": 56,
+      "similarity": 0.35536451279064385,
+      "exemplar": {
+        "id": "c041",
+        "word": "hope",
+        "start": 4,
+        "end": 12,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 56,
+      "end": 67,
+      "similarity": 0.5479757104671324,
+      "exemplar": {
+        "id": "c070",
+        "word": "do",
+        "start": 15,
+        "end": 27,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "td133fe68": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 13,
+      "similarity": 0.4756886163728143,
+      "exemplar": {
+        "id": "c062",
+        "word": "i",
+        "start": 2,
+        "end": 11,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "like",
+      "start": 13,
+      "end": 20,
+      "similarity": 0.5193713087431069,
+      "exemplar": {
+        "id": "c028",
+        "word": "like",
+        "start": 34,
+        "end": 39,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "help",
+      "start": 20,
+      "end": 25,
+      "similarity": 0.4074130089913469,
+      "exemplar": {
+        "id": "c063",
+        "word": "help",
+        "start": 49,
+        "end": 55,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "comfortable",
+      "start": 25,
+      "end": 39,
+      "similarity": 0.5869873998092865,
+      "exemplar": {
+        "id": "c013",
+        "word": "comfortable",
+        "start": 37,
+        "end": 51,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "am",
+      "start": 39,
+      "end": 53,
+      "similarity": 0.30699983101861983,
+      "exemplar": {
+        "id": "c020",
+        "word": "am",
+        "start": 25,
+        "end": 39,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t588781f6": [
+    {
+      "word": "yes",
+      "start": 1,
+      "end": 16,
+      "similarity": 0.36934224458606146,
+      "exemplar": {
+        "id": "c060",
+        "word": "yes",
+        "start": 2,
+        "end": 14,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "i",
+      "start": 16,
+      "end": 21,
+      "similarity": 0.4296032470736845,
+      "exemplar": {
+        "id": "c048",
+        "word": "i",
+        "start": 28,
+        "end": 32,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "very",
+      "start": 21,
+      "end": 31,
+      "similarity": 0.43328653142848667,
+      "exemplar": {
+        "id": "c066",
+        "word": "very",
+        "start": 20,
+        "end": 28,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hungry",
+      "start": 31,
+      "end": 44,
+      "similarity": 0.4348956917887332,
+      "exemplar": {
+        "id": "c069",
+        "word": "hungry",
+        "start": 39,
+        "end": 51,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "tced8ecfc": [
+    {
+      "word": "what",
+      "start": 1,
+      "end": 17,
+      "similarity": 0.3878998467284224,
+      "exemplar": {
+        "id": "c054",
+        "word": "what",
+        "start": 2,
+        "end": 19,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 17,
+      "end": 27,
+      "similarity": 0.34423145991580195,
+      "exemplar": {
+        "id": "c038",
+        "word": "do",
+        "start": 15,
+        "end": 26,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 27,
+      "end": 39,
+      "similarity": 0.43006842958642316,
+      "exemplar": {
+        "id": "c014",
+        "word": "do",
+        "start": 22,
+        "end": 31,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "right",
+      "start": 39,
+      "end": 53,
+      "similarity": 0.43638600992800164,
+      "exemplar": {
+        "id": "c021",
+        "word": "right",
+        "start": 36,
+        "end": 49,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t848cf4da": [
+    {
+      "word": "that",
+      "start": 1,
+      "end": 13,
+      "similarity": 0.4330942233831922,
+      "exemplar": {
+        "id": "c018",
+        "word": "that",
+        "start": 2,
+        "end": 13,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 13,
+      "end": 18,
+      "similarity": 0.5232597803948817,
+      "exemplar": {
+        "id": "c079",
+        "word": "is",
+        "start": 19,
+        "end": 24,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "okay",
+      "start": 18,
+      "end": 33,
+      "similarity": 0.521536632205522,
+      "exemplar": {
+        "id": "c047",
+        "word": "okay",
+        "start": 42,
+        "end": 55,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "td6e48564": [
+    {
+      "word": "it",
+      "start": 1,
+      "end": 12,
+      "similarity": 0.4921533077171961,
+      "exemplar": {
+        "id": "c027",
+        "word": "it",
+        "start": 2,
+        "end": 13,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 12,
+      "end": 19,
+      "similarity": 0.4172361122913744,
+      "exemplar": {
+        "id": "c067",
+        "word": "is",
+        "start": 27,
+        "end": 36,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "bad",
+      "start": 19,
+      "end": 31,
+      "similarity": 0.5080953625075039,
+      "exemplar": {
+        "id": "c034",
+        "word": "bad",
+        "start": 30,
+        "end": 41,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t0575fbc6": [
+    {
+      "word": "i",
+      "start": 1,
+      "end": 14,
+      "similarity": 0.43032795528534123,
+      "exemplar": {
+        "id": "c035",
+        "word": "i",
+        "start": 4,
+        "end": 14,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 14,
+      "end": 24,
+      "similarity": 0.517801121844481,
+      "exemplar": {
+        "id": "c039",
+        "word": "hope",
+        "start": 20,
+        "end": 28,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "right",
+      "start": 24,
+      "end": 30,
+      "similarity": 0.3312103853254262,
+      "exemplar": {
+        "id": "c078",
+        "word": "right",
+        "start": 64,
+        "end": 70,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "am",
+      "start": 30,
+      "end": 39,
+      "similarity": 0.4188539023301786,
+      "exemplar": {
+        "id": "c060",
+        "word": "am",
+        "start": 19,
+        "end": 25,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "very",
+      "start": 39,
+      "end": 54,
+      "similarity": 0.5137330355521724,
+      "exemplar": {
+        "id": "c009",
+        "word": "very",
+        "start": 41,
+        "end": 51,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "good",
+      "start": 54,
+      "end": 59,
+      "similarity": 0.5121829829381179,
+      "exemplar": {
+        "id": "c009",
+        "word": "good",
+        "start": 51,
+        "end": 57,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "family",
+      "start": 59,
+      "end": 81,
+      "similarity": 0.5101509252281584,
+      "exemplar": {
+        "id": "c071",
+        "word": "family",
+        "start": 57,
+        "end": 76,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t6453e6ae": [
+    {
+      "word": "how",
+      "start": 1,
+      "end": 11,
+      "similarity": 0.3549206680687737,
+      "exemplar": {
+        "id": "c038",
+        "word": "how",
+        "start": 2,
+        "end": 17,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 11,
+      "end": 17,
+      "similarity": 0.3199722498014102,
+      "exemplar": {
+        "id": "c014",
+        "word": "do",
+        "start": 24,
+        "end": 31,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "do",
+      "start": 17,
+      "end": 25,
+      "similarity": 0.4248785265473786,
+      "exemplar": {
+        "id": "c041",
+        "word": "do",
+        "start": 23,
+        "end": 32,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "please",
+      "start": 25,
+      "end": 39,
+      "similarity": 0.3986097255354984,
+      "exemplar": {
+        "id": "c004",
+        "word": "please",
+        "start": 21,
+        "end": 35,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ],
+  "t4d2d7415": [
+    {
+      "word": "it",
+      "start": 5,
+      "end": 19,
+      "similarity": 0.5297431503454932,
+      "exemplar": {
+        "id": "c026",
+        "word": "it",
+        "start": 4,
+        "end": 14,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "is",
+      "start": 19,
+      "end": 27,
+      "similarity": 0.3755879855034495,
+      "exemplar": {
+        "id": "c008",
+        "word": "is",
+        "start": 36,
+        "end": 43,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "hope",
+      "start": 27,
+      "end": 37,
+      "similarity": 0.4619541283318932,
+      "exemplar": {
+        "id": "c024",
+        "word": "hope",
+        "start": 18,
+        "end": 26,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "you",
+      "start": 37,
+      "end": 48,
+      "similarity": 0.40960208982097834,
+      "exemplar": {
+        "id": "c024",
+        "word": "you",
+        "start": 26,
+        "end": 36,
+        "source": "manual approximate alignment interpretation"
+      }
+    },
+    {
+      "word": "comfortable",
+      "start": 48,
+      "end": 68,
+      "similarity": 0.4700483356085732,
+      "exemplar": {
+        "id": "c013",
+        "word": "comfortable",
+        "start": 35,
+        "end": 55,
+        "source": "manual approximate alignment interpretation"
+      }
+    }
+  ]
+}

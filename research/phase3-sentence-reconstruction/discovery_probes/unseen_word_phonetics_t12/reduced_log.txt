@@ -1,0 +1,25 @@
+{'n': 3, 'art': 1, 'alpha': 0.3, 'response_rank': 2, 'median_rank': 4613.0, 'mean_log_rank': 8.022389664632541, 'top10': 0}
+{'n': 3, 'art': 1, 'alpha': 0.3, 'response_rank': 4, 'median_rank': 734.0, 'mean_log_rank': 6.644891250330242, 'top10': 2}
+{'n': 3, 'art': 1, 'alpha': 0.3, 'response_rank': 6, 'median_rank': 353.5, 'mean_log_rank': 5.898679355828658, 'top10': 3}
+{'n': 3, 'art': 1, 'alpha': 0.3, 'response_rank': 8, 'median_rank': 166.5, 'mean_log_rank': 5.260230449527775, 'top10': 4}
+{'n': 3, 'art': 1, 'alpha': 0.3, 'response_rank': 12, 'median_rank': 122.5, 'mean_log_rank': 4.379968003787648, 'top10': 5}
+{'n': 3, 'art': 1, 'alpha': 0.3, 'response_rank': 20, 'median_rank': 41.0, 'mean_log_rank': 3.896483698685432, 'top10': 8}
+{'n': 3, 'art': 1, 'alpha': 1, 'response_rank': 2, 'median_rank': 3902.5, 'mean_log_rank': 7.830884980898498, 'top10': 0}
+{'n': 3, 'art': 1, 'alpha': 1, 'response_rank': 4, 'median_rank': 1027.0, 'mean_log_rank': 6.6250820760793925, 'top10': 1}
+{'n': 3, 'art': 1, 'alpha': 1, 'response_rank': 6, 'median_rank': 354.5, 'mean_log_rank': 5.938646086336464, 'top10': 3}
+{'n': 3, 'art': 1, 'alpha': 1, 'response_rank': 8, 'median_rank': 214.0, 'mean_log_rank': 5.54789133282678, 'top10': 4}
+{'n': 3, 'art': 1, 'alpha': 1, 'response_rank': 12, 'median_rank': 139.5, 'mean_log_rank': 4.7802664981899445, 'top10': 5}
+{'n': 3, 'art': 1, 'alpha': 1, 'response_rank': 20, 'median_rank': 45.5, 'mean_log_rank': 3.974366479260726, 'top10': 9}
+{'n': 5, 'art': 0.9, 'alpha': 0.3, 'response_rank': 2, 'median_rank': 5166.0, 'mean_log_rank': 8.38995918994209, 'top10': 0}
+{'n': 5, 'art': 0.9, 'alpha': 0.3, 'response_rank': 4, 'median_rank': 567.5, 'mean_log_rank': 6.568971640221662, 'top10': 1}
+{'n': 5, 'art': 0.9, 'alpha': 0.3, 'response_rank': 6, 'median_rank': 279.5, 'mean_log_rank': 5.843470626658256, 'top10': 3}
+{'n': 5, 'art': 0.9, 'alpha': 0.3, 'response_rank': 8, 'median_rank': 212.5, 'mean_log_rank': 5.149676393082196, 'top10': 5}
+{'n': 5, 'art': 0.9, 'alpha': 0.3, 'response_rank': 12, 'median_rank': 106.0, 'mean_log_rank': 4.5761637538123, 'top10': 7}
+{'n': 5, 'art': 0.9, 'alpha': 0.3, 'response_rank': 20, 'median_rank': 45.5, 'mean_log_rank': 3.8904802992481793, 'top10': 8}
+{'n': 5, 'art': 0.9, 'alpha': 1, 'response_rank': 2, 'median_rank': 4726.0, 'mean_log_rank': 8.270510761031593, 'top10': 0}
+{'n': 5, 'art': 0.9, 'alpha': 1, 'response_rank': 4, 'median_rank': 1045.0, 'mean_log_rank': 6.836202652830317, 'top10': 1}
+{'n': 5, 'art': 0.9, 'alpha': 1, 'response_rank': 6, 'median_rank': 475.5, 'mean_log_rank': 6.084221853807743, 'top10': 2}
+{'n': 5, 'art': 0.9, 'alpha': 1, 'response_rank': 8, 'median_rank': 398.0, 'mean_log_rank': 5.726931761366355, 'top10': 4}
+{'n': 5, 'art': 0.9, 'alpha': 1, 'response_rank': 12, 'median_rank': 225.0, 'mean_log_rank': 5.224347455934112, 'top10': 3}
+{'n': 5, 'art': 0.9, 'alpha': 1, 'response_rank': 20, 'median_rank': 110.0, 'mean_log_rank': 4.421984153424877, 'top10': 9}
+best 5_0.9_0.3_20 [(np.str_('qd5000c63'), ['casbah', 'chalabi', 'scheibner', 'kepner', 'teubner', 'concur', 'kidwa', 'kosbie', 'cozby', 'kelber']), (np.str_('qdb657327'), ['aside', 'akita', 'exide', 'kika', 'allied', 'gajda', 'kicker', 'goudie', 'goudy', 'gowdy']), (np.str_('q3a6a7b9d'), ['guyton', 'guttered', 'gikas', 'guided', 'gaulden', 'corradi', 'igon', 'aygen', 'eigen', 'geiken']), (np.str_('q9d4f6db6'), ['aside', 'exide', 'assign', 'erskine', 'eckford', 'shakers', 'kiska', 'eyeshade', 'oshita', 'ithaca']), (np.str_('qd6dfa4d3'), ['kiska', 'excite', 'caskey', 'kaske', 'whisky', 'whiskey', 'whisker', 'cisek', 'iceskate', 'shifty']), (np.str_('qc3b19e62'), ['cashway', 'scheibner', 'eczema', 'ulmer', 'ulmar', 'ullmer', 'akbar', 'kepner', 'teubner', 'casbah']), (np.str_('q8adf658a'), ['supine', 'zupan', 'isabell', 'saban', 'ozbun', 'toobin', 'galeb', 'supan', 'osbun', 'osbon']), (np.str_('q6f863fa0'), ['islas', 'athas', 'guesses', 'eyeless', 'curtis', 'cases', 'situs', 'isis', 'allays', 'kassis']), (np.str_('q94a15367'), ['leichter', 'kiska', 'leichner', 'zeichner', 'indica', 'lacter', 'lyday', 'ithaca', 'scheidecker', 'dichter']), (np.str_('q6c758802'), ['attaches', 'tevis', 'lepers', 'saggese', 'italish', 'sybase', 'isbell', 'fatties', 'faddis', 'tennis']), (np.str_('qa9e976f9'), ['affection', 'cashway', 'eppinger', 'faction', 'aflame', 'finger', 'careful', 'ishmael', 'ishmail', 'fiction']), (np.str_('qc491a219'), ['raytech', 'cizek', 'chizek', 'wittig', 'weitek', 'reckitt', 'reattach', 'ruzek', 'gasich', 'guzek']), (np.str_('q79c21683'), ['douty', 'dowty', 'rowdy', 'ciardi', 'erskine', 'thirty', 'audi', 'id', 'gertie', 'gerty']), (np.str_('q84a6723d'), ['weitzen', 'geisert', 'reitan', 'reiten', 'gazeta', 'geisen', 'whiten', 'cuzzort', 'rutten', 'ruttan']), (np.str_('qba60129d'), ['supine', 'supine', 'aflame', 'saipan', 'aoshima', 'oshima', 'capley', 'dumais', 'kepner', 'chubby']), (np.str_('q0a47e660'), ['wittig', 'weidig', 'piatek', 'pinker', 'chittick', 'raycon', 'piddock', 'gorczyca', 'rinker', 'erykah'])]

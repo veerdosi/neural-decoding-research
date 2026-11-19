@@ -1,0 +1,300 @@
+{
+  "source": "t12.2023.11.28_imagined_50words.mat",
+  "calibration_n": 120,
+  "development_n": 8,
+  "calibration_blocks": [
+    2,
+    3,
+    5
+  ],
+  "development_block": 7,
+  "feedback_nonempty": 0,
+  "normalization": "Unlabeled per-block feature means, then calibration-only scaling inside each CV fold",
+  "role": "Independent supervised bag-of-words diagnostic; no fitted maps/predictions enter Sol input",
+  "results": {
+    "all_arrays": {
+      "calibration_only_cv_micro_F1": [
+        0.3706210718722162,
+        0.37455420854871574,
+        0.37443091272813583,
+        0.3682846160722267,
+        0.3482490452279894
+      ],
+      "selected_alpha": 1.0,
+      "bag_of_words_micro_F1": 0.4,
+      "prior_only_micro_F1": 0.2571428571428571,
+      "top_k_from_calibration_only": 4,
+      "rows": [
+        {
+          "trial": 120,
+          "predicted_unordered_words": [
+            "is",
+            "my",
+            "tell",
+            "they"
+          ],
+          "target_words": [
+            "please",
+            "tell",
+            "my",
+            "family",
+            "i",
+            "need",
+            "my",
+            "computer"
+          ]
+        },
+        {
+          "trial": 121,
+          "predicted_unordered_words": [
+            "do",
+            "is",
+            "my",
+            "what"
+          ],
+          "target_words": [
+            "i",
+            "do",
+            "not",
+            "feel",
+            "hungry"
+          ]
+        },
+        {
+          "trial": 122,
+          "predicted_unordered_words": [
+            "here",
+            "is",
+            "it",
+            "my"
+          ],
+          "target_words": [
+            "yes",
+            "my",
+            "nurse",
+            "is",
+            "coming",
+            "here"
+          ]
+        },
+        {
+          "trial": 123,
+          "predicted_unordered_words": [
+            "do",
+            "is",
+            "what",
+            "you"
+          ],
+          "target_words": [
+            "what",
+            "good",
+            "is",
+            "that"
+          ]
+        },
+        {
+          "trial": 124,
+          "predicted_unordered_words": [
+            "have",
+            "here",
+            "is",
+            "it"
+          ],
+          "target_words": [
+            "how",
+            "is",
+            "it",
+            "right"
+          ]
+        },
+        {
+          "trial": 125,
+          "predicted_unordered_words": [
+            "here",
+            "i",
+            "my",
+            "they"
+          ],
+          "target_words": [
+            "i",
+            "have",
+            "no",
+            "music"
+          ]
+        },
+        {
+          "trial": 126,
+          "predicted_unordered_words": [
+            "do",
+            "is",
+            "like",
+            "you"
+          ],
+          "target_words": [
+            "music",
+            "is",
+            "here"
+          ]
+        },
+        {
+          "trial": 127,
+          "predicted_unordered_words": [
+            "do",
+            "i",
+            "they",
+            "you"
+          ],
+          "target_words": [
+            "they",
+            "do",
+            "not",
+            "have",
+            "nurse"
+          ]
+        }
+      ]
+    },
+    "ventral_array": {
+      "calibration_only_cv_micro_F1": [
+        0.3906566427164535,
+        0.3905333468958736,
+        0.39249991523412336,
+        0.3821738902605549,
+        0.3460358852485798
+      ],
+      "selected_alpha": 10.0,
+      "bag_of_words_micro_F1": 0.4,
+      "prior_only_micro_F1": 0.2571428571428571,
+      "top_k_from_calibration_only": 4,
+      "rows": [
+        {
+          "trial": 120,
+          "predicted_unordered_words": [
+            "is",
+            "my",
+            "tell",
+            "they"
+          ],
+          "target_words": [
+            "please",
+            "tell",
+            "my",
+            "family",
+            "i",
+            "need",
+            "my",
+            "computer"
+          ]
+        },
+        {
+          "trial": 121,
+          "predicted_unordered_words": [
+            "do",
+            "not",
+            "they",
+            "you"
+          ],
+          "target_words": [
+            "i",
+            "do",
+            "not",
+            "feel",
+            "hungry"
+          ]
+        },
+        {
+          "trial": 122,
+          "predicted_unordered_words": [
+            "i",
+            "is",
+            "it",
+            "need"
+          ],
+          "target_words": [
+            "yes",
+            "my",
+            "nurse",
+            "is",
+            "coming",
+            "here"
+          ]
+        },
+        {
+          "trial": 123,
+          "predicted_unordered_words": [
+            "do",
+            "is",
+            "what",
+            "you"
+          ],
+          "target_words": [
+            "what",
+            "good",
+            "is",
+            "that"
+          ]
+        },
+        {
+          "trial": 124,
+          "predicted_unordered_words": [
+            "here",
+            "i",
+            "is",
+            "it"
+          ],
+          "target_words": [
+            "how",
+            "is",
+            "it",
+            "right"
+          ]
+        },
+        {
+          "trial": 125,
+          "predicted_unordered_words": [
+            "i",
+            "my",
+            "not",
+            "they"
+          ],
+          "target_words": [
+            "i",
+            "have",
+            "no",
+            "music"
+          ]
+        },
+        {
+          "trial": 126,
+          "predicted_unordered_words": [
+            "am",
+            "here",
+            "is",
+            "you"
+          ],
+          "target_words": [
+            "music",
+            "is",
+            "here"
+          ]
+        },
+        {
+          "trial": 127,
+          "predicted_unordered_words": [
+            "family",
+            "my",
+            "not",
+            "they"
+          ],
+          "target_words": [
+            "they",
+            "do",
+            "not",
+            "have",
+            "nurse"
+          ]
+        }
+      ]
+    }
+  }
+}

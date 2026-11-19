@@ -1,0 +1,586 @@
+[
+  {
+    "start": 12,
+    "end": 23,
+    "matches": [
+      {
+        "id": "c028",
+        "start": 29,
+        "end": 45,
+        "word": "like my",
+        "similarity": 0.35059383511543274
+      },
+      {
+        "id": "c039",
+        "start": 35,
+        "end": 50,
+        "word": "like my",
+        "similarity": 0.2833375930786133
+      },
+      {
+        "id": "c058",
+        "start": 40,
+        "end": 48,
+        "word": "my",
+        "similarity": 0.24605487287044525
+      },
+      {
+        "id": "c058",
+        "start": 32,
+        "end": 40,
+        "word": "have",
+        "similarity": 0.19288596510887146
+      },
+      {
+        "id": "c060",
+        "start": 14,
+        "end": 23,
+        "word": "i am",
+        "similarity": 0.12374567985534668
+      },
+      {
+        "id": "c063",
+        "start": 47,
+        "end": 59,
+        "word": "help",
+        "similarity": 0.11096396297216415
+      },
+      {
+        "id": "c027",
+        "start": 45,
+        "end": 54,
+        "word": "have",
+        "similarity": 0.10815098136663437
+      },
+      {
+        "id": "c001",
+        "start": 8,
+        "end": 17,
+        "word": "am",
+        "similarity": 0.10771923512220383
+      },
+      {
+        "id": "c013",
+        "start": 17,
+        "end": 25,
+        "word": "my",
+        "similarity": 0.09574126452207565
+      },
+      {
+        "id": "c010",
+        "start": 17,
+        "end": 26,
+        "word": "feel",
+        "similarity": 0.07653249055147171
+      },
+      {
+        "id": "c030",
+        "start": 36,
+        "end": 48,
+        "word": "have",
+        "similarity": 0.07632991671562195
+      },
+      {
+        "id": "c048",
+        "start": 29,
+        "end": 41,
+        "word": "i am",
+        "similarity": 0.05730055272579193
+      },
+      {
+        "id": "c012",
+        "start": 45,
+        "end": 52,
+        "word": "am",
+        "similarity": 0.05289949104189873
+      },
+      {
+        "id": "c028",
+        "start": 45,
+        "end": 56,
+        "word": "help",
+        "similarity": 0.04574322700500488
+      },
+      {
+        "id": "c029",
+        "start": 57,
+        "end": 66,
+        "word": "feel",
+        "similarity": 0.027382146567106247
+      },
+      {
+        "id": "c048",
+        "start": 33,
+        "end": 41,
+        "word": "am",
+        "similarity": 0.023710407316684723
+      },
+      {
+        "id": "c017",
+        "start": 14,
+        "end": 25,
+        "word": "feel",
+        "similarity": -0.0008360448991879821
+      },
+      {
+        "id": "c064",
+        "start": 25,
+        "end": 39,
+        "word": "help",
+        "similarity": -0.0788370668888092
+      },
+      {
+        "id": "c071",
+        "start": 57,
+        "end": 76,
+        "word": "family",
+        "similarity": -0.08461036533117294
+      },
+      {
+        "id": "c057",
+        "start": 27,
+        "end": 36,
+        "word": "here",
+        "similarity": -0.15311068296432495
+      }
+    ]
+  },
+  {
+    "start": 18,
+    "end": 24,
+    "matches": [
+      {
+        "id": "c060",
+        "start": 14,
+        "end": 23,
+        "word": "i am",
+        "similarity": 0.2939402759075165
+      },
+      {
+        "id": "c048",
+        "start": 33,
+        "end": 41,
+        "word": "am",
+        "similarity": 0.2475930005311966
+      },
+      {
+        "id": "c001",
+        "start": 8,
+        "end": 17,
+        "word": "am",
+        "similarity": 0.24313239753246307
+      },
+      {
+        "id": "c029",
+        "start": 57,
+        "end": 66,
+        "word": "feel",
+        "similarity": 0.22144390642642975
+      },
+      {
+        "id": "c048",
+        "start": 29,
+        "end": 41,
+        "word": "i am",
+        "similarity": 0.2204359620809555
+      },
+      {
+        "id": "c058",
+        "start": 32,
+        "end": 40,
+        "word": "have",
+        "similarity": 0.20243607461452484
+      },
+      {
+        "id": "c027",
+        "start": 45,
+        "end": 54,
+        "word": "have",
+        "similarity": 0.19475609064102173
+      },
+      {
+        "id": "c012",
+        "start": 45,
+        "end": 52,
+        "word": "am",
+        "similarity": 0.1797468662261963
+      },
+      {
+        "id": "c028",
+        "start": 45,
+        "end": 56,
+        "word": "help",
+        "similarity": 0.15634405612945557
+      },
+      {
+        "id": "c063",
+        "start": 47,
+        "end": 59,
+        "word": "help",
+        "similarity": 0.11802694201469421
+      },
+      {
+        "id": "c058",
+        "start": 40,
+        "end": 48,
+        "word": "my",
+        "similarity": 0.09935328364372253
+      },
+      {
+        "id": "c030",
+        "start": 36,
+        "end": 48,
+        "word": "have",
+        "similarity": 0.09766709804534912
+      },
+      {
+        "id": "c010",
+        "start": 17,
+        "end": 26,
+        "word": "feel",
+        "similarity": 0.05208930745720863
+      },
+      {
+        "id": "c017",
+        "start": 14,
+        "end": 25,
+        "word": "feel",
+        "similarity": 0.008253175765275955
+      },
+      {
+        "id": "c013",
+        "start": 17,
+        "end": 25,
+        "word": "my",
+        "similarity": -0.034521933645009995
+      },
+      {
+        "id": "c057",
+        "start": 27,
+        "end": 36,
+        "word": "here",
+        "similarity": -0.0733715370297432
+      },
+      {
+        "id": "c028",
+        "start": 29,
+        "end": 45,
+        "word": "like my",
+        "similarity": -166666672.0
+      },
+      {
+        "id": "c039",
+        "start": 35,
+        "end": 50,
+        "word": "like my",
+        "similarity": -166666672.0
+      },
+      {
+        "id": "c064",
+        "start": 25,
+        "end": 39,
+        "word": "help",
+        "similarity": -166666672.0
+      },
+      {
+        "id": "c071",
+        "start": 57,
+        "end": 76,
+        "word": "family",
+        "similarity": -166666672.0
+      }
+    ]
+  },
+  {
+    "start": 38,
+    "end": 52,
+    "matches": [
+      {
+        "id": "c028",
+        "start": 45,
+        "end": 56,
+        "word": "help",
+        "similarity": 0.267221599817276
+      },
+      {
+        "id": "c030",
+        "start": 36,
+        "end": 48,
+        "word": "have",
+        "similarity": 0.26242098212242126
+      },
+      {
+        "id": "c048",
+        "start": 29,
+        "end": 41,
+        "word": "i am",
+        "similarity": 0.21350960433483124
+      },
+      {
+        "id": "c064",
+        "start": 25,
+        "end": 39,
+        "word": "help",
+        "similarity": 0.21046479046344757
+      },
+      {
+        "id": "c012",
+        "start": 45,
+        "end": 52,
+        "word": "am",
+        "similarity": 0.20590882003307343
+      },
+      {
+        "id": "c029",
+        "start": 57,
+        "end": 66,
+        "word": "feel",
+        "similarity": 0.2038043886423111
+      },
+      {
+        "id": "c071",
+        "start": 57,
+        "end": 76,
+        "word": "family",
+        "similarity": 0.2036321610212326
+      },
+      {
+        "id": "c063",
+        "start": 47,
+        "end": 59,
+        "word": "help",
+        "similarity": 0.2007417231798172
+      },
+      {
+        "id": "c001",
+        "start": 8,
+        "end": 17,
+        "word": "am",
+        "similarity": 0.19291424751281738
+      },
+      {
+        "id": "c027",
+        "start": 45,
+        "end": 54,
+        "word": "have",
+        "similarity": 0.18451286852359772
+      },
+      {
+        "id": "c058",
+        "start": 40,
+        "end": 48,
+        "word": "my",
+        "similarity": 0.1748608499765396
+      },
+      {
+        "id": "c057",
+        "start": 27,
+        "end": 36,
+        "word": "here",
+        "similarity": 0.16402816772460938
+      },
+      {
+        "id": "c060",
+        "start": 14,
+        "end": 23,
+        "word": "i am",
+        "similarity": 0.16290254890918732
+      },
+      {
+        "id": "c048",
+        "start": 33,
+        "end": 41,
+        "word": "am",
+        "similarity": 0.12107446044683456
+      },
+      {
+        "id": "c010",
+        "start": 17,
+        "end": 26,
+        "word": "feel",
+        "similarity": 0.10872030258178711
+      },
+      {
+        "id": "c017",
+        "start": 14,
+        "end": 25,
+        "word": "feel",
+        "similarity": 0.09147297590970993
+      },
+      {
+        "id": "c039",
+        "start": 35,
+        "end": 50,
+        "word": "like my",
+        "similarity": 0.06534001976251602
+      },
+      {
+        "id": "c058",
+        "start": 32,
+        "end": 40,
+        "word": "have",
+        "similarity": 0.0368540994822979
+      },
+      {
+        "id": "c013",
+        "start": 17,
+        "end": 25,
+        "word": "my",
+        "similarity": 0.003302132710814476
+      },
+      {
+        "id": "c028",
+        "start": 29,
+        "end": 45,
+        "word": "like my",
+        "similarity": -0.007941115647554398
+      }
+    ]
+  },
+  {
+    "start": 41,
+    "end": 52,
+    "matches": [
+      {
+        "id": "c030",
+        "start": 36,
+        "end": 48,
+        "word": "have",
+        "similarity": 0.30518588423728943
+      },
+      {
+        "id": "c028",
+        "start": 45,
+        "end": 56,
+        "word": "help",
+        "similarity": 0.2457282394170761
+      },
+      {
+        "id": "c057",
+        "start": 27,
+        "end": 36,
+        "word": "here",
+        "similarity": 0.23450177907943726
+      },
+      {
+        "id": "c012",
+        "start": 45,
+        "end": 52,
+        "word": "am",
+        "similarity": 0.2129625380039215
+      },
+      {
+        "id": "c064",
+        "start": 25,
+        "end": 39,
+        "word": "help",
+        "similarity": 0.20415693521499634
+      },
+      {
+        "id": "c029",
+        "start": 57,
+        "end": 66,
+        "word": "feel",
+        "similarity": 0.196855828166008
+      },
+      {
+        "id": "c027",
+        "start": 45,
+        "end": 54,
+        "word": "have",
+        "similarity": 0.1801632046699524
+      },
+      {
+        "id": "c048",
+        "start": 33,
+        "end": 41,
+        "word": "am",
+        "similarity": 0.17343725264072418
+      },
+      {
+        "id": "c063",
+        "start": 47,
+        "end": 59,
+        "word": "help",
+        "similarity": 0.1706877052783966
+      },
+      {
+        "id": "c048",
+        "start": 29,
+        "end": 41,
+        "word": "i am",
+        "similarity": 0.16839557886123657
+      },
+      {
+        "id": "c001",
+        "start": 8,
+        "end": 17,
+        "word": "am",
+        "similarity": 0.15627668797969818
+      },
+      {
+        "id": "c071",
+        "start": 57,
+        "end": 76,
+        "word": "family",
+        "similarity": 0.1454847753047943
+      },
+      {
+        "id": "c010",
+        "start": 17,
+        "end": 26,
+        "word": "feel",
+        "similarity": 0.13513502478599548
+      },
+      {
+        "id": "c058",
+        "start": 40,
+        "end": 48,
+        "word": "my",
+        "similarity": 0.11191677302122116
+      },
+      {
+        "id": "c017",
+        "start": 14,
+        "end": 25,
+        "word": "feel",
+        "similarity": 0.10671253502368927
+      },
+      {
+        "id": "c060",
+        "start": 14,
+        "end": 23,
+        "word": "i am",
+        "similarity": 0.10078124701976776
+      },
+      {
+        "id": "c039",
+        "start": 35,
+        "end": 50,
+        "word": "like my",
+        "similarity": 0.020439868792891502
+      },
+      {
+        "id": "c058",
+        "start": 32,
+        "end": 40,
+        "word": "have",
+        "similarity": 0.0067606582306325436
+      },
+      {
+        "id": "c013",
+        "start": 17,
+        "end": 25,
+        "word": "my",
+        "similarity": -0.03574094548821449
+      },
+      {
+        "id": "c028",
+        "start": 29,
+        "end": 45,
+        "word": "like my",
+        "similarity": -0.07947216928005219
+      }
+    ]
+  }
+]

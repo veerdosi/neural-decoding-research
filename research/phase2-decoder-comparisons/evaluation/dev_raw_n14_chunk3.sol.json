@@ -1,0 +1,50 @@
+{
+  "name": "dev_raw_n14_chunk3",
+  "correct": 8,
+  "n": 14,
+  "accuracy": 0.5714285714285714,
+  "ci95_trial_descriptive": [
+    0.28860940003830743,
+    0.8233889100178822
+  ],
+  "prediction": [
+    0,
+    6,
+    2,
+    3,
+    1,
+    2,
+    0,
+    5,
+    2,
+    2,
+    6,
+    2,
+    4,
+    6
+  ],
+  "method_self_report": "Compared recurring participant-specific feature patterns across calibration examples, downweighting extreme dimensions shared across queries. Main uncertainty is apparent feature drift and overlap between day, were, and feel.",
+  "block_accuracy": {
+    "17": 0.7,
+    "25": 0.25
+  },
+  "per_word_accuracy": {
+    "ban": 0.6666666666666666,
+    "choice": 0.5,
+    "day": 1.0,
+    "kite": 0.0,
+    "though": 0.5,
+    "were": 0.5
+  },
+  "donor_word_accuracy": 0.5714285714285714,
+  "tool_calls": 0,
+  "usage": [
+    {
+      "input_tokens": 74131,
+      "cached_input_tokens": 12160,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 11621,
+      "reasoning_output_tokens": 11394
+    }
+  ]
+}

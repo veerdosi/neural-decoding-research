@@ -1,0 +1,17 @@
+{
+  "predictions": [
+    {"id":"te7fda903","tokens":["you","clean","it"]},
+    {"id":"t196443a7","tokens":["are","they","thirsty"]},
+    {"id":"t0ba95c98","tokens":["you","are"]},
+    {"id":"te1c6177b","tokens":["you","feel","hungry"]},
+    {"id":"td4202301","tokens":["do","you","clean"]},
+    {"id":"ta84f22ff","tokens":["you","like","here"]},
+    {"id":"tc14fc0db","tokens":["i","am","comfortable"]},
+    {"id":"t49dd1ce6","tokens":["i","hope","you","need","help"]}
+  ],
+  "method": {
+    "approach": "Visual comparison of localized red/blue patches, their coordinate rows and temporal order, allowing timing changes.",
+    "evidence": "Tentative correspondences include the late lower-row red band in te7fda903 with 'it' endings, the late upper-row red activity in ta84f22ff with 'here' endings, and the middle-row red activity followed by lower blue patches in tc14fc0db with 'comfortable' examples.",
+    "uncertainty": "Very low confidence throughout. Common onset and ending dynamics obscure lexical differences. I could not establish reliable word-specific templates or boundaries; these are speculative best reconstructions, not a demonstrated successful decoding."
+  }
+}

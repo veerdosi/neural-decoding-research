@@ -1,0 +1,198 @@
+{
+  "all_development8": {
+    "n": 8,
+    "reference_words": 37,
+    "algorithm_edits": 13,
+    "algorithm_wer": 0.35135135135135137,
+    "algorithm_exact": 0,
+    "sol_edits": 3,
+    "sol_wer": 0.08108108108108109,
+    "sol_exact": 5,
+    "net_edit_reduction_with_sol": 10,
+    "wer_reduction_percentage_points": 27.027027027027028,
+    "descriptive_paired_bootstrap_95pct_percentage_points": [
+      18.181818181818183,
+      35.8974358974359
+    ]
+  },
+  "strictly_novel_whole_targets": {
+    "n": 7,
+    "reference_words": 33,
+    "algorithm_edits": 12,
+    "algorithm_wer": 0.36363636363636365,
+    "algorithm_exact": 0,
+    "sol_edits": 2,
+    "sol_wer": 0.06060606060606061,
+    "sol_exact": 5,
+    "net_edit_reduction_with_sol": 10,
+    "wer_reduction_percentage_points": 30.303030303030305,
+    "descriptive_paired_bootstrap_95pct_percentage_points": [
+      24.242424242424242,
+      38.23529411764706
+    ]
+  },
+  "rows": [
+    {
+      "id": "te7fda903",
+      "prediction": [
+        "do",
+        "you",
+        "that"
+      ],
+      "truth": [
+        "do",
+        "you",
+        "have",
+        "that"
+      ],
+      "edit_distance": 1,
+      "sol_edit_distance": 0,
+      "sol_exact": true,
+      "whole_target_absent_as_calibration_span": true
+    },
+    {
+      "id": "t196443a7",
+      "prediction": [
+        "are",
+        "hope",
+        "nurse"
+      ],
+      "truth": [
+        "are",
+        "you",
+        "coming",
+        "closer"
+      ],
+      "edit_distance": 3,
+      "sol_edit_distance": 1,
+      "sol_exact": false,
+      "whole_target_absent_as_calibration_span": true
+    },
+    {
+      "id": "t0ba95c98",
+      "prediction": [
+        "you",
+        "are",
+        "is",
+        "bad"
+      ],
+      "truth": [
+        "you",
+        "are",
+        "bad"
+      ],
+      "edit_distance": 1,
+      "sol_edit_distance": 0,
+      "sol_exact": true,
+      "whole_target_absent_as_calibration_span": true
+    },
+    {
+      "id": "te1c6177b",
+      "prediction": [
+        "they",
+        "i",
+        "am",
+        "hungry"
+      ],
+      "truth": [
+        "no",
+        "i",
+        "am",
+        "not",
+        "hungry"
+      ],
+      "edit_distance": 2,
+      "sol_edit_distance": 0,
+      "sol_exact": true,
+      "whole_target_absent_as_calibration_span": true
+    },
+    {
+      "id": "td4202301",
+      "prediction": [
+        "hope",
+        "you",
+        "like",
+        "my",
+        "music"
+      ],
+      "truth": [
+        "hope",
+        "you",
+        "like",
+        "music"
+      ],
+      "edit_distance": 1,
+      "sol_edit_distance": 1,
+      "sol_exact": false,
+      "whole_target_absent_as_calibration_span": false
+    },
+    {
+      "id": "ta84f22ff",
+      "prediction": [
+        "you",
+        "here"
+      ],
+      "truth": [
+        "you",
+        "have",
+        "it",
+        "here"
+      ],
+      "edit_distance": 2,
+      "sol_edit_distance": 1,
+      "sol_exact": false,
+      "whole_target_absent_as_calibration_span": true
+    },
+    {
+      "id": "tc14fc0db",
+      "prediction": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "feel",
+        "comfortable"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "are",
+        "comfortable"
+      ],
+      "edit_distance": 1,
+      "sol_edit_distance": 0,
+      "sol_exact": true,
+      "whole_target_absent_as_calibration_span": true
+    },
+    {
+      "id": "t49dd1ce6",
+      "prediction": [
+        "i",
+        "hope",
+        "do",
+        "not",
+        "need",
+        "family"
+      ],
+      "truth": [
+        "i",
+        "hope",
+        "they",
+        "do",
+        "not",
+        "need",
+        "my",
+        "family"
+      ],
+      "edit_distance": 2,
+      "sol_edit_distance": 0,
+      "sol_exact": true,
+      "whole_target_absent_as_calibration_span": true
+    }
+  ],
+  "target_source": "Already scored development8 evaluation JSON only; source MAT sentenceText was not loaded, preserving confirmation32 blinding.",
+  "prediction_sha256": "715d867a8c87b953b8807d3ddb6251ec4efbfc84ed5758b64b68ceb1ce28d328",
+  "configuration_sha256": "3ce9323783f3ed579b0ac4c895cdafc6c31775821ba9579346682a6bf9458650",
+  "caution": "Exploratory development: ROI was selected using an earlier diagnostic on these same8. Paired bootstrap is descriptive within one block, not population uncertainty."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "confirm_raw_n7_draw0",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/phase2_model_sandbox",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_decoding_phase2/responses/confirm_raw_n7_draw0.json",
+    "-"
+  ],
+  "prompt_sha256": "e09606a3239d09a49eb8f7e9230c3a9244b48240d4dd4156ccc9a253cdfd7150",
+  "started_utc": "2026-11-18T07:59:31Z",
+  "returncode": 0,
+  "finished_utc": "2026-11-18T08:09:58Z"
+}

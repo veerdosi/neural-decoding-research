@@ -1,0 +1,37 @@
+{
+  "mechanism": "Phonological structure and generative transfer to word types absent from calibration",
+  "hypothesis": "Shared articulatory/phonetic structure can support novel lexical decoding rather than choosing known whole-word labels.",
+  "competing_explanation": "Neural word patterns may be context-dependent or insufficiently constrained by these lexical examples.",
+  "query_ids": [
+    "qd5000c63",
+    "qdb657327",
+    "q3a6a7b9d",
+    "q9d4f6db6",
+    "qd6dfa4d3",
+    "qc3b19e62",
+    "q8adf658a",
+    "q6f863fa0",
+    "q94a15367",
+    "q6c758802",
+    "qa9e976f9",
+    "qc491a219",
+    "q79c21683",
+    "q84a6723d",
+    "qba60129d",
+    "q0a47e660"
+  ],
+  "calibration_n": 168,
+  "calibration_word_types": 42,
+  "query_n": 16,
+  "tool_access": true,
+  "source_sha256": "25808ca2cc8a57d265e78589e3d54d4eafac633b01662151b082c491ed39dc55",
+  "input_hashes": {
+    "inputs.json": "a1f7ba39cadc72065e4d9a4711a274fa90d7b0a33241acb5a65292a756ed31d2",
+    "neural_inputs.npz": "5f6574ca64e1d9c46b588b8d2c5bcd402325d4084cab1ccb65ca1d2e80602607",
+    "cmudict.dict": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22"
+  },
+  "name": "unseen_word_phonetics_t12",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "prompt_sha256": "2d245efd22f5d365385044f3e4fc0e09ca6e9fa4829ee6c8738ecb06351d4065"
+}

@@ -1,0 +1,868 @@
+{
+  "scope": "Independent known-word diagnostic, not a fair unseen-word decoding comparator. No outputs provided to Sol. Model settings fixed before evaluating these84 additional recordings. Same block centering, calibration-only scaling, arrays and100-ms frames as novel-word probe.",
+  "calibration_n": 168,
+  "known_word_test_n": 84,
+  "chance_accuracy": 0.023809523809523808,
+  "calibration_blocks": [
+    2,
+    4
+  ],
+  "test_block": 18,
+  "PCA64_calibration_variance_retained": 0.5606708215972837,
+  "results": {
+    "kNN3_full_trajectory": {
+      "correct": 46,
+      "n": 84,
+      "accuracy": 0.5476190476190477,
+      "predictions": [
+        {
+          "trial": 918,
+          "truth": "clean",
+          "prediction": "clean"
+        },
+        {
+          "trial": 919,
+          "truth": "that",
+          "prediction": "it"
+        },
+        {
+          "trial": 920,
+          "truth": "up",
+          "prediction": "up"
+        },
+        {
+          "trial": 921,
+          "truth": "you",
+          "prediction": "you"
+        },
+        {
+          "trial": 923,
+          "truth": "do",
+          "prediction": "do"
+        },
+        {
+          "trial": 924,
+          "truth": "here",
+          "prediction": "here"
+        },
+        {
+          "trial": 925,
+          "truth": "they",
+          "prediction": "i"
+        },
+        {
+          "trial": 926,
+          "truth": "nurse",
+          "prediction": "nurse"
+        },
+        {
+          "trial": 927,
+          "truth": "right",
+          "prediction": "like"
+        },
+        {
+          "trial": 928,
+          "truth": "tired",
+          "prediction": "tired"
+        },
+        {
+          "trial": 929,
+          "truth": "yes",
+          "prediction": "yes"
+        },
+        {
+          "trial": 930,
+          "truth": "going",
+          "prediction": "coming"
+        },
+        {
+          "trial": 931,
+          "truth": "i",
+          "prediction": "i"
+        },
+        {
+          "trial": 932,
+          "truth": "like",
+          "prediction": "faith"
+        },
+        {
+          "trial": 934,
+          "truth": "bring",
+          "prediction": "bad"
+        },
+        {
+          "trial": 935,
+          "truth": "yes",
+          "prediction": "going"
+        },
+        {
+          "trial": 937,
+          "truth": "tired",
+          "prediction": "coming"
+        },
+        {
+          "trial": 938,
+          "truth": "i",
+          "prediction": "i"
+        },
+        {
+          "trial": 939,
+          "truth": "hello",
+          "prediction": "hello"
+        },
+        {
+          "trial": 941,
+          "truth": "are",
+          "prediction": "i"
+        },
+        {
+          "trial": 942,
+          "truth": "where",
+          "prediction": "bad"
+        },
+        {
+          "trial": 943,
+          "truth": "thirsty",
+          "prediction": "thirsty"
+        },
+        {
+          "trial": 945,
+          "truth": "goodbye",
+          "prediction": "bad"
+        },
+        {
+          "trial": 947,
+          "truth": "very",
+          "prediction": "do"
+        },
+        {
+          "trial": 948,
+          "truth": "no",
+          "prediction": "you"
+        },
+        {
+          "trial": 949,
+          "truth": "good",
+          "prediction": "good"
+        },
+        {
+          "trial": 950,
+          "truth": "not",
+          "prediction": "it"
+        },
+        {
+          "trial": 951,
+          "truth": "need",
+          "prediction": "bad"
+        },
+        {
+          "trial": 952,
+          "truth": "it",
+          "prediction": "it"
+        },
+        {
+          "trial": 954,
+          "truth": "that",
+          "prediction": "bad"
+        },
+        {
+          "trial": 955,
+          "truth": "hope",
+          "prediction": "hope"
+        },
+        {
+          "trial": 956,
+          "truth": "is",
+          "prediction": "how"
+        },
+        {
+          "trial": 957,
+          "truth": "tell",
+          "prediction": "faith"
+        },
+        {
+          "trial": 959,
+          "truth": "up",
+          "prediction": "up"
+        },
+        {
+          "trial": 960,
+          "truth": "how",
+          "prediction": "how"
+        },
+        {
+          "trial": 961,
+          "truth": "good",
+          "prediction": "good"
+        },
+        {
+          "trial": 962,
+          "truth": "please",
+          "prediction": "bad"
+        },
+        {
+          "trial": 965,
+          "truth": "it",
+          "prediction": "it"
+        },
+        {
+          "trial": 967,
+          "truth": "are",
+          "prediction": "here"
+        },
+        {
+          "trial": 968,
+          "truth": "coming",
+          "prediction": "coming"
+        },
+        {
+          "trial": 969,
+          "truth": "my",
+          "prediction": "my"
+        },
+        {
+          "trial": 971,
+          "truth": "thirsty",
+          "prediction": "thirsty"
+        },
+        {
+          "trial": 973,
+          "truth": "okay",
+          "prediction": "okay"
+        },
+        {
+          "trial": 974,
+          "truth": "tell",
+          "prediction": "feel"
+        },
+        {
+          "trial": 975,
+          "truth": "not",
+          "prediction": "it"
+        },
+        {
+          "trial": 976,
+          "truth": "faith",
+          "prediction": "faith"
+        },
+        {
+          "trial": 977,
+          "truth": "right",
+          "prediction": "bad"
+        },
+        {
+          "trial": 978,
+          "truth": "am",
+          "prediction": "am"
+        },
+        {
+          "trial": 979,
+          "truth": "help",
+          "prediction": "help"
+        },
+        {
+          "trial": 980,
+          "truth": "you",
+          "prediction": "you"
+        },
+        {
+          "trial": 981,
+          "truth": "help",
+          "prediction": "help"
+        },
+        {
+          "trial": 982,
+          "truth": "do",
+          "prediction": "you"
+        },
+        {
+          "trial": 984,
+          "truth": "like",
+          "prediction": "bad"
+        },
+        {
+          "trial": 985,
+          "truth": "going",
+          "prediction": "going"
+        },
+        {
+          "trial": 987,
+          "truth": "goodbye",
+          "prediction": "goodbye"
+        },
+        {
+          "trial": 988,
+          "truth": "hello",
+          "prediction": "hello"
+        },
+        {
+          "trial": 989,
+          "truth": "they",
+          "prediction": "need"
+        },
+        {
+          "trial": 990,
+          "truth": "here",
+          "prediction": "here"
+        },
+        {
+          "trial": 991,
+          "truth": "please",
+          "prediction": "bad"
+        },
+        {
+          "trial": 992,
+          "truth": "feel",
+          "prediction": "tell"
+        },
+        {
+          "trial": 993,
+          "truth": "closer",
+          "prediction": "closer"
+        },
+        {
+          "trial": 994,
+          "truth": "what",
+          "prediction": "bad"
+        },
+        {
+          "trial": 995,
+          "truth": "faith",
+          "prediction": "bring"
+        },
+        {
+          "trial": 996,
+          "truth": "closer",
+          "prediction": "closer"
+        },
+        {
+          "trial": 997,
+          "truth": "okay",
+          "prediction": "okay"
+        },
+        {
+          "trial": 998,
+          "truth": "how",
+          "prediction": "help"
+        },
+        {
+          "trial": 999,
+          "truth": "no",
+          "prediction": "no"
+        },
+        {
+          "trial": 1001,
+          "truth": "where",
+          "prediction": "faith"
+        },
+        {
+          "trial": 1002,
+          "truth": "my",
+          "prediction": "bad"
+        },
+        {
+          "trial": 1003,
+          "truth": "am",
+          "prediction": "am"
+        },
+        {
+          "trial": 1005,
+          "truth": "nurse",
+          "prediction": "faith"
+        },
+        {
+          "trial": 1006,
+          "truth": "very",
+          "prediction": "here"
+        },
+        {
+          "trial": 1008,
+          "truth": "clean",
+          "prediction": "clean"
+        },
+        {
+          "trial": 1009,
+          "truth": "have",
+          "prediction": "have"
+        },
+        {
+          "trial": 1010,
+          "truth": "bad",
+          "prediction": "bad"
+        },
+        {
+          "trial": 1011,
+          "truth": "need",
+          "prediction": "need"
+        },
+        {
+          "trial": 1012,
+          "truth": "hope",
+          "prediction": "hope"
+        },
+        {
+          "trial": 1013,
+          "truth": "bad",
+          "prediction": "bad"
+        },
+        {
+          "trial": 1014,
+          "truth": "have",
+          "prediction": "have"
+        },
+        {
+          "trial": 1015,
+          "truth": "is",
+          "prediction": "yes"
+        },
+        {
+          "trial": 1016,
+          "truth": "feel",
+          "prediction": "feel"
+        },
+        {
+          "trial": 1017,
+          "truth": "coming",
+          "prediction": "coming"
+        },
+        {
+          "trial": 1018,
+          "truth": "bring",
+          "prediction": "bad"
+        },
+        {
+          "trial": 1019,
+          "truth": "what",
+          "prediction": "bad"
+        }
+      ]
+    },
+    "shrinkage_LDA_PCA64": {
+      "correct": 50,
+      "n": 84,
+      "accuracy": 0.5952380952380952,
+      "predictions": [
+        {
+          "trial": 918,
+          "truth": "clean",
+          "prediction": "need"
+        },
+        {
+          "trial": 919,
+          "truth": "that",
+          "prediction": "that"
+        },
+        {
+          "trial": 920,
+          "truth": "up",
+          "prediction": "up"
+        },
+        {
+          "trial": 921,
+          "truth": "you",
+          "prediction": "you"
+        },
+        {
+          "trial": 923,
+          "truth": "do",
+          "prediction": "no"
+        },
+        {
+          "trial": 924,
+          "truth": "here",
+          "prediction": "here"
+        },
+        {
+          "trial": 925,
+          "truth": "they",
+          "prediction": "yes"
+        },
+        {
+          "trial": 926,
+          "truth": "nurse",
+          "prediction": "nurse"
+        },
+        {
+          "trial": 927,
+          "truth": "right",
+          "prediction": "right"
+        },
+        {
+          "trial": 928,
+          "truth": "tired",
+          "prediction": "tired"
+        },
+        {
+          "trial": 929,
+          "truth": "yes",
+          "prediction": "yes"
+        },
+        {
+          "trial": 930,
+          "truth": "going",
+          "prediction": "going"
+        },
+        {
+          "trial": 931,
+          "truth": "i",
+          "prediction": "i"
+        },
+        {
+          "trial": 932,
+          "truth": "like",
+          "prediction": "yes"
+        },
+        {
+          "trial": 934,
+          "truth": "bring",
+          "prediction": "bad"
+        },
+        {
+          "trial": 935,
+          "truth": "yes",
+          "prediction": "yes"
+        },
+        {
+          "trial": 937,
+          "truth": "tired",
+          "prediction": "need"
+        },
+        {
+          "trial": 938,
+          "truth": "i",
+          "prediction": "i"
+        },
+        {
+          "trial": 939,
+          "truth": "hello",
+          "prediction": "hello"
+        },
+        {
+          "trial": 941,
+          "truth": "are",
+          "prediction": "no"
+        },
+        {
+          "trial": 942,
+          "truth": "where",
+          "prediction": "very"
+        },
+        {
+          "trial": 943,
+          "truth": "thirsty",
+          "prediction": "thirsty"
+        },
+        {
+          "trial": 945,
+          "truth": "goodbye",
+          "prediction": "they"
+        },
+        {
+          "trial": 947,
+          "truth": "very",
+          "prediction": "very"
+        },
+        {
+          "trial": 948,
+          "truth": "no",
+          "prediction": "no"
+        },
+        {
+          "trial": 949,
+          "truth": "good",
+          "prediction": "good"
+        },
+        {
+          "trial": 950,
+          "truth": "not",
+          "prediction": "not"
+        },
+        {
+          "trial": 951,
+          "truth": "need",
+          "prediction": "need"
+        },
+        {
+          "trial": 952,
+          "truth": "it",
+          "prediction": "it"
+        },
+        {
+          "trial": 954,
+          "truth": "that",
+          "prediction": "yes"
+        },
+        {
+          "trial": 955,
+          "truth": "hope",
+          "prediction": "hope"
+        },
+        {
+          "trial": 956,
+          "truth": "is",
+          "prediction": "tired"
+        },
+        {
+          "trial": 957,
+          "truth": "tell",
+          "prediction": "tell"
+        },
+        {
+          "trial": 959,
+          "truth": "up",
+          "prediction": "up"
+        },
+        {
+          "trial": 960,
+          "truth": "how",
+          "prediction": "how"
+        },
+        {
+          "trial": 961,
+          "truth": "good",
+          "prediction": "good"
+        },
+        {
+          "trial": 962,
+          "truth": "please",
+          "prediction": "yes"
+        },
+        {
+          "trial": 965,
+          "truth": "it",
+          "prediction": "it"
+        },
+        {
+          "trial": 967,
+          "truth": "are",
+          "prediction": "you"
+        },
+        {
+          "trial": 968,
+          "truth": "coming",
+          "prediction": "coming"
+        },
+        {
+          "trial": 969,
+          "truth": "my",
+          "prediction": "my"
+        },
+        {
+          "trial": 971,
+          "truth": "thirsty",
+          "prediction": "thirsty"
+        },
+        {
+          "trial": 973,
+          "truth": "okay",
+          "prediction": "very"
+        },
+        {
+          "trial": 974,
+          "truth": "tell",
+          "prediction": "tell"
+        },
+        {
+          "trial": 975,
+          "truth": "not",
+          "prediction": "not"
+        },
+        {
+          "trial": 976,
+          "truth": "faith",
+          "prediction": "yes"
+        },
+        {
+          "trial": 977,
+          "truth": "right",
+          "prediction": "right"
+        },
+        {
+          "trial": 978,
+          "truth": "am",
+          "prediction": "am"
+        },
+        {
+          "trial": 979,
+          "truth": "help",
+          "prediction": "help"
+        },
+        {
+          "trial": 980,
+          "truth": "you",
+          "prediction": "you"
+        },
+        {
+          "trial": 981,
+          "truth": "help",
+          "prediction": "up"
+        },
+        {
+          "trial": 982,
+          "truth": "do",
+          "prediction": "you"
+        },
+        {
+          "trial": 984,
+          "truth": "like",
+          "prediction": "yes"
+        },
+        {
+          "trial": 985,
+          "truth": "going",
+          "prediction": "going"
+        },
+        {
+          "trial": 987,
+          "truth": "goodbye",
+          "prediction": "goodbye"
+        },
+        {
+          "trial": 988,
+          "truth": "hello",
+          "prediction": "closer"
+        },
+        {
+          "trial": 989,
+          "truth": "they",
+          "prediction": "they"
+        },
+        {
+          "trial": 990,
+          "truth": "here",
+          "prediction": "here"
+        },
+        {
+          "trial": 991,
+          "truth": "please",
+          "prediction": "need"
+        },
+        {
+          "trial": 992,
+          "truth": "feel",
+          "prediction": "tell"
+        },
+        {
+          "trial": 993,
+          "truth": "closer",
+          "prediction": "closer"
+        },
+        {
+          "trial": 994,
+          "truth": "what",
+          "prediction": "need"
+        },
+        {
+          "trial": 995,
+          "truth": "faith",
+          "prediction": "need"
+        },
+        {
+          "trial": 996,
+          "truth": "closer",
+          "prediction": "closer"
+        },
+        {
+          "trial": 997,
+          "truth": "okay",
+          "prediction": "okay"
+        },
+        {
+          "trial": 998,
+          "truth": "how",
+          "prediction": "no"
+        },
+        {
+          "trial": 999,
+          "truth": "no",
+          "prediction": "no"
+        },
+        {
+          "trial": 1001,
+          "truth": "where",
+          "prediction": "they"
+        },
+        {
+          "trial": 1002,
+          "truth": "my",
+          "prediction": "no"
+        },
+        {
+          "trial": 1003,
+          "truth": "am",
+          "prediction": "am"
+        },
+        {
+          "trial": 1005,
+          "truth": "nurse",
+          "prediction": "yes"
+        },
+        {
+          "trial": 1006,
+          "truth": "very",
+          "prediction": "very"
+        },
+        {
+          "trial": 1008,
+          "truth": "clean",
+          "prediction": "need"
+        },
+        {
+          "trial": 1009,
+          "truth": "have",
+          "prediction": "yes"
+        },
+        {
+          "trial": 1010,
+          "truth": "bad",
+          "prediction": "need"
+        },
+        {
+          "trial": 1011,
+          "truth": "need",
+          "prediction": "need"
+        },
+        {
+          "trial": 1012,
+          "truth": "hope",
+          "prediction": "hope"
+        },
+        {
+          "trial": 1013,
+          "truth": "bad",
+          "prediction": "need"
+        },
+        {
+          "trial": 1014,
+          "truth": "have",
+          "prediction": "have"
+        },
+        {
+          "trial": 1015,
+          "truth": "is",
+          "prediction": "is"
+        },
+        {
+          "trial": 1016,
+          "truth": "feel",
+          "prediction": "tell"
+        },
+        {
+          "trial": 1017,
+          "truth": "coming",
+          "prediction": "coming"
+        },
+        {
+          "trial": 1018,
+          "truth": "bring",
+          "prediction": "faith"
+        },
+        {
+          "trial": 1019,
+          "truth": "what",
+          "prediction": "yes"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "predictions": [
+    {
+      "id": "tb0b19ec8",
+      "tokens": [
+        "it",
+        "good"
+      ]
+    },
+    {
+      "id": "t59dcd856",
+      "tokens": [
+        "you",
+        "do",
+        "like",
+        "faith"
+      ]
+    },
+    {
+      "id": "tcd92c113",
+      "tokens": [
+        "where",
+        "it",
+        "not"
+      ]
+    },
+    {
+      "id": "t1fe83bc3",
+      "tokens": [
+        "i",
+        "tell",
+        "is",
+        "good"
+      ]
+    },
+    {
+      "id": "td28e3558",
+      "tokens": [
+        "you",
+        "okay"
+      ]
+    },
+    {
+      "id": "t6f0fdfe0",
+      "tokens": [
+        "i",
+        "hope",
+        "need",
+        "my",
+        "need",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "t4539ffbe",
+      "tokens": [
+        "i",
+        "clean",
+        "is",
+        "here"
+      ]
+    },
+    {
+      "id": "ta2aa0fcb",
+      "tokens": [
+        "hope",
+        "they",
+        "like",
+        "up"
+      ]
+    },
+    {
+      "id": "tf75891ff",
+      "tokens": [
+        "what",
+        "my",
+        "family",
+        "is",
+        "not",
+        "where",
+        "glasses",
+        "here"
+      ]
+    },
+    {
+      "id": "t514a6795",
+      "tokens": [
+        "hello",
+        "hope",
+        "yes",
+        "my",
+        "success",
+        "have"
+      ]
+    },
+    {
+      "id": "t9ce92bac",
+      "tokens": [
+        "what",
+        "outside",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "t3afd73b4",
+      "tokens": [
+        "family",
+        "nurse",
+        "are",
+        "clean"
+      ]
+    },
+    {
+      "id": "tef9d94a6",
+      "tokens": [
+        "coming",
+        "they",
+        "up",
+        "my",
+        "faith",
+        "glasses"
+      ]
+    },
+    {
+      "id": "t52b24bf6",
+      "tokens": [
+        "you",
+        "hope",
+        "my",
+        "family",
+        "is",
+        "good"
+      ]
+    },
+    {
+      "id": "t5f2d20a0",
+      "tokens": [
+        "i",
+        "my",
+        "nurse",
+        "it",
+        "hungry",
+        "tired"
+      ]
+    },
+    {
+      "id": "t44bb2095",
+      "tokens": [
+        "no",
+        "very",
+        "is",
+        "my",
+        "music"
+      ]
+    },
+    {
+      "id": "te366b91c",
+      "tokens": [
+        "i",
+        "hope",
+        "yes",
+        "family",
+        "please"
+      ]
+    },
+    {
+      "id": "ta8a65775",
+      "tokens": [
+        "i",
+        "hope",
+        "they",
+        "need",
+        "my",
+        "music",
+        "outside"
+      ]
+    },
+    {
+      "id": "t8485b6b9",
+      "tokens": [
+        "hope",
+        "they",
+        "feel",
+        "please"
+      ]
+    },
+    {
+      "id": "t41450074",
+      "tokens": [
+        "it",
+        "my"
+      ]
+    },
+    {
+      "id": "t53cbb8eb",
+      "tokens": [
+        "i",
+        "do",
+        "not",
+        "have"
+      ]
+    },
+    {
+      "id": "tbfeb0ff2",
+      "tokens": [
+        "i",
+        "hope",
+        "family",
+        "please"
+      ]
+    },
+    {
+      "id": "te3243945",
+      "tokens": [
+        "tell",
+        "are",
+        "am",
+        "very",
+        "hungry"
+      ]
+    },
+    {
+      "id": "tca769afd",
+      "tokens": [
+        "you",
+        "it",
+        "not",
+        "outside",
+        "going",
+        "no"
+      ]
+    },
+    {
+      "id": "td133fe68",
+      "tokens": [
+        "i",
+        "going",
+        "feel",
+        "comfortable",
+        "am"
+      ]
+    },
+    {
+      "id": "t588781f6",
+      "tokens": [
+        "what",
+        "good",
+        "help",
+        "hungry"
+      ]
+    },
+    {
+      "id": "tced8ecfc",
+      "tokens": [
+        "tell",
+        "do",
+        "yes",
+        "faith",
+        "right"
+      ]
+    },
+    {
+      "id": "t848cf4da",
+      "tokens": [
+        "they",
+        "is",
+        "okay"
+      ]
+    },
+    {
+      "id": "td6e48564",
+      "tokens": [
+        "it",
+        "family"
+      ]
+    },
+    {
+      "id": "t0575fbc6",
+      "tokens": [
+        "i",
+        "hope",
+        "am",
+        "help",
+        "very",
+        "good",
+        "help",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "t6453e6ae",
+      "tokens": [
+        "yes",
+        "they",
+        "need",
+        "hungry"
+      ]
+    },
+    {
+      "id": "t4d2d7415",
+      "tokens": [
+        "what",
+        "they",
+        "hope",
+        "faith",
+        "are",
+        "thirsty",
+        "comfortable"
+      ]
+    }
+  ],
+  "selected": {
+    "word_states": 3,
+    "dirichlet_prior_frames": 8.0,
+    "lm_scale": 0.5,
+    "word_transition_penalty": -2.0,
+    "calibration_cv_WER": 0.7219101123595506
+  },
+  "development_configuration_sha256": "8d5109a2b424b75ec799f8e58e122eee0ea24472c6c4086111bd9149f73ae82d",
+  "identical_calibration_symbol_codes": true,
+  "query_targets_read": false,
+  "wall_seconds": 0.3513150215148926
+}

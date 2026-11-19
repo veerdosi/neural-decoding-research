@@ -1,0 +1,27 @@
+{
+  "name": "sentences_pc32_dev",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "command": [
+    "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex",
+    "exec",
+    "--ignore-user-config",
+    "--ignore-rules",
+    "--ephemeral",
+    "--skip-git-repo-check",
+    "-C",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/work/sequence_model_sandbox",
+    "-m",
+    "gpt-6.1-sol",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "--json",
+    "-o",
+    "/Users/veerdosi/Documents/Codex/2026-11-18/go/outputs/neural_language_reconstruction/responses/sentences_pc32_dev.json",
+    "-"
+  ],
+  "prompt_sha256": "f2c609a54eae44c7996f4c68c555e34e0ca889fc6d5383c09b24d4a7896ddfb4",
+  "started_utc": "2026-11-18T17:03:09Z",
+  "returncode": 0,
+  "wall_seconds": 456.41570687294006
+}

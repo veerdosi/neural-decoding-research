@@ -1,0 +1,444 @@
+{
+  "slot_lda_pc12": {
+    "method": "slot_lda",
+    "components": 12,
+    "hyperparameter": "auto",
+    "calibration_cv_sequence_accuracies": [
+      0.3333333333333333,
+      0.25,
+      0.5,
+      0.3333333333333333,
+      0.5833333333333334
+    ],
+    "prediction_bits": [
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "exact_sequence_accuracy": 0.125,
+    "token_accuracy": 0.6666666666666666,
+    "position_accuracy": [
+      0.625,
+      0.625,
+      0.75
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  },
+  "slot_knn_pc12": {
+    "method": "slot_knn",
+    "components": 12,
+    "hyperparameter": 3,
+    "calibration_cv_sequence_accuracies": [
+      0.25,
+      0.3333333333333333,
+      0.08333333333333333
+    ],
+    "prediction_bits": [
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "exact_sequence_accuracy": 0.125,
+    "token_accuracy": 0.5833333333333334,
+    "position_accuracy": [
+      0.625,
+      0.375,
+      0.75
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  },
+  "global_ridge_pc12": {
+    "method": "global_ridge",
+    "components": 12,
+    "hyperparameter": 100.0,
+    "calibration_cv_sequence_accuracies": [
+      0.75,
+      0.75,
+      0.75,
+      0.8333333333333334
+    ],
+    "prediction_bits": [
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "exact_sequence_accuracy": 0.625,
+    "token_accuracy": 0.875,
+    "position_accuracy": [
+      0.75,
+      1.0,
+      0.875
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  },
+  "global_lda_pc12": {
+    "method": "global_lda",
+    "components": 12,
+    "hyperparameter": 0.9,
+    "calibration_cv_sequence_accuracies": [
+      0.75,
+      0.75,
+      0.8333333333333334,
+      0.5833333333333334,
+      0.6666666666666666
+    ],
+    "prediction_bits": [
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "exact_sequence_accuracy": 0.625,
+    "token_accuracy": 0.875,
+    "position_accuracy": [
+      0.75,
+      1.0,
+      0.875
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  },
+  "slot_lda_pc0": {
+    "method": "slot_lda",
+    "components": 0,
+    "hyperparameter": 0.1,
+    "calibration_cv_sequence_accuracies": [
+      0.5833333333333334,
+      0.5833333333333334,
+      0.5,
+      0.4166666666666667,
+      0.25
+    ],
+    "prediction_bits": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ]
+    ],
+    "exact_sequence_accuracy": 0.375,
+    "token_accuracy": 0.7083333333333334,
+    "position_accuracy": [
+      0.75,
+      0.375,
+      1.0
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  },
+  "slot_knn_pc0": {
+    "method": "slot_knn",
+    "components": 0,
+    "hyperparameter": 1,
+    "calibration_cv_sequence_accuracies": [
+      0.5833333333333334,
+      0.5,
+      0.16666666666666666
+    ],
+    "prediction_bits": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        1
+      ]
+    ],
+    "exact_sequence_accuracy": 0.125,
+    "token_accuracy": 0.625,
+    "position_accuracy": [
+      0.625,
+      0.25,
+      1.0
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  },
+  "global_ridge_pc0": {
+    "method": "global_ridge",
+    "components": 0,
+    "hyperparameter": 0.1,
+    "calibration_cv_sequence_accuracies": [
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666,
+      0.6666666666666666
+    ],
+    "prediction_bits": [
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "exact_sequence_accuracy": 0.625,
+    "token_accuracy": 0.8333333333333334,
+    "position_accuracy": [
+      0.625,
+      1.0,
+      0.875
+    ],
+    "n": 8,
+    "evaluation_role": "development",
+    "hyperparameter_selection": "Calibration data only, including scaler/PCA inside each fold"
+  }
+}

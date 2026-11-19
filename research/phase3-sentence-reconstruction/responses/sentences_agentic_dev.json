@@ -1,0 +1,14 @@
+{
+  "predictions": [
+    {"id": "td133fe66", "tokens": ["what", "is", "that"]},
+    {"id": "t91b28a91", "tokens": ["tell", "my", "family", "i", "need", "my", "computer"]},
+    {"id": "ta8a65773", "tokens": ["what", "is", "right"]},
+    {"id": "tcd92c110", "tokens": ["i", "have", "no", "music"]},
+    {"id": "t7d52b265", "tokens": ["is", "my", "nurse", "coming", "here"]},
+    {"id": "t50600ea0", "tokens": ["music", "is", "here"]},
+    {"id": "t53cbb8ea", "tokens": ["how", "do", "you", "have", "faith"]},
+    {"id": "tf75891fc", "tokens": ["you", "do", "not", "feel", "hungry"]}
+  ],
+  "method": "Used temporal smoothing, cosine similarities, calibration-only unsupervised PCA, component removal/whitening, interval resampling, and slope-constrained subsequence DTW. Interpreted overlapping retrieved calibration examples to infer recurring phrases and their order, including have/no followed by music, music followed by is/here, and do/not followed by feel/hungry. No supervised encoder, labeled neural prototypes, or gradient updates were used. Reproducible scripts, retrieval scores, alignment paths, and inference_evidence.json remain in the directory.",
+  "limitations": "These are unverified best reconstructions. Variable timing, shared onset/offset responses, and weak short-word matches leave boundaries ambiguous. Confidence is particularly low for ta8a65773, t7d52b265, and t53cbb8ea. Competing readings include tell my nurse i am right here and they do not have faith for the latter two queries."
+}
